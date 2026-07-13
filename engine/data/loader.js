@@ -15,10 +15,10 @@ import { DataValidationError, validateDataset } from './validator.js';
 const DEFAULT_DATA_DIRECTORY = fileURLToPath(new URL('../../data/', import.meta.url));
 
 const DEFAULT_DATASET_PATHS = Object.freeze({
-  state: ['locations', 'states'],
-  city: ['locations', 'cities'],
-  county: ['locations', 'counties'],
-  business: [],
+  state: ['locations', 'usa', 'states'],
+  city: ['locations', 'usa', 'cities'],
+  county: ['locations', 'usa', 'counties'],
+  business: ['business'],
   service: ['services'],
   template: ['templates'],
 });
