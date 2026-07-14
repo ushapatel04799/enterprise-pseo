@@ -1,0 +1,6893 @@
+[
+  {
+    "city": "Charlotte",
+    "slug": "charlotte-nc",
+    "county": "Mecklenburg County",
+    "population": 911311,
+    "zip_codes": [
+      "28202",
+      "28203",
+      "28204",
+      "28205",
+      "28206"
+    ],
+    "landmarks": [
+      "Bank of America Stadium",
+      "Spectrum Center",
+      "NASCAR Hall of Fame",
+      "Freedom Park",
+      "SouthPark"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Matthews",
+        "slug": "matthews-nc"
+      },
+      {
+        "name": "Huntersville",
+        "slug": "huntersville-nc"
+      },
+      {
+        "name": "Mint Hill",
+        "slug": "mint-hill-nc"
+      },
+      {
+        "name": "Pineville",
+        "slug": "pineville-nc"
+      },
+      {
+        "name": "Gastonia",
+        "slug": "gastonia-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "finance-technology",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Raleigh",
+    "slug": "raleigh-nc",
+    "county": "Wake County",
+    "population": 482295,
+    "zip_codes": [
+      "27601",
+      "27603",
+      "27604",
+      "27605",
+      "27606"
+    ],
+    "landmarks": [
+      "North Carolina State Capitol",
+      "Pullen Park",
+      "North Carolina Museum of Natural Sciences",
+      "Dorothea Dix Park",
+      "Red Hat Amphitheater"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cary",
+        "slug": "cary-nc"
+      },
+      {
+        "name": "Garner",
+        "slug": "garner-nc"
+      },
+      {
+        "name": "Wake Forest",
+        "slug": "wake-forest-nc"
+      },
+      {
+        "name": "Apex",
+        "slug": "apex-nc"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "government-technology",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Greensboro",
+    "slug": "greensboro-nc",
+    "county": "Guilford County",
+    "population": 302296,
+    "zip_codes": [
+      "27401",
+      "27403",
+      "27405",
+      "27406",
+      "27407"
+    ],
+    "landmarks": [
+      "Greensboro Coliseum",
+      "Tanger Family Bicentennial Garden",
+      "UNC Greensboro",
+      "International Civil Rights Center",
+      "Friendly Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "High Point",
+        "slug": "high-point-nc"
+      },
+      {
+        "name": "Burlington",
+        "slug": "burlington-nc"
+      },
+      {
+        "name": "Kernersville",
+        "slug": "kernersville-nc"
+      },
+      {
+        "name": "Jamestown",
+        "slug": "jamestown-nc"
+      },
+      {
+        "name": "Winston-Salem",
+        "slug": "winston-salem-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "education-manufacturing",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Durham",
+    "slug": "durham-nc",
+    "county": "Durham County",
+    "population": 296186,
+    "zip_codes": [
+      "27701",
+      "27703",
+      "27705",
+      "27707",
+      "27713"
+    ],
+    "landmarks": [
+      "Duke University",
+      "Durham Bulls Athletic Park",
+      "Sarah P. Duke Gardens",
+      "American Tobacco Campus",
+      "Museum of Life and Science"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      },
+      {
+        "name": "Chapel Hill",
+        "slug": "chapel-hill-nc"
+      },
+      {
+        "name": "Cary",
+        "slug": "cary-nc"
+      },
+      {
+        "name": "Morrisville",
+        "slug": "morrisville-nc"
+      },
+      {
+        "name": "Hillsborough",
+        "slug": "hillsborough-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "healthcare-technology",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Winston-Salem",
+    "slug": "winston-salem-nc",
+    "county": "Forsyth County",
+    "population": 257316,
+    "zip_codes": [
+      "27101",
+      "27103",
+      "27104",
+      "27105",
+      "27106"
+    ],
+    "landmarks": [
+      "Old Salem",
+      "Wake Forest University",
+      "Truist Stadium",
+      "Reynolda House Museum",
+      "Hanes Mall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      },
+      {
+        "name": "Kernersville",
+        "slug": "kernersville-nc"
+      },
+      {
+        "name": "High Point",
+        "slug": "high-point-nc"
+      },
+      {
+        "name": "Clemmons",
+        "slug": "clemmons-nc"
+      },
+      {
+        "name": "Lexington",
+        "slug": "lexington-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "healthcare-manufacturing",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Fayetteville",
+    "slug": "fayetteville-nc",
+    "county": "Cumberland County",
+    "population": 209749,
+    "zip_codes": [
+      "28301",
+      "28303",
+      "28304",
+      "28305",
+      "28306"
+    ],
+    "landmarks": [
+      "Fort Bragg",
+      "Cape Fear Botanical Garden",
+      "Segra Stadium",
+      "Airborne and Special Operations Museum",
+      "Cross Creek Mall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hope Mills",
+        "slug": "hope-mills-nc"
+      },
+      {
+        "name": "Spring Lake",
+        "slug": "spring-lake-nc"
+      },
+      {
+        "name": "Raeford",
+        "slug": "raeford-nc"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-nc"
+      },
+      {
+        "name": "Dunn",
+        "slug": "dunn-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "military-services",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "sandhills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Cary",
+    "slug": "cary-nc",
+    "county": "Wake County",
+    "population": 180010,
+    "zip_codes": [
+      "27511",
+      "27513",
+      "27518",
+      "27519"
+    ],
+    "landmarks": [
+      "Koka Booth Amphitheatre",
+      "Downtown Cary Park",
+      "Fred G. Bond Metro Park",
+      "WakeMed Soccer Park",
+      "Cary Arts Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      },
+      {
+        "name": "Apex",
+        "slug": "apex-nc"
+      },
+      {
+        "name": "Morrisville",
+        "slug": "morrisville-nc"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham-nc"
+      },
+      {
+        "name": "Holly Springs",
+        "slug": "holly-springs-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "technology-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Wilmington",
+    "slug": "wilmington-nc",
+    "county": "New Hanover County",
+    "population": 127128,
+    "zip_codes": [
+      "28401",
+      "28403",
+      "28405",
+      "28409",
+      "28411"
+    ],
+    "landmarks": [
+      "Battleship North Carolina",
+      "Riverwalk",
+      "Airlie Gardens",
+      "UNC Wilmington",
+      "Historic Downtown"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Leland",
+        "slug": "leland-nc"
+      },
+      {
+        "name": "Carolina Beach",
+        "slug": "carolina-beach-nc"
+      },
+      {
+        "name": "Wrightsville Beach",
+        "slug": "wrightsville-beach-nc"
+      },
+      {
+        "name": "Ogden",
+        "slug": "ogden-nc"
+      },
+      {
+        "name": "Myrtle Grove",
+        "slug": "myrtle-grove-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "urban-coastal",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "coastal-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "High Point",
+    "slug": "high-point-nc",
+    "county": "Guilford County",
+    "population": 116926,
+    "zip_codes": [
+      "27260",
+      "27262",
+      "27265"
+    ],
+    "landmarks": [
+      "High Point Market",
+      "World's Largest Chest of Drawers",
+      "High Point University",
+      "Oak Hollow Lake",
+      "City Lake Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      },
+      {
+        "name": "Thomasville",
+        "slug": "thomasville-nc"
+      },
+      {
+        "name": "Archdale",
+        "slug": "archdale-nc"
+      },
+      {
+        "name": "Jamestown",
+        "slug": "jamestown-nc"
+      },
+      {
+        "name": "Winston-Salem",
+        "slug": "winston-salem-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "furniture-manufacturing",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Concord",
+    "slug": "concord-nc",
+    "county": "Cabarrus County",
+    "population": 111348,
+    "zip_codes": [
+      "28025",
+      "28027"
+    ],
+    "landmarks": [
+      "Charlotte Motor Speedway",
+      "Concord Mills",
+      "Downtown Concord",
+      "Frank Liske Park",
+      "Cabarrus Arena"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kannapolis",
+        "slug": "kannapolis-nc"
+      },
+      {
+        "name": "Harrisburg",
+        "slug": "harrisburg-nc"
+      },
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      },
+      {
+        "name": "Mint Hill",
+        "slug": "mint-hill-nc"
+      },
+      {
+        "name": "Huntersville",
+        "slug": "huntersville-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "motorsports-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Apex",
+    "slug": "apex-nc",
+    "county": "Wake County",
+    "population": 75700,
+    "zip_codes": [
+      "27502",
+      "27523",
+      "27539"
+    ],
+    "landmarks": [
+      "Historic Downtown Apex",
+      "Apex Nature Park",
+      "Kelly Road Park",
+      "Pleasant Park",
+      "Apex Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cary",
+        "slug": "cary-nc"
+      },
+      {
+        "name": "Holly Springs",
+        "slug": "holly-springs-nc"
+      },
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      },
+      {
+        "name": "Morrisville",
+        "slug": "morrisville-nc"
+      },
+      {
+        "name": "Fuquay-Varina",
+        "slug": "fuquay-varina-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "technology-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Asheboro",
+    "slug": "asheboro-nc",
+    "county": "Randolph County",
+    "population": 27600,
+    "zip_codes": [
+      "27203",
+      "27205"
+    ],
+    "landmarks": [
+      "North Carolina Zoo",
+      "Bicentennial Park",
+      "Sunset Theatre",
+      "Downtown Asheboro",
+      "Memorial Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "High Point",
+        "slug": "high-point-nc"
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      },
+      {
+        "name": "Archdale",
+        "slug": "archdale-nc"
+      },
+      {
+        "name": "Lexington",
+        "slug": "lexington-nc"
+      },
+      {
+        "name": "Randleman",
+        "slug": "randleman-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "tourism-manufacturing",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Asheville",
+    "slug": "asheville-nc",
+    "county": "Buncombe County",
+    "population": 95500,
+    "zip_codes": [
+      "28801",
+      "28803",
+      "28804",
+      "28805",
+      "28806"
+    ],
+    "landmarks": [
+      "Biltmore Estate",
+      "Blue Ridge Parkway",
+      "Pack Square",
+      "River Arts District",
+      "UNC Asheville"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Black Mountain",
+        "slug": "black-mountain-nc"
+      },
+      {
+        "name": "Weaverville",
+        "slug": "weaverville-nc"
+      },
+      {
+        "name": "Arden",
+        "slug": "arden-nc"
+      },
+      {
+        "name": "Fletcher",
+        "slug": "fletcher-nc"
+      },
+      {
+        "name": "Hendersonville",
+        "slug": "hendersonville-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "mountainous",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "urban-mountain",
+    "growth_pattern": "steady-growth",
+    "service_environment": "western-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Burlington",
+    "slug": "burlington-nc",
+    "county": "Alamance County",
+    "population": 58900,
+    "zip_codes": [
+      "27215",
+      "27217"
+    ],
+    "landmarks": [
+      "City Park",
+      "Alamance Battleground",
+      "Downtown Burlington",
+      "Burlington Athletic Stadium",
+      "Holly Hill Mall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Graham",
+        "slug": "graham-nc"
+      },
+      {
+        "name": "Mebane",
+        "slug": "mebane-nc"
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      },
+      {
+        "name": "Elon",
+        "slug": "elon-nc"
+      },
+      {
+        "name": "Haw River",
+        "slug": "haw-river-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-healthcare",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Chapel Hill",
+    "slug": "chapel-hill-nc",
+    "county": "Orange County",
+    "population": 62400,
+    "zip_codes": [
+      "27514",
+      "27516",
+      "27517"
+    ],
+    "landmarks": [
+      "University of North Carolina",
+      "Franklin Street",
+      "Morehead Planetarium",
+      "Dean Smith Center",
+      "North Carolina Botanical Garden"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Carrboro",
+        "slug": "carrboro-nc"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham-nc"
+      },
+      {
+        "name": "Hillsborough",
+        "slug": "hillsborough-nc"
+      },
+      {
+        "name": "Morrisville",
+        "slug": "morrisville-nc"
+      },
+      {
+        "name": "Cary",
+        "slug": "cary-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "education-healthcare",
+    "housing_profile": "college-town",
+    "growth_pattern": "steady-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Gastonia",
+    "slug": "gastonia-nc",
+    "county": "Gaston County",
+    "population": 84700,
+    "zip_codes": [
+      "28052",
+      "28054",
+      "28056"
+    ],
+    "landmarks": [
+      "Rankin Lake Park",
+      "Schiele Museum",
+      "Downtown Gastonia",
+      "Rotary Centennial Pavilion",
+      "CaroMont Health Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      },
+      {
+        "name": "Belmont",
+        "slug": "belmont-nc"
+      },
+      {
+        "name": "Mount Holly",
+        "slug": "mount-holly-nc"
+      },
+      {
+        "name": "Kings Mountain",
+        "slug": "kings-mountain-nc"
+      },
+      {
+        "name": "Dallas",
+        "slug": "dallas-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-healthcare",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Greenville",
+    "slug": "greenville-nc",
+    "county": "Pitt County",
+    "population": 90400,
+    "zip_codes": [
+      "27834",
+      "27858"
+    ],
+    "landmarks": [
+      "East Carolina University",
+      "Town Common",
+      "Dowdy-Ficklen Stadium",
+      "Greenville Museum of Art",
+      "River Park North"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Winterville",
+        "slug": "winterville-nc"
+      },
+      {
+        "name": "Ayden",
+        "slug": "ayden-nc"
+      },
+      {
+        "name": "Washington",
+        "slug": "washington-nc"
+      },
+      {
+        "name": "Farmville",
+        "slug": "farmville-nc"
+      },
+      {
+        "name": "Wilson",
+        "slug": "wilson-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "education-healthcare",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "eastern-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Hickory",
+    "slug": "hickory-nc",
+    "county": "Catawba County",
+    "population": 44700,
+    "zip_codes": [
+      "28601",
+      "28602",
+      "28603"
+    ],
+    "landmarks": [
+      "Hickory Motor Speedway",
+      "Union Square",
+      "Lenoir-Rhyne University",
+      "Lake Hickory",
+      "Hickory Museum of Art"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Newton",
+        "slug": "newton-nc"
+      },
+      {
+        "name": "Conover",
+        "slug": "conover-nc"
+      },
+      {
+        "name": "Morganton",
+        "slug": "morganton-nc"
+      },
+      {
+        "name": "Lincolnton",
+        "slug": "lincolnton-nc"
+      },
+      {
+        "name": "Statesville",
+        "slug": "statesville-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "foothills",
+    "economy_type": "manufacturing-healthcare",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "foothills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Jacksonville",
+    "slug": "jacksonville-nc",
+    "county": "Onslow County",
+    "population": 73100,
+    "zip_codes": [
+      "28540",
+      "28546"
+    ],
+    "landmarks": [
+      "Lejeune Memorial Gardens",
+      "Wilson Bay Park",
+      "Jacksonville Commons",
+      "Lynnwood Park Zoo",
+      "Downtown Jacksonville"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Piney Green",
+        "slug": "piney-green-nc"
+      },
+      {
+        "name": "Half Moon",
+        "slug": "half-moon-nc"
+      },
+      {
+        "name": "Richlands",
+        "slug": "richlands-nc"
+      },
+      {
+        "name": "Swansboro",
+        "slug": "swansboro-nc"
+      },
+      {
+        "name": "Camp Lejeune",
+        "slug": "camp-lejeune-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "military-services",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "coastal-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Kannapolis",
+    "slug": "kannapolis-nc",
+    "county": "Cabarrus County",
+    "population": 58200,
+    "zip_codes": [
+      "28081",
+      "28083"
+    ],
+    "landmarks": [
+      "North Carolina Research Campus",
+      "Atrium Health Ballpark",
+      "Village Park",
+      "Downtown Kannapolis",
+      "Gem Theatre"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Concord",
+        "slug": "concord-nc"
+      },
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      },
+      {
+        "name": "China Grove",
+        "slug": "china-grove-nc"
+      },
+      {
+        "name": "Harrisburg",
+        "slug": "harrisburg-nc"
+      },
+      {
+        "name": "Landis",
+        "slug": "landis-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "biotechnology-manufacturing",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Kernersville",
+    "slug": "kernersville-nc",
+    "county": "Forsyth County",
+    "population": 27100,
+    "zip_codes": [
+      "27284",
+      "27285"
+    ],
+    "landmarks": [
+      "Paul J. Ciener Botanical Garden",
+      "Fourth of July Park",
+      "Körner's Folly",
+      "Downtown Kernersville",
+      "Triad Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Winston-Salem",
+        "slug": "winston-salem-nc"
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      },
+      {
+        "name": "High Point",
+        "slug": "high-point-nc"
+      },
+      {
+        "name": "Thomasville",
+        "slug": "thomasville-nc"
+      },
+      {
+        "name": "Clemmons",
+        "slug": "clemmons-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Kinston",
+    "slug": "kinston-nc",
+    "county": "Lenoir County",
+    "population": 19400,
+    "zip_codes": [
+      "28501",
+      "28504"
+    ],
+    "landmarks": [
+      "CSS Neuse Museum",
+      "Grainger Stadium",
+      "Mother Earth Brewing",
+      "Downtown Kinston",
+      "Neuse River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Goldsboro",
+        "slug": "goldsboro-nc"
+      },
+      {
+        "name": "Greenville",
+        "slug": "greenville-nc"
+      },
+      {
+        "name": "New Bern",
+        "slug": "new-bern-nc"
+      },
+      {
+        "name": "Washington",
+        "slug": "washington-nc"
+      },
+      {
+        "name": "Wilson",
+        "slug": "wilson-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "manufacturing-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "eastern-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Laurinburg",
+    "slug": "laurinburg-nc",
+    "county": "Scotland County",
+    "population": 14500,
+    "zip_codes": [
+      "28352"
+    ],
+    "landmarks": [
+      "St. Andrews University",
+      "John Blue House",
+      "Downtown Laurinburg",
+      "Scotland Memorial Park",
+      "Municipal Building"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lumberton",
+        "slug": "lumberton-nc"
+      },
+      {
+        "name": "Raeford",
+        "slug": "raeford-nc"
+      },
+      {
+        "name": "Fayetteville",
+        "slug": "fayetteville-nc"
+      },
+      {
+        "name": "Rockingham",
+        "slug": "rockingham-nc"
+      },
+      {
+        "name": "Hamlet",
+        "slug": "hamlet-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "sandhills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Lenoir",
+    "slug": "lenoir-nc",
+    "county": "Caldwell County",
+    "population": 18100,
+    "zip_codes": [
+      "28645"
+    ],
+    "landmarks": [
+      "Broyhill Walking Park",
+      "T.H. Broyhill Walking Trail",
+      "Downtown Lenoir",
+      "Caldwell Heritage Museum",
+      "Mulberry Recreation Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hickory",
+        "slug": "hickory-nc"
+      },
+      {
+        "name": "Morganton",
+        "slug": "morganton-nc"
+      },
+      {
+        "name": "Boone",
+        "slug": "boone-nc"
+      },
+      {
+        "name": "Newton",
+        "slug": "newton-nc"
+      },
+      {
+        "name": "Statesville",
+        "slug": "statesville-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "foothills",
+    "economy_type": "manufacturing-furniture",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "foothills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Lexington",
+    "slug": "lexington-nc",
+    "county": "Davidson County",
+    "population": 19400,
+    "zip_codes": [
+      "27292",
+      "27295"
+    ],
+    "landmarks": [
+      "Childress Vineyards",
+      "Bob Timberlake Gallery",
+      "Finch Park",
+      "Downtown Lexington",
+      "Barbecue Festival Grounds"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Thomasville",
+        "slug": "thomasville-nc"
+      },
+      {
+        "name": "High Point",
+        "slug": "high-point-nc"
+      },
+      {
+        "name": "Winston-Salem",
+        "slug": "winston-salem-nc"
+      },
+      {
+        "name": "Salisbury",
+        "slug": "salisbury-nc"
+      },
+      {
+        "name": "Asheboro",
+        "slug": "asheboro-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-food",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Lumberton",
+    "slug": "lumberton-nc",
+    "county": "Robeson County",
+    "population": 19300,
+    "zip_codes": [
+      "28358",
+      "28360"
+    ],
+    "landmarks": [
+      "Luther Britt Park",
+      "Robeson County History Museum",
+      "Downtown Lumberton",
+      "Northeast Park",
+      "Pinecrest Country Club"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Laurinburg",
+        "slug": "laurinburg-nc"
+      },
+      {
+        "name": "Fayetteville",
+        "slug": "fayetteville-nc"
+      },
+      {
+        "name": "Pembroke",
+        "slug": "pembroke-nc"
+      },
+      {
+        "name": "Hope Mills",
+        "slug": "hope-mills-nc"
+      },
+      {
+        "name": "Raeford",
+        "slug": "raeford-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "sandhills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Matthews",
+    "slug": "matthews-nc",
+    "county": "Mecklenburg County",
+    "population": 30600,
+    "zip_codes": [
+      "28104",
+      "28105"
+    ],
+    "landmarks": [
+      "Stumptown Park",
+      "Matthews Community Center",
+      "Downtown Matthews",
+      "Squirrel Lake Park",
+      "Four Mile Creek Greenway"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      },
+      {
+        "name": "Mint Hill",
+        "slug": "mint-hill-nc"
+      },
+      {
+        "name": "Pineville",
+        "slug": "pineville-nc"
+      },
+      {
+        "name": "Indian Trail",
+        "slug": "indian-trail-nc"
+      },
+      {
+        "name": "Monroe",
+        "slug": "monroe-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Monroe",
+    "slug": "monroe-nc",
+    "county": "Union County",
+    "population": 37000,
+    "zip_codes": [
+      "28110",
+      "28112"
+    ],
+    "landmarks": [
+      "Downtown Monroe",
+      "Treehouse Vineyards",
+      "Monroe Science Center",
+      "Walter Bickett Stadium",
+      "Dickerson Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Matthews",
+        "slug": "matthews-nc"
+      },
+      {
+        "name": "Indian Trail",
+        "slug": "indian-trail-nc"
+      },
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      },
+      {
+        "name": "Mint Hill",
+        "slug": "mint-hill-nc"
+      },
+      {
+        "name": "Waxhaw",
+        "slug": "waxhaw-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Mooresville",
+    "slug": "mooresville-nc",
+    "county": "Iredell County",
+    "population": 53200,
+    "zip_codes": [
+      "28115",
+      "28117"
+    ],
+    "landmarks": [
+      "Lake Norman",
+      "Downtown Mooresville",
+      "Lazy 5 Ranch",
+      "Memory Lane Museum",
+      "Liberty Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Davidson",
+        "slug": "davidson-nc"
+      },
+      {
+        "name": "Huntersville",
+        "slug": "huntersville-nc"
+      },
+      {
+        "name": "Cornelius",
+        "slug": "cornelius-nc"
+      },
+      {
+        "name": "Statesville",
+        "slug": "statesville-nc"
+      },
+      {
+        "name": "Kannapolis",
+        "slug": "kannapolis-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "motorsports-manufacturing",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "lake-norman-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Morganton",
+    "slug": "morganton-nc",
+    "county": "Burke County",
+    "population": 17500,
+    "zip_codes": [
+      "28655"
+    ],
+    "landmarks": [
+      "Catawba River Greenway",
+      "History Museum of Burke County",
+      "Downtown Morganton",
+      "Mimosa Hills Golf Club",
+      "Catawba Meadows Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lenoir",
+        "slug": "lenoir-nc"
+      },
+      {
+        "name": "Hickory",
+        "slug": "hickory-nc"
+      },
+      {
+        "name": "Marion",
+        "slug": "marion-nc"
+      },
+      {
+        "name": "Newton",
+        "slug": "newton-nc"
+      },
+      {
+        "name": "Boone",
+        "slug": "boone-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "foothills",
+    "economy_type": "manufacturing-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "foothills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Morrisville",
+    "slug": "morrisville-nc",
+    "county": "Wake County",
+    "population": 33500,
+    "zip_codes": [
+      "27560"
+    ],
+    "landmarks": [
+      "Lake Crabtree County Park",
+      "Indian Creek Trail",
+      "RDU Observation Park",
+      "Morrisville Community Park",
+      "Town Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cary",
+        "slug": "cary-nc"
+      },
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham-nc"
+      },
+      {
+        "name": "Apex",
+        "slug": "apex-nc"
+      },
+      {
+        "name": "Chapel Hill",
+        "slug": "chapel-hill-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "technology-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "New Bern",
+    "slug": "new-bern-nc",
+    "county": "Craven County",
+    "population": 31800,
+    "zip_codes": [
+      "28560",
+      "28562"
+    ],
+    "landmarks": [
+      "Tryon Palace",
+      "Union Point Park",
+      "Birthplace of Pepsi",
+      "Downtown New Bern",
+      "New Bern Riverfront"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Havelock",
+        "slug": "havelock-nc"
+      },
+      {
+        "name": "Jacksonville",
+        "slug": "jacksonville-nc"
+      },
+      {
+        "name": "Kinston",
+        "slug": "kinston-nc"
+      },
+      {
+        "name": "Washington",
+        "slug": "washington-nc"
+      },
+      {
+        "name": "Greenville",
+        "slug": "greenville-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastern-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Rocky Mount",
+    "slug": "rocky-mount-nc",
+    "county": "Edgecombe County",
+    "population": 54300,
+    "zip_codes": [
+      "27801",
+      "27803",
+      "27804"
+    ],
+    "landmarks": [
+      "Rocky Mount Mills",
+      "Battle Park",
+      "Imperial Centre",
+      "Downtown Rocky Mount",
+      "Nash Community College"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wilson",
+        "slug": "wilson-nc"
+      },
+      {
+        "name": "Tarboro",
+        "slug": "tarboro-nc"
+      },
+      {
+        "name": "Greenville",
+        "slug": "greenville-nc"
+      },
+      {
+        "name": "Nashville",
+        "slug": "nashville-nc"
+      },
+      {
+        "name": "Wake Forest",
+        "slug": "wake-forest-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastern-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Salisbury",
+    "slug": "salisbury-nc",
+    "county": "Rowan County",
+    "population": 36500,
+    "zip_codes": [
+      "28144",
+      "28146",
+      "28147"
+    ],
+    "landmarks": [
+      "Historic Downtown Salisbury",
+      "Bell Tower Green",
+      "Dan Nicholas Park",
+      "Rowan Museum",
+      "Livingstone College"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kannapolis",
+        "slug": "kannapolis-nc"
+      },
+      {
+        "name": "Lexington",
+        "slug": "lexington-nc"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nc"
+      },
+      {
+        "name": "China Grove",
+        "slug": "china-grove-nc"
+      },
+      {
+        "name": "Mooresville",
+        "slug": "mooresville-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "healthcare-manufacturing",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "piedmont-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Sanford",
+    "slug": "sanford-nc",
+    "county": "Lee County",
+    "population": 31600,
+    "zip_codes": [
+      "27330",
+      "27332"
+    ],
+    "landmarks": [
+      "Depot Park",
+      "Temple Theatre",
+      "Downtown Sanford",
+      "Kiwanis Family Park",
+      "Lee County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fayetteville",
+        "slug": "fayetteville-nc"
+      },
+      {
+        "name": "Cary",
+        "slug": "cary-nc"
+      },
+      {
+        "name": "Apex",
+        "slug": "apex-nc"
+      },
+      {
+        "name": "Fuquay-Varina",
+        "slug": "fuquay-varina-nc"
+      },
+      {
+        "name": "Southern Pines",
+        "slug": "southern-pines-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "sandhills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Statesville",
+    "slug": "statesville-nc",
+    "county": "Iredell County",
+    "population": 29200,
+    "zip_codes": [
+      "28625",
+      "28677"
+    ],
+    "landmarks": [
+      "Fort Dobbs",
+      "Mac Anderson Park",
+      "Downtown Statesville",
+      "Iredell Museums",
+      "Statesville Civic Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mooresville",
+        "slug": "mooresville-nc"
+      },
+      {
+        "name": "Hickory",
+        "slug": "hickory-nc"
+      },
+      {
+        "name": "Lenoir",
+        "slug": "lenoir-nc"
+      },
+      {
+        "name": "Kannapolis",
+        "slug": "kannapolis-nc"
+      },
+      {
+        "name": "Troutman",
+        "slug": "troutman-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "foothills",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "iredell-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Thomasville",
+    "slug": "thomasville-nc",
+    "county": "Davidson County",
+    "population": 27900,
+    "zip_codes": [
+      "27360"
+    ],
+    "landmarks": [
+      "Big Chair",
+      "Cushwa Stadium",
+      "Finch Field",
+      "Downtown Thomasville",
+      "Memorial Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "High Point",
+        "slug": "high-point-nc"
+      },
+      {
+        "name": "Lexington",
+        "slug": "lexington-nc"
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      },
+      {
+        "name": "Kernersville",
+        "slug": "kernersville-nc"
+      },
+      {
+        "name": "Asheboro",
+        "slug": "asheboro-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-furniture",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Wake Forest",
+    "slug": "wake-forest-nc",
+    "county": "Wake County",
+    "population": 52800,
+    "zip_codes": [
+      "27587"
+    ],
+    "landmarks": [
+      "Joyner Park",
+      "Historic Downtown Wake Forest",
+      "E. Carroll Joyner Park",
+      "Wake Forest Reservoir",
+      "Holding Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      },
+      {
+        "name": "Rolesville",
+        "slug": "rolesville-nc"
+      },
+      {
+        "name": "Youngsville",
+        "slug": "youngsville-nc"
+      },
+      {
+        "name": "Franklinton",
+        "slug": "franklinton-nc"
+      },
+      {
+        "name": "Zebulon",
+        "slug": "zebulon-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Wilson",
+    "slug": "wilson-nc",
+    "county": "Wilson County",
+    "population": 47400,
+    "zip_codes": [
+      "27893",
+      "27896"
+    ],
+    "landmarks": [
+      "Vollis Simpson Whirligig Park",
+      "Barton College",
+      "Downtown Wilson",
+      "Wilson Botanical Gardens",
+      "Fleming Stadium"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Rocky Mount",
+        "slug": "rocky-mount-nc"
+      },
+      {
+        "name": "Greenville",
+        "slug": "greenville-nc"
+      },
+      {
+        "name": "Goldsboro",
+        "slug": "goldsboro-nc"
+      },
+      {
+        "name": "Kinston",
+        "slug": "kinston-nc"
+      },
+      {
+        "name": "Smithfield",
+        "slug": "smithfield-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "manufacturing-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastern-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Huntersville",
+    "slug": "huntersville-nc",
+    "county": "Mecklenburg County",
+    "population": 64400,
+    "zip_codes": [
+      "28031",
+      "28078"
+    ],
+    "landmarks": [
+      "Latta Nature Preserve",
+      "Birkdale Village",
+      "Discovery Place Kids",
+      "Lake Norman",
+      "Historic Rural Hill"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      },
+      {
+        "name": "Cornelius",
+        "slug": "cornelius-nc"
+      },
+      {
+        "name": "Davidson",
+        "slug": "davidson-nc"
+      },
+      {
+        "name": "Mooresville",
+        "slug": "mooresville-nc"
+      },
+      {
+        "name": "Mount Holly",
+        "slug": "mount-holly-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Archdale",
+    "slug": "archdale-nc",
+    "county": "Randolph County",
+    "population": 12300,
+    "zip_codes": [
+      "27263"
+    ],
+    "landmarks": [
+      "Creekside Park",
+      "Archdale Public Library",
+      "Trinity-Archdale Greenway",
+      "Downtown Archdale",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "High Point",
+        "slug": "high-point-nc"
+      },
+      {
+        "name": "Thomasville",
+        "slug": "thomasville-nc"
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      },
+      {
+        "name": "Asheboro",
+        "slug": "asheboro-nc"
+      },
+      {
+        "name": "Trinity",
+        "slug": "trinity-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Belmont",
+    "slug": "belmont-nc",
+    "county": "Gaston County",
+    "population": 15900,
+    "zip_codes": [
+      "28012"
+    ],
+    "landmarks": [
+      "Daniel Stowe Botanical Garden",
+      "Downtown Belmont",
+      "Stowe Park",
+      "Belmont Abbey College",
+      "Kevin Loftin Riverfront Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gastonia",
+        "slug": "gastonia-nc"
+      },
+      {
+        "name": "Mount Holly",
+        "slug": "mount-holly-nc"
+      },
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      },
+      {
+        "name": "Cramerton",
+        "slug": "cramerton-nc"
+      },
+      {
+        "name": "McAdenville",
+        "slug": "mcadenville-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "tourism-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Boone",
+    "slug": "boone-nc",
+    "county": "Watauga County",
+    "population": 19800,
+    "zip_codes": [
+      "28607",
+      "28608"
+    ],
+    "landmarks": [
+      "Appalachian State University",
+      "Daniel Boone Native Gardens",
+      "Downtown Boone",
+      "Horn in the West",
+      "Boone Greenway"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lenoir",
+        "slug": "lenoir-nc"
+      },
+      {
+        "name": "Morganton",
+        "slug": "morganton-nc"
+      },
+      {
+        "name": "Hickory",
+        "slug": "hickory-nc"
+      },
+      {
+        "name": "West Jefferson",
+        "slug": "west-jefferson-nc"
+      },
+      {
+        "name": "Blowing Rock",
+        "slug": "blowing-rock-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "mountainous",
+    "economy_type": "education-tourism",
+    "housing_profile": "college-town",
+    "growth_pattern": "steady-growth",
+    "service_environment": "high-country-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Carrboro",
+    "slug": "carrboro-nc",
+    "county": "Orange County",
+    "population": 21900,
+    "zip_codes": [
+      "27510"
+    ],
+    "landmarks": [
+      "Carr Mill Mall",
+      "Weaver Street Market",
+      "Wilson Park",
+      "Downtown Carrboro",
+      "Town Commons"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Chapel Hill",
+        "slug": "chapel-hill-nc"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham-nc"
+      },
+      {
+        "name": "Hillsborough",
+        "slug": "hillsborough-nc"
+      },
+      {
+        "name": "Morrisville",
+        "slug": "morrisville-nc"
+      },
+      {
+        "name": "Cary",
+        "slug": "cary-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "education-services",
+    "housing_profile": "college-town",
+    "growth_pattern": "steady-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Clemmons",
+    "slug": "clemmons-nc",
+    "county": "Forsyth County",
+    "population": 22500,
+    "zip_codes": [
+      "27012"
+    ],
+    "landmarks": [
+      "Tanglewood Park",
+      "Village Point Greenway",
+      "Jerry Long Family YMCA",
+      "Downtown Clemmons",
+      "Village Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Winston-Salem",
+        "slug": "winston-salem-nc"
+      },
+      {
+        "name": "Kernersville",
+        "slug": "kernersville-nc"
+      },
+      {
+        "name": "Lexington",
+        "slug": "lexington-nc"
+      },
+      {
+        "name": "High Point",
+        "slug": "high-point-nc"
+      },
+      {
+        "name": "Lewisville",
+        "slug": "lewisville-nc"
+      }
+    ],
+    "city_type": "village",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Cornelius",
+    "slug": "cornelius-nc",
+    "county": "Mecklenburg County",
+    "population": 32100,
+    "zip_codes": [
+      "28031"
+    ],
+    "landmarks": [
+      "Lake Norman",
+      "Jetton Park",
+      "Ramsey Creek Park",
+      "Cain Center for the Arts",
+      "Downtown Cornelius"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Huntersville",
+        "slug": "huntersville-nc"
+      },
+      {
+        "name": "Davidson",
+        "slug": "davidson-nc"
+      },
+      {
+        "name": "Mooresville",
+        "slug": "mooresville-nc"
+      },
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      },
+      {
+        "name": "Denver",
+        "slug": "denver-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lakefront",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "lake-norman-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Fuquay-Varina",
+    "slug": "fuquay-varina-nc",
+    "county": "Wake County",
+    "population": 43200,
+    "zip_codes": [
+      "27526"
+    ],
+    "landmarks": [
+      "Fuquay Mineral Spring Park",
+      "South Park",
+      "Downtown Fuquay",
+      "Carroll Howard Johnson Environmental Park",
+      "Arts Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Apex",
+        "slug": "apex-nc"
+      },
+      {
+        "name": "Holly Springs",
+        "slug": "holly-springs-nc"
+      },
+      {
+        "name": "Cary",
+        "slug": "cary-nc"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-nc"
+      },
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "technology-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Goldsboro",
+    "slug": "goldsboro-nc",
+    "county": "Wayne County",
+    "population": 33700,
+    "zip_codes": [
+      "27530",
+      "27531",
+      "27534"
+    ],
+    "landmarks": [
+      "Cliffs of the Neuse State Park",
+      "Downtown Goldsboro",
+      "Wayne County Museum",
+      "Herman Park",
+      "Seymour Johnson Air Force Base"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wilson",
+        "slug": "wilson-nc"
+      },
+      {
+        "name": "Kinston",
+        "slug": "kinston-nc"
+      },
+      {
+        "name": "Greenville",
+        "slug": "greenville-nc"
+      },
+      {
+        "name": "Smithfield",
+        "slug": "smithfield-nc"
+      },
+      {
+        "name": "Mount Olive",
+        "slug": "mount-olive-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "military-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastern-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Havelock",
+    "slug": "havelock-nc",
+    "county": "Craven County",
+    "population": 20400,
+    "zip_codes": [
+      "28532"
+    ],
+    "landmarks": [
+      "Marine Corps Air Station Cherry Point",
+      "Havelock City Park",
+      "Croatan National Forest",
+      "Walter B. Jones Park",
+      "Downtown Havelock"
+    ],
+    "nearby_cities": [
+      {
+        "name": "New Bern",
+        "slug": "new-bern-nc"
+      },
+      {
+        "name": "Morehead City",
+        "slug": "morehead-city-nc"
+      },
+      {
+        "name": "Jacksonville",
+        "slug": "jacksonville-nc"
+      },
+      {
+        "name": "Beaufort",
+        "slug": "beaufort-nc"
+      },
+      {
+        "name": "Newport",
+        "slug": "newport-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "military-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "crystal-coast-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Holly Springs",
+    "slug": "holly-springs-nc",
+    "county": "Wake County",
+    "population": 48600,
+    "zip_codes": [
+      "27540"
+    ],
+    "landmarks": [
+      "Bass Lake Park",
+      "Ting Stadium",
+      "Downtown Holly Springs",
+      "Sugg Farm Park",
+      "Cultural Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fuquay-Varina",
+        "slug": "fuquay-varina-nc"
+      },
+      {
+        "name": "Apex",
+        "slug": "apex-nc"
+      },
+      {
+        "name": "Cary",
+        "slug": "cary-nc"
+      },
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      },
+      {
+        "name": "Morrisville",
+        "slug": "morrisville-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "technology-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Hope Mills",
+    "slug": "hope-mills-nc",
+    "county": "Cumberland County",
+    "population": 17600,
+    "zip_codes": [
+      "28348"
+    ],
+    "landmarks": [
+      "Hope Mills Lake",
+      "Hope Mills Municipal Park",
+      "Hope Mills Golf Course",
+      "Town Hall",
+      "Veterans Memorial Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fayetteville",
+        "slug": "fayetteville-nc"
+      },
+      {
+        "name": "Spring Lake",
+        "slug": "spring-lake-nc"
+      },
+      {
+        "name": "Raeford",
+        "slug": "raeford-nc"
+      },
+      {
+        "name": "Lumberton",
+        "slug": "lumberton-nc"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "military-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "sandhills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Indian Trail",
+    "slug": "indian-trail-nc",
+    "county": "Union County",
+    "population": 43000,
+    "zip_codes": [
+      "28079"
+    ],
+    "landmarks": [
+      "Crooked Creek Park",
+      "Chestnut Square Park",
+      "Town Hall",
+      "Veterans Memorial",
+      "Sun Valley Commons"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Matthews",
+        "slug": "matthews-nc"
+      },
+      {
+        "name": "Monroe",
+        "slug": "monroe-nc"
+      },
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      },
+      {
+        "name": "Mint Hill",
+        "slug": "mint-hill-nc"
+      },
+      {
+        "name": "Waxhaw",
+        "slug": "waxhaw-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Lewisville",
+    "slug": "lewisville-nc",
+    "county": "Forsyth County",
+    "population": 13800,
+    "zip_codes": [
+      "27023"
+    ],
+    "landmarks": [
+      "Jack Warren Park",
+      "Shallowford Square",
+      "Town Hall",
+      "Great Wagon Road",
+      "Lewisville Library"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Clemmons",
+        "slug": "clemmons-nc"
+      },
+      {
+        "name": "Winston-Salem",
+        "slug": "winston-salem-nc"
+      },
+      {
+        "name": "Kernersville",
+        "slug": "kernersville-nc"
+      },
+      {
+        "name": "Lexington",
+        "slug": "lexington-nc"
+      },
+      {
+        "name": "High Point",
+        "slug": "high-point-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Lincolnton",
+    "slug": "lincolnton-nc",
+    "county": "Lincoln County",
+    "population": 11400,
+    "zip_codes": [
+      "28092",
+      "28093"
+    ],
+    "landmarks": [
+      "Downtown Lincolnton",
+      "Betty G. Ross Park",
+      "Lincoln Cultural Center",
+      "City Park",
+      "Courthouse Square"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gastonia",
+        "slug": "gastonia-nc"
+      },
+      {
+        "name": "Hickory",
+        "slug": "hickory-nc"
+      },
+      {
+        "name": "Belmont",
+        "slug": "belmont-nc"
+      },
+      {
+        "name": "Mount Holly",
+        "slug": "mount-holly-nc"
+      },
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "foothills",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "foothills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Mint Hill",
+    "slug": "mint-hill-nc",
+    "county": "Mecklenburg County",
+    "population": 27400,
+    "zip_codes": [
+      "28227"
+    ],
+    "landmarks": [
+      "Mint Hill Veterans Memorial Park",
+      "Carl J. McEwen Historic Village",
+      "Town Hall",
+      "Mint Hill Park",
+      "Downtown Mint Hill"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      },
+      {
+        "name": "Matthews",
+        "slug": "matthews-nc"
+      },
+      {
+        "name": "Indian Trail",
+        "slug": "indian-trail-nc"
+      },
+      {
+        "name": "Monroe",
+        "slug": "monroe-nc"
+      },
+      {
+        "name": "Harrisburg",
+        "slug": "harrisburg-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Mount Airy",
+    "slug": "mount-airy-nc",
+    "county": "Surry County",
+    "population": 10400,
+    "zip_codes": [
+      "27030"
+    ],
+    "landmarks": [
+      "Andy Griffith Museum",
+      "Downtown Mount Airy",
+      "Mayberry Courthouse",
+      "Riverside Park",
+      "Granite City Greenway"
+    ],
+    "nearby_cities": [
+      {
+        "name": "King",
+        "slug": "king-nc"
+      },
+      {
+        "name": "Winston-Salem",
+        "slug": "winston-salem-nc"
+      },
+      {
+        "name": "Dobson",
+        "slug": "dobson-nc"
+      },
+      {
+        "name": "Pilot Mountain",
+        "slug": "pilot-mountain-nc"
+      },
+      {
+        "name": "Elkin",
+        "slug": "elkin-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "foothills",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northwest-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Mount Holly",
+    "slug": "mount-holly-nc",
+    "county": "Gaston County",
+    "population": 18600,
+    "zip_codes": [
+      "28120"
+    ],
+    "landmarks": [
+      "Tuckaseege Park",
+      "Downtown Mount Holly",
+      "Tailrace Marina",
+      "Mountain Island Lake",
+      "Municipal Complex"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Belmont",
+        "slug": "belmont-nc"
+      },
+      {
+        "name": "Gastonia",
+        "slug": "gastonia-nc"
+      },
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      },
+      {
+        "name": "Huntersville",
+        "slug": "huntersville-nc"
+      },
+      {
+        "name": "Lincolnton",
+        "slug": "lincolnton-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Pineville",
+    "slug": "pineville-nc",
+    "county": "Mecklenburg County",
+    "population": 11200,
+    "zip_codes": [
+      "28134"
+    ],
+    "landmarks": [
+      "President James K. Polk Historic Site",
+      "Pineville Lake Park",
+      "Carolina Place Mall",
+      "Downtown Pineville",
+      "Jack Hughes Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      },
+      {
+        "name": "Matthews",
+        "slug": "matthews-nc"
+      },
+      {
+        "name": "Fort Mill",
+        "slug": "fort-mill-sc"
+      },
+      {
+        "name": "Belmont",
+        "slug": "belmont-nc"
+      },
+      {
+        "name": "Mint Hill",
+        "slug": "mint-hill-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Roanoke Rapids",
+    "slug": "roanoke-rapids-nc",
+    "county": "Halifax County",
+    "population": 15000,
+    "zip_codes": [
+      "27870"
+    ],
+    "landmarks": [
+      "Roanoke Canal Museum",
+      "Centennial Park",
+      "Downtown Roanoke Rapids",
+      "Theatre at The Centre",
+      "Chockoyotte Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Rocky Mount",
+        "slug": "rocky-mount-nc"
+      },
+      {
+        "name": "Wilson",
+        "slug": "wilson-nc"
+      },
+      {
+        "name": "Tarboro",
+        "slug": "tarboro-nc"
+      },
+      {
+        "name": "Nashville",
+        "slug": "nashville-nc"
+      },
+      {
+        "name": "Emporia",
+        "slug": "emporia-va"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "manufacturing-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Smithfield",
+    "slug": "smithfield-nc",
+    "county": "Johnston County",
+    "population": 13400,
+    "zip_codes": [
+      "27577"
+    ],
+    "landmarks": [
+      "Carolina Premium Outlets",
+      "Neuse River Walk",
+      "Johnston County Heritage Center",
+      "Downtown Smithfield",
+      "Smith-Collins Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Goldsboro",
+        "slug": "goldsboro-nc"
+      },
+      {
+        "name": "Wilson",
+        "slug": "wilson-nc"
+      },
+      {
+        "name": "Clayton",
+        "slug": "clayton-nc"
+      },
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      },
+      {
+        "name": "Garner",
+        "slug": "garner-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-tourism",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Southern Pines",
+    "slug": "southern-pines-nc",
+    "county": "Moore County",
+    "population": 16700,
+    "zip_codes": [
+      "28387",
+      "28388"
+    ],
+    "landmarks": [
+      "Downtown Southern Pines",
+      "Reservoir Park",
+      "Weymouth Woods",
+      "Southern Pines Golf Club",
+      "Sunrise Theater"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pinehurst",
+        "slug": "pinehurst-nc"
+      },
+      {
+        "name": "Aberdeen",
+        "slug": "aberdeen-nc"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-nc"
+      },
+      {
+        "name": "Raeford",
+        "slug": "raeford-nc"
+      },
+      {
+        "name": "Fayetteville",
+        "slug": "fayetteville-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "sandhills",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "sandhills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Spring Lake",
+    "slug": "spring-lake-nc",
+    "county": "Cumberland County",
+    "population": 12300,
+    "zip_codes": [
+      "28390"
+    ],
+    "landmarks": [
+      "Mendoza Park",
+      "Carvers Creek State Park",
+      "Main Street District",
+      "Town Hall",
+      "Little River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fayetteville",
+        "slug": "fayetteville-nc"
+      },
+      {
+        "name": "Hope Mills",
+        "slug": "hope-mills-nc"
+      },
+      {
+        "name": "Raeford",
+        "slug": "raeford-nc"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-nc"
+      },
+      {
+        "name": "Southern Pines",
+        "slug": "southern-pines-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "military-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "sandhills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Waxhaw",
+    "slug": "waxhaw-nc",
+    "county": "Union County",
+    "population": 22500,
+    "zip_codes": [
+      "28173"
+    ],
+    "landmarks": [
+      "Historic Downtown Waxhaw",
+      "Museum of the Waxhaws",
+      "Cane Creek Park",
+      "David G. Barnes Children's Park",
+      "Waxhaw Water Tower"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Monroe",
+        "slug": "monroe-nc"
+      },
+      {
+        "name": "Indian Trail",
+        "slug": "indian-trail-nc"
+      },
+      {
+        "name": "Matthews",
+        "slug": "matthews-nc"
+      },
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      },
+      {
+        "name": "Mint Hill",
+        "slug": "mint-hill-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Winterville",
+    "slug": "winterville-nc",
+    "county": "Pitt County",
+    "population": 10600,
+    "zip_codes": [
+      "28590"
+    ],
+    "landmarks": [
+      "Winterville Recreation Park",
+      "Watermelon Festival Grounds",
+      "Town Commons",
+      "Community Center",
+      "Town Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Greenville",
+        "slug": "greenville-nc"
+      },
+      {
+        "name": "Ayden",
+        "slug": "ayden-nc"
+      },
+      {
+        "name": "Washington",
+        "slug": "washington-nc"
+      },
+      {
+        "name": "Farmville",
+        "slug": "farmville-nc"
+      },
+      {
+        "name": "Kinston",
+        "slug": "kinston-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "healthcare-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastern-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Eden",
+    "slug": "eden-nc",
+    "county": "Rockingham County",
+    "population": 14800,
+    "zip_codes": [
+      "27288"
+    ],
+    "landmarks": [
+      "Freedom Park",
+      "Smith River Greenway",
+      "Historic Leaksville District",
+      "Downtown Eden",
+      "Eden Drive-In"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Reidsville",
+        "slug": "reidsville-nc"
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-nc"
+      },
+      {
+        "name": "Wentworth",
+        "slug": "wentworth-nc"
+      },
+      {
+        "name": "Martinsville",
+        "slug": "martinsville-va"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Reidsville",
+    "slug": "reidsville-nc",
+    "county": "Rockingham County",
+    "population": 14100,
+    "zip_codes": [
+      "27320"
+    ],
+    "landmarks": [
+      "Lake Reidsville",
+      "Penn House",
+      "Downtown Reidsville",
+      "Market Square",
+      "Jaycee Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Eden",
+        "slug": "eden-nc"
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      },
+      {
+        "name": "Burlington",
+        "slug": "burlington-nc"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-nc"
+      },
+      {
+        "name": "Wentworth",
+        "slug": "wentworth-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Harrisburg",
+    "slug": "harrisburg-nc",
+    "county": "Cabarrus County",
+    "population": 19500,
+    "zip_codes": [
+      "28075"
+    ],
+    "landmarks": [
+      "Harrisburg Park",
+      "Veterans Park",
+      "Town Center",
+      "Pharr Mill Road Park",
+      "Town Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nc"
+      },
+      {
+        "name": "Kannapolis",
+        "slug": "kannapolis-nc"
+      },
+      {
+        "name": "Mint Hill",
+        "slug": "mint-hill-nc"
+      },
+      {
+        "name": "Matthews",
+        "slug": "matthews-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Mebane",
+    "slug": "mebane-nc",
+    "county": "Alamance County",
+    "population": 20100,
+    "zip_codes": [
+      "27302"
+    ],
+    "landmarks": [
+      "Downtown Mebane",
+      "Lake Michael Park",
+      "Tanger Outlets",
+      "Mebane Community Park",
+      "Historical Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Burlington",
+        "slug": "burlington-nc"
+      },
+      {
+        "name": "Graham",
+        "slug": "graham-nc"
+      },
+      {
+        "name": "Hillsborough",
+        "slug": "hillsborough-nc"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham-nc"
+      },
+      {
+        "name": "Chapel Hill",
+        "slug": "chapel-hill-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Newton",
+    "slug": "newton-nc",
+    "county": "Catawba County",
+    "population": 13300,
+    "zip_codes": [
+      "28658"
+    ],
+    "landmarks": [
+      "Downtown Newton",
+      "Southside Park",
+      "Catawba County Museum",
+      "Courthouse Square",
+      "Newton Recreation Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hickory",
+        "slug": "hickory-nc"
+      },
+      {
+        "name": "Conover",
+        "slug": "conover-nc"
+      },
+      {
+        "name": "Lincolnton",
+        "slug": "lincolnton-nc"
+      },
+      {
+        "name": "Lenoir",
+        "slug": "lenoir-nc"
+      },
+      {
+        "name": "Morganton",
+        "slug": "morganton-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "foothills",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "foothills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Pinehurst",
+    "slug": "pinehurst-nc",
+    "county": "Moore County",
+    "population": 18400,
+    "zip_codes": [
+      "28374"
+    ],
+    "landmarks": [
+      "Pinehurst Resort",
+      "Pinehurst No. 2 Golf Course",
+      "Village Arboretum",
+      "Downtown Pinehurst",
+      "Tufts Memorial Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Southern Pines",
+        "slug": "southern-pines-nc"
+      },
+      {
+        "name": "Aberdeen",
+        "slug": "aberdeen-nc"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-nc"
+      },
+      {
+        "name": "Raeford",
+        "slug": "raeford-nc"
+      },
+      {
+        "name": "Hope Mills",
+        "slug": "hope-mills-nc"
+      }
+    ],
+    "city_type": "village",
+    "climate_zone": "humid-subtropical",
+    "terrain": "sandhills",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "resort-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "sandhills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Aberdeen",
+    "slug": "aberdeen-nc",
+    "county": "Moore County",
+    "population": 8500,
+    "zip_codes": [
+      "28315"
+    ],
+    "landmarks": [
+      "Downtown Aberdeen",
+      "Aberdeen Lake Park",
+      "Malcolm Blue Farm",
+      "Railroad Heritage District",
+      "Aberdeen Recreation Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Southern Pines",
+        "slug": "southern-pines-nc"
+      },
+      {
+        "name": "Pinehurst",
+        "slug": "pinehurst-nc"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-nc"
+      },
+      {
+        "name": "Raeford",
+        "slug": "raeford-nc"
+      },
+      {
+        "name": "Hope Mills",
+        "slug": "hope-mills-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "sandhills",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "sandhills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Ayden",
+    "slug": "ayden-nc",
+    "county": "Pitt County",
+    "population": 5400,
+    "zip_codes": [
+      "28513"
+    ],
+    "landmarks": [
+      "Ayden District Park",
+      "Collis P. Grady Municipal Building",
+      "Downtown Ayden",
+      "Ayden Community Center",
+      "Kings Red & White Festival Grounds"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Greenville",
+        "slug": "greenville-nc"
+      },
+      {
+        "name": "Winterville",
+        "slug": "winterville-nc"
+      },
+      {
+        "name": "Kinston",
+        "slug": "kinston-nc"
+      },
+      {
+        "name": "Farmville",
+        "slug": "farmville-nc"
+      },
+      {
+        "name": "Washington",
+        "slug": "washington-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "eastern-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Clayton",
+    "slug": "clayton-nc",
+    "county": "Johnston County",
+    "population": 30900,
+    "zip_codes": [
+      "27520",
+      "27527"
+    ],
+    "landmarks": [
+      "Clayton Community Park",
+      "Downtown Clayton",
+      "The Clayton Center",
+      "Sam's Branch Greenway",
+      "Municipal Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      },
+      {
+        "name": "Garner",
+        "slug": "garner-nc"
+      },
+      {
+        "name": "Smithfield",
+        "slug": "smithfield-nc"
+      },
+      {
+        "name": "Fuquay-Varina",
+        "slug": "fuquay-varina-nc"
+      },
+      {
+        "name": "Wilson",
+        "slug": "wilson-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Conover",
+    "slug": "conover-nc",
+    "county": "Catawba County",
+    "population": 9000,
+    "zip_codes": [
+      "28613"
+    ],
+    "landmarks": [
+      "Conover Station",
+      "Conover City Park",
+      "Downtown Conover",
+      "Municipal Complex",
+      "Rock Barn Golf & Spa"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Newton",
+        "slug": "newton-nc"
+      },
+      {
+        "name": "Hickory",
+        "slug": "hickory-nc"
+      },
+      {
+        "name": "Lincolnton",
+        "slug": "lincolnton-nc"
+      },
+      {
+        "name": "Lenoir",
+        "slug": "lenoir-nc"
+      },
+      {
+        "name": "Morganton",
+        "slug": "morganton-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "foothills",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "foothills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Davidson",
+    "slug": "davidson-nc",
+    "county": "Mecklenburg County",
+    "population": 15400,
+    "zip_codes": [
+      "28036"
+    ],
+    "landmarks": [
+      "Davidson College",
+      "Roosevelt Wilson Park",
+      "Downtown Davidson",
+      "Lake Davidson Nature Preserve",
+      "Village Green"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cornelius",
+        "slug": "cornelius-nc"
+      },
+      {
+        "name": "Huntersville",
+        "slug": "huntersville-nc"
+      },
+      {
+        "name": "Mooresville",
+        "slug": "mooresville-nc"
+      },
+      {
+        "name": "Charlotte",
+        "slug": "charlotte-nc"
+      },
+      {
+        "name": "Kannapolis",
+        "slug": "kannapolis-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lakefront",
+    "economy_type": "education-services",
+    "housing_profile": "college-town",
+    "growth_pattern": "steady-growth",
+    "service_environment": "lake-norman-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Farmville",
+    "slug": "farmville-nc",
+    "county": "Pitt County",
+    "population": 4700,
+    "zip_codes": [
+      "27828"
+    ],
+    "landmarks": [
+      "Downtown Farmville",
+      "Farmville Community Center",
+      "May Museum",
+      "Town Commons",
+      "Municipal Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Greenville",
+        "slug": "greenville-nc"
+      },
+      {
+        "name": "Winterville",
+        "slug": "winterville-nc"
+      },
+      {
+        "name": "Ayden",
+        "slug": "ayden-nc"
+      },
+      {
+        "name": "Wilson",
+        "slug": "wilson-nc"
+      },
+      {
+        "name": "Kinston",
+        "slug": "kinston-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "eastern-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Garner",
+    "slug": "garner-nc",
+    "county": "Wake County",
+    "population": 34700,
+    "zip_codes": [
+      "27529"
+    ],
+    "landmarks": [
+      "Lake Benson Park",
+      "White Deer Park",
+      "Garner Performing Arts Center",
+      "Downtown Garner",
+      "Garner Recreation Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      },
+      {
+        "name": "Clayton",
+        "slug": "clayton-nc"
+      },
+      {
+        "name": "Smithfield",
+        "slug": "smithfield-nc"
+      },
+      {
+        "name": "Fuquay-Varina",
+        "slug": "fuquay-varina-nc"
+      },
+      {
+        "name": "Apex",
+        "slug": "apex-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Graham",
+    "slug": "graham-nc",
+    "county": "Alamance County",
+    "population": 16500,
+    "zip_codes": [
+      "27253"
+    ],
+    "landmarks": [
+      "Children's Museum of Alamance County",
+      "Downtown Graham",
+      "Graham Regional Park",
+      "Sesquicentennial Park",
+      "Historic Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Burlington",
+        "slug": "burlington-nc"
+      },
+      {
+        "name": "Mebane",
+        "slug": "mebane-nc"
+      },
+      {
+        "name": "Hillsborough",
+        "slug": "hillsborough-nc"
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      },
+      {
+        "name": "Elon",
+        "slug": "elon-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Henderson",
+    "slug": "henderson-nc",
+    "county": "Vance County",
+    "population": 14500,
+    "zip_codes": [
+      "27536",
+      "27537"
+    ],
+    "landmarks": [
+      "McGregor Hall",
+      "Kerr Lake Regional Recreation Area",
+      "Downtown Henderson",
+      "Fox Pond Park",
+      "Vance County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wake Forest",
+        "slug": "wake-forest-nc"
+      },
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      },
+      {
+        "name": "Oxford",
+        "slug": "oxford-nc"
+      },
+      {
+        "name": "Rocky Mount",
+        "slug": "rocky-mount-nc"
+      },
+      {
+        "name": "Wilson",
+        "slug": "wilson-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-central-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Hendersonville",
+    "slug": "hendersonville-nc",
+    "county": "Henderson County",
+    "population": 15600,
+    "zip_codes": [
+      "28739",
+      "28791",
+      "28792"
+    ],
+    "landmarks": [
+      "Historic Downtown Hendersonville",
+      "Jump Off Rock",
+      "Jackson Park",
+      "Hands On! Children's Museum",
+      "Mineral & Lapidary Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Asheville",
+        "slug": "asheville-nc"
+      },
+      {
+        "name": "Arden",
+        "slug": "arden-nc"
+      },
+      {
+        "name": "Fletcher",
+        "slug": "fletcher-nc"
+      },
+      {
+        "name": "Brevard",
+        "slug": "brevard-nc"
+      },
+      {
+        "name": "Flat Rock",
+        "slug": "flat-rock-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "mountainous",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "western-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Hillsborough",
+    "slug": "hillsborough-nc",
+    "county": "Orange County",
+    "population": 7600,
+    "zip_codes": [
+      "27278"
+    ],
+    "landmarks": [
+      "Historic Hillsborough",
+      "Occoneechee Mountain State Natural Area",
+      "Riverwalk",
+      "Orange County Courthouse",
+      "Ayr Mount"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Chapel Hill",
+        "slug": "chapel-hill-nc"
+      },
+      {
+        "name": "Carrboro",
+        "slug": "carrboro-nc"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham-nc"
+      },
+      {
+        "name": "Mebane",
+        "slug": "mebane-nc"
+      },
+      {
+        "name": "Graham",
+        "slug": "graham-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "government-tourism",
+    "housing_profile": "historic-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "King",
+    "slug": "king-nc",
+    "county": "Stokes County",
+    "population": 7300,
+    "zip_codes": [
+      "27021"
+    ],
+    "landmarks": [
+      "Central Park",
+      "Stokes Family YMCA",
+      "King Recreation Acres",
+      "Downtown King",
+      "Veterans Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Winston-Salem",
+        "slug": "winston-salem-nc"
+      },
+      {
+        "name": "Mount Airy",
+        "slug": "mount-airy-nc"
+      },
+      {
+        "name": "Lewisville",
+        "slug": "lewisville-nc"
+      },
+      {
+        "name": "Clemmons",
+        "slug": "clemmons-nc"
+      },
+      {
+        "name": "Rural Hall",
+        "slug": "rural-hall-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "foothills",
+    "economy_type": "retail-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Knightdale",
+    "slug": "knightdale-nc",
+    "county": "Wake County",
+    "population": 21400,
+    "zip_codes": [
+      "27545"
+    ],
+    "landmarks": [
+      "Knightdale Station Park",
+      "Mingo Creek Greenway",
+      "Knightdale Environmental Park",
+      "Downtown Knightdale",
+      "Harper Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      },
+      {
+        "name": "Garner",
+        "slug": "garner-nc"
+      },
+      {
+        "name": "Clayton",
+        "slug": "clayton-nc"
+      },
+      {
+        "name": "Wake Forest",
+        "slug": "wake-forest-nc"
+      },
+      {
+        "name": "Zebulon",
+        "slug": "zebulon-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Leland",
+    "slug": "leland-nc",
+    "county": "Brunswick County",
+    "population": 28700,
+    "zip_codes": [
+      "28451"
+    ],
+    "landmarks": [
+      "Westgate Nature Park",
+      "Founders Park",
+      "Brunswick Forest",
+      "Leland Cultural Arts Center",
+      "Town Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wilmington",
+        "slug": "wilmington-nc"
+      },
+      {
+        "name": "Belville",
+        "slug": "belville-nc"
+      },
+      {
+        "name": "Southport",
+        "slug": "southport-nc"
+      },
+      {
+        "name": "Boiling Spring Lakes",
+        "slug": "boiling-spring-lakes-nc"
+      },
+      {
+        "name": "Oak Island",
+        "slug": "oak-island-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "coastal-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Marion",
+    "slug": "marion-nc",
+    "county": "McDowell County",
+    "population": 7900,
+    "zip_codes": [
+      "28752"
+    ],
+    "landmarks": [
+      "Historic Downtown Marion",
+      "McDowell County Courthouse",
+      "Tom Johnson Camping Center",
+      "Marion Greenway",
+      "Catawba River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Morganton",
+        "slug": "morganton-nc"
+      },
+      {
+        "name": "Hickory",
+        "slug": "hickory-nc"
+      },
+      {
+        "name": "Asheville",
+        "slug": "asheville-nc"
+      },
+      {
+        "name": "Lenoir",
+        "slug": "lenoir-nc"
+      },
+      {
+        "name": "Black Mountain",
+        "slug": "black-mountain-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "mountainous",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "western-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Oxford",
+    "slug": "oxford-nc",
+    "county": "Granville County",
+    "population": 8700,
+    "zip_codes": [
+      "27565"
+    ],
+    "landmarks": [
+      "Granville County Museum",
+      "Downtown Oxford",
+      "Oxford Athletic Park",
+      "City Hall",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Henderson",
+        "slug": "henderson-nc"
+      },
+      {
+        "name": "Wake Forest",
+        "slug": "wake-forest-nc"
+      },
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham-nc"
+      },
+      {
+        "name": "Creedmoor",
+        "slug": "creedmoor-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-central-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Raeford",
+    "slug": "raeford-nc",
+    "county": "Hoke County",
+    "population": 5100,
+    "zip_codes": [
+      "28376"
+    ],
+    "landmarks": [
+      "McLauchlin Park",
+      "Downtown Raeford",
+      "Hoke County Courthouse",
+      "James A. Leach Aquatic Center",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hope Mills",
+        "slug": "hope-mills-nc"
+      },
+      {
+        "name": "Southern Pines",
+        "slug": "southern-pines-nc"
+      },
+      {
+        "name": "Spring Lake",
+        "slug": "spring-lake-nc"
+      },
+      {
+        "name": "Fayetteville",
+        "slug": "fayetteville-nc"
+      },
+      {
+        "name": "Aberdeen",
+        "slug": "aberdeen-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "sandhills",
+    "economy_type": "military-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "sandhills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Rolesville",
+    "slug": "rolesville-nc",
+    "county": "Wake County",
+    "population": 10800,
+    "zip_codes": [
+      "27571"
+    ],
+    "landmarks": [
+      "Main Street Park",
+      "Rolesville Community Center",
+      "Mill Bridge Nature Park",
+      "Town Hall",
+      "Fantasy Lake Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wake Forest",
+        "slug": "wake-forest-nc"
+      },
+      {
+        "name": "Knightdale",
+        "slug": "knightdale-nc"
+      },
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      },
+      {
+        "name": "Zebulon",
+        "slug": "zebulon-nc"
+      },
+      {
+        "name": "Youngsville",
+        "slug": "youngsville-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Washington",
+    "slug": "washington-nc",
+    "county": "Beaufort County",
+    "population": 9600,
+    "zip_codes": [
+      "27889"
+    ],
+    "landmarks": [
+      "Washington Waterfront",
+      "Festival Park",
+      "North Carolina Estuarium",
+      "Historic Downtown",
+      "Riverwalk"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Greenville",
+        "slug": "greenville-nc"
+      },
+      {
+        "name": "Winterville",
+        "slug": "winterville-nc"
+      },
+      {
+        "name": "New Bern",
+        "slug": "new-bern-nc"
+      },
+      {
+        "name": "Ayden",
+        "slug": "ayden-nc"
+      },
+      {
+        "name": "Kinston",
+        "slug": "kinston-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastern-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Zebulon",
+    "slug": "zebulon-nc",
+    "county": "Wake County",
+    "population": 9800,
+    "zip_codes": [
+      "27597"
+    ],
+    "landmarks": [
+      "Five County Stadium",
+      "Zebulon Community Park",
+      "Downtown Zebulon",
+      "Whitley Park",
+      "Zebulon Town Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Knightdale",
+        "slug": "knightdale-nc"
+      },
+      {
+        "name": "Rolesville",
+        "slug": "rolesville-nc"
+      },
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      },
+      {
+        "name": "Wake Forest",
+        "slug": "wake-forest-nc"
+      },
+      {
+        "name": "Clayton",
+        "slug": "clayton-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Youngsville",
+    "slug": "youngsville-nc",
+    "county": "Franklin County",
+    "population": 9000,
+    "zip_codes": [
+      "27596"
+    ],
+    "landmarks": [
+      "Luddy Park",
+      "Youngsville Museum",
+      "Town Hall",
+      "Main Street District",
+      "Youngsville Community Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wake Forest",
+        "slug": "wake-forest-nc"
+      },
+      {
+        "name": "Rolesville",
+        "slug": "rolesville-nc"
+      },
+      {
+        "name": "Franklinton",
+        "slug": "franklinton-nc"
+      },
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      },
+      {
+        "name": "Zebulon",
+        "slug": "zebulon-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Franklinton",
+    "slug": "franklinton-nc",
+    "county": "Franklin County",
+    "population": 2700,
+    "zip_codes": [
+      "27525"
+    ],
+    "landmarks": [
+      "Downtown Franklinton",
+      "Veterans Park",
+      "Franklinton Park",
+      "Main Street",
+      "Town Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Youngsville",
+        "slug": "youngsville-nc"
+      },
+      {
+        "name": "Wake Forest",
+        "slug": "wake-forest-nc"
+      },
+      {
+        "name": "Rolesville",
+        "slug": "rolesville-nc"
+      },
+      {
+        "name": "Henderson",
+        "slug": "henderson-nc"
+      },
+      {
+        "name": "Oxford",
+        "slug": "oxford-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-central-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Elon",
+    "slug": "elon-nc",
+    "county": "Alamance County",
+    "population": 12700,
+    "zip_codes": [
+      "27244"
+    ],
+    "landmarks": [
+      "Elon University",
+      "Downtown Elon",
+      "Phoenix Walk",
+      "Beth Schmidt Park",
+      "Elon Community Church"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Burlington",
+        "slug": "burlington-nc"
+      },
+      {
+        "name": "Graham",
+        "slug": "graham-nc"
+      },
+      {
+        "name": "Mebane",
+        "slug": "mebane-nc"
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      },
+      {
+        "name": "Hillsborough",
+        "slug": "hillsborough-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "education-services",
+    "housing_profile": "college-town",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Flat Rock",
+    "slug": "flat-rock-nc",
+    "county": "Henderson County",
+    "population": 5700,
+    "zip_codes": [
+      "28731"
+    ],
+    "landmarks": [
+      "Carl Sandburg Home",
+      "Flat Rock Playhouse",
+      "Historic Village",
+      "Village Hall",
+      "Highland Lake"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hendersonville",
+        "slug": "hendersonville-nc"
+      },
+      {
+        "name": "Asheville",
+        "slug": "asheville-nc"
+      },
+      {
+        "name": "Arden",
+        "slug": "arden-nc"
+      },
+      {
+        "name": "Fletcher",
+        "slug": "fletcher-nc"
+      },
+      {
+        "name": "Brevard",
+        "slug": "brevard-nc"
+      }
+    ],
+    "city_type": "village",
+    "climate_zone": "humid-subtropical",
+    "terrain": "mountainous",
+    "economy_type": "tourism-services",
+    "housing_profile": "residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "western-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Morehead City",
+    "slug": "morehead-city-nc",
+    "county": "Carteret County",
+    "population": 9700,
+    "zip_codes": [
+      "28557"
+    ],
+    "landmarks": [
+      "Morehead City Waterfront",
+      "Big Rock Landing",
+      "Jaycee Park",
+      "Port of Morehead City",
+      "Downtown Morehead City"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Havelock",
+        "slug": "havelock-nc"
+      },
+      {
+        "name": "New Bern",
+        "slug": "new-bern-nc"
+      },
+      {
+        "name": "Beaufort",
+        "slug": "beaufort-nc"
+      },
+      {
+        "name": "Newport",
+        "slug": "newport-nc"
+      },
+      {
+        "name": "Atlantic Beach",
+        "slug": "atlantic-beach-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-maritime",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "crystal-coast-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Rural Hall",
+    "slug": "rural-hall-nc",
+    "county": "Forsyth County",
+    "population": 3300,
+    "zip_codes": [
+      "27045"
+    ],
+    "landmarks": [
+      "Covington Memorial Park",
+      "Downtown Rural Hall",
+      "Town Hall",
+      "Rural Hall Depot",
+      "Community Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "King",
+        "slug": "king-nc"
+      },
+      {
+        "name": "Winston-Salem",
+        "slug": "winston-salem-nc"
+      },
+      {
+        "name": "Lewisville",
+        "slug": "lewisville-nc"
+      },
+      {
+        "name": "Clemmons",
+        "slug": "clemmons-nc"
+      },
+      {
+        "name": "Kernersville",
+        "slug": "kernersville-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Trinity",
+    "slug": "trinity-nc",
+    "county": "Randolph County",
+    "population": 7000,
+    "zip_codes": [
+      "27370"
+    ],
+    "landmarks": [
+      "Trinity Memorial Park",
+      "Downtown Trinity",
+      "Trinity Lake",
+      "Municipal Building",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Archdale",
+        "slug": "archdale-nc"
+      },
+      {
+        "name": "High Point",
+        "slug": "high-point-nc"
+      },
+      {
+        "name": "Thomasville",
+        "slug": "thomasville-nc"
+      },
+      {
+        "name": "Asheboro",
+        "slug": "asheboro-nc"
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Wentworth",
+    "slug": "wentworth-nc",
+    "county": "Rockingham County",
+    "population": 5100,
+    "zip_codes": [
+      "27375"
+    ],
+    "landmarks": [
+      "Rockingham County Government Center",
+      "Wentworth Park",
+      "Historic Courthouse",
+      "Museum & Archives",
+      "Town Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Reidsville",
+        "slug": "reidsville-nc"
+      },
+      {
+        "name": "Eden",
+        "slug": "eden-nc"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-nc"
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      },
+      {
+        "name": "Burlington",
+        "slug": "burlington-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Piney Green",
+    "slug": "piney-green-nc",
+    "county": "Onslow County",
+    "population": 15000,
+    "zip_codes": [
+      "28546"
+    ],
+    "landmarks": [
+      "Piney Green Park",
+      "Community Center",
+      "Bell Fork Road Corridor",
+      "Neighborhood Recreation Area",
+      "Municipal Services Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jacksonville",
+        "slug": "jacksonville-nc"
+      },
+      {
+        "name": "Half Moon",
+        "slug": "half-moon-nc"
+      },
+      {
+        "name": "Richlands",
+        "slug": "richlands-nc"
+      },
+      {
+        "name": "Swansboro",
+        "slug": "swansboro-nc"
+      },
+      {
+        "name": "Camp Lejeune",
+        "slug": "camp-lejeune-nc"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "military-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "coastal-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Albemarle",
+    "slug": "albemarle-nc",
+    "county": "Stanly County",
+    "population": 16700,
+    "zip_codes": [
+      "28001"
+    ],
+    "landmarks": [
+      "Morrow Mountain State Park",
+      "Downtown Albemarle",
+      "Rock Creek Park",
+      "Stanly County History Center",
+      "City Lake Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Locust",
+        "slug": "locust-nc"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nc"
+      },
+      {
+        "name": "Monroe",
+        "slug": "monroe-nc"
+      },
+      {
+        "name": "Kannapolis",
+        "slug": "kannapolis-nc"
+      },
+      {
+        "name": "Badin",
+        "slug": "badin-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "piedmont-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Black Mountain",
+    "slug": "black-mountain-nc",
+    "county": "Buncombe County",
+    "population": 8600,
+    "zip_codes": [
+      "28711"
+    ],
+    "landmarks": [
+      "Lake Tomahawk Park",
+      "Downtown Black Mountain",
+      "Black Mountain Greenway",
+      "Swannanoa Valley Museum",
+      "Veterans Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Asheville",
+        "slug": "asheville-nc"
+      },
+      {
+        "name": "Marion",
+        "slug": "marion-nc"
+      },
+      {
+        "name": "Hendersonville",
+        "slug": "hendersonville-nc"
+      },
+      {
+        "name": "Brevard",
+        "slug": "brevard-nc"
+      },
+      {
+        "name": "Weaverville",
+        "slug": "weaverville-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "mountainous",
+    "economy_type": "tourism-services",
+    "housing_profile": "mountain-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "western-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Blowing Rock",
+    "slug": "blowing-rock-nc",
+    "county": "Watauga County",
+    "population": 1400,
+    "zip_codes": [
+      "28605"
+    ],
+    "landmarks": [
+      "The Blowing Rock",
+      "Main Street",
+      "Moses Cone Memorial Park",
+      "Memorial Park",
+      "Blowing Rock Art & History Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Boone",
+        "slug": "boone-nc"
+      },
+      {
+        "name": "Lenoir",
+        "slug": "lenoir-nc"
+      },
+      {
+        "name": "West Jefferson",
+        "slug": "west-jefferson-nc"
+      },
+      {
+        "name": "Banner Elk",
+        "slug": "banner-elk-nc"
+      },
+      {
+        "name": "Morganton",
+        "slug": "morganton-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "mountainous",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "mountain-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "high-country-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Brevard",
+    "slug": "brevard-nc",
+    "county": "Transylvania County",
+    "population": 8100,
+    "zip_codes": [
+      "28712"
+    ],
+    "landmarks": [
+      "Downtown Brevard",
+      "Silvermont Park",
+      "Brevard Music Center",
+      "Transylvania Heritage Museum",
+      "Franklin Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hendersonville",
+        "slug": "hendersonville-nc"
+      },
+      {
+        "name": "Flat Rock",
+        "slug": "flat-rock-nc"
+      },
+      {
+        "name": "Asheville",
+        "slug": "asheville-nc"
+      },
+      {
+        "name": "Black Mountain",
+        "slug": "black-mountain-nc"
+      },
+      {
+        "name": "Waynesville",
+        "slug": "waynesville-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "mountainous",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "western-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "China Grove",
+    "slug": "china-grove-nc",
+    "county": "Rowan County",
+    "population": 4300,
+    "zip_codes": [
+      "28023"
+    ],
+    "landmarks": [
+      "Main Street",
+      "Veterans Memorial",
+      "China Grove Community Park",
+      "Downtown District",
+      "Municipal Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kannapolis",
+        "slug": "kannapolis-nc"
+      },
+      {
+        "name": "Salisbury",
+        "slug": "salisbury-nc"
+      },
+      {
+        "name": "Landis",
+        "slug": "landis-nc"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nc"
+      },
+      {
+        "name": "Mooresville",
+        "slug": "mooresville-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "retail-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Denver",
+    "slug": "denver-nc",
+    "county": "Lincoln County",
+    "population": 3200,
+    "zip_codes": [
+      "28037"
+    ],
+    "landmarks": [
+      "Beatty's Ford Park",
+      "Westport Marina",
+      "Lake Norman",
+      "East Lincoln Park",
+      "Rock Springs Nature Preserve"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Huntersville",
+        "slug": "huntersville-nc"
+      },
+      {
+        "name": "Cornelius",
+        "slug": "cornelius-nc"
+      },
+      {
+        "name": "Lincolnton",
+        "slug": "lincolnton-nc"
+      },
+      {
+        "name": "Mount Holly",
+        "slug": "mount-holly-nc"
+      },
+      {
+        "name": "Mooresville",
+        "slug": "mooresville-nc"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lakefront",
+    "economy_type": "services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "lake-norman-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Mount Olive",
+    "slug": "mount-olive-nc",
+    "county": "Wayne County",
+    "population": 4400,
+    "zip_codes": [
+      "28365"
+    ],
+    "landmarks": [
+      "University of Mount Olive",
+      "Downtown Mount Olive",
+      "Pickle Festival Grounds",
+      "Municipal Park",
+      "Veterans Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Goldsboro",
+        "slug": "goldsboro-nc"
+      },
+      {
+        "name": "Kinston",
+        "slug": "kinston-nc"
+      },
+      {
+        "name": "Smithfield",
+        "slug": "smithfield-nc"
+      },
+      {
+        "name": "Wilson",
+        "slug": "wilson-nc"
+      },
+      {
+        "name": "Warsaw",
+        "slug": "warsaw-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "agriculture-education",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "eastern-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Newport",
+    "slug": "newport-nc",
+    "county": "Carteret County",
+    "population": 4800,
+    "zip_codes": [
+      "28570"
+    ],
+    "landmarks": [
+      "Downtown Newport",
+      "Newport River",
+      "Municipal Park",
+      "Town Hall",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Morehead City",
+        "slug": "morehead-city-nc"
+      },
+      {
+        "name": "Havelock",
+        "slug": "havelock-nc"
+      },
+      {
+        "name": "Beaufort",
+        "slug": "beaufort-nc"
+      },
+      {
+        "name": "New Bern",
+        "slug": "new-bern-nc"
+      },
+      {
+        "name": "Swansboro",
+        "slug": "swansboro-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "crystal-coast-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Tarboro",
+    "slug": "tarboro-nc",
+    "county": "Edgecombe County",
+    "population": 10700,
+    "zip_codes": [
+      "27886"
+    ],
+    "landmarks": [
+      "Tarboro Town Common",
+      "Historic Downtown",
+      "Edgecombe County Courthouse",
+      "Blount-Bridgers House",
+      "Indian Lake Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Rocky Mount",
+        "slug": "rocky-mount-nc"
+      },
+      {
+        "name": "Greenville",
+        "slug": "greenville-nc"
+      },
+      {
+        "name": "Wilson",
+        "slug": "wilson-nc"
+      },
+      {
+        "name": "Washington",
+        "slug": "washington-nc"
+      },
+      {
+        "name": "Roanoke Rapids",
+        "slug": "roanoke-rapids-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastern-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Waynesville",
+    "slug": "waynesville-nc",
+    "county": "Haywood County",
+    "population": 10100,
+    "zip_codes": [
+      "28786"
+    ],
+    "landmarks": [
+      "Main Street",
+      "Frog Level Historic District",
+      "Waynesville Recreation Center",
+      "Lake Junaluska",
+      "Shelton House"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Asheville",
+        "slug": "asheville-nc"
+      },
+      {
+        "name": "Brevard",
+        "slug": "brevard-nc"
+      },
+      {
+        "name": "Black Mountain",
+        "slug": "black-mountain-nc"
+      },
+      {
+        "name": "Sylva",
+        "slug": "sylva-nc"
+      },
+      {
+        "name": "Canton",
+        "slug": "canton-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "mountainous",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "western-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Badin",
+    "slug": "badin-nc",
+    "county": "Stanly County",
+    "population": 1974,
+    "zip_codes": [
+      "28009"
+    ],
+    "landmarks": [
+      "Badin Lake",
+      "Badin Historic District",
+      "Narrows Dam",
+      "Badin Waterfront Park",
+      "Falls Reservoir"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Albemarle",
+        "slug": "albemarle-nc"
+      },
+      {
+        "name": "New London",
+        "slug": "new-london-nc"
+      },
+      {
+        "name": "Locust",
+        "slug": "locust-nc"
+      },
+      {
+        "name": "Troy",
+        "slug": "troy-nc"
+      },
+      {
+        "name": "Norwood",
+        "slug": "norwood-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-tourism",
+    "housing_profile": "small-town-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "stanly-county-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Banner Elk",
+    "slug": "banner-elk-nc",
+    "county": "Avery County",
+    "population": 1396,
+    "zip_codes": [
+      "28604"
+    ],
+    "landmarks": [
+      "Lees-McRae College",
+      "Sugar Mountain Resort",
+      "Beech Mountain Parkway",
+      "Downtown Banner Elk",
+      "Tate-Evans Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Boone",
+        "slug": "boone-nc"
+      },
+      {
+        "name": "Blowing Rock",
+        "slug": "blowing-rock-nc"
+      },
+      {
+        "name": "Newland",
+        "slug": "newland-nc"
+      },
+      {
+        "name": "Linville",
+        "slug": "linville-nc"
+      },
+      {
+        "name": "Beech Mountain",
+        "slug": "beech-mountain-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "mountainous",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "mountain-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "high-country-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Belville",
+    "slug": "belville-nc",
+    "county": "Brunswick County",
+    "population": 2628,
+    "zip_codes": [
+      "28451"
+    ],
+    "landmarks": [
+      "Brunswick Riverwalk",
+      "Belville Riverwalk Park",
+      "Belville Town Hall",
+      "Brunswick Nature Park",
+      "Jackie Newton Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Leland",
+        "slug": "leland-nc"
+      },
+      {
+        "name": "Wilmington",
+        "slug": "wilmington-nc"
+      },
+      {
+        "name": "Southport",
+        "slug": "southport-nc"
+      },
+      {
+        "name": "Boiling Spring Lakes",
+        "slug": "boiling-spring-lakes-nc"
+      },
+      {
+        "name": "Navassa",
+        "slug": "navassa-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "coastal-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Bessemer City",
+    "slug": "bessemer-city-nc",
+    "county": "Gaston County",
+    "population": 5987,
+    "zip_codes": [
+      "28016"
+    ],
+    "landmarks": [
+      "Downtown Bessemer City",
+      "Centennial Park",
+      "Bessemer City Park",
+      "Bessemer City Museum",
+      "Bessemer City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gastonia",
+        "slug": "gastonia-nc"
+      },
+      {
+        "name": "Kings Mountain",
+        "slug": "kings-mountain-nc"
+      },
+      {
+        "name": "Belmont",
+        "slug": "belmont-nc"
+      },
+      {
+        "name": "Mount Holly",
+        "slug": "mount-holly-nc"
+      },
+      {
+        "name": "Lincolnton",
+        "slug": "lincolnton-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Boiling Spring Lakes",
+    "slug": "boiling-spring-lakes-nc",
+    "county": "Brunswick County",
+    "population": 6620,
+    "zip_codes": [
+      "28461"
+    ],
+    "landmarks": [
+      "Boiling Spring Lakes Preserve",
+      "Spring Lake Park",
+      "Town Hall",
+      "Community Center",
+      "Boiling Spring Lakes Golf Course"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Southport",
+        "slug": "southport-nc"
+      },
+      {
+        "name": "Oak Island",
+        "slug": "oak-island-nc"
+      },
+      {
+        "name": "Leland",
+        "slug": "leland-nc"
+      },
+      {
+        "name": "Belville",
+        "slug": "belville-nc"
+      },
+      {
+        "name": "Wilmington",
+        "slug": "wilmington-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-residential",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "coastal-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Canton",
+    "slug": "canton-nc",
+    "county": "Haywood County",
+    "population": 4392,
+    "zip_codes": [
+      "28716"
+    ],
+    "landmarks": [
+      "Downtown Canton",
+      "Canton Recreation Park",
+      "Pigeon River",
+      "Sorrells Street Park",
+      "Chestnut Mountain Nature Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Waynesville",
+        "slug": "waynesville-nc"
+      },
+      {
+        "name": "Asheville",
+        "slug": "asheville-nc"
+      },
+      {
+        "name": "Black Mountain",
+        "slug": "black-mountain-nc"
+      },
+      {
+        "name": "Brevard",
+        "slug": "brevard-nc"
+      },
+      {
+        "name": "Clyde",
+        "slug": "clyde-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "mountainous",
+    "economy_type": "manufacturing-tourism",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "western-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Creedmoor",
+    "slug": "creedmoor-nc",
+    "county": "Granville County",
+    "population": 4850,
+    "zip_codes": [
+      "27522"
+    ],
+    "landmarks": [
+      "Lake Rogers Park",
+      "Creedmoor Community Center",
+      "Downtown Creedmoor",
+      "South Granville Memorial Park",
+      "Creedmoor City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Oxford",
+        "slug": "oxford-nc"
+      },
+      {
+        "name": "Henderson",
+        "slug": "henderson-nc"
+      },
+      {
+        "name": "Wake Forest",
+        "slug": "wake-forest-nc"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham-nc"
+      },
+      {
+        "name": "Raleigh",
+        "slug": "raleigh-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "government-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "research-triangle",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Dobson",
+    "slug": "dobson-nc",
+    "county": "Surry County",
+    "population": 1496,
+    "zip_codes": [
+      "27017"
+    ],
+    "landmarks": [
+      "Historic Surry County Courthouse",
+      "Shelton Vineyards",
+      "Downtown Dobson",
+      "Central Park",
+      "Surry County Government Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mount Airy",
+        "slug": "mount-airy-nc"
+      },
+      {
+        "name": "Elkin",
+        "slug": "elkin-nc"
+      },
+      {
+        "name": "King",
+        "slug": "king-nc"
+      },
+      {
+        "name": "Pilot Mountain",
+        "slug": "pilot-mountain-nc"
+      },
+      {
+        "name": "Jonesville",
+        "slug": "jonesville-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "foothills",
+    "economy_type": "government-tourism",
+    "housing_profile": "small-town-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "yadkin-valley-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Elkin",
+    "slug": "elkin-nc",
+    "county": "Surry County",
+    "population": 4145,
+    "zip_codes": [
+      "28621"
+    ],
+    "landmarks": [
+      "Elkin Municipal Park",
+      "Downtown Elkin",
+      "Yadkin River Greenway",
+      "Reeves Theater",
+      "Elkin Creek Vineyard"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Dobson",
+        "slug": "dobson-nc"
+      },
+      {
+        "name": "Mount Airy",
+        "slug": "mount-airy-nc"
+      },
+      {
+        "name": "Jonesville",
+        "slug": "jonesville-nc"
+      },
+      {
+        "name": "King",
+        "slug": "king-nc"
+      },
+      {
+        "name": "Statesville",
+        "slug": "statesville-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "foothills",
+    "economy_type": "tourism-wineries",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "yadkin-valley-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Madison",
+    "slug": "madison-nc",
+    "county": "Rockingham County",
+    "population": 2248,
+    "zip_codes": [
+      "27025"
+    ],
+    "landmarks": [
+      "Historic Downtown Madison",
+      "Mayo River State Park",
+      "Madison River Park",
+      "Town Hall",
+      "Historic Railroad District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Reidsville",
+        "slug": "reidsville-nc"
+      },
+      {
+        "name": "Eden",
+        "slug": "eden-nc"
+      },
+      {
+        "name": "Wentworth",
+        "slug": "wentworth-nc"
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      },
+      {
+        "name": "King",
+        "slug": "king-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "small-town-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Oak Island",
+    "slug": "oak-island-nc",
+    "county": "Brunswick County",
+    "population": 8940,
+    "zip_codes": [
+      "28465"
+    ],
+    "landmarks": [
+      "Oak Island Lighthouse",
+      "Middleton Park",
+      "Oak Island Pier",
+      "Veterans Park",
+      "Caswell Beach"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Southport",
+        "slug": "southport-nc"
+      },
+      {
+        "name": "Boiling Spring Lakes",
+        "slug": "boiling-spring-lakes-nc"
+      },
+      {
+        "name": "Belville",
+        "slug": "belville-nc"
+      },
+      {
+        "name": "Leland",
+        "slug": "leland-nc"
+      },
+      {
+        "name": "Wilmington",
+        "slug": "wilmington-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "coastal-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Southport",
+    "slug": "southport-nc",
+    "county": "Brunswick County",
+    "population": 4487,
+    "zip_codes": [
+      "28461"
+    ],
+    "landmarks": [
+      "Southport Waterfront Park",
+      "Fort Johnston",
+      "North Carolina Maritime Museum",
+      "Downtown Southport",
+      "Southport Pier"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Oak Island",
+        "slug": "oak-island-nc"
+      },
+      {
+        "name": "Boiling Spring Lakes",
+        "slug": "boiling-spring-lakes-nc"
+      },
+      {
+        "name": "Belville",
+        "slug": "belville-nc"
+      },
+      {
+        "name": "Leland",
+        "slug": "leland-nc"
+      },
+      {
+        "name": "Wilmington",
+        "slug": "wilmington-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-maritime",
+    "housing_profile": "historic-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "coastal-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Swansboro",
+    "slug": "swansboro-nc",
+    "county": "Onslow County",
+    "population": 3760,
+    "zip_codes": [
+      "28584"
+    ],
+    "landmarks": [
+      "Historic Downtown Swansboro",
+      "Bicentennial Park",
+      "Swansboro Harbor",
+      "Hammocks Beach Ferry Dock",
+      "Waterfront Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jacksonville",
+        "slug": "jacksonville-nc"
+      },
+      {
+        "name": "Morehead City",
+        "slug": "morehead-city-nc"
+      },
+      {
+        "name": "Newport",
+        "slug": "newport-nc"
+      },
+      {
+        "name": "Havelock",
+        "slug": "havelock-nc"
+      },
+      {
+        "name": "Piney Green",
+        "slug": "piney-green-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-services",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "crystal-coast-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Beaufort",
+    "slug": "beaufort-nc",
+    "county": "Carteret County",
+    "population": 4218,
+    "zip_codes": [
+      "28516"
+    ],
+    "landmarks": [
+      "Beaufort Historic District",
+      "North Carolina Maritime Museum",
+      "Front Street",
+      "Taylor's Creek",
+      "Old Burying Ground"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Morehead City",
+        "slug": "morehead-city-nc"
+      },
+      {
+        "name": "Newport",
+        "slug": "newport-nc"
+      },
+      {
+        "name": "Havelock",
+        "slug": "havelock-nc"
+      },
+      {
+        "name": "Atlantic Beach",
+        "slug": "atlantic-beach-nc"
+      },
+      {
+        "name": "Swansboro",
+        "slug": "swansboro-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-maritime",
+    "housing_profile": "historic-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "crystal-coast-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Locust",
+    "slug": "locust-nc",
+    "county": "Stanly County",
+    "population": 3270,
+    "zip_codes": [
+      "28097"
+    ],
+    "landmarks": [
+      "Veterans Memorial Park",
+      "Locust City Hall",
+      "Locust Town Center",
+      "Stanly Commons",
+      "Locust Community Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Albemarle",
+        "slug": "albemarle-nc"
+      },
+      {
+        "name": "Badin",
+        "slug": "badin-nc"
+      },
+      {
+        "name": "Monroe",
+        "slug": "monroe-nc"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nc"
+      },
+      {
+        "name": "Kannapolis",
+        "slug": "kannapolis-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "stanly-county-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Atlantic Beach",
+    "slug": "atlantic-beach-nc",
+    "county": "Carteret County",
+    "population": 1497,
+    "zip_codes": [
+      "28512"
+    ],
+    "landmarks": [
+      "Atlantic Beach Boardwalk",
+      "Fort Macon State Park",
+      "Circle Regional Beach Access",
+      "Oceanana Pier",
+      "Atlantic Beach Town Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Morehead City",
+        "slug": "morehead-city-nc"
+      },
+      {
+        "name": "Beaufort",
+        "slug": "beaufort-nc"
+      },
+      {
+        "name": "Newport",
+        "slug": "newport-nc"
+      },
+      {
+        "name": "Havelock",
+        "slug": "havelock-nc"
+      },
+      {
+        "name": "Swansboro",
+        "slug": "swansboro-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "crystal-coast-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Beech Mountain",
+    "slug": "beech-mountain-nc",
+    "county": "Watauga County",
+    "population": 521,
+    "zip_codes": [
+      "28604"
+    ],
+    "landmarks": [
+      "Beech Mountain Resort",
+      "Fred's General Mercantile",
+      "Buckeye Recreation Center",
+      "Emerald Outback Trails",
+      "Town Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Banner Elk",
+        "slug": "banner-elk-nc"
+      },
+      {
+        "name": "Boone",
+        "slug": "boone-nc"
+      },
+      {
+        "name": "Blowing Rock",
+        "slug": "blowing-rock-nc"
+      },
+      {
+        "name": "Newland",
+        "slug": "newland-nc"
+      },
+      {
+        "name": "Linville",
+        "slug": "linville-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "mountainous",
+    "economy_type": "tourism-recreation",
+    "housing_profile": "mountain-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "high-country-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Clyde",
+    "slug": "clyde-nc",
+    "county": "Haywood County",
+    "population": 1314,
+    "zip_codes": [
+      "28721"
+    ],
+    "landmarks": [
+      "Downtown Clyde",
+      "Clyde Central Park",
+      "Haywood County Fairgrounds",
+      "Pigeon River",
+      "Town Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Canton",
+        "slug": "canton-nc"
+      },
+      {
+        "name": "Waynesville",
+        "slug": "waynesville-nc"
+      },
+      {
+        "name": "Asheville",
+        "slug": "asheville-nc"
+      },
+      {
+        "name": "Black Mountain",
+        "slug": "black-mountain-nc"
+      },
+      {
+        "name": "Brevard",
+        "slug": "brevard-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "mountainous",
+    "economy_type": "services-manufacturing",
+    "housing_profile": "small-town-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "western-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Jonesville",
+    "slug": "jonesville-nc",
+    "county": "Yadkin County",
+    "population": 2288,
+    "zip_codes": [
+      "28642"
+    ],
+    "landmarks": [
+      "Downtown Jonesville",
+      "Yadkin River Greenway",
+      "Jonesville Community Park",
+      "Town Hall",
+      "Veterans Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Elkin",
+        "slug": "elkin-nc"
+      },
+      {
+        "name": "Dobson",
+        "slug": "dobson-nc"
+      },
+      {
+        "name": "Mount Airy",
+        "slug": "mount-airy-nc"
+      },
+      {
+        "name": "King",
+        "slug": "king-nc"
+      },
+      {
+        "name": "Statesville",
+        "slug": "statesville-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "foothills",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "yadkin-valley-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Navassa",
+    "slug": "navassa-nc",
+    "county": "Brunswick County",
+    "population": 2167,
+    "zip_codes": [
+      "28451"
+    ],
+    "landmarks": [
+      "Navassa Community Park",
+      "Brunswick River",
+      "Downtown Navassa",
+      "Town Hall",
+      "Nature Preserve"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Belville",
+        "slug": "belville-nc"
+      },
+      {
+        "name": "Leland",
+        "slug": "leland-nc"
+      },
+      {
+        "name": "Wilmington",
+        "slug": "wilmington-nc"
+      },
+      {
+        "name": "Boiling Spring Lakes",
+        "slug": "boiling-spring-lakes-nc"
+      },
+      {
+        "name": "Southport",
+        "slug": "southport-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "industrial-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "coastal-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "West Jefferson",
+    "slug": "west-jefferson-nc",
+    "county": "Ashe County",
+    "population": 1290,
+    "zip_codes": [
+      "28694"
+    ],
+    "landmarks": [
+      "Downtown West Jefferson",
+      "Mount Jefferson State Natural Area",
+      "Ashe County Cheese Factory",
+      "BackStreet Park",
+      "Museum of Ashe County History"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Boone",
+        "slug": "boone-nc"
+      },
+      {
+        "name": "Banner Elk",
+        "slug": "banner-elk-nc"
+      },
+      {
+        "name": "Blowing Rock",
+        "slug": "blowing-rock-nc"
+      },
+      {
+        "name": "Jefferson",
+        "slug": "jefferson-nc"
+      },
+      {
+        "name": "Lenoir",
+        "slug": "lenoir-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "mountainous",
+    "economy_type": "tourism-services",
+    "housing_profile": "small-town-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "high-country-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Jefferson",
+    "slug": "jefferson-nc",
+    "county": "Ashe County",
+    "population": 1610,
+    "zip_codes": [
+      "28640"
+    ],
+    "landmarks": [
+      "Ashe County Courthouse",
+      "Downtown Jefferson",
+      "Ashe County Public Library",
+      "Paddy Mountain",
+      "Town Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "West Jefferson",
+        "slug": "west-jefferson-nc"
+      },
+      {
+        "name": "Boone",
+        "slug": "boone-nc"
+      },
+      {
+        "name": "Banner Elk",
+        "slug": "banner-elk-nc"
+      },
+      {
+        "name": "Blowing Rock",
+        "slug": "blowing-rock-nc"
+      },
+      {
+        "name": "Lenoir",
+        "slug": "lenoir-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "mountainous",
+    "economy_type": "government-services",
+    "housing_profile": "small-town-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "high-country-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Dallas",
+    "slug": "dallas-nc",
+    "county": "Gaston County",
+    "population": 6110,
+    "zip_codes": [
+      "28034"
+    ],
+    "landmarks": [
+      "Gaston County Courthouse",
+      "Cloninger Park",
+      "Downtown Dallas",
+      "Dallas Historic District",
+      "Gaston County Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gastonia",
+        "slug": "gastonia-nc"
+      },
+      {
+        "name": "Bessemer City",
+        "slug": "bessemer-city-nc"
+      },
+      {
+        "name": "Kings Mountain",
+        "slug": "kings-mountain-nc"
+      },
+      {
+        "name": "Belmont",
+        "slug": "belmont-nc"
+      },
+      {
+        "name": "Lincolnton",
+        "slug": "lincolnton-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Dunn",
+    "slug": "dunn-nc",
+    "county": "Harnett County",
+    "population": 9640,
+    "zip_codes": [
+      "28334"
+    ],
+    "landmarks": [
+      "General William C. Lee Museum",
+      "Tyler Park",
+      "Downtown Dunn",
+      "Clarence Lee Tart Memorial Park",
+      "Averasboro Battlefield Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fayetteville",
+        "slug": "fayetteville-nc"
+      },
+      {
+        "name": "Smithfield",
+        "slug": "smithfield-nc"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-nc"
+      },
+      {
+        "name": "Clayton",
+        "slug": "clayton-nc"
+      },
+      {
+        "name": "Garner",
+        "slug": "garner-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-logistics",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "sandhills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Jamestown",
+    "slug": "jamestown-nc",
+    "county": "Guilford County",
+    "population": 3910,
+    "zip_codes": [
+      "27282"
+    ],
+    "landmarks": [
+      "City Lake Park",
+      "Jamestown Park Golf Course",
+      "Downtown Jamestown",
+      "Jamestown Public Library",
+      "Municipal Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "High Point",
+        "slug": "high-point-nc"
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      },
+      {
+        "name": "Archdale",
+        "slug": "archdale-nc"
+      },
+      {
+        "name": "Thomasville",
+        "slug": "thomasville-nc"
+      },
+      {
+        "name": "Kernersville",
+        "slug": "kernersville-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Kings Mountain",
+    "slug": "kings-mountain-nc",
+    "county": "Cleveland County",
+    "population": 11230,
+    "zip_codes": [
+      "28086"
+    ],
+    "landmarks": [
+      "Kings Mountain National Military Park",
+      "Crowders Mountain State Park",
+      "Patriot Park",
+      "Downtown Kings Mountain",
+      "Joy Performance Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gastonia",
+        "slug": "gastonia-nc"
+      },
+      {
+        "name": "Bessemer City",
+        "slug": "bessemer-city-nc"
+      },
+      {
+        "name": "Dallas",
+        "slug": "dallas-nc"
+      },
+      {
+        "name": "Belmont",
+        "slug": "belmont-nc"
+      },
+      {
+        "name": "Lincolnton",
+        "slug": "lincolnton-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-tourism",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "charlotte-metro",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Randleman",
+    "slug": "randleman-nc",
+    "county": "Randolph County",
+    "population": 4330,
+    "zip_codes": [
+      "27317"
+    ],
+    "landmarks": [
+      "Richard Petty Museum",
+      "Randleman Lake",
+      "Commerce Square",
+      "Downtown Randleman",
+      "Creekside Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Asheboro",
+        "slug": "asheboro-nc"
+      },
+      {
+        "name": "Archdale",
+        "slug": "archdale-nc"
+      },
+      {
+        "name": "High Point",
+        "slug": "high-point-nc"
+      },
+      {
+        "name": "Greensboro",
+        "slug": "greensboro-nc"
+      },
+      {
+        "name": "Trinity",
+        "slug": "trinity-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-piedmont",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "triad-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Claremont",
+    "slug": "claremont-nc",
+    "county": "Catawba County",
+    "population": 1710,
+    "zip_codes": [
+      "28610"
+    ],
+    "landmarks": [
+      "Downtown Claremont",
+      "Claremont City Park",
+      "Jacob Fork River",
+      "Claremont Town Hall",
+      "Heritage Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Conover",
+        "slug": "conover-nc"
+      },
+      {
+        "name": "Newton",
+        "slug": "newton-nc"
+      },
+      {
+        "name": "Hickory",
+        "slug": "hickory-nc"
+      },
+      {
+        "name": "Lincolnton",
+        "slug": "lincolnton-nc"
+      },
+      {
+        "name": "Statesville",
+        "slug": "statesville-nc"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "foothills",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "small-town-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "foothills-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Manteo",
+    "slug": "manteo-nc",
+    "county": "Dare County",
+    "population": 1630,
+    "zip_codes": [
+      "27954"
+    ],
+    "landmarks": [
+      "Roanoke Marshes Lighthouse",
+      "Festival Park",
+      "Downtown Manteo",
+      "Elizabethan Gardens",
+      "Dare County Arts Council"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Nags Head",
+        "slug": "nags-head-nc"
+      },
+      {
+        "name": "Kill Devil Hills",
+        "slug": "kill-devil-hills-nc"
+      },
+      {
+        "name": "Kitty Hawk",
+        "slug": "kitty-hawk-nc"
+      },
+      {
+        "name": "Southern Shores",
+        "slug": "southern-shores-nc"
+      },
+      {
+        "name": "Duck",
+        "slug": "duck-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-barrier-island",
+    "economy_type": "tourism-maritime",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "outer-banks-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Nags Head",
+    "slug": "nags-head-nc",
+    "county": "Dare County",
+    "population": 3050,
+    "zip_codes": [
+      "27959"
+    ],
+    "landmarks": [
+      "Jockey's Ridge State Park",
+      "Jennette's Pier",
+      "Nags Head Fishing Pier",
+      "Downtown Nags Head",
+      "Nags Head Woods Preserve"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Manteo",
+        "slug": "manteo-nc"
+      },
+      {
+        "name": "Kill Devil Hills",
+        "slug": "kill-devil-hills-nc"
+      },
+      {
+        "name": "Kitty Hawk",
+        "slug": "kitty-hawk-nc"
+      },
+      {
+        "name": "Southern Shores",
+        "slug": "southern-shores-nc"
+      },
+      {
+        "name": "Duck",
+        "slug": "duck-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-barrier-island",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "outer-banks-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Kill Devil Hills",
+    "slug": "kill-devil-hills-nc",
+    "county": "Dare County",
+    "population": 7800,
+    "zip_codes": [
+      "27948"
+    ],
+    "landmarks": [
+      "Wright Brothers National Memorial",
+      "Avalon Fishing Pier",
+      "First Flight Monument",
+      "Downtown Kill Devil Hills",
+      "Hayman Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Nags Head",
+        "slug": "nags-head-nc"
+      },
+      {
+        "name": "Kitty Hawk",
+        "slug": "kitty-hawk-nc"
+      },
+      {
+        "name": "Manteo",
+        "slug": "manteo-nc"
+      },
+      {
+        "name": "Southern Shores",
+        "slug": "southern-shores-nc"
+      },
+      {
+        "name": "Duck",
+        "slug": "duck-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-barrier-island",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "outer-banks-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Kitty Hawk",
+    "slug": "kitty-hawk-nc",
+    "county": "Dare County",
+    "population": 3720,
+    "zip_codes": [
+      "27949"
+    ],
+    "landmarks": [
+      "Kitty Hawk Woods Coastal Reserve",
+      "Sandy Run Park",
+      "Kitty Hawk Pier",
+      "Downtown Kitty Hawk",
+      "Sea Scape Golf Links"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kill Devil Hills",
+        "slug": "kill-devil-hills-nc"
+      },
+      {
+        "name": "Southern Shores",
+        "slug": "southern-shores-nc"
+      },
+      {
+        "name": "Duck",
+        "slug": "duck-nc"
+      },
+      {
+        "name": "Nags Head",
+        "slug": "nags-head-nc"
+      },
+      {
+        "name": "Manteo",
+        "slug": "manteo-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-barrier-island",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "outer-banks-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Duck",
+    "slug": "duck-nc",
+    "county": "Dare County",
+    "population": 780,
+    "zip_codes": [
+      "27949"
+    ],
+    "landmarks": [
+      "Duck Town Park",
+      "Duck Boardwalk",
+      "Soundside Park",
+      "Duck Amphitheater",
+      "Downtown Duck"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Southern Shores",
+        "slug": "southern-shores-nc"
+      },
+      {
+        "name": "Kitty Hawk",
+        "slug": "kitty-hawk-nc"
+      },
+      {
+        "name": "Kill Devil Hills",
+        "slug": "kill-devil-hills-nc"
+      },
+      {
+        "name": "Corolla",
+        "slug": "corolla-nc"
+      },
+      {
+        "name": "Nags Head",
+        "slug": "nags-head-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-barrier-island",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "outer-banks-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Southern Shores",
+    "slug": "southern-shores-nc",
+    "county": "Dare County",
+    "population": 3100,
+    "zip_codes": [
+      "27949"
+    ],
+    "landmarks": [
+      "Hillcrest Beach Access",
+      "Southern Shores Civic Park",
+      "Duck Woods Country Club",
+      "Downtown Southern Shores",
+      "Kitty Hawk Bay"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kitty Hawk",
+        "slug": "kitty-hawk-nc"
+      },
+      {
+        "name": "Duck",
+        "slug": "duck-nc"
+      },
+      {
+        "name": "Kill Devil Hills",
+        "slug": "kill-devil-hills-nc"
+      },
+      {
+        "name": "Nags Head",
+        "slug": "nags-head-nc"
+      },
+      {
+        "name": "Manteo",
+        "slug": "manteo-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-barrier-island",
+    "economy_type": "tourism-services",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "outer-banks-market",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Edenton",
+    "slug": "edenton-nc",
+    "county": "Chowan County",
+    "population": 4460,
+    "zip_codes": [
+      "27932"
+    ],
+    "landmarks": [
+      "Edenton Bay",
+      "Roanoke River Lighthouse",
+      "Historic Downtown Edenton",
+      "Cupola House",
+      "Colonial Waterfront Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Elizabeth City",
+        "slug": "elizabeth-city-nc"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-nc"
+      },
+      {
+        "name": "Washington",
+        "slug": "washington-nc"
+      },
+      {
+        "name": "Hertford",
+        "slug": "hertford-nc"
+      },
+      {
+        "name": "Windsor",
+        "slug": "windsor-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-government",
+    "housing_profile": "historic-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeastern-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  },
+  {
+    "city": "Plymouth",
+    "slug": "plymouth-nc",
+    "county": "Washington County",
+    "population": 3210,
+    "zip_codes": [
+      "27962"
+    ],
+    "landmarks": [
+      "Roanoke River Lighthouse",
+      "Water Street",
+      "Downtown Plymouth",
+      "Pettigrew State Park",
+      "River Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Edenton",
+        "slug": "edenton-nc"
+      },
+      {
+        "name": "Washington",
+        "slug": "washington-nc"
+      },
+      {
+        "name": "Elizabeth City",
+        "slug": "elizabeth-city-nc"
+      },
+      {
+        "name": "Williamston",
+        "slug": "williamston-nc"
+      },
+      {
+        "name": "Windsor",
+        "slug": "windsor-nc"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "manufacturing-tourism",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeastern-north-carolina",
+    "property_mix": "mixed-use",
+    "state": "NC"
+  }
+]

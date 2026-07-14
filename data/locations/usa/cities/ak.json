@@ -1,0 +1,150 @@
+[
+  {
+    "city": "Anchorage",
+    "slug": "anchorage-ak",
+    "county": "Anchorage Municipality",
+    "population": 291247,
+    "zip_codes": [
+      "99501",
+      "99503",
+      "99504",
+      "99507",
+      "99515"
+    ],
+    "landmarks": [
+      "Tony Knowles Coastal Trail",
+      "Anchorage Museum",
+      "Alaska Native Heritage Center",
+      "Kincaid Park",
+      "Chugach State Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Eagle River",
+        "slug": "eagle-river-ak"
+      },
+      {
+        "name": "Wasilla",
+        "slug": "wasilla-ak"
+      },
+      {
+        "name": "Palmer",
+        "slug": "palmer-ak"
+      },
+      {
+        "name": "Girdwood",
+        "slug": "girdwood-ak"
+      },
+      {
+        "name": "Houston",
+        "slug": "houston-ak"
+      }
+    ],
+    "city_type": "regional-metro",
+    "climate_zone": "subarctic",
+    "terrain": "coastal-mountains",
+    "economy_type": "logistics-energy",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "mature-growth",
+    "service_environment": "urban-core",
+    "property_mix": "mixed-use",
+    "state": "AK"
+  },
+  {
+    "city": "Fairbanks",
+    "slug": "fairbanks-ak",
+    "county": "Fairbanks North Star Borough",
+    "population": 32000,
+    "zip_codes": [
+      "99701",
+      "99709",
+      "99712"
+    ],
+    "landmarks": [
+      "University of Alaska Fairbanks",
+      "Pioneer Park",
+      "Creamer's Field",
+      "Chena River",
+      "Morris Thompson Cultural Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Pole",
+        "slug": "north-pole-ak"
+      },
+      {
+        "name": "Fox",
+        "slug": "fox-ak"
+      },
+      {
+        "name": "College",
+        "slug": "college-ak"
+      },
+      {
+        "name": "Badger",
+        "slug": "badger-ak"
+      },
+      {
+        "name": "Eielson AFB",
+        "slug": "eielson-afb-ak"
+      }
+    ],
+    "city_type": "interior-city",
+    "climate_zone": "subarctic",
+    "terrain": "river-valley",
+    "economy_type": "education-military",
+    "housing_profile": "single-family-dominant",
+    "growth_pattern": "stable-growth",
+    "service_environment": "regional-center",
+    "property_mix": "residential-commercial",
+    "state": "AK"
+  },
+  {
+    "city": "Juneau",
+    "slug": "juneau-ak",
+    "county": "Juneau City and Borough",
+    "population": 31900,
+    "zip_codes": [
+      "99801",
+      "99824"
+    ],
+    "landmarks": [
+      "Mendenhall Glacier",
+      "Alaska State Capitol",
+      "Mount Roberts",
+      "Juneau Harbor",
+      "Tracy Arm Fjord"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Douglas",
+        "slug": "douglas-ak"
+      },
+      {
+        "name": "Auke Bay",
+        "slug": "auke-bay-ak"
+      },
+      {
+        "name": "Lemon Creek",
+        "slug": "lemon-creek-ak"
+      },
+      {
+        "name": "Thane",
+        "slug": "thane-ak"
+      },
+      {
+        "name": "Excursion Inlet",
+        "slug": "excursion-inlet-ak"
+      }
+    ],
+    "city_type": "capital-city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "mountain-coastal",
+    "economy_type": "government-tourism",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "government-center",
+    "property_mix": "mixed-use",
+    "state": "AK"
+  }
+]

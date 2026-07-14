@@ -1,0 +1,3832 @@
+[
+  {
+    "city": "Aberdeen",
+    "slug": "aberdeen-wa",
+    "county": "Grays Harbor County",
+    "population": 17100,
+    "zip_codes": [
+      "98520"
+    ],
+    "landmarks": [
+      "Kurt Cobain Memorial Park",
+      "Grays Harbor Historical Seaport",
+      "Morrison Riverfront Park",
+      "Aberdeen Museum of History",
+      "Wishkah River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hoquiam",
+        "slug": "hoquiam-wa"
+      },
+      {
+        "name": "Cosmopolis",
+        "slug": "cosmopolis-wa"
+      },
+      {
+        "name": "Montesano",
+        "slug": "montesano-wa"
+      },
+      {
+        "name": "Elma",
+        "slug": "elma-wa"
+      },
+      {
+        "name": "Ocean Shores",
+        "slug": "ocean-shores-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "pacific-lowlands",
+    "economy_type": "timber-port",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "grays-harbor",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Anacortes",
+    "slug": "anacortes-wa",
+    "county": "Skagit County",
+    "population": 18100,
+    "zip_codes": [
+      "98221"
+    ],
+    "landmarks": [
+      "Washington Park",
+      "Cap Sante Park",
+      "Anacortes Ferry Terminal",
+      "Mount Erie",
+      "Downtown Waterfront"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Burlington",
+        "slug": "burlington-wa"
+      },
+      {
+        "name": "Mount Vernon",
+        "slug": "mount-vernon-wa"
+      },
+      {
+        "name": "Oak Harbor",
+        "slug": "oak-harbor-wa"
+      },
+      {
+        "name": "Sedro-Woolley",
+        "slug": "sedro-woolley-wa"
+      },
+      {
+        "name": "La Conner",
+        "slug": "la-conner-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-sound",
+    "economy_type": "tourism-maritime",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-puget-sound",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Arlington",
+    "slug": "arlington-wa",
+    "county": "Snohomish County",
+    "population": 21400,
+    "zip_codes": [
+      "98223"
+    ],
+    "landmarks": [
+      "Legion Memorial Park",
+      "Arlington Municipal Airport",
+      "Centennial Trail",
+      "Haller Park",
+      "Downtown Arlington"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Marysville",
+        "slug": "marysville-wa"
+      },
+      {
+        "name": "Lake Stevens",
+        "slug": "lake-stevens-wa"
+      },
+      {
+        "name": "Granite Falls",
+        "slug": "granite-falls-wa"
+      },
+      {
+        "name": "Stanwood",
+        "slug": "stanwood-wa"
+      },
+      {
+        "name": "Everett",
+        "slug": "everett-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "cascade-foothills",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-snohomish",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Auburn",
+    "slug": "auburn-wa",
+    "county": "King County",
+    "population": 88500,
+    "zip_codes": [
+      "98001",
+      "98002",
+      "98092"
+    ],
+    "landmarks": [
+      "Muckleshoot Casino Resort",
+      "Emerald Downs",
+      "Game Farm Park",
+      "White River Valley Museum",
+      "Les Gove Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kent",
+        "slug": "kent-wa"
+      },
+      {
+        "name": "Federal Way",
+        "slug": "federal-way-wa"
+      },
+      {
+        "name": "Pacific",
+        "slug": "pacific-wa"
+      },
+      {
+        "name": "Algona",
+        "slug": "algona-wa"
+      },
+      {
+        "name": "Covington",
+        "slug": "covington-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "logistics-manufacturing",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-king-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Battle Ground",
+    "slug": "battle-ground-wa",
+    "county": "Clark County",
+    "population": 23500,
+    "zip_codes": [
+      "98604"
+    ],
+    "landmarks": [
+      "Battle Ground Lake State Park",
+      "Kiwanis Park",
+      "Downtown Battle Ground",
+      "Lewisville Regional Park",
+      "Cedars Golf Club"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Vancouver",
+        "slug": "vancouver-wa"
+      },
+      {
+        "name": "Ridgefield",
+        "slug": "ridgefield-wa"
+      },
+      {
+        "name": "Brush Prairie",
+        "slug": "brush-prairie-wa"
+      },
+      {
+        "name": "Salmon Creek",
+        "slug": "salmon-creek-wa"
+      },
+      {
+        "name": "Camas",
+        "slug": "camas-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "cascade-foothills",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "clark-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Bellevue",
+    "slug": "bellevue-wa",
+    "county": "King County",
+    "population": 154600,
+    "zip_codes": [
+      "98004",
+      "98005",
+      "98006",
+      "98007",
+      "98008"
+    ],
+    "landmarks": [
+      "Bellevue Downtown Park",
+      "Bellevue Square",
+      "Meydenbauer Center",
+      "Bellevue Botanical Garden",
+      "Mercer Slough Nature Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Seattle",
+        "slug": "seattle-wa"
+      },
+      {
+        "name": "Redmond",
+        "slug": "redmond-wa"
+      },
+      {
+        "name": "Kirkland",
+        "slug": "kirkland-wa"
+      },
+      {
+        "name": "Renton",
+        "slug": "renton-wa"
+      },
+      {
+        "name": "Newcastle",
+        "slug": "newcastle-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "technology-finance",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastside-seattle",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Bellingham",
+    "slug": "bellingham-wa",
+    "county": "Whatcom County",
+    "population": 97200,
+    "zip_codes": [
+      "98225",
+      "98226",
+      "98229"
+    ],
+    "landmarks": [
+      "Western Washington University",
+      "Boulevard Park",
+      "Fairhaven Historic District",
+      "Whatcom Falls Park",
+      "Bellingham Waterfront"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ferndale",
+        "slug": "ferndale-wa"
+      },
+      {
+        "name": "Lynden",
+        "slug": "lynden-wa"
+      },
+      {
+        "name": "Sudden Valley",
+        "slug": "sudden-valley-wa"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-wa"
+      },
+      {
+        "name": "Everson",
+        "slug": "everson-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-sound",
+    "economy_type": "education-tourism",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "whatcom-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Bonney Lake",
+    "slug": "bonney-lake-wa",
+    "county": "Pierce County",
+    "population": 23600,
+    "zip_codes": [
+      "98391"
+    ],
+    "landmarks": [
+      "Lake Tapps",
+      "Allan Yorke Park",
+      "Bonney Lake Park",
+      "Victor Falls",
+      "Sky Island Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sumner",
+        "slug": "sumner-wa"
+      },
+      {
+        "name": "Buckley",
+        "slug": "buckley-wa"
+      },
+      {
+        "name": "Puyallup",
+        "slug": "puyallup-wa"
+      },
+      {
+        "name": "Enumclaw",
+        "slug": "enumclaw-wa"
+      },
+      {
+        "name": "Orting",
+        "slug": "orting-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "cascade-foothills",
+    "economy_type": "retail-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "pierce-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Bothell",
+    "slug": "bothell-wa",
+    "county": "King County",
+    "population": 50300,
+    "zip_codes": [
+      "98011",
+      "98012",
+      "98021"
+    ],
+    "landmarks": [
+      "University of Washington Bothell",
+      "Bothell Landing Park",
+      "Burke-Gilman Trail",
+      "North Creek Forest",
+      "Country Village Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kenmore",
+        "slug": "kenmore-wa"
+      },
+      {
+        "name": "Woodinville",
+        "slug": "woodinville-wa"
+      },
+      {
+        "name": "Lynnwood",
+        "slug": "lynnwood-wa"
+      },
+      {
+        "name": "Mill Creek",
+        "slug": "mill-creek-wa"
+      },
+      {
+        "name": "Kirkland",
+        "slug": "kirkland-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "technology-education",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastside-seattle",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Bremerton",
+    "slug": "bremerton-wa",
+    "county": "Kitsap County",
+    "population": 44500,
+    "zip_codes": [
+      "98310",
+      "98311",
+      "98312",
+      "98337"
+    ],
+    "landmarks": [
+      "Puget Sound Naval Shipyard",
+      "USS Turner Joy Museum",
+      "Harborside Fountain Park",
+      "Bremerton Boardwalk",
+      "Manette Bridge"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Port Orchard",
+        "slug": "port-orchard-wa"
+      },
+      {
+        "name": "Silverdale",
+        "slug": "silverdale-wa"
+      },
+      {
+        "name": "Poulsbo",
+        "slug": "poulsbo-wa"
+      },
+      {
+        "name": "Bainbridge Island",
+        "slug": "bainbridge-island-wa"
+      },
+      {
+        "name": "Seattle",
+        "slug": "seattle-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-sound",
+    "economy_type": "defense-maritime",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "kitsap-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Bryn Mawr-Skyway",
+    "slug": "bryn-mawr-skyway-wa",
+    "county": "King County",
+    "population": 17700,
+    "zip_codes": [
+      "98178"
+    ],
+    "landmarks": [
+      "Skyway Park",
+      "Lakeridge Park",
+      "Kubota Garden",
+      "Skyway Library",
+      "Chief Sealth Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Renton",
+        "slug": "renton-wa"
+      },
+      {
+        "name": "Seattle",
+        "slug": "seattle-wa"
+      },
+      {
+        "name": "Tukwila",
+        "slug": "tukwila-wa"
+      },
+      {
+        "name": "Newcastle",
+        "slug": "newcastle-wa"
+      },
+      {
+        "name": "Kent",
+        "slug": "kent-wa"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "services-retail",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-king-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Burien",
+    "slug": "burien-wa",
+    "county": "King County",
+    "population": 53000,
+    "zip_codes": [
+      "98146",
+      "98148",
+      "98166",
+      "98168"
+    ],
+    "landmarks": [
+      "Seahurst Park",
+      "Olde Burien",
+      "Town Square Park",
+      "Lake Burien",
+      "Salmon Creek Ravine Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Seattle",
+        "slug": "seattle-wa"
+      },
+      {
+        "name": "SeaTac",
+        "slug": "seatac-wa"
+      },
+      {
+        "name": "Tukwila",
+        "slug": "tukwila-wa"
+      },
+      {
+        "name": "Normandy Park",
+        "slug": "normandy-park-wa"
+      },
+      {
+        "name": "Des Moines",
+        "slug": "des-moines-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "retail-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-king-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Camas",
+    "slug": "camas-wa",
+    "county": "Clark County",
+    "population": 27800,
+    "zip_codes": [
+      "98607"
+    ],
+    "landmarks": [
+      "Lacamas Lake",
+      "Round Lake Park",
+      "Downtown Camas",
+      "Heritage Park",
+      "Crown Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Washougal",
+        "slug": "washougal-wa"
+      },
+      {
+        "name": "Vancouver",
+        "slug": "vancouver-wa"
+      },
+      {
+        "name": "Battle Ground",
+        "slug": "battle-ground-wa"
+      },
+      {
+        "name": "Salmon Creek",
+        "slug": "salmon-creek-wa"
+      },
+      {
+        "name": "Portland",
+        "slug": "portland-or"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "columbia-river-gorge",
+    "economy_type": "technology-manufacturing",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "clark-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Centralia",
+    "slug": "centralia-wa",
+    "county": "Lewis County",
+    "population": 18600,
+    "zip_codes": [
+      "98531"
+    ],
+    "landmarks": [
+      "Centralia Outlets",
+      "Fort Borst Park",
+      "Historic Downtown Centralia",
+      "Centralia College",
+      "NW Sports Hub"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Chehalis",
+        "slug": "chehalis-wa"
+      },
+      {
+        "name": "Rochester",
+        "slug": "rochester-wa"
+      },
+      {
+        "name": "Tumwater",
+        "slug": "tumwater-wa"
+      },
+      {
+        "name": "Olympia",
+        "slug": "olympia-wa"
+      },
+      {
+        "name": "Napavine",
+        "slug": "napavine-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "chehalis-valley",
+    "economy_type": "retail-logistics",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southwest-washington",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Covington",
+    "slug": "covington-wa",
+    "county": "King County",
+    "population": 20700,
+    "zip_codes": [
+      "98042"
+    ],
+    "landmarks": [
+      "Covington Community Park",
+      "Lake Meridian Area",
+      "Jenkins Creek Park",
+      "Covington Aquatic Center",
+      "Soos Creek Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kent",
+        "slug": "kent-wa"
+      },
+      {
+        "name": "Maple Valley",
+        "slug": "maple-valley-wa"
+      },
+      {
+        "name": "Auburn",
+        "slug": "auburn-wa"
+      },
+      {
+        "name": "Black Diamond",
+        "slug": "black-diamond-wa"
+      },
+      {
+        "name": "Renton",
+        "slug": "renton-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "retail-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-king-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Des Moines",
+    "slug": "des-moines-wa",
+    "county": "King County",
+    "population": 32900,
+    "zip_codes": [
+      "98198"
+    ],
+    "landmarks": [
+      "Des Moines Marina",
+      "Saltwater State Park",
+      "Beach Park",
+      "Redondo Beach",
+      "Des Moines Creek Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kent",
+        "slug": "kent-wa"
+      },
+      {
+        "name": "Burien",
+        "slug": "burien-wa"
+      },
+      {
+        "name": "SeaTac",
+        "slug": "seatac-wa"
+      },
+      {
+        "name": "Federal Way",
+        "slug": "federal-way-wa"
+      },
+      {
+        "name": "Normandy Park",
+        "slug": "normandy-park-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-sound",
+    "economy_type": "maritime-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-king-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "East Hill-Meridian",
+    "slug": "east-hill-meridian-wa",
+    "county": "King County",
+    "population": 12800,
+    "zip_codes": [
+      "98031",
+      "98032"
+    ],
+    "landmarks": [
+      "Clark Lake Park",
+      "Lake Meridian Park",
+      "Kent East Hill",
+      "Meridian Glen Park",
+      "Soos Creek Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kent",
+        "slug": "kent-wa"
+      },
+      {
+        "name": "Covington",
+        "slug": "covington-wa"
+      },
+      {
+        "name": "Renton",
+        "slug": "renton-wa"
+      },
+      {
+        "name": "Auburn",
+        "slug": "auburn-wa"
+      },
+      {
+        "name": "Maple Valley",
+        "slug": "maple-valley-wa"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-king-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Eastmont",
+    "slug": "eastmont-wa",
+    "county": "Snohomish County",
+    "population": 24200,
+    "zip_codes": [
+      "98208"
+    ],
+    "landmarks": [
+      "Walter E. Hall Park",
+      "Silver Lake",
+      "Evergreen Arboretum",
+      "Eastmont Community Park",
+      "Mill Creek Town Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Everett",
+        "slug": "everett-wa"
+      },
+      {
+        "name": "Mill Creek",
+        "slug": "mill-creek-wa"
+      },
+      {
+        "name": "Lynnwood",
+        "slug": "lynnwood-wa"
+      },
+      {
+        "name": "Mukilteo",
+        "slug": "mukilteo-wa"
+      },
+      {
+        "name": "Bothell",
+        "slug": "bothell-wa"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "services-retail",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-snohomish",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "East Wenatchee",
+    "slug": "east-wenatchee-wa",
+    "county": "Douglas County",
+    "population": 14700,
+    "zip_codes": [
+      "98802"
+    ],
+    "landmarks": [
+      "Eastmont Community Park",
+      "Apple Capital Loop Trail",
+      "Columbia River",
+      "Pangborn Memorial Airport",
+      "East Wenatchee Bench"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wenatchee",
+        "slug": "wenatchee-wa"
+      },
+      {
+        "name": "Cashmere",
+        "slug": "cashmere-wa"
+      },
+      {
+        "name": "Chelan",
+        "slug": "chelan-wa"
+      },
+      {
+        "name": "Leavenworth",
+        "slug": "leavenworth-wa"
+      },
+      {
+        "name": "Rock Island",
+        "slug": "rock-island-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "columbia-basin",
+    "economy_type": "agriculture-logistics",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-central-washington",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Edmonds",
+    "slug": "edmonds-wa",
+    "county": "Snohomish County",
+    "population": 42800,
+    "zip_codes": [
+      "98020",
+      "98026"
+    ],
+    "landmarks": [
+      "Edmonds Waterfront",
+      "Brackett's Landing Park",
+      "Edmonds Ferry Terminal",
+      "Marina Beach Park",
+      "Civic Center Playfield"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lynnwood",
+        "slug": "lynnwood-wa"
+      },
+      {
+        "name": "Mountlake Terrace",
+        "slug": "mountlake-terrace-wa"
+      },
+      {
+        "name": "Shoreline",
+        "slug": "shoreline-wa"
+      },
+      {
+        "name": "Mukilteo",
+        "slug": "mukilteo-wa"
+      },
+      {
+        "name": "Seattle",
+        "slug": "seattle-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-sound",
+    "economy_type": "tourism-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-snohomish",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Ellensburg",
+    "slug": "ellensburg-wa",
+    "county": "Kittitas County",
+    "population": 20500,
+    "zip_codes": [
+      "98926"
+    ],
+    "landmarks": [
+      "Central Washington University",
+      "Olmstead Place State Park",
+      "Irene Rinehart Riverfront Park",
+      "Kittitas Valley Event Center",
+      "Downtown Ellensburg"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cle Elum",
+        "slug": "cle-elum-wa"
+      },
+      {
+        "name": "Selah",
+        "slug": "selah-wa"
+      },
+      {
+        "name": "Yakima",
+        "slug": "yakima-wa"
+      },
+      {
+        "name": "Union Gap",
+        "slug": "union-gap-wa"
+      },
+      {
+        "name": "Roslyn",
+        "slug": "roslyn-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "kittitas-valley",
+    "economy_type": "education-agriculture",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-washington",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Everett",
+    "slug": "everett-wa",
+    "county": "Snohomish County",
+    "population": 112000,
+    "zip_codes": [
+      "98201",
+      "98203",
+      "98204",
+      "98208"
+    ],
+    "landmarks": [
+      "Naval Station Everett",
+      "Angel of the Winds Arena",
+      "Everett Marina",
+      "Funko Headquarters",
+      "Jetty Island"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mukilteo",
+        "slug": "mukilteo-wa"
+      },
+      {
+        "name": "Lynnwood",
+        "slug": "lynnwood-wa"
+      },
+      {
+        "name": "Marysville",
+        "slug": "marysville-wa"
+      },
+      {
+        "name": "Mill Creek",
+        "slug": "mill-creek-wa"
+      },
+      {
+        "name": "Eastmont",
+        "slug": "eastmont-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-sound",
+    "economy_type": "aerospace-manufacturing",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "snohomish-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Fairwood",
+    "slug": "fairwood-wa",
+    "county": "King County",
+    "population": 21500,
+    "zip_codes": [
+      "98058"
+    ],
+    "landmarks": [
+      "Fairwood Golf & Country Club",
+      "Petrovitsky Park",
+      "Cedar River Trail",
+      "Fairwood Shopping Center",
+      "Soos Creek Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Renton",
+        "slug": "renton-wa"
+      },
+      {
+        "name": "Kent",
+        "slug": "kent-wa"
+      },
+      {
+        "name": "Covington",
+        "slug": "covington-wa"
+      },
+      {
+        "name": "Maple Valley",
+        "slug": "maple-valley-wa"
+      },
+      {
+        "name": "Newcastle",
+        "slug": "newcastle-wa"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "services-retail",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-king-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Federal Way",
+    "slug": "federal-way-wa",
+    "county": "King County",
+    "population": 102000,
+    "zip_codes": [
+      "98003",
+      "98023",
+      "98063"
+    ],
+    "landmarks": [
+      "The Commons at Federal Way",
+      "Dash Point State Park",
+      "Pacific Bonsai Museum",
+      "Wild Waves Theme Park",
+      "Celebration Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kent",
+        "slug": "kent-wa"
+      },
+      {
+        "name": "Auburn",
+        "slug": "auburn-wa"
+      },
+      {
+        "name": "Des Moines",
+        "slug": "des-moines-wa"
+      },
+      {
+        "name": "Tacoma",
+        "slug": "tacoma-wa"
+      },
+      {
+        "name": "Fife",
+        "slug": "fife-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "retail-healthcare",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-king-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Ferndale",
+    "slug": "ferndale-wa",
+    "county": "Whatcom County",
+    "population": 16500,
+    "zip_codes": [
+      "98248"
+    ],
+    "landmarks": [
+      "Hovander Homestead Park",
+      "Pioneer Park",
+      "Main Street District",
+      "Tennant Lake",
+      "Fragrance Lake Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bellingham",
+        "slug": "bellingham-wa"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-wa"
+      },
+      {
+        "name": "Lynden",
+        "slug": "lynden-wa"
+      },
+      {
+        "name": "Everson",
+        "slug": "everson-wa"
+      },
+      {
+        "name": "Sumas",
+        "slug": "sumas-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "manufacturing-agriculture",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "whatcom-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Fife",
+    "slug": "fife-wa",
+    "county": "Pierce County",
+    "population": 10900,
+    "zip_codes": [
+      "98424"
+    ],
+    "landmarks": [
+      "BJ's Bingo",
+      "Fife Aquatic Center",
+      "Dacca Park",
+      "Port of Tacoma Area",
+      "Fife Historical Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tacoma",
+        "slug": "tacoma-wa"
+      },
+      {
+        "name": "Federal Way",
+        "slug": "federal-way-wa"
+      },
+      {
+        "name": "Puyallup",
+        "slug": "puyallup-wa"
+      },
+      {
+        "name": "Milton",
+        "slug": "milton-wa"
+      },
+      {
+        "name": "Edgewood",
+        "slug": "edgewood-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "logistics-industrial",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "pierce-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Five Corners",
+    "slug": "five-corners-wa",
+    "county": "Clark County",
+    "population": 21100,
+    "zip_codes": [
+      "98662"
+    ],
+    "landmarks": [
+      "Orchards Community Park",
+      "Brush Prairie Area",
+      "Five Corners Shopping Center",
+      "Padden Parkway",
+      "Vancouver Mall Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Vancouver",
+        "slug": "vancouver-wa"
+      },
+      {
+        "name": "Battle Ground",
+        "slug": "battle-ground-wa"
+      },
+      {
+        "name": "Salmon Creek",
+        "slug": "salmon-creek-wa"
+      },
+      {
+        "name": "Brush Prairie",
+        "slug": "brush-prairie-wa"
+      },
+      {
+        "name": "Camas",
+        "slug": "camas-wa"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "marine-west-coast",
+    "terrain": "cascade-foothills",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "clark-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Graham",
+    "slug": "graham-wa",
+    "county": "Pierce County",
+    "population": 33000,
+    "zip_codes": [
+      "98338"
+    ],
+    "landmarks": [
+      "Frontier Park",
+      "Graham Fairgrounds",
+      "Kapowsin Lake",
+      "Rainier View Park",
+      "Spanaway Prairie"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Spanaway",
+        "slug": "spanaway-wa"
+      },
+      {
+        "name": "South Hill",
+        "slug": "south-hill-wa"
+      },
+      {
+        "name": "Puyallup",
+        "slug": "puyallup-wa"
+      },
+      {
+        "name": "Orting",
+        "slug": "orting-wa"
+      },
+      {
+        "name": "Bonney Lake",
+        "slug": "bonney-lake-wa"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "marine-west-coast",
+    "terrain": "cascade-foothills",
+    "economy_type": "residential-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "pierce-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Hazel Dell",
+    "slug": "hazel-dell-wa",
+    "county": "Clark County",
+    "population": 21500,
+    "zip_codes": [
+      "98665"
+    ],
+    "landmarks": [
+      "Jorgensen Woods Park",
+      "Hazel Dell Community Park",
+      "Salmon Creek Greenway",
+      "Highlands Shopping Area",
+      "Luke Jensen Sports Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Vancouver",
+        "slug": "vancouver-wa"
+      },
+      {
+        "name": "Salmon Creek",
+        "slug": "salmon-creek-wa"
+      },
+      {
+        "name": "Five Corners",
+        "slug": "five-corners-wa"
+      },
+      {
+        "name": "Battle Ground",
+        "slug": "battle-ground-wa"
+      },
+      {
+        "name": "Ridgefield",
+        "slug": "ridgefield-wa"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "marine-west-coast",
+    "terrain": "columbia-lowlands",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "clark-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Issaquah",
+    "slug": "issaquah-wa",
+    "county": "King County",
+    "population": 41200,
+    "zip_codes": [
+      "98027",
+      "98029"
+    ],
+    "landmarks": [
+      "Cougar Mountain Regional Wildland Park",
+      "Lake Sammamish State Park",
+      "Village Theatre",
+      "Downtown Issaquah",
+      "Tiger Mountain Trailhead"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sammamish",
+        "slug": "sammamish-wa"
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-wa"
+      },
+      {
+        "name": "Renton",
+        "slug": "renton-wa"
+      },
+      {
+        "name": "Newcastle",
+        "slug": "newcastle-wa"
+      },
+      {
+        "name": "Redmond",
+        "slug": "redmond-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "cascade-foothills",
+    "economy_type": "technology-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastside-seattle",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Kelso",
+    "slug": "kelso-wa",
+    "county": "Cowlitz County",
+    "population": 13200,
+    "zip_codes": [
+      "98626"
+    ],
+    "landmarks": [
+      "Tam O'Shanter Park",
+      "Three Rivers Mall",
+      "Cowlitz County Historical Museum",
+      "Cowlitz River",
+      "Kelso Rail Heritage Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Longview",
+        "slug": "longview-wa"
+      },
+      {
+        "name": "Castle Rock",
+        "slug": "castle-rock-wa"
+      },
+      {
+        "name": "Kalama",
+        "slug": "kalama-wa"
+      },
+      {
+        "name": "Woodland",
+        "slug": "woodland-wa"
+      },
+      {
+        "name": "Rainier",
+        "slug": "rainier-or"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "columbia-lowlands",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "cowlitz-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Kenmore",
+    "slug": "kenmore-wa",
+    "county": "King County",
+    "population": 24200,
+    "zip_codes": [
+      "98028"
+    ],
+    "landmarks": [
+      "Saint Edward State Park",
+      "Log Boom Park",
+      "Sammamish River Trail",
+      "Kenmore Air Harbor",
+      "Rhododendron Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bothell",
+        "slug": "bothell-wa"
+      },
+      {
+        "name": "Shoreline",
+        "slug": "shoreline-wa"
+      },
+      {
+        "name": "Lake Forest Park",
+        "slug": "lake-forest-park-wa"
+      },
+      {
+        "name": "Kirkland",
+        "slug": "kirkland-wa"
+      },
+      {
+        "name": "Seattle",
+        "slug": "seattle-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "technology-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastside-seattle",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Kennewick",
+    "slug": "kennewick-wa",
+    "county": "Benton County",
+    "population": 86500,
+    "zip_codes": [
+      "99336",
+      "99337",
+      "99338"
+    ],
+    "landmarks": [
+      "Columbia Park",
+      "Toyota Center",
+      "Clover Island",
+      "Three Rivers Convention Center",
+      "Columbia River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Richland",
+        "slug": "richland-wa"
+      },
+      {
+        "name": "Pasco",
+        "slug": "pasco-wa"
+      },
+      {
+        "name": "West Richland",
+        "slug": "west-richland-wa"
+      },
+      {
+        "name": "Finley",
+        "slug": "finley-wa"
+      },
+      {
+        "name": "Burbank",
+        "slug": "burbank-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "columbia-basin",
+    "economy_type": "energy-healthcare",
+    "housing_profile": "major-urban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "tri-cities",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Kent",
+    "slug": "kent-wa",
+    "county": "King County",
+    "population": 138900,
+    "zip_codes": [
+      "98030",
+      "98031",
+      "98032",
+      "98042"
+    ],
+    "landmarks": [
+      "ShoWare Center",
+      "Lake Meridian Park",
+      "Kent Station",
+      "Green River Trail",
+      "Clark Lake Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Renton",
+        "slug": "renton-wa"
+      },
+      {
+        "name": "Auburn",
+        "slug": "auburn-wa"
+      },
+      {
+        "name": "Covington",
+        "slug": "covington-wa"
+      },
+      {
+        "name": "Federal Way",
+        "slug": "federal-way-wa"
+      },
+      {
+        "name": "SeaTac",
+        "slug": "seatac-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "logistics-manufacturing",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-king-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Kirkland",
+    "slug": "kirkland-wa",
+    "county": "King County",
+    "population": 94200,
+    "zip_codes": [
+      "98033",
+      "98034"
+    ],
+    "landmarks": [
+      "Marina Park",
+      "Juanita Beach Park",
+      "Totem Lake",
+      "Cross Kirkland Corridor",
+      "Peter Kirk Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-wa"
+      },
+      {
+        "name": "Redmond",
+        "slug": "redmond-wa"
+      },
+      {
+        "name": "Kenmore",
+        "slug": "kenmore-wa"
+      },
+      {
+        "name": "Bothell",
+        "slug": "bothell-wa"
+      },
+      {
+        "name": "Seattle",
+        "slug": "seattle-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "technology-healthcare",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastside-seattle",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Lake Stevens",
+    "slug": "lake-stevens-wa",
+    "county": "Snohomish County",
+    "population": 41400,
+    "zip_codes": [
+      "98258"
+    ],
+    "landmarks": [
+      "Lake Stevens",
+      "North Cove Park",
+      "Davies Beach",
+      "Cavalero Park",
+      "Centennial Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Marysville",
+        "slug": "marysville-wa"
+      },
+      {
+        "name": "Everett",
+        "slug": "everett-wa"
+      },
+      {
+        "name": "Arlington",
+        "slug": "arlington-wa"
+      },
+      {
+        "name": "Granite Falls",
+        "slug": "granite-falls-wa"
+      },
+      {
+        "name": "Snohomish",
+        "slug": "snohomish-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "cascade-foothills",
+    "economy_type": "services-retail",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "snohomish-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Lakewood",
+    "slug": "lakewood-wa",
+    "county": "Pierce County",
+    "population": 63800,
+    "zip_codes": [
+      "98439",
+      "98498",
+      "98499"
+    ],
+    "landmarks": [
+      "Fort Steilacoom Park",
+      "American Lake",
+      "Lakewold Gardens",
+      "Thornewood Castle",
+      "Joint Base Lewis-McChord"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tacoma",
+        "slug": "tacoma-wa"
+      },
+      {
+        "name": "University Place",
+        "slug": "university-place-wa"
+      },
+      {
+        "name": "Steilacoom",
+        "slug": "steilacoom-wa"
+      },
+      {
+        "name": "DuPont",
+        "slug": "dupont-wa"
+      },
+      {
+        "name": "Parkland",
+        "slug": "parkland-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "defense-healthcare",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "pierce-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Longview",
+    "slug": "longview-wa",
+    "county": "Cowlitz County",
+    "population": 38200,
+    "zip_codes": [
+      "98632"
+    ],
+    "landmarks": [
+      "Lake Sacajawea Park",
+      "Columbia Theatre",
+      "Nutty Narrows Bridge",
+      "Cowlitz County Event Center",
+      "Columbia River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kelso",
+        "slug": "kelso-wa"
+      },
+      {
+        "name": "Kalama",
+        "slug": "kalama-wa"
+      },
+      {
+        "name": "Woodland",
+        "slug": "woodland-wa"
+      },
+      {
+        "name": "Castle Rock",
+        "slug": "castle-rock-wa"
+      },
+      {
+        "name": "Rainier",
+        "slug": "rainier-or"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "columbia-lowlands",
+    "economy_type": "manufacturing-port",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "cowlitz-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Lynnwood",
+    "slug": "lynnwood-wa",
+    "county": "Snohomish County",
+    "population": 39200,
+    "zip_codes": [
+      "98036",
+      "98037",
+      "98087"
+    ],
+    "landmarks": [
+      "Alderwood Mall",
+      "Scriber Lake Park",
+      "Lynnwood Recreation Center",
+      "Heritage Park",
+      "Interurban Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Edmonds",
+        "slug": "edmonds-wa"
+      },
+      {
+        "name": "Mountlake Terrace",
+        "slug": "mountlake-terrace-wa"
+      },
+      {
+        "name": "Bothell",
+        "slug": "bothell-wa"
+      },
+      {
+        "name": "Everett",
+        "slug": "everett-wa"
+      },
+      {
+        "name": "Mukilteo",
+        "slug": "mukilteo-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "retail-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-snohomish",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Maple Valley",
+    "slug": "maple-valley-wa",
+    "county": "King County",
+    "population": 29500,
+    "zip_codes": [
+      "98038"
+    ],
+    "landmarks": [
+      "Lake Wilderness Park",
+      "Lake Wilderness Arboretum",
+      "Cedar River Trail",
+      "Tahoma National Cemetery",
+      "Summit Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Covington",
+        "slug": "covington-wa"
+      },
+      {
+        "name": "Black Diamond",
+        "slug": "black-diamond-wa"
+      },
+      {
+        "name": "Kent",
+        "slug": "kent-wa"
+      },
+      {
+        "name": "Renton",
+        "slug": "renton-wa"
+      },
+      {
+        "name": "Fairwood",
+        "slug": "fairwood-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "cascade-foothills",
+    "economy_type": "services-retail",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "south-king-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Marysville",
+    "slug": "marysville-wa",
+    "county": "Snohomish County",
+    "population": 72700,
+    "zip_codes": [
+      "98270",
+      "98271"
+    ],
+    "landmarks": [
+      "Jennings Memorial Park",
+      "Tulalip Resort Casino",
+      "Seattle Premium Outlets",
+      "Ebey Waterfront Park",
+      "Tulalip Amphitheatre"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Everett",
+        "slug": "everett-wa"
+      },
+      {
+        "name": "Lake Stevens",
+        "slug": "lake-stevens-wa"
+      },
+      {
+        "name": "Arlington",
+        "slug": "arlington-wa"
+      },
+      {
+        "name": "Stanwood",
+        "slug": "stanwood-wa"
+      },
+      {
+        "name": "Tulalip Bay",
+        "slug": "tulalip-bay-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "retail-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "snohomish-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Mercer Island",
+    "slug": "mercer-island-wa",
+    "county": "King County",
+    "population": 25800,
+    "zip_codes": [
+      "98040"
+    ],
+    "landmarks": [
+      "Luther Burbank Park",
+      "Mercerdale Park",
+      "Mercer Island Lid Park",
+      "Mercer Island Beach Club",
+      "Mercer Slough"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-wa"
+      },
+      {
+        "name": "Seattle",
+        "slug": "seattle-wa"
+      },
+      {
+        "name": "Newcastle",
+        "slug": "newcastle-wa"
+      },
+      {
+        "name": "Renton",
+        "slug": "renton-wa"
+      },
+      {
+        "name": "Issaquah",
+        "slug": "issaquah-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "lake-washington",
+    "economy_type": "professional-services",
+    "housing_profile": "upscale-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "eastside-seattle",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Mill Creek",
+    "slug": "mill-creek-wa",
+    "county": "Snohomish County",
+    "population": 21300,
+    "zip_codes": [
+      "98012"
+    ],
+    "landmarks": [
+      "Mill Creek Town Center",
+      "North Creek Trail",
+      "Heron Park",
+      "Mill Creek Sports Park",
+      "Pine Meadow Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bothell",
+        "slug": "bothell-wa"
+      },
+      {
+        "name": "Lynnwood",
+        "slug": "lynnwood-wa"
+      },
+      {
+        "name": "Everett",
+        "slug": "everett-wa"
+      },
+      {
+        "name": "Mukilteo",
+        "slug": "mukilteo-wa"
+      },
+      {
+        "name": "Eastmont",
+        "slug": "eastmont-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "retail-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-snohomish",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Mount Vernon",
+    "slug": "mount-vernon-wa",
+    "county": "Skagit County",
+    "population": 36500,
+    "zip_codes": [
+      "98273",
+      "98274"
+    ],
+    "landmarks": [
+      "Skagit Valley Tulip Festival",
+      "Little Mountain Park",
+      "Riverwalk Plaza",
+      "Skagit River",
+      "Downtown Mount Vernon"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Burlington",
+        "slug": "burlington-wa"
+      },
+      {
+        "name": "Sedro-Woolley",
+        "slug": "sedro-woolley-wa"
+      },
+      {
+        "name": "Anacortes",
+        "slug": "anacortes-wa"
+      },
+      {
+        "name": "La Conner",
+        "slug": "la-conner-wa"
+      },
+      {
+        "name": "Stanwood",
+        "slug": "stanwood-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "skagit-valley",
+    "economy_type": "agriculture-healthcare",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "skagit-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Mountlake Terrace",
+    "slug": "mountlake-terrace-wa",
+    "county": "Snohomish County",
+    "population": 22300,
+    "zip_codes": [
+      "98043"
+    ],
+    "landmarks": [
+      "Terrace Creek Park",
+      "Ballinger Park",
+      "Civic Campus",
+      "Veterans Memorial Park",
+      "Lake Ballinger"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lynnwood",
+        "slug": "lynnwood-wa"
+      },
+      {
+        "name": "Edmonds",
+        "slug": "edmonds-wa"
+      },
+      {
+        "name": "Shoreline",
+        "slug": "shoreline-wa"
+      },
+      {
+        "name": "Bothell",
+        "slug": "bothell-wa"
+      },
+      {
+        "name": "Seattle",
+        "slug": "seattle-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "services-retail",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-snohomish",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Mukilteo",
+    "slug": "mukilteo-wa",
+    "county": "Snohomish County",
+    "population": 21500,
+    "zip_codes": [
+      "98275"
+    ],
+    "landmarks": [
+      "Mukilteo Lighthouse Park",
+      "Mukilteo Ferry Terminal",
+      "Japanese Gulch",
+      "Harbour Pointe Golf Club",
+      "Big Gulch Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Everett",
+        "slug": "everett-wa"
+      },
+      {
+        "name": "Lynnwood",
+        "slug": "lynnwood-wa"
+      },
+      {
+        "name": "Edmonds",
+        "slug": "edmonds-wa"
+      },
+      {
+        "name": "Mill Creek",
+        "slug": "mill-creek-wa"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-sound",
+    "economy_type": "maritime-aerospace",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-snohomish",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Newcastle",
+    "slug": "newcastle-wa",
+    "county": "King County",
+    "population": 13100,
+    "zip_codes": [
+      "98056",
+      "98059"
+    ],
+    "landmarks": [
+      "Newcastle Golf Club",
+      "Lake Boren Park",
+      "Coal Creek Trail",
+      "Hazelwood Park",
+      "Cougar Mountain Regional Wildland Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-wa"
+      },
+      {
+        "name": "Renton",
+        "slug": "renton-wa"
+      },
+      {
+        "name": "Issaquah",
+        "slug": "issaquah-wa"
+      },
+      {
+        "name": "Mercer Island",
+        "slug": "mercer-island-wa"
+      },
+      {
+        "name": "Seattle",
+        "slug": "seattle-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "cascade-foothills",
+    "economy_type": "professional-services",
+    "housing_profile": "upscale-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastside-seattle",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Oak Harbor",
+    "slug": "oak-harbor-wa",
+    "county": "Island County",
+    "population": 24700,
+    "zip_codes": [
+      "98277"
+    ],
+    "landmarks": [
+      "Deception Pass State Park",
+      "Windjammer Park",
+      "PBY-Naval Air Museum",
+      "Whidbey Playhouse",
+      "Flintstone Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Anacortes",
+        "slug": "anacortes-wa"
+      },
+      {
+        "name": "Coupeville",
+        "slug": "coupeville-wa"
+      },
+      {
+        "name": "Mount Vernon",
+        "slug": "mount-vernon-wa"
+      },
+      {
+        "name": "Burlington",
+        "slug": "burlington-wa"
+      },
+      {
+        "name": "Stanwood",
+        "slug": "stanwood-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "whidbey-island",
+    "economy_type": "defense-tourism",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "island-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Olympia",
+    "slug": "olympia-wa",
+    "county": "Thurston County",
+    "population": 57000,
+    "zip_codes": [
+      "98501",
+      "98502",
+      "98506",
+      "98512"
+    ],
+    "landmarks": [
+      "Washington State Capitol",
+      "Percival Landing",
+      "Capitol Lake",
+      "Hands On Children's Museum",
+      "Nisqually National Wildlife Refuge"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lacey",
+        "slug": "lacey-wa"
+      },
+      {
+        "name": "Tumwater",
+        "slug": "tumwater-wa"
+      },
+      {
+        "name": "Yelm",
+        "slug": "yelm-wa"
+      },
+      {
+        "name": "Centralia",
+        "slug": "centralia-wa"
+      },
+      {
+        "name": "Shelton",
+        "slug": "shelton-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "government-education",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "thurston-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Parkland",
+    "slug": "parkland-wa",
+    "county": "Pierce County",
+    "population": 38100,
+    "zip_codes": [
+      "98444",
+      "98445"
+    ],
+    "landmarks": [
+      "Pacific Lutheran University",
+      "Spanaway Park",
+      "Bresemann Forest",
+      "Parkland Community Center",
+      "Keithley Middle School Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tacoma",
+        "slug": "tacoma-wa"
+      },
+      {
+        "name": "Lakewood",
+        "slug": "lakewood-wa"
+      },
+      {
+        "name": "Spanaway",
+        "slug": "spanaway-wa"
+      },
+      {
+        "name": "South Hill",
+        "slug": "south-hill-wa"
+      },
+      {
+        "name": "Puyallup",
+        "slug": "puyallup-wa"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "education-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "pierce-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Pasco",
+    "slug": "pasco-wa",
+    "county": "Franklin County",
+    "population": 80700,
+    "zip_codes": [
+      "99301"
+    ],
+    "landmarks": [
+      "Sacajawea State Park",
+      "Chiawana Park",
+      "HAPO Center",
+      "Columbia River",
+      "Broadmoor Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kennewick",
+        "slug": "kennewick-wa"
+      },
+      {
+        "name": "Richland",
+        "slug": "richland-wa"
+      },
+      {
+        "name": "West Richland",
+        "slug": "west-richland-wa"
+      },
+      {
+        "name": "Burbank",
+        "slug": "burbank-wa"
+      },
+      {
+        "name": "Finley",
+        "slug": "finley-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "columbia-basin",
+    "economy_type": "agriculture-logistics",
+    "housing_profile": "major-urban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "tri-cities",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Port Angeles",
+    "slug": "port-angeles-wa",
+    "county": "Clallam County",
+    "population": 20100,
+    "zip_codes": [
+      "98362",
+      "98363"
+    ],
+    "landmarks": [
+      "Olympic National Park Visitor Center",
+      "Port Angeles Harbor",
+      "Hurricane Ridge",
+      "Ediz Hook",
+      "Feiro Marine Life Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sequim",
+        "slug": "sequim-wa"
+      },
+      {
+        "name": "Port Townsend",
+        "slug": "port-townsend-wa"
+      },
+      {
+        "name": "Forks",
+        "slug": "forks-wa"
+      },
+      {
+        "name": "Blyn",
+        "slug": "blyn-wa"
+      },
+      {
+        "name": "Joyce",
+        "slug": "joyce-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "olympic-peninsula",
+    "economy_type": "tourism-maritime",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-olympic-peninsula",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Port Orchard",
+    "slug": "port-orchard-wa",
+    "county": "Kitsap County",
+    "population": 17400,
+    "zip_codes": [
+      "98366",
+      "98367"
+    ],
+    "landmarks": [
+      "Waterfront Park",
+      "Sidney Museum",
+      "South Kitsap Regional Park",
+      "Port Orchard Marina",
+      "Sinclair Inlet"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bremerton",
+        "slug": "bremerton-wa"
+      },
+      {
+        "name": "Silverdale",
+        "slug": "silverdale-wa"
+      },
+      {
+        "name": "Poulsbo",
+        "slug": "poulsbo-wa"
+      },
+      {
+        "name": "Gig Harbor",
+        "slug": "gig-harbor-wa"
+      },
+      {
+        "name": "Manchester",
+        "slug": "manchester-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-sound",
+    "economy_type": "maritime-services",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "kitsap-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Pullman",
+    "slug": "pullman-wa",
+    "county": "Whitman County",
+    "population": 33700,
+    "zip_codes": [
+      "99163",
+      "99164"
+    ],
+    "landmarks": [
+      "Washington State University",
+      "Martin Stadium",
+      "Kamiak Butte",
+      "Bill Chipman Palouse Trail",
+      "Downtown Pullman"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Moscow",
+        "slug": "moscow-id"
+      },
+      {
+        "name": "Colfax",
+        "slug": "colfax-wa"
+      },
+      {
+        "name": "Clarkston",
+        "slug": "clarkston-wa"
+      },
+      {
+        "name": "Lewiston",
+        "slug": "lewiston-id"
+      },
+      {
+        "name": "Palouse",
+        "slug": "palouse-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "palouse",
+    "economy_type": "education-research",
+    "housing_profile": "college-town",
+    "growth_pattern": "steady-growth",
+    "service_environment": "palouse-region",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Puyallup",
+    "slug": "puyallup-wa",
+    "county": "Pierce County",
+    "population": 43500,
+    "zip_codes": [
+      "98371",
+      "98372",
+      "98373",
+      "98374",
+      "98375"
+    ],
+    "landmarks": [
+      "Washington State Fair",
+      "Pioneer Park",
+      "Meeker Mansion",
+      "Bradley Lake Park",
+      "Puyallup Farmers Market"
+    ],
+    "nearby_cities": [
+      {
+        "name": "South Hill",
+        "slug": "south-hill-wa"
+      },
+      {
+        "name": "Sumner",
+        "slug": "sumner-wa"
+      },
+      {
+        "name": "Bonney Lake",
+        "slug": "bonney-lake-wa"
+      },
+      {
+        "name": "Tacoma",
+        "slug": "tacoma-wa"
+      },
+      {
+        "name": "Fife",
+        "slug": "fife-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "pierce-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Redmond",
+    "slug": "redmond-wa",
+    "county": "King County",
+    "population": 79200,
+    "zip_codes": [
+      "98052",
+      "98053"
+    ],
+    "landmarks": [
+      "Microsoft Campus",
+      "Marymoor Park",
+      "Redmond Town Center",
+      "Sammamish River Trail",
+      "Farrel-McWhirter Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-wa"
+      },
+      {
+        "name": "Kirkland",
+        "slug": "kirkland-wa"
+      },
+      {
+        "name": "Sammamish",
+        "slug": "sammamish-wa"
+      },
+      {
+        "name": "Bothell",
+        "slug": "bothell-wa"
+      },
+      {
+        "name": "Issaquah",
+        "slug": "issaquah-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "technology-software",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastside-seattle",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Renton",
+    "slug": "renton-wa",
+    "county": "King County",
+    "population": 108900,
+    "zip_codes": [
+      "98055",
+      "98056",
+      "98057",
+      "98058",
+      "98059"
+    ],
+    "landmarks": [
+      "Gene Coulon Memorial Beach Park",
+      "The Landing",
+      "Boeing Renton Factory",
+      "Lake Washington",
+      "Cedar River Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kent",
+        "slug": "kent-wa"
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-wa"
+      },
+      {
+        "name": "Newcastle",
+        "slug": "newcastle-wa"
+      },
+      {
+        "name": "Tukwila",
+        "slug": "tukwila-wa"
+      },
+      {
+        "name": "Seattle",
+        "slug": "seattle-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "aerospace-manufacturing",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-king-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Richland",
+    "slug": "richland-wa",
+    "county": "Benton County",
+    "population": 64900,
+    "zip_codes": [
+      "99352",
+      "99354"
+    ],
+    "landmarks": [
+      "Howard Amon Park",
+      "Hanford Reach National Monument",
+      "Badger Mountain",
+      "Columbia Point Marina",
+      "Reach Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kennewick",
+        "slug": "kennewick-wa"
+      },
+      {
+        "name": "Pasco",
+        "slug": "pasco-wa"
+      },
+      {
+        "name": "West Richland",
+        "slug": "west-richland-wa"
+      },
+      {
+        "name": "Finley",
+        "slug": "finley-wa"
+      },
+      {
+        "name": "Burbank",
+        "slug": "burbank-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "columbia-basin",
+    "economy_type": "energy-research",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "tri-cities",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Salmon Creek",
+    "slug": "salmon-creek-wa",
+    "county": "Clark County",
+    "population": 22400,
+    "zip_codes": [
+      "98685"
+    ],
+    "landmarks": [
+      "Salmon Creek Greenway Trail",
+      "Washington State University Vancouver",
+      "Klineline Pond",
+      "Legacy Salmon Creek Medical Center",
+      "Felida Community Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Vancouver",
+        "slug": "vancouver-wa"
+      },
+      {
+        "name": "Hazel Dell",
+        "slug": "hazel-dell-wa"
+      },
+      {
+        "name": "Five Corners",
+        "slug": "five-corners-wa"
+      },
+      {
+        "name": "Battle Ground",
+        "slug": "battle-ground-wa"
+      },
+      {
+        "name": "Ridgefield",
+        "slug": "ridgefield-wa"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "marine-west-coast",
+    "terrain": "columbia-lowlands",
+    "economy_type": "healthcare-education",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "clark-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Sammamish",
+    "slug": "sammamish-wa",
+    "county": "King County",
+    "population": 67800,
+    "zip_codes": [
+      "98074",
+      "98075"
+    ],
+    "landmarks": [
+      "Beaver Lake Park",
+      "Pine Lake Park",
+      "Soaring Eagle Regional Park",
+      "Sammamish Commons",
+      "Evans Creek Preserve"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Redmond",
+        "slug": "redmond-wa"
+      },
+      {
+        "name": "Issaquah",
+        "slug": "issaquah-wa"
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-wa"
+      },
+      {
+        "name": "Fall City",
+        "slug": "fall-city-wa"
+      },
+      {
+        "name": "Carnation",
+        "slug": "carnation-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "cascade-foothills",
+    "economy_type": "technology-services",
+    "housing_profile": "upscale-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastside-seattle",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "SeaTac",
+    "slug": "seatac-wa",
+    "county": "King County",
+    "population": 32100,
+    "zip_codes": [
+      "98148",
+      "98158",
+      "98168",
+      "98188"
+    ],
+    "landmarks": [
+      "Seattle-Tacoma International Airport",
+      "Angle Lake Park",
+      "North SeaTac Park",
+      "Highline SeaTac Botanical Garden",
+      "Valley Ridge Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Burien",
+        "slug": "burien-wa"
+      },
+      {
+        "name": "Des Moines",
+        "slug": "des-moines-wa"
+      },
+      {
+        "name": "Tukwila",
+        "slug": "tukwila-wa"
+      },
+      {
+        "name": "Kent",
+        "slug": "kent-wa"
+      },
+      {
+        "name": "Seattle",
+        "slug": "seattle-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "aviation-logistics",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-king-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Seattle",
+    "slug": "seattle-wa",
+    "county": "King County",
+    "population": 780000,
+    "zip_codes": [
+      "98101",
+      "98102",
+      "98103",
+      "98105",
+      "98107",
+      "98109",
+      "98115",
+      "98116",
+      "98117",
+      "98118",
+      "98119",
+      "98121",
+      "98122",
+      "98125",
+      "98126",
+      "98133",
+      "98144",
+      "98155",
+      "98177",
+      "98199"
+    ],
+    "landmarks": [
+      "Space Needle",
+      "Pike Place Market",
+      "Seattle Waterfront",
+      "Museum of Pop Culture",
+      "Discovery Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-wa"
+      },
+      {
+        "name": "Renton",
+        "slug": "renton-wa"
+      },
+      {
+        "name": "Shoreline",
+        "slug": "shoreline-wa"
+      },
+      {
+        "name": "Burien",
+        "slug": "burien-wa"
+      },
+      {
+        "name": "Mercer Island",
+        "slug": "mercer-island-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-sound",
+    "economy_type": "technology-commerce",
+    "housing_profile": "major-metropolitan",
+    "growth_pattern": "steady-growth",
+    "service_environment": "seattle-metro",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Shoreline",
+    "slug": "shoreline-wa",
+    "county": "King County",
+    "population": 59200,
+    "zip_codes": [
+      "98133",
+      "98155",
+      "98177"
+    ],
+    "landmarks": [
+      "Richmond Beach Saltwater Park",
+      "Hamlin Park",
+      "Shoreview Park",
+      "Cromwell Park",
+      "Shoreline Community College"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Seattle",
+        "slug": "seattle-wa"
+      },
+      {
+        "name": "Lake Forest Park",
+        "slug": "lake-forest-park-wa"
+      },
+      {
+        "name": "Mountlake Terrace",
+        "slug": "mountlake-terrace-wa"
+      },
+      {
+        "name": "Kenmore",
+        "slug": "kenmore-wa"
+      },
+      {
+        "name": "Edmonds",
+        "slug": "edmonds-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "education-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-king-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Silverdale",
+    "slug": "silverdale-wa",
+    "county": "Kitsap County",
+    "population": 20900,
+    "zip_codes": [
+      "98383"
+    ],
+    "landmarks": [
+      "Kitsap Mall",
+      "Old Mill Park",
+      "Silverdale Waterfront",
+      "Clear Creek Trail",
+      "Island Lake Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bremerton",
+        "slug": "bremerton-wa"
+      },
+      {
+        "name": "Poulsbo",
+        "slug": "poulsbo-wa"
+      },
+      {
+        "name": "Port Orchard",
+        "slug": "port-orchard-wa"
+      },
+      {
+        "name": "Bainbridge Island",
+        "slug": "bainbridge-island-wa"
+      },
+      {
+        "name": "Kingston",
+        "slug": "kingston-wa"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-sound",
+    "economy_type": "retail-healthcare",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "kitsap-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "South Hill",
+    "slug": "south-hill-wa",
+    "county": "Pierce County",
+    "population": 55900,
+    "zip_codes": [
+      "98373",
+      "98374",
+      "98375"
+    ],
+    "landmarks": [
+      "South Hill Mall",
+      "Nathan Chapman Memorial Trail",
+      "Sunrise Village",
+      "Pierce County Library South Hill",
+      "Wildwood Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Puyallup",
+        "slug": "puyallup-wa"
+      },
+      {
+        "name": "Graham",
+        "slug": "graham-wa"
+      },
+      {
+        "name": "Spanaway",
+        "slug": "spanaway-wa"
+      },
+      {
+        "name": "Bonney Lake",
+        "slug": "bonney-lake-wa"
+      },
+      {
+        "name": "Parkland",
+        "slug": "parkland-wa"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "retail-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "pierce-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Spanaway",
+    "slug": "spanaway-wa",
+    "county": "Pierce County",
+    "population": 36600,
+    "zip_codes": [
+      "98387"
+    ],
+    "landmarks": [
+      "Spanaway Lake Park",
+      "Sprinker Recreation Center",
+      "Bresemann Forest",
+      "Spanaway Golf Course",
+      "Spanaway Lake"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Parkland",
+        "slug": "parkland-wa"
+      },
+      {
+        "name": "South Hill",
+        "slug": "south-hill-wa"
+      },
+      {
+        "name": "Tacoma",
+        "slug": "tacoma-wa"
+      },
+      {
+        "name": "Graham",
+        "slug": "graham-wa"
+      },
+      {
+        "name": "Lakewood",
+        "slug": "lakewood-wa"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "pierce-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Spokane",
+    "slug": "spokane-wa",
+    "county": "Spokane County",
+    "population": 231000,
+    "zip_codes": [
+      "99201",
+      "99202",
+      "99203",
+      "99205",
+      "99206",
+      "99207",
+      "99208",
+      "99212",
+      "99217",
+      "99218",
+      "99223",
+      "99224"
+    ],
+    "landmarks": [
+      "Riverfront Park",
+      "Spokane Falls",
+      "Manito Park",
+      "Spokane Arena",
+      "Northwest Museum of Arts and Culture"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Spokane Valley",
+        "slug": "spokane-valley-wa"
+      },
+      {
+        "name": "Airway Heights",
+        "slug": "airway-heights-wa"
+      },
+      {
+        "name": "Liberty Lake",
+        "slug": "liberty-lake-wa"
+      },
+      {
+        "name": "Cheney",
+        "slug": "cheney-wa"
+      },
+      {
+        "name": "Mead",
+        "slug": "mead-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "columbia-plateau",
+    "economy_type": "healthcare-education",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "inland-northwest",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Spokane Valley",
+    "slug": "spokane-valley-wa",
+    "county": "Spokane County",
+    "population": 105000,
+    "zip_codes": [
+      "99016",
+      "99206",
+      "99212",
+      "99216"
+    ],
+    "landmarks": [
+      "Mirabeau Point Park",
+      "Spokane Valley Mall",
+      "Centennial Trail",
+      "Discovery Playground",
+      "CenterPlace Regional Event Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Spokane",
+        "slug": "spokane-wa"
+      },
+      {
+        "name": "Liberty Lake",
+        "slug": "liberty-lake-wa"
+      },
+      {
+        "name": "Veradale",
+        "slug": "veradale-wa"
+      },
+      {
+        "name": "Millwood",
+        "slug": "millwood-wa"
+      },
+      {
+        "name": "Otis Orchards-East Farms",
+        "slug": "otis-orchards-east-farms-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "columbia-plateau",
+    "economy_type": "retail-healthcare",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "inland-northwest",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Stanwood",
+    "slug": "stanwood-wa",
+    "county": "Snohomish County",
+    "population": 8600,
+    "zip_codes": [
+      "98292"
+    ],
+    "landmarks": [
+      "Church Creek Park",
+      "Warm Beach",
+      "Kayak Point Park",
+      "Downtown Stanwood",
+      "Stillaguamish River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Marysville",
+        "slug": "marysville-wa"
+      },
+      {
+        "name": "Arlington",
+        "slug": "arlington-wa"
+      },
+      {
+        "name": "Mount Vernon",
+        "slug": "mount-vernon-wa"
+      },
+      {
+        "name": "Camano Island",
+        "slug": "camano-island-wa"
+      },
+      {
+        "name": "Oak Harbor",
+        "slug": "oak-harbor-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "agriculture-tourism",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-snohomish",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Tacoma",
+    "slug": "tacoma-wa",
+    "county": "Pierce County",
+    "population": 225000,
+    "zip_codes": [
+      "98402",
+      "98403",
+      "98404",
+      "98405",
+      "98406",
+      "98407",
+      "98408",
+      "98409",
+      "98418"
+    ],
+    "landmarks": [
+      "Museum of Glass",
+      "Point Defiance Park",
+      "Tacoma Dome",
+      "LeMay - America's Car Museum",
+      "Ruston Way Waterfront"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lakewood",
+        "slug": "lakewood-wa"
+      },
+      {
+        "name": "Fife",
+        "slug": "fife-wa"
+      },
+      {
+        "name": "University Place",
+        "slug": "university-place-wa"
+      },
+      {
+        "name": "Federal Way",
+        "slug": "federal-way-wa"
+      },
+      {
+        "name": "Puyallup",
+        "slug": "puyallup-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-sound",
+    "economy_type": "port-healthcare",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "pierce-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Tumwater",
+    "slug": "tumwater-wa",
+    "county": "Thurston County",
+    "population": 28700,
+    "zip_codes": [
+      "98501",
+      "98512"
+    ],
+    "landmarks": [
+      "Tumwater Falls Park",
+      "Olympia Brewery Park",
+      "Pioneer Park",
+      "Capitol State Forest",
+      "Tumwater Historical Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Olympia",
+        "slug": "olympia-wa"
+      },
+      {
+        "name": "Lacey",
+        "slug": "lacey-wa"
+      },
+      {
+        "name": "Centralia",
+        "slug": "centralia-wa"
+      },
+      {
+        "name": "Shelton",
+        "slug": "shelton-wa"
+      },
+      {
+        "name": "Yelm",
+        "slug": "yelm-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "government-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "thurston-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Tukwila",
+    "slug": "tukwila-wa",
+    "county": "King County",
+    "population": 22900,
+    "zip_codes": [
+      "98168",
+      "98188"
+    ],
+    "landmarks": [
+      "Westfield Southcenter",
+      "Starfire Sports",
+      "Museum of Flight",
+      "Fort Dent Park",
+      "Green River Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Seattle",
+        "slug": "seattle-wa"
+      },
+      {
+        "name": "Renton",
+        "slug": "renton-wa"
+      },
+      {
+        "name": "SeaTac",
+        "slug": "seatac-wa"
+      },
+      {
+        "name": "Kent",
+        "slug": "kent-wa"
+      },
+      {
+        "name": "Burien",
+        "slug": "burien-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "retail-logistics",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-king-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "University Place",
+    "slug": "university-place-wa",
+    "county": "Pierce County",
+    "population": 34900,
+    "zip_codes": [
+      "98466",
+      "98467"
+    ],
+    "landmarks": [
+      "Chambers Bay Golf Course",
+      "Curran Apple Orchard Park",
+      "Cirque Park",
+      "Charles Wright Academy",
+      "Titlow Beach"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tacoma",
+        "slug": "tacoma-wa"
+      },
+      {
+        "name": "Lakewood",
+        "slug": "lakewood-wa"
+      },
+      {
+        "name": "Fircrest",
+        "slug": "fircrest-wa"
+      },
+      {
+        "name": "Gig Harbor",
+        "slug": "gig-harbor-wa"
+      },
+      {
+        "name": "Steilacoom",
+        "slug": "steilacoom-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-sound",
+    "economy_type": "education-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "pierce-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Vancouver",
+    "slug": "vancouver-wa",
+    "county": "Clark County",
+    "population": 199600,
+    "zip_codes": [
+      "98660",
+      "98661",
+      "98662",
+      "98663",
+      "98664",
+      "98665",
+      "98682",
+      "98683",
+      "98684"
+    ],
+    "landmarks": [
+      "Fort Vancouver National Historic Site",
+      "Waterfront Vancouver",
+      "Esther Short Park",
+      "Pearson Air Museum",
+      "Columbia River Waterfront"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Camas",
+        "slug": "camas-wa"
+      },
+      {
+        "name": "Battle Ground",
+        "slug": "battle-ground-wa"
+      },
+      {
+        "name": "Salmon Creek",
+        "slug": "salmon-creek-wa"
+      },
+      {
+        "name": "Hazel Dell",
+        "slug": "hazel-dell-wa"
+      },
+      {
+        "name": "Portland",
+        "slug": "portland-or"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "columbia-lowlands",
+    "economy_type": "healthcare-technology",
+    "housing_profile": "major-urban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "clark-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Walla Walla",
+    "slug": "walla-walla-wa",
+    "county": "Walla Walla County",
+    "population": 34700,
+    "zip_codes": [
+      "99362"
+    ],
+    "landmarks": [
+      "Whitman College",
+      "Pioneer Park",
+      "Downtown Walla Walla",
+      "Fort Walla Walla Museum",
+      "Walla Walla Wine District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "College Place",
+        "slug": "college-place-wa"
+      },
+      {
+        "name": "Milton-Freewater",
+        "slug": "milton-freewater-or"
+      },
+      {
+        "name": "Waitsburg",
+        "slug": "waitsburg-wa"
+      },
+      {
+        "name": "Dayton",
+        "slug": "dayton-wa"
+      },
+      {
+        "name": "Touchet",
+        "slug": "touchet-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "columbia-basin",
+    "economy_type": "wine-agriculture",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "walla-walla-valley",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Wenatchee",
+    "slug": "wenatchee-wa",
+    "county": "Chelan County",
+    "population": 36300,
+    "zip_codes": [
+      "98801"
+    ],
+    "landmarks": [
+      "Pybus Public Market",
+      "Apple Capital Recreation Loop Trail",
+      "Riverfront Park",
+      "Walla Walla Point Park",
+      "Ohme Gardens"
+    ],
+    "nearby_cities": [
+      {
+        "name": "East Wenatchee",
+        "slug": "east-wenatchee-wa"
+      },
+      {
+        "name": "Cashmere",
+        "slug": "cashmere-wa"
+      },
+      {
+        "name": "Leavenworth",
+        "slug": "leavenworth-wa"
+      },
+      {
+        "name": "Chelan",
+        "slug": "chelan-wa"
+      },
+      {
+        "name": "Rock Island",
+        "slug": "rock-island-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "columbia-basin",
+    "economy_type": "agriculture-tourism",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-central-washington",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "West Richland",
+    "slug": "west-richland-wa",
+    "county": "Benton County",
+    "population": 17000,
+    "zip_codes": [
+      "99353"
+    ],
+    "landmarks": [
+      "Flat Top Park",
+      "Bombing Range Sports Complex",
+      "Yakima River Delta",
+      "Enterprise Middle School Park",
+      "Badger Mountain Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Richland",
+        "slug": "richland-wa"
+      },
+      {
+        "name": "Kennewick",
+        "slug": "kennewick-wa"
+      },
+      {
+        "name": "Pasco",
+        "slug": "pasco-wa"
+      },
+      {
+        "name": "Benton City",
+        "slug": "benton-city-wa"
+      },
+      {
+        "name": "Prosser",
+        "slug": "prosser-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "columbia-basin",
+    "economy_type": "energy-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "tri-cities",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Yakima",
+    "slug": "yakima-wa",
+    "county": "Yakima County",
+    "population": 97800,
+    "zip_codes": [
+      "98901",
+      "98902",
+      "98903",
+      "98908"
+    ],
+    "landmarks": [
+      "Yakima Valley Museum",
+      "Franklin Park",
+      "Yakima Greenway",
+      "Capitol Theatre",
+      "State Fair Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Union Gap",
+        "slug": "union-gap-wa"
+      },
+      {
+        "name": "Selah",
+        "slug": "selah-wa"
+      },
+      {
+        "name": "Terrace Heights",
+        "slug": "terrace-heights-wa"
+      },
+      {
+        "name": "Ellensburg",
+        "slug": "ellensburg-wa"
+      },
+      {
+        "name": "Toppenish",
+        "slug": "toppenish-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "yakima-valley",
+    "economy_type": "agriculture-healthcare",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "yakima-valley",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  },
+  {
+    "city": "Yelm",
+    "slug": "yelm-wa",
+    "county": "Thurston County",
+    "population": 10800,
+    "zip_codes": [
+      "98597"
+    ],
+    "landmarks": [
+      "Yelm City Park",
+      "Yelm Prairie Preserve",
+      "Longmire Community Park",
+      "Yelm Cinemas",
+      "Nisqually River Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lacey",
+        "slug": "lacey-wa"
+      },
+      {
+        "name": "Olympia",
+        "slug": "olympia-wa"
+      },
+      {
+        "name": "Tumwater",
+        "slug": "tumwater-wa"
+      },
+      {
+        "name": "Roy",
+        "slug": "roy-wa"
+      },
+      {
+        "name": "Rainier",
+        "slug": "rainier-wa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "marine-west-coast",
+    "terrain": "puget-lowlands",
+    "economy_type": "services-retail",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "thurston-county",
+    "property_mix": "mixed-use",
+    "state": "WA"
+  }
+]

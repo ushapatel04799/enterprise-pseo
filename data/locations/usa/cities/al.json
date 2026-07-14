@@ -1,0 +1,1169 @@
+[
+  {
+    "city": "Birmingham",
+    "slug": "birmingham-al",
+    "county": "Jefferson County",
+    "population": 196910,
+    "zip_codes": [
+      "35203",
+      "35205",
+      "35209",
+      "35211",
+      "35213"
+    ],
+    "landmarks": [
+      "Railroad Park",
+      "Vulcan Park and Museum",
+      "Birmingham Zoo",
+      "Regions Field",
+      "Birmingham Civil Rights Institute"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hoover",
+        "slug": "hoover-al"
+      },
+      {
+        "name": "Homewood",
+        "slug": "homewood-al"
+      },
+      {
+        "name": "Vestavia Hills",
+        "slug": "vestavia-hills-al"
+      },
+      {
+        "name": "Mountain Brook",
+        "slug": "mountain-brook-al"
+      },
+      {
+        "name": "Gardendale",
+        "slug": "gardendale-al"
+      }
+    ],
+    "city_type": "major-metro",
+    "climate_zone": "humid-subtropical",
+    "terrain": "urban-hills",
+    "economy_type": "healthcare-finance",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "established-metro",
+    "state": "AL"
+  },
+  {
+    "city": "Huntsville",
+    "slug": "huntsville-al",
+    "county": "Madison County",
+    "population": 235688,
+    "zip_codes": [
+      "35801",
+      "35802",
+      "35803",
+      "35805",
+      "35806"
+    ],
+    "landmarks": [
+      "U.S. Space & Rocket Center",
+      "Redstone Arsenal",
+      "Big Spring Park",
+      "Von Braun Center",
+      "Huntsville Botanical Garden"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Madison",
+        "slug": "madison-al"
+      },
+      {
+        "name": "Athens",
+        "slug": "athens-al"
+      },
+      {
+        "name": "Decatur",
+        "slug": "decatur-al"
+      },
+      {
+        "name": "Harvest",
+        "slug": "harvest-al"
+      },
+      {
+        "name": "Meridianville",
+        "slug": "meridianville-al"
+      }
+    ],
+    "city_type": "technology-hub",
+    "climate_zone": "humid-subtropical",
+    "terrain": "valley-hills",
+    "economy_type": "aerospace-defense",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "high-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Montgomery",
+    "slug": "montgomery-al",
+    "county": "Montgomery County",
+    "population": 195287,
+    "zip_codes": [
+      "36104",
+      "36106",
+      "36109",
+      "36111",
+      "36117"
+    ],
+    "landmarks": [
+      "Alabama State Capitol",
+      "Riverfront Park",
+      "The Legacy Museum",
+      "Montgomery Zoo",
+      "Rosa Parks Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Prattville",
+        "slug": "prattville-al"
+      },
+      {
+        "name": "Millbrook",
+        "slug": "millbrook-al"
+      },
+      {
+        "name": "Wetumpka",
+        "slug": "wetumpka-al"
+      },
+      {
+        "name": "Pike Road",
+        "slug": "pike-road-al"
+      },
+      {
+        "name": "Hope Hull",
+        "slug": "hope-hull-al"
+      }
+    ],
+    "city_type": "capital-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-plains",
+    "economy_type": "government-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Mobile",
+    "slug": "mobile-al",
+    "county": "Mobile County",
+    "population": 182595,
+    "zip_codes": [
+      "36602",
+      "36604",
+      "36608",
+      "36609",
+      "36695"
+    ],
+    "landmarks": [
+      "USS Alabama Battleship Memorial Park",
+      "Mobile River",
+      "GulfQuest",
+      "Mobile Carnival Museum",
+      "Bienville Square"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Prichard",
+        "slug": "prichard-al"
+      },
+      {
+        "name": "Saraland",
+        "slug": "saraland-al"
+      },
+      {
+        "name": "Daphne",
+        "slug": "daphne-al"
+      },
+      {
+        "name": "Spanish Fort",
+        "slug": "spanish-fort-al"
+      },
+      {
+        "name": "Tillmans Corner",
+        "slug": "tillmans-corner-al"
+      }
+    ],
+    "city_type": "coastal-port-city",
+    "climate_zone": "gulf-coastal",
+    "terrain": "coastal-plains",
+    "economy_type": "shipping-manufacturing",
+    "housing_profile": "urban-suburban-mix",
+    "growth_pattern": "mature-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Tuscaloosa",
+    "slug": "tuscaloosa-al",
+    "county": "Tuscaloosa County",
+    "population": 111338,
+    "zip_codes": [
+      "35401",
+      "35404",
+      "35405",
+      "35406",
+      "35487"
+    ],
+    "landmarks": [
+      "University of Alabama",
+      "Bryant-Denny Stadium",
+      "Tuscaloosa Riverwalk",
+      "Moundville Archaeological Park",
+      "Capitol Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Northport",
+        "slug": "northport-al"
+      },
+      {
+        "name": "Cottondale",
+        "slug": "cottondale-al"
+      },
+      {
+        "name": "Brookwood",
+        "slug": "brookwood-al"
+      },
+      {
+        "name": "Coker",
+        "slug": "coker-al"
+      },
+      {
+        "name": "Vance",
+        "slug": "vance-al"
+      }
+    ],
+    "city_type": "university-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-valley",
+    "economy_type": "education-manufacturing",
+    "housing_profile": "student-residential",
+    "growth_pattern": "steady-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Hoover",
+    "slug": "hoover-al",
+    "county": "Jefferson County",
+    "population": 92800,
+    "zip_codes": [
+      "35216",
+      "35226",
+      "35244"
+    ],
+    "landmarks": [
+      "Riverchase Galleria",
+      "Moss Rock Preserve",
+      "Hoover Metropolitan Complex",
+      "Aldridge Gardens",
+      "Veterans Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Birmingham",
+        "slug": "birmingham-al"
+      },
+      {
+        "name": "Vestavia Hills",
+        "slug": "vestavia-hills-al"
+      },
+      {
+        "name": "Homewood",
+        "slug": "homewood-al"
+      },
+      {
+        "name": "Pelham",
+        "slug": "pelham-al"
+      },
+      {
+        "name": "Helena",
+        "slug": "helena-al"
+      }
+    ],
+    "city_type": "major-suburb",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "retail-healthcare",
+    "housing_profile": "upper-middle-suburban",
+    "growth_pattern": "high-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Auburn",
+    "slug": "auburn-al",
+    "county": "Lee County",
+    "population": 87500,
+    "zip_codes": [
+      "36830",
+      "36832",
+      "36849"
+    ],
+    "landmarks": [
+      "Auburn University",
+      "Jordan-Hare Stadium",
+      "Toomer's Corner",
+      "Chewacla State Park",
+      "Jule Collins Smith Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Opelika",
+        "slug": "opelika-al"
+      },
+      {
+        "name": "Valley",
+        "slug": "valley-al"
+      },
+      {
+        "name": "Tuskegee",
+        "slug": "tuskegee-al"
+      },
+      {
+        "name": "Phenix City",
+        "slug": "phenix-city-al"
+      },
+      {
+        "name": "Loachapoka",
+        "slug": "loachapoka-al"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "wooded-foothills",
+    "economy_type": "education-research",
+    "housing_profile": "student-residential",
+    "growth_pattern": "high-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Dothan",
+    "slug": "dothan-al",
+    "county": "Houston County",
+    "population": 72000,
+    "zip_codes": [
+      "36301",
+      "36303",
+      "36305"
+    ],
+    "landmarks": [
+      "Landmark Park",
+      "Dothan Area Botanical Gardens",
+      "Westgate Park",
+      "National Peanut Festival Grounds",
+      "Wiregrass Commons Mall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Enterprise",
+        "slug": "enterprise-al"
+      },
+      {
+        "name": "Ozark",
+        "slug": "ozark-al"
+      },
+      {
+        "name": "Headland",
+        "slug": "headland-al"
+      },
+      {
+        "name": "Midland City",
+        "slug": "midland-city-al"
+      },
+      {
+        "name": "Taylor",
+        "slug": "taylor-al"
+      }
+    ],
+    "city_type": "regional-hub",
+    "climate_zone": "humid-subtropical",
+    "terrain": "agricultural-plains",
+    "economy_type": "agriculture-healthcare",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Decatur",
+    "slug": "decatur-al",
+    "county": "Morgan County",
+    "population": 60200,
+    "zip_codes": [
+      "35601",
+      "35603"
+    ],
+    "landmarks": [
+      "Wheeler National Wildlife Refuge",
+      "Cook Museum of Natural Science",
+      "Point Mallard Park",
+      "Delano Park",
+      "Historic Downtown Decatur"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Huntsville",
+        "slug": "huntsville-al"
+      },
+      {
+        "name": "Athens",
+        "slug": "athens-al"
+      },
+      {
+        "name": "Hartselle",
+        "slug": "hartselle-al"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-al"
+      },
+      {
+        "name": "Priceville",
+        "slug": "priceville-al"
+      }
+    ],
+    "city_type": "industrial-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-corridor",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "working-family-residential",
+    "growth_pattern": "stable-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Madison",
+    "slug": "madison-al",
+    "county": "Madison County",
+    "population": 61500,
+    "zip_codes": [
+      "35756",
+      "35757",
+      "35758"
+    ],
+    "landmarks": [
+      "Toyota Field",
+      "Dublin Park",
+      "Palmer Park",
+      "Insanity Complex",
+      "Madison City Farmers Market"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Huntsville",
+        "slug": "huntsville-al"
+      },
+      {
+        "name": "Athens",
+        "slug": "athens-al"
+      },
+      {
+        "name": "Harvest",
+        "slug": "harvest-al"
+      },
+      {
+        "name": "Meridianville",
+        "slug": "meridianville-al"
+      },
+      {
+        "name": "Decatur",
+        "slug": "decatur-al"
+      }
+    ],
+    "city_type": "technology-suburb",
+    "climate_zone": "humid-subtropical",
+    "terrain": "valley-plains",
+    "economy_type": "aerospace-technology",
+    "housing_profile": "professional-suburban",
+    "growth_pattern": "rapid-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Florence",
+    "slug": "florence-al",
+    "county": "Lauderdale County",
+    "population": 40400,
+    "zip_codes": [
+      "35630",
+      "35633"
+    ],
+    "landmarks": [
+      "University of North Alabama",
+      "McFarland Park",
+      "Wilson Park",
+      "Indian Mound Museum",
+      "Rosenbaum House"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Muscle Shoals",
+        "slug": "muscle-shoals-al"
+      },
+      {
+        "name": "Sheffield",
+        "slug": "sheffield-al"
+      },
+      {
+        "name": "Tuscumbia",
+        "slug": "tuscumbia-al"
+      },
+      {
+        "name": "Killen",
+        "slug": "killen-al"
+      },
+      {
+        "name": "Rogersville",
+        "slug": "rogersville-al"
+      }
+    ],
+    "city_type": "river-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-valley",
+    "economy_type": "education-tourism",
+    "housing_profile": "historic-residential",
+    "growth_pattern": "steady-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Prattville",
+    "slug": "prattville-al",
+    "county": "Autauga County",
+    "population": 38500,
+    "zip_codes": [
+      "36066",
+      "36067"
+    ],
+    "landmarks": [
+      "Autauga Creek Walk",
+      "Pratt Park",
+      "Capitol Hill Golf Course",
+      "Historic Downtown Prattville",
+      "Wilderness Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Montgomery",
+        "slug": "montgomery-al"
+      },
+      {
+        "name": "Millbrook",
+        "slug": "millbrook-al"
+      },
+      {
+        "name": "Wetumpka",
+        "slug": "wetumpka-al"
+      },
+      {
+        "name": "Pike Road",
+        "slug": "pike-road-al"
+      },
+      {
+        "name": "Hope Hull",
+        "slug": "hope-hull-al"
+      }
+    ],
+    "city_type": "commuter-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "creek-valleys",
+    "economy_type": "government-support",
+    "housing_profile": "suburban-family",
+    "growth_pattern": "high-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Phenix City",
+    "slug": "phenix-city-al",
+    "county": "Russell County",
+    "population": 39400,
+    "zip_codes": [
+      "36867",
+      "36869",
+      "36870"
+    ],
+    "landmarks": [
+      "Chattahoochee RiverWalk",
+      "Whitewater Express",
+      "Idle Hour Park",
+      "Moon Lake",
+      "Downtown Phenix City"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Columbus",
+        "slug": "columbus-ga"
+      },
+      {
+        "name": "Smiths Station",
+        "slug": "smiths-station-al"
+      },
+      {
+        "name": "Auburn",
+        "slug": "auburn-al"
+      },
+      {
+        "name": "Opelika",
+        "slug": "opelika-al"
+      },
+      {
+        "name": "Valley",
+        "slug": "valley-al"
+      }
+    ],
+    "city_type": "border-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "riverfront",
+    "economy_type": "military-commerce",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Alabaster",
+    "slug": "alabaster-al",
+    "county": "Shelby County",
+    "population": 34000,
+    "zip_codes": [
+      "35007"
+    ],
+    "landmarks": [
+      "Veterans Park",
+      "Buck Creek Trail",
+      "Colonial Promenade",
+      "Navajo Hills Park",
+      "Alabaster Municipal Complex"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pelham",
+        "slug": "pelham-al"
+      },
+      {
+        "name": "Helena",
+        "slug": "helena-al"
+      },
+      {
+        "name": "Hoover",
+        "slug": "hoover-al"
+      },
+      {
+        "name": "Calera",
+        "slug": "calera-al"
+      },
+      {
+        "name": "Montevallo",
+        "slug": "montevallo-al"
+      }
+    ],
+    "city_type": "growth-suburb",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "suburban-family",
+    "growth_pattern": "rapid-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Vestavia Hills",
+    "slug": "vestavia-hills-al",
+    "county": "Jefferson County",
+    "population": 39500,
+    "zip_codes": [
+      "35216",
+      "35226",
+      "35243"
+    ],
+    "landmarks": [
+      "Wald Park",
+      "Liberty Park",
+      "Sibyl Temple",
+      "Vestavia Country Club",
+      "Vestavia City Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Birmingham",
+        "slug": "birmingham-al"
+      },
+      {
+        "name": "Hoover",
+        "slug": "hoover-al"
+      },
+      {
+        "name": "Homewood",
+        "slug": "homewood-al"
+      },
+      {
+        "name": "Mountain Brook",
+        "slug": "mountain-brook-al"
+      },
+      {
+        "name": "Pelham",
+        "slug": "pelham-al"
+      }
+    ],
+    "city_type": "affluent-suburb",
+    "climate_zone": "humid-subtropical",
+    "terrain": "ridge-hills",
+    "economy_type": "professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "mature-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Homewood",
+    "slug": "homewood-al",
+    "county": "Jefferson County",
+    "population": 27200,
+    "zip_codes": [
+      "35209"
+    ],
+    "landmarks": [
+      "Soho Square",
+      "Patriot Park",
+      "Homewood Central Park",
+      "Samford University",
+      "Downtown Homewood"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Birmingham",
+        "slug": "birmingham-al"
+      },
+      {
+        "name": "Vestavia Hills",
+        "slug": "vestavia-hills-al"
+      },
+      {
+        "name": "Hoover",
+        "slug": "hoover-al"
+      },
+      {
+        "name": "Mountain Brook",
+        "slug": "mountain-brook-al"
+      },
+      {
+        "name": "Irondale",
+        "slug": "irondale-al"
+      }
+    ],
+    "city_type": "urban-suburb",
+    "climate_zone": "humid-subtropical",
+    "terrain": "urban-hills",
+    "economy_type": "education-retail",
+    "housing_profile": "walkable-residential",
+    "growth_pattern": "infill-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Opelika",
+    "slug": "opelika-al",
+    "county": "Lee County",
+    "population": 33600,
+    "zip_codes": [
+      "36801",
+      "36803",
+      "36804"
+    ],
+    "landmarks": [
+      "Historic Downtown Opelika",
+      "Grand National Golf Complex",
+      "Municipal Park",
+      "Opelika Sportsplex",
+      "Museum of East Alabama"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Auburn",
+        "slug": "auburn-al"
+      },
+      {
+        "name": "Phenix City",
+        "slug": "phenix-city-al"
+      },
+      {
+        "name": "Valley",
+        "slug": "valley-al"
+      },
+      {
+        "name": "Tuskegee",
+        "slug": "tuskegee-al"
+      },
+      {
+        "name": "Smiths Station",
+        "slug": "smiths-station-al"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-woodlands",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "family-residential",
+    "growth_pattern": "expanding-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Bessemer",
+    "slug": "bessemer-al",
+    "county": "Jefferson County",
+    "population": 25800,
+    "zip_codes": [
+      "35020",
+      "35022",
+      "35023"
+    ],
+    "landmarks": [
+      "Alabama Splash Adventure",
+      "DeBardeleben Park",
+      "Bessemer Civic Center",
+      "Historic Downtown Bessemer",
+      "Watercress Darter Preserve"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hoover",
+        "slug": "hoover-al"
+      },
+      {
+        "name": "McCalla",
+        "slug": "mccalla-al"
+      },
+      {
+        "name": "Helena",
+        "slug": "helena-al"
+      },
+      {
+        "name": "Hueytown",
+        "slug": "hueytown-al"
+      },
+      {
+        "name": "Birmingham",
+        "slug": "birmingham-al"
+      }
+    ],
+    "city_type": "industrial-hub",
+    "climate_zone": "humid-subtropical",
+    "terrain": "valley-industrial",
+    "economy_type": "manufacturing-warehousing",
+    "housing_profile": "working-family",
+    "growth_pattern": "redevelopment-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Fairhope",
+    "slug": "fairhope-al",
+    "county": "Baldwin County",
+    "population": 26200,
+    "zip_codes": [
+      "36532"
+    ],
+    "landmarks": [
+      "Fairhope Municipal Pier",
+      "Downtown Fairhope",
+      "Mobile Bay",
+      "Fairhope Museum of History",
+      "Fairhope Avenue"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Daphne",
+        "slug": "daphne-al"
+      },
+      {
+        "name": "Spanish Fort",
+        "slug": "spanish-fort-al"
+      },
+      {
+        "name": "Foley",
+        "slug": "foley-al"
+      },
+      {
+        "name": "Gulf Shores",
+        "slug": "gulf-shores-al"
+      },
+      {
+        "name": "Mobile",
+        "slug": "mobile-al"
+      }
+    ],
+    "city_type": "coastal-community",
+    "climate_zone": "gulf-coastal",
+    "terrain": "bayfront-bluffs",
+    "economy_type": "tourism-small-business",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "destination-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Enterprise",
+    "slug": "enterprise-al",
+    "county": "Coffee County",
+    "population": 28600,
+    "zip_codes": [
+      "36330"
+    ],
+    "landmarks": [
+      "Boll Weevil Monument",
+      "Johnny Henderson Family Park",
+      "Pea River",
+      "Enterprise State Community College",
+      "Downtown Enterprise"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Dothan",
+        "slug": "dothan-al"
+      },
+      {
+        "name": "Ozark",
+        "slug": "ozark-al"
+      },
+      {
+        "name": "Daleville",
+        "slug": "daleville-al"
+      },
+      {
+        "name": "Fort Novosel",
+        "slug": "fort-novosel-al"
+      },
+      {
+        "name": "Level Plains",
+        "slug": "level-plains-al"
+      }
+    ],
+    "city_type": "military-support-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "south-alabama-plains",
+    "economy_type": "defense-healthcare",
+    "housing_profile": "military-family",
+    "growth_pattern": "stable-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Helena",
+    "slug": "helena-al",
+    "county": "Shelby County",
+    "population": 22500,
+    "zip_codes": [
+      "35080"
+    ],
+    "landmarks": [
+      "Old Town Helena",
+      "Buck Creek",
+      "Joe Tucker Park",
+      "Helena Amphitheater",
+      "Cahaba Lily Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Alabaster",
+        "slug": "alabaster-al"
+      },
+      {
+        "name": "Pelham",
+        "slug": "pelham-al"
+      },
+      {
+        "name": "Hoover",
+        "slug": "hoover-al"
+      },
+      {
+        "name": "Bessemer",
+        "slug": "bessemer-al"
+      },
+      {
+        "name": "Calera",
+        "slug": "calera-al"
+      }
+    ],
+    "city_type": "small-growth-suburb",
+    "climate_zone": "humid-subtropical",
+    "terrain": "creek-valleys",
+    "economy_type": "commuter-services",
+    "housing_profile": "single-family-suburban",
+    "growth_pattern": "rapid-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Pelham",
+    "slug": "pelham-al",
+    "county": "Shelby County",
+    "population": 24900,
+    "zip_codes": [
+      "35124"
+    ],
+    "landmarks": [
+      "Oak Mountain State Park",
+      "Oak Mountain Amphitheatre",
+      "Pelham Civic Complex",
+      "Ballantrae Golf Club",
+      "Pelham City Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hoover",
+        "slug": "hoover-al"
+      },
+      {
+        "name": "Alabaster",
+        "slug": "alabaster-al"
+      },
+      {
+        "name": "Helena",
+        "slug": "helena-al"
+      },
+      {
+        "name": "Vestavia Hills",
+        "slug": "vestavia-hills-al"
+      },
+      {
+        "name": "Birmingham",
+        "slug": "birmingham-al"
+      }
+    ],
+    "city_type": "recreation-suburb",
+    "climate_zone": "humid-subtropical",
+    "terrain": "forest-hills",
+    "economy_type": "hospitality-retail",
+    "housing_profile": "suburban-family",
+    "growth_pattern": "expanding-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Daphne",
+    "slug": "daphne-al",
+    "county": "Baldwin County",
+    "population": 30400,
+    "zip_codes": [
+      "36526"
+    ],
+    "landmarks": [
+      "Bayfront Park",
+      "Village Point Park Preserve",
+      "Daphne History Museum",
+      "Daphne Sports Complex",
+      "Mobile Bay"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fairhope",
+        "slug": "fairhope-al"
+      },
+      {
+        "name": "Spanish Fort",
+        "slug": "spanish-fort-al"
+      },
+      {
+        "name": "Mobile",
+        "slug": "mobile-al"
+      },
+      {
+        "name": "Foley",
+        "slug": "foley-al"
+      },
+      {
+        "name": "Saraland",
+        "slug": "saraland-al"
+      }
+    ],
+    "city_type": "coastal-suburb",
+    "climate_zone": "gulf-coastal",
+    "terrain": "bayfront-plains",
+    "economy_type": "healthcare-tourism",
+    "housing_profile": "coastal-family",
+    "growth_pattern": "high-growth",
+    "state": "AL"
+  },
+  {
+    "city": "Gadsden",
+    "slug": "gadsden-al",
+    "county": "Etowah County",
+    "population": 33000,
+    "zip_codes": [
+      "35901",
+      "35903",
+      "35904"
+    ],
+    "landmarks": [
+      "Noccalula Falls Park",
+      "Coosa River",
+      "Downtown Gadsden",
+      "Riverwalk",
+      "Gadsden Museum of Art"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Attalla",
+        "slug": "attalla-al"
+      },
+      {
+        "name": "Rainbow City",
+        "slug": "rainbow-city-al"
+      },
+      {
+        "name": "Southside",
+        "slug": "southside-al"
+      },
+      {
+        "name": "Glencoe",
+        "slug": "glencoe-al"
+      },
+      {
+        "name": "Hokes Bluff",
+        "slug": "hokes-bluff-al"
+      }
+    ],
+    "city_type": "river-industrial-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-valley",
+    "economy_type": "healthcare-manufacturing",
+    "housing_profile": "historic-residential",
+    "growth_pattern": "regional-center",
+    "state": "AL"
+  },
+  {
+    "city": "Muscle Shoals",
+    "slug": "muscle-shoals-al",
+    "county": "Colbert County",
+    "population": 17400,
+    "zip_codes": [
+      "35661",
+      "35662"
+    ],
+    "landmarks": [
+      "FAME Studios",
+      "Muscle Shoals Sound Studio",
+      "Wilson Dam",
+      "River Heritage Park",
+      "Tennessee River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Florence",
+        "slug": "florence-al"
+      },
+      {
+        "name": "Sheffield",
+        "slug": "sheffield-al"
+      },
+      {
+        "name": "Tuscumbia",
+        "slug": "tuscumbia-al"
+      },
+      {
+        "name": "Killen",
+        "slug": "killen-al"
+      },
+      {
+        "name": "Russellville",
+        "slug": "russellville-al"
+      }
+    ],
+    "city_type": "music-heritage-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-highlands",
+    "economy_type": "tourism-manufacturing",
+    "housing_profile": "established-residential",
+    "growth_pattern": "stable-growth",
+    "state": "AL"
+  }
+]

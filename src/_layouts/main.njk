@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ title }}</title>
+    <meta name="description" content="{{ description }}" />
+    <link rel="canonical" href="{{ canonicalUrl }}" />
+
+    <!-- Modern Typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet" />
+
+    <!-- Inline Styles (Optimized for FCP and LCP) -->
+    <style>
+      :root {
+        --primary: {{ theme.primaryColor || '#0c4a6e' }};
+        --secondary: {{ theme.secondaryColor || '#f59e0b' }};
+        --text: #1f2937;
+        --bg-light: #f9fafb;
+        --font: 'Outfit', sans-serif;
+      }
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        font-family: var(--font);
+        color: var(--text);
+        background-color: var(--bg-light);
+        line-height: 1.6;
+        -webkit-font-smoothing: antialiased;
+      }
+      header {
+        background-color: #ffffff;
+        border-bottom: 1px solid #e5e7eb;
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        padding: 1rem 2rem;
+      }
+      .nav-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .brand {
+        font-weight: 800;
+        font-size: 1.5rem;
+        color: var(--primary);
+        text-decoration: none;
+      }
+      .phone-cta {
+        background-color: var(--secondary);
+        color: #ffffff;
+        padding: 0.5rem 1.25rem;
+        border-radius: 9999px;
+        text-decoration: none;
+        font-weight: 600;
+        transition: transform 0.2s ease;
+      }
+      .phone-cta:hover {
+        transform: scale(1.05);
+      }
+      main {
+        max-width: 1200px;
+        margin: 2rem auto;
+        padding: 0 1rem;
+      }
+      footer {
+        background-color: var(--primary);
+        color: #f3f4f6;
+        padding: 3rem 2rem;
+        margin-top: 4rem;
+        border-top: 4px solid var(--secondary);
+      }
+      .footer-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 2rem;
+      }
+      .footer-section h3 {
+        color: #ffffff;
+        margin-bottom: 1rem;
+        font-weight: 600;
+      }
+      .footer-links a {
+        color: #d1d5db;
+        text-decoration: none;
+        display: block;
+        margin-bottom: 0.5rem;
+      }
+      .footer-links a:hover {
+        color: #ffffff;
+      }
+      .copyright {
+        text-align: center;
+        margin-top: 3rem;
+        padding-top: 1.5rem;
+        border-top: 1px solid rgba(255,255,255,0.1);
+        color: #9ca3af;
+        font-size: 0.875rem;
+      }
+    </style>
+
+    <!-- Schema Structured Data Injection -->
+    {% if schemas %}
+    <script type="application/ld+json">
+      {{ schemas | safe }}
+    </script>
+    {% endif %}
+  </head>
+  <body>
+    <header>
+      <div class="nav-container">
+        <a href="/" class="brand">{{ business.name }}</a>
+        <a href="tel:{{ business.phone }}" class="phone-cta">Call {{ business.phone }}</a>
+      </div>
+    </header>
+
+    <main>
+      {{ content | safe }}
+    </main>
+
+    <footer>
+      <div class="footer-container">
+        <div class="footer-section">
+          <h3>{{ business.name }}</h3>
+          <p>{{ business.legalName }}</p>
+          <p>License: {{ business.licenseNumber }}</p>
+        </div>
+        <div class="footer-section">
+          <h3>Our Headquarters</h3>
+          <p>{{ business.address.streetAddress }}</p>
+          <p>{{ business.address.addressLocality }}, {{ business.address.addressRegion }} {{ business.address.postalCode }}</p>
+        </div>
+        <div class="footer-section footer-links">
+          <h3>Legal</h3>
+          <a href="{{ business.privacyPolicyUrl }}">Privacy Policy</a>
+          <a href="{{ business.termsUrl }}">Terms & Conditions</a>
+        </div>
+      </div>
+      <div class="copyright">
+        <p>&copy; {{ copyrightYear }} {{ business.name }}. All rights reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,1199 @@
+[
+  {
+    "city": "Little Rock",
+    "slug": "little-rock-ar",
+    "county": "Pulaski County",
+    "population": 203000,
+    "zip_codes": [
+      "72201",
+      "72204",
+      "72205",
+      "72211",
+      "72212"
+    ],
+    "landmarks": [
+      "Arkansas State Capitol",
+      "River Market District",
+      "Pinnacle Mountain State Park",
+      "William J. Clinton Presidential Library",
+      "Big Dam Bridge"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Little Rock",
+        "slug": "north-little-rock-ar"
+      },
+      {
+        "name": "Conway",
+        "slug": "conway-ar"
+      },
+      {
+        "name": "Bryant",
+        "slug": "bryant-ar"
+      },
+      {
+        "name": "Sherwood",
+        "slug": "sherwood-ar"
+      },
+      {
+        "name": "Maumelle",
+        "slug": "maumelle-ar"
+      }
+    ],
+    "city_type": "state-capital-metro",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-valley",
+    "economy_type": "government-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "urban-core",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "Fayetteville",
+    "slug": "fayetteville-ar",
+    "county": "Washington County",
+    "population": 101000,
+    "zip_codes": [
+      "72701",
+      "72703",
+      "72704"
+    ],
+    "landmarks": [
+      "University of Arkansas",
+      "Dickson Street",
+      "Botanical Garden of the Ozarks",
+      "Baum-Walker Stadium",
+      "Lake Fayetteville"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Springdale",
+        "slug": "springdale-ar"
+      },
+      {
+        "name": "Rogers",
+        "slug": "rogers-ar"
+      },
+      {
+        "name": "Bentonville",
+        "slug": "bentonville-ar"
+      },
+      {
+        "name": "Farmington",
+        "slug": "farmington-ar"
+      },
+      {
+        "name": "Johnson",
+        "slug": "johnson-ar"
+      }
+    ],
+    "city_type": "university-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "ozark-hills",
+    "economy_type": "education-technology",
+    "housing_profile": "student-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "innovation-corridor",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "Fort Smith",
+    "slug": "fort-smith-ar",
+    "county": "Sebastian County",
+    "population": 90000,
+    "zip_codes": [
+      "72901",
+      "72903",
+      "72908"
+    ],
+    "landmarks": [
+      "Fort Smith National Historic Site",
+      "Riverfront Park",
+      "Miss Laura's Visitor Center",
+      "Fort Smith Museum of History",
+      "Belle Grove Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Van Buren",
+        "slug": "van-buren-ar"
+      },
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-ar"
+      },
+      {
+        "name": "Alma",
+        "slug": "alma-ar"
+      },
+      {
+        "name": "Barling",
+        "slug": "barling-ar"
+      },
+      {
+        "name": "Roland",
+        "slug": "roland-ok"
+      }
+    ],
+    "city_type": "historic-river-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-plains",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "family-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "regional-hub",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "Springdale",
+    "slug": "springdale-ar",
+    "county": "Washington County",
+    "population": 89000,
+    "zip_codes": [
+      "72762",
+      "72764"
+    ],
+    "landmarks": [
+      "Arvest Ballpark",
+      "Tyson Foods Headquarters",
+      "Shiloh Museum",
+      "Downtown Springdale",
+      "Ozark Highlands Nature Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fayetteville",
+        "slug": "fayetteville-ar"
+      },
+      {
+        "name": "Rogers",
+        "slug": "rogers-ar"
+      },
+      {
+        "name": "Bentonville",
+        "slug": "bentonville-ar"
+      },
+      {
+        "name": "Lowell",
+        "slug": "lowell-ar"
+      },
+      {
+        "name": "Tontitown",
+        "slug": "tontitown-ar"
+      }
+    ],
+    "city_type": "corporate-growth-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "ozark-plateau",
+    "economy_type": "food-processing-logistics",
+    "housing_profile": "working-family-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "commercial-corridor",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "Jonesboro",
+    "slug": "jonesboro-ar",
+    "county": "Craighead County",
+    "population": 81000,
+    "zip_codes": [
+      "72401",
+      "72404"
+    ],
+    "landmarks": [
+      "Arkansas State University",
+      "Craighead Forest Park",
+      "Downtown Jonesboro",
+      "Forrest L. Wood Crowley's Ridge Nature Center",
+      "First National Bank Arena"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Paragould",
+        "slug": "paragould-ar"
+      },
+      {
+        "name": "Brookland",
+        "slug": "brookland-ar"
+      },
+      {
+        "name": "Bono",
+        "slug": "bono-ar"
+      },
+      {
+        "name": "Trumann",
+        "slug": "trumann-ar"
+      },
+      {
+        "name": "Bay",
+        "slug": "bay-ar"
+      }
+    ],
+    "city_type": "education-regional-center",
+    "climate_zone": "humid-subtropical",
+    "terrain": "delta-ridge",
+    "economy_type": "education-healthcare",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "regional-market",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "Rogers",
+    "slug": "rogers-ar",
+    "county": "Benton County",
+    "population": 74000,
+    "zip_codes": [
+      "72756",
+      "72758"
+    ],
+    "landmarks": [
+      "Pinnacle Hills Promenade",
+      "Walmart AMP",
+      "Beaver Lake",
+      "Downtown Rogers",
+      "Railyard Bike Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bentonville",
+        "slug": "bentonville-ar"
+      },
+      {
+        "name": "Springdale",
+        "slug": "springdale-ar"
+      },
+      {
+        "name": "Lowell",
+        "slug": "lowell-ar"
+      },
+      {
+        "name": "Bella Vista",
+        "slug": "bella-vista-ar"
+      },
+      {
+        "name": "Fayetteville",
+        "slug": "fayetteville-ar"
+      }
+    ],
+    "city_type": "commercial-growth-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "ozark-highlands",
+    "economy_type": "retail-corporate",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "regional-shopping-hub",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "Bentonville",
+    "slug": "bentonville-ar",
+    "county": "Benton County",
+    "population": 62000,
+    "zip_codes": [
+      "72712",
+      "72713",
+      "72716"
+    ],
+    "landmarks": [
+      "Walmart Headquarters",
+      "Crystal Bridges Museum",
+      "The Momentary",
+      "Downtown Bentonville Square",
+      "Coler Mountain Bike Preserve"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Rogers",
+        "slug": "rogers-ar"
+      },
+      {
+        "name": "Bella Vista",
+        "slug": "bella-vista-ar"
+      },
+      {
+        "name": "Springdale",
+        "slug": "springdale-ar"
+      },
+      {
+        "name": "Lowell",
+        "slug": "lowell-ar"
+      },
+      {
+        "name": "Centerton",
+        "slug": "centerton-ar"
+      }
+    ],
+    "city_type": "corporate-headquarters-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "ozark-highlands",
+    "economy_type": "corporate-technology",
+    "housing_profile": "professional-residential",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "innovation-hub",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "Conway",
+    "slug": "conway-ar",
+    "county": "Faulkner County",
+    "population": 69000,
+    "zip_codes": [
+      "72032",
+      "72034"
+    ],
+    "landmarks": [
+      "University of Central Arkansas",
+      "Downtown Conway",
+      "Cadron Settlement Park",
+      "Beaverfork Lake",
+      "Conway Expo Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Little Rock",
+        "slug": "little-rock-ar"
+      },
+      {
+        "name": "Maumelle",
+        "slug": "maumelle-ar"
+      },
+      {
+        "name": "Greenbrier",
+        "slug": "greenbrier-ar"
+      },
+      {
+        "name": "Vilonia",
+        "slug": "vilonia-ar"
+      },
+      {
+        "name": "Morrilton",
+        "slug": "morrilton-ar"
+      }
+    ],
+    "city_type": "college-growth-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-valley",
+    "economy_type": "education-healthcare",
+    "housing_profile": "student-family-mix",
+    "growth_pattern": "high-growth",
+    "service_environment": "regional-center",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "North Little Rock",
+    "slug": "north-little-rock-ar",
+    "county": "Pulaski County",
+    "population": 66000,
+    "zip_codes": [
+      "72114",
+      "72116",
+      "72117",
+      "72118"
+    ],
+    "landmarks": [
+      "Dickey-Stephens Park",
+      "Arkansas Inland Maritime Museum",
+      "Burns Park",
+      "Argenta Arts District",
+      "Simmons Bank Arena"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Little Rock",
+        "slug": "little-rock-ar"
+      },
+      {
+        "name": "Sherwood",
+        "slug": "sherwood-ar"
+      },
+      {
+        "name": "Jacksonville",
+        "slug": "jacksonville-ar"
+      },
+      {
+        "name": "Maumelle",
+        "slug": "maumelle-ar"
+      },
+      {
+        "name": "Bryant",
+        "slug": "bryant-ar"
+      }
+    ],
+    "city_type": "metro-support-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-plains",
+    "economy_type": "logistics-government",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "urban-extension",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "Benton",
+    "slug": "benton-ar",
+    "county": "Saline County",
+    "population": 39000,
+    "zip_codes": [
+      "72015",
+      "72019"
+    ],
+    "landmarks": [
+      "Tyndall Park",
+      "Saline River",
+      "Downtown Benton",
+      "Riverside Park",
+      "Royal Theater"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bryant",
+        "slug": "bryant-ar"
+      },
+      {
+        "name": "Little Rock",
+        "slug": "little-rock-ar"
+      },
+      {
+        "name": "Hot Springs",
+        "slug": "hot-springs-ar"
+      },
+      {
+        "name": "Shannon Hills",
+        "slug": "shannon-hills-ar"
+      },
+      {
+        "name": "Bauxite",
+        "slug": "bauxite-ar"
+      }
+    ],
+    "city_type": "commuter-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "retail-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "metro-corridor",
+    "property_mix": "single-family-dominant",
+    "state": "AR"
+  },
+  {
+    "city": "Sherwood",
+    "slug": "sherwood-ar",
+    "county": "Pulaski County",
+    "population": 33000,
+    "zip_codes": [
+      "72120"
+    ],
+    "landmarks": [
+      "Sherwood Forest",
+      "Bill Harmon Recreation Center",
+      "The Greens at North Hills",
+      "Sherwood Sports Complex",
+      "City Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Little Rock",
+        "slug": "north-little-rock-ar"
+      },
+      {
+        "name": "Jacksonville",
+        "slug": "jacksonville-ar"
+      },
+      {
+        "name": "Little Rock",
+        "slug": "little-rock-ar"
+      },
+      {
+        "name": "Maumelle",
+        "slug": "maumelle-ar"
+      },
+      {
+        "name": "Cabot",
+        "slug": "cabot-ar"
+      }
+    ],
+    "city_type": "residential-suburb",
+    "climate_zone": "humid-subtropical",
+    "terrain": "wooded-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "suburban-market",
+    "property_mix": "single-family-dominant",
+    "state": "AR"
+  },
+  {
+    "city": "Jacksonville",
+    "slug": "jacksonville-ar",
+    "county": "Pulaski County",
+    "population": 29000,
+    "zip_codes": [
+      "72076"
+    ],
+    "landmarks": [
+      "Little Rock Air Force Base",
+      "Jacksonville Community Center",
+      "Dupree Park",
+      "Splash Zone Water Park",
+      "Paradise Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sherwood",
+        "slug": "sherwood-ar"
+      },
+      {
+        "name": "Cabot",
+        "slug": "cabot-ar"
+      },
+      {
+        "name": "North Little Rock",
+        "slug": "north-little-rock-ar"
+      },
+      {
+        "name": "Austin",
+        "slug": "austin-ar"
+      },
+      {
+        "name": "Ward",
+        "slug": "ward-ar"
+      }
+    ],
+    "city_type": "military-community",
+    "climate_zone": "humid-subtropical",
+    "terrain": "plains",
+    "economy_type": "defense-services",
+    "housing_profile": "military-family",
+    "growth_pattern": "stable-growth",
+    "service_environment": "military-market",
+    "property_mix": "mixed-residential",
+    "state": "AR"
+  },
+  {
+    "city": "Russellville",
+    "slug": "russellville-ar",
+    "county": "Pope County",
+    "population": 31000,
+    "zip_codes": [
+      "72801",
+      "72802"
+    ],
+    "landmarks": [
+      "Arkansas Tech University",
+      "Lake Dardanelle",
+      "Old Post Road Park",
+      "Downtown Russellville",
+      "Mount Nebo State Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Dardanelle",
+        "slug": "dardanelle-ar"
+      },
+      {
+        "name": "Atkins",
+        "slug": "atkins-ar"
+      },
+      {
+        "name": "Pottsville",
+        "slug": "pottsville-ar"
+      },
+      {
+        "name": "Clarksville",
+        "slug": "clarksville-ar"
+      },
+      {
+        "name": "Morrilton",
+        "slug": "morrilton-ar"
+      }
+    ],
+    "city_type": "university-regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-valley",
+    "economy_type": "education-energy",
+    "housing_profile": "student-family-mix",
+    "growth_pattern": "steady-growth",
+    "service_environment": "regional-hub",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "Texarkana",
+    "slug": "texarkana-ar",
+    "county": "Miller County",
+    "population": 30000,
+    "zip_codes": [
+      "71854"
+    ],
+    "landmarks": [
+      "State Line Avenue",
+      "Perot Theatre",
+      "Spring Lake Park",
+      "Discovery Place Museum",
+      "Texarkana Regional Arts Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Texarkana",
+        "slug": "texarkana-tx"
+      },
+      {
+        "name": "Wake Village",
+        "slug": "wake-village-tx"
+      },
+      {
+        "name": "Nash",
+        "slug": "nash-tx"
+      },
+      {
+        "name": "Red Lick",
+        "slug": "red-lick-tx"
+      },
+      {
+        "name": "Ashdown",
+        "slug": "ashdown-ar"
+      }
+    ],
+    "city_type": "border-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piney-woods",
+    "economy_type": "transportation-healthcare",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "cross-state-market",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "Cabot",
+    "slug": "cabot-ar",
+    "county": "Lonoke County",
+    "population": 28000,
+    "zip_codes": [
+      "72023"
+    ],
+    "landmarks": [
+      "Cabot Aquatic Park",
+      "Veterans Park",
+      "Cabot Sportsplex",
+      "Downtown Cabot",
+      "Greystone Country Club"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jacksonville",
+        "slug": "jacksonville-ar"
+      },
+      {
+        "name": "Sherwood",
+        "slug": "sherwood-ar"
+      },
+      {
+        "name": "Ward",
+        "slug": "ward-ar"
+      },
+      {
+        "name": "Austin",
+        "slug": "austin-ar"
+      },
+      {
+        "name": "North Little Rock",
+        "slug": "north-little-rock-ar"
+      }
+    ],
+    "city_type": "commuter-suburb",
+    "climate_zone": "humid-subtropical",
+    "terrain": "plains",
+    "economy_type": "services-retail",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "high-growth",
+    "service_environment": "metro-expansion-zone",
+    "property_mix": "single-family-dominant",
+    "state": "AR"
+  },
+  {
+    "city": "Hot Springs",
+    "slug": "hot-springs-ar",
+    "county": "Garland County",
+    "population": 38000,
+    "zip_codes": [
+      "71901",
+      "71909",
+      "71913"
+    ],
+    "landmarks": [
+      "Hot Springs National Park",
+      "Bathhouse Row",
+      "Garvan Woodland Gardens",
+      "Oaklawn Racing Casino Resort",
+      "Lake Hamilton"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Benton",
+        "slug": "benton-ar"
+      },
+      {
+        "name": "Malvern",
+        "slug": "malvern-ar"
+      },
+      {
+        "name": "Hot Springs Village",
+        "slug": "hot-springs-village-ar"
+      },
+      {
+        "name": "Bryant",
+        "slug": "bryant-ar"
+      },
+      {
+        "name": "Arkadelphia",
+        "slug": "arkadelphia-ar"
+      }
+    ],
+    "city_type": "tourism-destination-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "ouachita-mountains",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "destination-growth",
+    "service_environment": "tourism-market",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "Bella Vista",
+    "slug": "bella-vista-ar",
+    "county": "Benton County",
+    "population": 32000,
+    "zip_codes": [
+      "72714",
+      "72715"
+    ],
+    "landmarks": [
+      "Lake Windsor",
+      "Tanyard Creek Nature Trail",
+      "Bella Vista Country Club",
+      "Blowing Springs Park",
+      "Mildred B. Cooper Chapel"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bentonville",
+        "slug": "bentonville-ar"
+      },
+      {
+        "name": "Rogers",
+        "slug": "rogers-ar"
+      },
+      {
+        "name": "Centerton",
+        "slug": "centerton-ar"
+      },
+      {
+        "name": "Gravette",
+        "slug": "gravette-ar"
+      },
+      {
+        "name": "Pineville",
+        "slug": "pineville-mo"
+      }
+    ],
+    "city_type": "retirement-community",
+    "climate_zone": "humid-subtropical",
+    "terrain": "ozark-highlands",
+    "economy_type": "retirement-services",
+    "housing_profile": "senior-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "residential-market",
+    "property_mix": "single-family-dominant",
+    "state": "AR"
+  },
+  {
+    "city": "Paragould",
+    "slug": "paragould-ar",
+    "county": "Greene County",
+    "population": 30000,
+    "zip_codes": [
+      "72450"
+    ],
+    "landmarks": [
+      "Crowley's Ridge State Park",
+      "Greene County Courthouse",
+      "Reynolds Park",
+      "Downtown Paragould",
+      "Paragould Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jonesboro",
+        "slug": "jonesboro-ar"
+      },
+      {
+        "name": "Brookland",
+        "slug": "brookland-ar"
+      },
+      {
+        "name": "Marmaduke",
+        "slug": "marmaduke-ar"
+      },
+      {
+        "name": "Rector",
+        "slug": "rector-ar"
+      },
+      {
+        "name": "Bono",
+        "slug": "bono-ar"
+      }
+    ],
+    "city_type": "regional-service-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "crowleys-ridge",
+    "economy_type": "manufacturing-agriculture",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "regional-market",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "Searcy",
+    "slug": "searcy-ar",
+    "county": "White County",
+    "population": 24000,
+    "zip_codes": [
+      "72143"
+    ],
+    "landmarks": [
+      "Harding University",
+      "Berryhill Park",
+      "Downtown Searcy",
+      "White County Courthouse",
+      "Riverside Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cabot",
+        "slug": "cabot-ar"
+      },
+      {
+        "name": "Beebe",
+        "slug": "beebe-ar"
+      },
+      {
+        "name": "Bald Knob",
+        "slug": "bald-knob-ar"
+      },
+      {
+        "name": "Judsonia",
+        "slug": "judsonia-ar"
+      },
+      {
+        "name": "Kensett",
+        "slug": "kensett-ar"
+      }
+    ],
+    "city_type": "college-town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "central-plains",
+    "economy_type": "education-healthcare",
+    "housing_profile": "student-family-mix",
+    "growth_pattern": "stable-growth",
+    "service_environment": "regional-center",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "Bryant",
+    "slug": "bryant-ar",
+    "county": "Saline County",
+    "population": 22000,
+    "zip_codes": [
+      "72022"
+    ],
+    "landmarks": [
+      "Bishop Park",
+      "Hurricane Creek",
+      "Bryant Parkway",
+      "Midtowne Shopping District",
+      "Center at Bishop Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Benton",
+        "slug": "benton-ar"
+      },
+      {
+        "name": "Little Rock",
+        "slug": "little-rock-ar"
+      },
+      {
+        "name": "Shannon Hills",
+        "slug": "shannon-hills-ar"
+      },
+      {
+        "name": "Alexander",
+        "slug": "alexander-ar"
+      },
+      {
+        "name": "Hot Springs",
+        "slug": "hot-springs-ar"
+      }
+    ],
+    "city_type": "metro-suburb",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "retail-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "commuter-market",
+    "property_mix": "single-family-dominant",
+    "state": "AR"
+  },
+  {
+    "city": "Maumelle",
+    "slug": "maumelle-ar",
+    "county": "Pulaski County",
+    "population": 20000,
+    "zip_codes": [
+      "72113"
+    ],
+    "landmarks": [
+      "Lake Willastein",
+      "Maumelle Park",
+      "Big Dam Bridge Access",
+      "Country Club of Arkansas",
+      "Lake Valencia"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Little Rock",
+        "slug": "little-rock-ar"
+      },
+      {
+        "name": "North Little Rock",
+        "slug": "north-little-rock-ar"
+      },
+      {
+        "name": "Conway",
+        "slug": "conway-ar"
+      },
+      {
+        "name": "Sherwood",
+        "slug": "sherwood-ar"
+      },
+      {
+        "name": "Bryant",
+        "slug": "bryant-ar"
+      }
+    ],
+    "city_type": "planned-suburb",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-lakes",
+    "economy_type": "professional-services",
+    "housing_profile": "upscale-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "residential-market",
+    "property_mix": "single-family-dominant",
+    "state": "AR"
+  },
+  {
+    "city": "Van Buren",
+    "slug": "van-buren-ar",
+    "county": "Crawford County",
+    "population": 24000,
+    "zip_codes": [
+      "72956"
+    ],
+    "landmarks": [
+      "King Opera House",
+      "Main Street Historic District",
+      "Lee Creek Park",
+      "Drennen-Scott House",
+      "Van Buren Depot"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fort Smith",
+        "slug": "fort-smith-ar"
+      },
+      {
+        "name": "Alma",
+        "slug": "alma-ar"
+      },
+      {
+        "name": "Barling",
+        "slug": "barling-ar"
+      },
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-ar"
+      },
+      {
+        "name": "Roland",
+        "slug": "roland-ok"
+      }
+    ],
+    "city_type": "historic-river-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-valley",
+    "economy_type": "transportation-logistics",
+    "housing_profile": "family-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "regional-hub",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "El Dorado",
+    "slug": "el-dorado-ar",
+    "county": "Union County",
+    "population": 18000,
+    "zip_codes": [
+      "71730"
+    ],
+    "landmarks": [
+      "Murphy Arts District",
+      "South Arkansas Arboretum",
+      "Newton House Museum",
+      "Downtown El Dorado",
+      "Moro Bay State Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Smackover",
+        "slug": "smackover-ar"
+      },
+      {
+        "name": "Camden",
+        "slug": "camden-ar"
+      },
+      {
+        "name": "Magnolia",
+        "slug": "magnolia-ar"
+      },
+      {
+        "name": "Junction City",
+        "slug": "junction-city-ar"
+      },
+      {
+        "name": "Norphlet",
+        "slug": "norphlet-ar"
+      }
+    ],
+    "city_type": "energy-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "timberlands",
+    "economy_type": "energy-manufacturing",
+    "housing_profile": "small-city-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "regional-market",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "Blytheville",
+    "slug": "blytheville-ar",
+    "county": "Mississippi County",
+    "population": 14000,
+    "zip_codes": [
+      "72315"
+    ],
+    "landmarks": [
+      "Delta Gateway Museum",
+      "Walker Park",
+      "Thunder Bayou Golf Links",
+      "Downtown Blytheville",
+      "Mississippi County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Osceola",
+        "slug": "osceola-ar"
+      },
+      {
+        "name": "Manila",
+        "slug": "manila-ar"
+      },
+      {
+        "name": "Leachville",
+        "slug": "leachville-ar"
+      },
+      {
+        "name": "Luxora",
+        "slug": "luxora-ar"
+      },
+      {
+        "name": "Caruthersville",
+        "slug": "caruthersville-mo"
+      }
+    ],
+    "city_type": "delta-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "delta-plains",
+    "economy_type": "agriculture-logistics",
+    "housing_profile": "working-family-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "regional-market",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  },
+  {
+    "city": "Forrest City",
+    "slug": "forrest-city-ar",
+    "county": "St. Francis County",
+    "population": 14000,
+    "zip_codes": [
+      "72335"
+    ],
+    "landmarks": [
+      "Village Creek State Park",
+      "Downtown Forrest City",
+      "St. Francis County Museum",
+      "Civic Center",
+      "Forrest City Sports Complex"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wynne",
+        "slug": "wynne-ar"
+      },
+      {
+        "name": "Marianna",
+        "slug": "marianna-ar"
+      },
+      {
+        "name": "Brinkley",
+        "slug": "brinkley-ar"
+      },
+      {
+        "name": "Palestine",
+        "slug": "palestine-ar"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-ar"
+      }
+    ],
+    "city_type": "delta-regional-center",
+    "climate_zone": "humid-subtropical",
+    "terrain": "delta-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "regional-service-center",
+    "property_mix": "mixed-use",
+    "state": "AR"
+  }
+]

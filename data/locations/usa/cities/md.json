@@ -1,0 +1,3692 @@
+[
+  {
+    "city": "Aberdeen",
+    "slug": "aberdeen-md",
+    "county": "Harford County",
+    "population": 16980,
+    "zip_codes": [
+      "21001"
+    ],
+    "landmarks": [
+      "Ripken Stadium",
+      "Aberdeen Proving Ground",
+      "Cal Ripken Museum",
+      "Festival Park",
+      "Swan Meadows Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Havre de Grace",
+        "slug": "havre-de-grace-md"
+      },
+      {
+        "name": "Bel Air",
+        "slug": "bel-air-md"
+      },
+      {
+        "name": "Edgewood",
+        "slug": "edgewood-md"
+      },
+      {
+        "name": "Perryville",
+        "slug": "perryville-md"
+      },
+      {
+        "name": "Joppatowne",
+        "slug": "joppatowne-md"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "military-technology",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Annapolis",
+    "slug": "annapolis-md",
+    "county": "Anne Arundel County",
+    "population": 40810,
+    "zip_codes": [
+      "21401",
+      "21403",
+      "21409"
+    ],
+    "landmarks": [
+      "United States Naval Academy",
+      "Maryland State House",
+      "City Dock",
+      "Ego Alley",
+      "Quiet Waters Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Arnold",
+        "slug": "arnold-md"
+      },
+      {
+        "name": "Parole",
+        "slug": "parole-md"
+      },
+      {
+        "name": "Severna Park",
+        "slug": "severna-park-md"
+      },
+      {
+        "name": "Crofton",
+        "slug": "crofton-md"
+      },
+      {
+        "name": "Edgewater",
+        "slug": "edgewater-md"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "chesapeake-bay",
+    "economy_type": "government-tourism",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "annapolis-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Arbutus",
+    "slug": "arbutus-md",
+    "county": "Baltimore County",
+    "population": 22260,
+    "zip_codes": [
+      "21227"
+    ],
+    "landmarks": [
+      "UMBC",
+      "Arbutus Memorial Park",
+      "Guinness Open Gate Brewery",
+      "Patapsco Valley State Park",
+      "Halethorpe MARC Station"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Baltimore",
+        "slug": "baltimore-md"
+      },
+      {
+        "name": "Catonsville",
+        "slug": "catonsville-md"
+      },
+      {
+        "name": "Lansdowne",
+        "slug": "lansdowne-md"
+      },
+      {
+        "name": "Elkridge",
+        "slug": "elkridge-md"
+      },
+      {
+        "name": "Halethorpe",
+        "slug": "halethorpe-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "education-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Arnold",
+    "slug": "arnold-md",
+    "county": "Anne Arundel County",
+    "population": 24280,
+    "zip_codes": [
+      "21012"
+    ],
+    "landmarks": [
+      "Sandy Point State Park",
+      "Anne Arundel Community College",
+      "Broadneck Park",
+      "Bay Hills Golf Club",
+      "College Parkway Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Annapolis",
+        "slug": "annapolis-md"
+      },
+      {
+        "name": "Severna Park",
+        "slug": "severna-park-md"
+      },
+      {
+        "name": "Cape St. Claire",
+        "slug": "cape-st-claire-md"
+      },
+      {
+        "name": "Parole",
+        "slug": "parole-md"
+      },
+      {
+        "name": "Edgewater",
+        "slug": "edgewater-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "chesapeake-bay",
+    "economy_type": "education-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "annapolis-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Aspen Hill",
+    "slug": "aspen-hill-md",
+    "county": "Montgomery County",
+    "population": 54630,
+    "zip_codes": [
+      "20906"
+    ],
+    "landmarks": [
+      "Brookside Gardens",
+      "Wheaton Regional Park",
+      "Matthew Henson Trail",
+      "Aspen Hill Shopping Center",
+      "Harmony Hills Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Silver Spring",
+        "slug": "silver-spring-md"
+      },
+      {
+        "name": "Rockville",
+        "slug": "rockville-md"
+      },
+      {
+        "name": "Olney",
+        "slug": "olney-md"
+      },
+      {
+        "name": "Wheaton",
+        "slug": "wheaton-md"
+      },
+      {
+        "name": "North Bethesda",
+        "slug": "north-bethesda-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Baltimore",
+    "slug": "baltimore-md",
+    "county": "Baltimore City",
+    "population": 565700,
+    "zip_codes": [
+      "21201",
+      "21202",
+      "21205",
+      "21206",
+      "21209",
+      "21211",
+      "21215",
+      "21218",
+      "21224",
+      "21230"
+    ],
+    "landmarks": [
+      "Inner Harbor",
+      "National Aquarium",
+      "Oriole Park at Camden Yards",
+      "Fort McHenry",
+      "Fells Point"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Towson",
+        "slug": "towson-md"
+      },
+      {
+        "name": "Catonsville",
+        "slug": "catonsville-md"
+      },
+      {
+        "name": "Dundalk",
+        "slug": "dundalk-md"
+      },
+      {
+        "name": "Parkville",
+        "slug": "parkville-md"
+      },
+      {
+        "name": "Essex",
+        "slug": "essex-md"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "healthcare-port",
+    "housing_profile": "major-urban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Bel Air South",
+    "slug": "bel-air-south-md",
+    "county": "Harford County",
+    "population": 29720,
+    "zip_codes": [
+      "21009",
+      "21015"
+    ],
+    "landmarks": [
+      "Harford Mall",
+      "Ma & Pa Heritage Trail",
+      "Winters Run Golf Club",
+      "Constant Friendship Park",
+      "Abingdon Road Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bel Air",
+        "slug": "bel-air-md"
+      },
+      {
+        "name": "Abingdon",
+        "slug": "abingdon-md"
+      },
+      {
+        "name": "Edgewood",
+        "slug": "edgewood-md"
+      },
+      {
+        "name": "Aberdeen",
+        "slug": "aberdeen-md"
+      },
+      {
+        "name": "Riverside",
+        "slug": "riverside-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Beltsville",
+    "slug": "beltsville-md",
+    "county": "Prince George's County",
+    "population": 18990,
+    "zip_codes": [
+      "20705"
+    ],
+    "landmarks": [
+      "Beltsville Agricultural Research Center",
+      "Little Paint Branch Park",
+      "Beltsville Community Center",
+      "Calverton Park",
+      "Fairland Regional Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "College Park",
+        "slug": "college-park-md"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-md"
+      },
+      {
+        "name": "Greenbelt",
+        "slug": "greenbelt-md"
+      },
+      {
+        "name": "Adelphi",
+        "slug": "adelphi-md"
+      },
+      {
+        "name": "Calverton",
+        "slug": "calverton-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "government-research",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Bethesda",
+    "slug": "bethesda-md",
+    "county": "Montgomery County",
+    "population": 68560,
+    "zip_codes": [
+      "20814",
+      "20815",
+      "20816",
+      "20817"
+    ],
+    "landmarks": [
+      "Bethesda Row",
+      "Walter Reed National Military Medical Center",
+      "National Institutes of Health",
+      "Capital Crescent Trail",
+      "Strathmore"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Chevy Chase",
+        "slug": "chevy-chase-md"
+      },
+      {
+        "name": "Rockville",
+        "slug": "rockville-md"
+      },
+      {
+        "name": "North Bethesda",
+        "slug": "north-bethesda-md"
+      },
+      {
+        "name": "Silver Spring",
+        "slug": "silver-spring-md"
+      },
+      {
+        "name": "Potomac",
+        "slug": "potomac-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "healthcare-biotechnology",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Bowie",
+    "slug": "bowie-md",
+    "county": "Prince George's County",
+    "population": 58430,
+    "zip_codes": [
+      "20715",
+      "20716",
+      "20720",
+      "20721"
+    ],
+    "landmarks": [
+      "Allen Pond Park",
+      "Bowie Town Center",
+      "Belair Mansion",
+      "Prince George's Stadium",
+      "Bowie State University"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Crofton",
+        "slug": "crofton-md"
+      },
+      {
+        "name": "Glenn Dale",
+        "slug": "glenn-dale-md"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-md"
+      },
+      {
+        "name": "Lanham",
+        "slug": "lanham-md"
+      },
+      {
+        "name": "Upper Marlboro",
+        "slug": "upper-marlboro-md"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Camp Springs",
+    "slug": "camp-springs-md",
+    "county": "Prince George's County",
+    "population": 22980,
+    "zip_codes": [
+      "20746",
+      "20748"
+    ],
+    "landmarks": [
+      "Joint Base Andrews",
+      "Branch Avenue Station",
+      "Marlow Heights Shopping Center",
+      "Tucker Road Athletic Complex",
+      "Camp Springs Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Suitland",
+        "slug": "suitland-md"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-md"
+      },
+      {
+        "name": "Temple Hills",
+        "slug": "temple-hills-md"
+      },
+      {
+        "name": "Forestville",
+        "slug": "forestville-md"
+      },
+      {
+        "name": "District Heights",
+        "slug": "district-heights-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-military",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Carney",
+    "slug": "carney-md",
+    "county": "Baltimore County",
+    "population": 29580,
+    "zip_codes": [
+      "21234",
+      "21236"
+    ],
+    "landmarks": [
+      "Double Rock Park",
+      "Loch Raven Reservoir",
+      "Carney Park",
+      "Perring Plaza",
+      "North Plaza Shopping Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Parkville",
+        "slug": "parkville-md"
+      },
+      {
+        "name": "Towson",
+        "slug": "towson-md"
+      },
+      {
+        "name": "Perry Hall",
+        "slug": "perry-hall-md"
+      },
+      {
+        "name": "Overlea",
+        "slug": "overlea-md"
+      },
+      {
+        "name": "Baltimore",
+        "slug": "baltimore-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Catonsville",
+    "slug": "catonsville-md",
+    "county": "Baltimore County",
+    "population": 43090,
+    "zip_codes": [
+      "21228"
+    ],
+    "landmarks": [
+      "Patapsco Valley State Park",
+      "Catonsville Farmers Market",
+      "University of Maryland Baltimore County",
+      "Trolley Trail",
+      "Benjamin Banneker Historical Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Arbutus",
+        "slug": "arbutus-md"
+      },
+      {
+        "name": "Ellicott City",
+        "slug": "ellicott-city-md"
+      },
+      {
+        "name": "Baltimore",
+        "slug": "baltimore-md"
+      },
+      {
+        "name": "Woodlawn",
+        "slug": "woodlawn-md"
+      },
+      {
+        "name": "Lansdowne",
+        "slug": "lansdowne-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "education-healthcare",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Chillum",
+    "slug": "chillum-md",
+    "county": "Prince George's County",
+    "population": 36320,
+    "zip_codes": [
+      "20782"
+    ],
+    "landmarks": [
+      "Chillum Community Park",
+      "Northwest Branch Trail",
+      "Riggs Plaza",
+      "Rollingcrest-Chillum Community Center",
+      "Fort Circle Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hyattsville",
+        "slug": "hyattsville-md"
+      },
+      {
+        "name": "Takoma Park",
+        "slug": "takoma-park-md"
+      },
+      {
+        "name": "Adelphi",
+        "slug": "adelphi-md"
+      },
+      {
+        "name": "Silver Spring",
+        "slug": "silver-spring-md"
+      },
+      {
+        "name": "College Park",
+        "slug": "college-park-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Clinton",
+    "slug": "clinton-md",
+    "county": "Prince George's County",
+    "population": 39980,
+    "zip_codes": [
+      "20735"
+    ],
+    "landmarks": [
+      "MedStar Southern Maryland Hospital Center",
+      "Cosca Regional Park",
+      "Surrattsville High School",
+      "Tinkers Creek Park",
+      "Clinton Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Camp Springs",
+        "slug": "camp-springs-md"
+      },
+      {
+        "name": "Temple Hills",
+        "slug": "temple-hills-md"
+      },
+      {
+        "name": "Fort Washington",
+        "slug": "fort-washington-md"
+      },
+      {
+        "name": "Brandywine",
+        "slug": "brandywine-md"
+      },
+      {
+        "name": "Suitland",
+        "slug": "suitland-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "healthcare-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Cockeysville",
+    "slug": "cockeysville-md",
+    "county": "Baltimore County",
+    "population": 22510,
+    "zip_codes": [
+      "21030"
+    ],
+    "landmarks": [
+      "Oregon Ridge Park",
+      "Oregon Ridge Nature Center",
+      "Hunt Valley Towne Centre",
+      "Warren Place",
+      "Cockeysville Branch Library"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Towson",
+        "slug": "towson-md"
+      },
+      {
+        "name": "Timonium",
+        "slug": "timonium-md"
+      },
+      {
+        "name": "Hunt Valley",
+        "slug": "hunt-valley-md"
+      },
+      {
+        "name": "Lutherville",
+        "slug": "lutherville-md"
+      },
+      {
+        "name": "Parkville",
+        "slug": "parkville-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "business-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "College Park",
+    "slug": "college-park-md",
+    "county": "Prince George's County",
+    "population": 34810,
+    "zip_codes": [
+      "20740",
+      "20742"
+    ],
+    "landmarks": [
+      "University of Maryland",
+      "SECU Stadium",
+      "Xfinity Center",
+      "Lake Artemesia",
+      "College Park Aviation Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hyattsville",
+        "slug": "hyattsville-md"
+      },
+      {
+        "name": "Beltsville",
+        "slug": "beltsville-md"
+      },
+      {
+        "name": "Greenbelt",
+        "slug": "greenbelt-md"
+      },
+      {
+        "name": "Adelphi",
+        "slug": "adelphi-md"
+      },
+      {
+        "name": "Riverdale Park",
+        "slug": "riverdale-park-md"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "education-research",
+    "housing_profile": "college-town",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Columbia",
+    "slug": "columbia-md",
+    "county": "Howard County",
+    "population": 105100,
+    "zip_codes": [
+      "21044",
+      "21045",
+      "21046"
+    ],
+    "landmarks": [
+      "The Mall in Columbia",
+      "Merriweather Post Pavilion",
+      "Lake Kittamaqundi",
+      "Blandair Regional Park",
+      "Robinson Nature Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ellicott City",
+        "slug": "ellicott-city-md"
+      },
+      {
+        "name": "Elkridge",
+        "slug": "elkridge-md"
+      },
+      {
+        "name": "Jessup",
+        "slug": "jessup-md"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-md"
+      },
+      {
+        "name": "Clarksville",
+        "slug": "clarksville-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "technology-healthcare",
+    "housing_profile": "master-planned",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-washington-corridor",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Cumberland",
+    "slug": "cumberland-md",
+    "county": "Allegany County",
+    "population": 19310,
+    "zip_codes": [
+      "21502"
+    ],
+    "landmarks": [
+      "C&O Canal National Historical Park",
+      "Western Maryland Scenic Railroad",
+      "Downtown Cumberland",
+      "Constitution Park",
+      "Rocky Gap State Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "La Vale",
+        "slug": "la-vale-md"
+      },
+      {
+        "name": "Frostburg",
+        "slug": "frostburg-md"
+      },
+      {
+        "name": "Cresaptown",
+        "slug": "cresaptown-md"
+      },
+      {
+        "name": "Keyser",
+        "slug": "keyser-wv"
+      },
+      {
+        "name": "Bedford",
+        "slug": "bedford-pa"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "appalachian-mountains",
+    "economy_type": "healthcare-tourism",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "western-maryland",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Damascus",
+    "slug": "damascus-md",
+    "county": "Montgomery County",
+    "population": 17620,
+    "zip_codes": [
+      "20872"
+    ],
+    "landmarks": [
+      "Butler's Orchard",
+      "Damascus Regional Park",
+      "Magruder Branch Trail",
+      "Damascus Community Recreation Center",
+      "Downtown Damascus"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Clarksburg",
+        "slug": "clarksburg-md"
+      },
+      {
+        "name": "Germantown",
+        "slug": "germantown-md"
+      },
+      {
+        "name": "Mount Airy",
+        "slug": "mount-airy-md"
+      },
+      {
+        "name": "Olney",
+        "slug": "olney-md"
+      },
+      {
+        "name": "Gaithersburg",
+        "slug": "gaithersburg-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Dundalk",
+    "slug": "dundalk-md",
+    "county": "Baltimore County",
+    "population": 67680,
+    "zip_codes": [
+      "21222"
+    ],
+    "landmarks": [
+      "North Point State Park",
+      "Merritt Point Park",
+      "Dundalk Heritage Park",
+      "Tradepoint Atlantic",
+      "Bear Creek Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Baltimore",
+        "slug": "baltimore-md"
+      },
+      {
+        "name": "Essex",
+        "slug": "essex-md"
+      },
+      {
+        "name": "Middle River",
+        "slug": "middle-river-md"
+      },
+      {
+        "name": "Edgemere",
+        "slug": "edgemere-md"
+      },
+      {
+        "name": "Rosedale",
+        "slug": "rosedale-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "port-industrial",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "East Riverdale",
+    "slug": "east-riverdale-md",
+    "county": "Prince George's County",
+    "population": 15970,
+    "zip_codes": [
+      "20737"
+    ],
+    "landmarks": [
+      "Riversdale House Museum",
+      "Beacon Heights Park",
+      "East Riverdale Community Park",
+      "Anacostia Tributary Trail",
+      "Riverdale Park Station"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Riverdale Park",
+        "slug": "riverdale-park-md"
+      },
+      {
+        "name": "Hyattsville",
+        "slug": "hyattsville-md"
+      },
+      {
+        "name": "Bladensburg",
+        "slug": "bladensburg-md"
+      },
+      {
+        "name": "College Park",
+        "slug": "college-park-md"
+      },
+      {
+        "name": "Landover",
+        "slug": "landover-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "professional-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Edgewood",
+    "slug": "edgewood-md",
+    "county": "Harford County",
+    "population": 25780,
+    "zip_codes": [
+      "21040"
+    ],
+    "landmarks": [
+      "Edgewater Village",
+      "Flying Point Park",
+      "Winters Run Golf Club",
+      "Edgewood Recreation Park",
+      "Mariner Point Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Aberdeen",
+        "slug": "aberdeen-md"
+      },
+      {
+        "name": "Bel Air South",
+        "slug": "bel-air-south-md"
+      },
+      {
+        "name": "Joppatowne",
+        "slug": "joppatowne-md"
+      },
+      {
+        "name": "Abingdon",
+        "slug": "abingdon-md"
+      },
+      {
+        "name": "Riverside",
+        "slug": "riverside-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Eldersburg",
+    "slug": "eldersburg-md",
+    "county": "Carroll County",
+    "population": 33060,
+    "zip_codes": [
+      "21784"
+    ],
+    "landmarks": [
+      "Liberty Reservoir",
+      "Oklahoma Road Park",
+      "Piney Run Park",
+      "Carrolltowne Center",
+      "Liberty High School"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sykesville",
+        "slug": "sykesville-md"
+      },
+      {
+        "name": "Westminster",
+        "slug": "westminster-md"
+      },
+      {
+        "name": "Randallstown",
+        "slug": "randallstown-md"
+      },
+      {
+        "name": "Reisterstown",
+        "slug": "reisterstown-md"
+      },
+      {
+        "name": "Owings Mills",
+        "slug": "owings-mills-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Elkton",
+    "slug": "elkton-md",
+    "county": "Cecil County",
+    "population": 15940,
+    "zip_codes": [
+      "21921",
+      "21922"
+    ],
+    "landmarks": [
+      "Elk Landing Historic Park",
+      "Fair Hill Natural Resources Management Area",
+      "Cecil County Courthouse",
+      "Meadow Park",
+      "Gilpin's Falls"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North East",
+        "slug": "north-east-md"
+      },
+      {
+        "name": "Newark",
+        "slug": "newark-de"
+      },
+      {
+        "name": "Perryville",
+        "slug": "perryville-md"
+      },
+      {
+        "name": "Rising Sun",
+        "slug": "rising-sun-md"
+      },
+      {
+        "name": "Chesapeake City",
+        "slug": "chesapeake-city-md"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-retail",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northeast-maryland",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Elkridge",
+    "slug": "elkridge-md",
+    "county": "Howard County",
+    "population": 25790,
+    "zip_codes": [
+      "21075"
+    ],
+    "landmarks": [
+      "Patapsco Valley State Park",
+      "Thomas Viaduct",
+      "Rockburn Branch Park",
+      "Troy Park at Elkridge",
+      "Elkridge Landing Road"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Columbia",
+        "slug": "columbia-md"
+      },
+      {
+        "name": "Ellicott City",
+        "slug": "ellicott-city-md"
+      },
+      {
+        "name": "Arbutus",
+        "slug": "arbutus-md"
+      },
+      {
+        "name": "Catonsville",
+        "slug": "catonsville-md"
+      },
+      {
+        "name": "Hanover",
+        "slug": "hanover-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "technology-logistics",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-washington-corridor",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Ellicott City",
+    "slug": "ellicott-city-md",
+    "county": "Howard County",
+    "population": 75500,
+    "zip_codes": [
+      "21042",
+      "21043"
+    ],
+    "landmarks": [
+      "Historic Ellicott City",
+      "Patapsco Valley State Park",
+      "B&O Railroad Museum",
+      "Centennial Park",
+      "Clark's Elioak Farm"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Columbia",
+        "slug": "columbia-md"
+      },
+      {
+        "name": "Elkridge",
+        "slug": "elkridge-md"
+      },
+      {
+        "name": "Catonsville",
+        "slug": "catonsville-md"
+      },
+      {
+        "name": "Woodlawn",
+        "slug": "woodlawn-md"
+      },
+      {
+        "name": "Baltimore",
+        "slug": "baltimore-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-washington-corridor",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Essex",
+    "slug": "essex-md",
+    "county": "Baltimore County",
+    "population": 39920,
+    "zip_codes": [
+      "21221"
+    ],
+    "landmarks": [
+      "Rocky Point Park",
+      "Middlesex Shopping Center",
+      "Essex Marina",
+      "Back River Waterfront",
+      "Eastern Regional Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Baltimore",
+        "slug": "baltimore-md"
+      },
+      {
+        "name": "Dundalk",
+        "slug": "dundalk-md"
+      },
+      {
+        "name": "Middle River",
+        "slug": "middle-river-md"
+      },
+      {
+        "name": "Rosedale",
+        "slug": "rosedale-md"
+      },
+      {
+        "name": "Edgemere",
+        "slug": "edgemere-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "port-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Fairland",
+    "slug": "fairland-md",
+    "county": "Montgomery County",
+    "population": 26940,
+    "zip_codes": [
+      "20904"
+    ],
+    "landmarks": [
+      "Fairland Regional Park",
+      "Gardens Ice House",
+      "Paint Branch Trail",
+      "Martin Luther King Jr. Recreational Park",
+      "Calverton-Galway Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Silver Spring",
+        "slug": "silver-spring-md"
+      },
+      {
+        "name": "Burtonsville",
+        "slug": "burtonsville-md"
+      },
+      {
+        "name": "Beltsville",
+        "slug": "beltsville-md"
+      },
+      {
+        "name": "Colesville",
+        "slug": "colesville-md"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Fort Washington",
+    "slug": "fort-washington-md",
+    "county": "Prince George's County",
+    "population": 24580,
+    "zip_codes": [
+      "20744"
+    ],
+    "landmarks": [
+      "Fort Washington Park",
+      "National Harbor",
+      "Piscataway Park",
+      "Fort Foote Park",
+      "Oxon Cove Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Clinton",
+        "slug": "clinton-md"
+      },
+      {
+        "name": "Temple Hills",
+        "slug": "temple-hills-md"
+      },
+      {
+        "name": "Oxon Hill",
+        "slug": "oxon-hill-md"
+      },
+      {
+        "name": "Camp Springs",
+        "slug": "camp-springs-md"
+      },
+      {
+        "name": "Forest Heights",
+        "slug": "forest-heights-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-tourism",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Frederick",
+    "slug": "frederick-md",
+    "county": "Frederick County",
+    "population": 85070,
+    "zip_codes": [
+      "21701",
+      "21702",
+      "21703",
+      "21704",
+      "21705"
+    ],
+    "landmarks": [
+      "Carroll Creek Park",
+      "Baker Park",
+      "National Museum of Civil War Medicine",
+      "Downtown Frederick",
+      "Harry Grove Stadium"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ballenger Creek",
+        "slug": "ballenger-creek-md"
+      },
+      {
+        "name": "Walkersville",
+        "slug": "walkersville-md"
+      },
+      {
+        "name": "Middletown",
+        "slug": "middletown-md"
+      },
+      {
+        "name": "Urbana",
+        "slug": "urbana-md"
+      },
+      {
+        "name": "Mount Airy",
+        "slug": "mount-airy-md"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "healthcare-biotechnology",
+    "housing_profile": "major-urban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "frederick-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Gaithersburg",
+    "slug": "gaithersburg-md",
+    "county": "Montgomery County",
+    "population": 69720,
+    "zip_codes": [
+      "20877",
+      "20878",
+      "20879",
+      "20882",
+      "20886"
+    ],
+    "landmarks": [
+      "Rio Lakefront",
+      "Bohrer Park",
+      "Kentlands",
+      "Seneca Creek State Park",
+      "Gaithersburg Community Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Rockville",
+        "slug": "rockville-md"
+      },
+      {
+        "name": "Germantown",
+        "slug": "germantown-md"
+      },
+      {
+        "name": "North Potomac",
+        "slug": "north-potomac-md"
+      },
+      {
+        "name": "Montgomery Village",
+        "slug": "montgomery-village-md"
+      },
+      {
+        "name": "Derwood",
+        "slug": "derwood-md"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "technology-biotechnology",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Germantown",
+    "slug": "germantown-md",
+    "county": "Montgomery County",
+    "population": 91250,
+    "zip_codes": [
+      "20874",
+      "20876"
+    ],
+    "landmarks": [
+      "Black Hill Regional Park",
+      "South Germantown Recreational Park",
+      "Seneca Creek State Park",
+      "Maryland SoccerPlex",
+      "Topgolf Germantown"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gaithersburg",
+        "slug": "gaithersburg-md"
+      },
+      {
+        "name": "Clarksburg",
+        "slug": "clarksburg-md"
+      },
+      {
+        "name": "Montgomery Village",
+        "slug": "montgomery-village-md"
+      },
+      {
+        "name": "North Potomac",
+        "slug": "north-potomac-md"
+      },
+      {
+        "name": "Damascus",
+        "slug": "damascus-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "technology-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Glen Burnie",
+    "slug": "glen-burnie-md",
+    "county": "Anne Arundel County",
+    "population": 72680,
+    "zip_codes": [
+      "21060",
+      "21061"
+    ],
+    "landmarks": [
+      "Marley Station Mall",
+      "Sawmill Creek Park",
+      "North Arundel Aquatic Center",
+      "B&A Trail",
+      "Cromwell Fountain"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Severn",
+        "slug": "severn-md"
+      },
+      {
+        "name": "Pasadena",
+        "slug": "pasadena-md"
+      },
+      {
+        "name": "Linthicum",
+        "slug": "linthicum-md"
+      },
+      {
+        "name": "Ferndale",
+        "slug": "ferndale-md"
+      },
+      {
+        "name": "Annapolis",
+        "slug": "annapolis-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-logistics",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Greenbelt",
+    "slug": "greenbelt-md",
+    "county": "Prince George's County",
+    "population": 24940,
+    "zip_codes": [
+      "20768",
+      "20770",
+      "20771"
+    ],
+    "landmarks": [
+      "Greenbelt Park",
+      "NASA Goddard Space Flight Center",
+      "Buddy Attick Park",
+      "Roosevelt Center",
+      "Greenbelt Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "College Park",
+        "slug": "college-park-md"
+      },
+      {
+        "name": "Beltsville",
+        "slug": "beltsville-md"
+      },
+      {
+        "name": "Lanham",
+        "slug": "lanham-md"
+      },
+      {
+        "name": "New Carrollton",
+        "slug": "new-carrollton-md"
+      },
+      {
+        "name": "Hyattsville",
+        "slug": "hyattsville-md"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-research",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Hagerstown",
+    "slug": "hagerstown-md",
+    "county": "Washington County",
+    "population": 43840,
+    "zip_codes": [
+      "21740",
+      "21741",
+      "21742",
+      "21746",
+      "21749"
+    ],
+    "landmarks": [
+      "Hagerstown City Park",
+      "Maryland Theatre",
+      "Hagerstown Premium Outlets",
+      "Washington County Museum of Fine Arts",
+      "Hagerstown Regional Airport"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Halfway",
+        "slug": "halfway-md"
+      },
+      {
+        "name": "Robinwood",
+        "slug": "robinwood-md"
+      },
+      {
+        "name": "Funkstown",
+        "slug": "funkstown-md"
+      },
+      {
+        "name": "Smithsburg",
+        "slug": "smithsburg-md"
+      },
+      {
+        "name": "Williamsport",
+        "slug": "williamsport-md"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-valley",
+    "economy_type": "healthcare-logistics",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "western-maryland",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Havre de Grace",
+    "slug": "havre-de-grace-md",
+    "county": "Harford County",
+    "population": 15090,
+    "zip_codes": [
+      "21078"
+    ],
+    "landmarks": [
+      "Concord Point Lighthouse",
+      "Havre de Grace Promenade",
+      "Tydings Memorial Park",
+      "Decoy Museum",
+      "Susquehanna State Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Aberdeen",
+        "slug": "aberdeen-md"
+      },
+      {
+        "name": "Perryville",
+        "slug": "perryville-md"
+      },
+      {
+        "name": "Bel Air",
+        "slug": "bel-air-md"
+      },
+      {
+        "name": "Elkton",
+        "slug": "elkton-md"
+      },
+      {
+        "name": "Edgewood",
+        "slug": "edgewood-md"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "chesapeake-bay",
+    "economy_type": "tourism-maritime",
+    "housing_profile": "historic-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Hillcrest Heights",
+    "slug": "hillcrest-heights-md",
+    "county": "Prince George's County",
+    "population": 16840,
+    "zip_codes": [
+      "20748"
+    ],
+    "landmarks": [
+      "Iverson Mall",
+      "Hillcrest Heights Community Center",
+      "Oxon Run Park",
+      "Marlow Heights Shopping Center",
+      "Hillcrest Memorial Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Temple Hills",
+        "slug": "temple-hills-md"
+      },
+      {
+        "name": "Suitland",
+        "slug": "suitland-md"
+      },
+      {
+        "name": "Camp Springs",
+        "slug": "camp-springs-md"
+      },
+      {
+        "name": "District Heights",
+        "slug": "district-heights-md"
+      },
+      {
+        "name": "Oxon Hill",
+        "slug": "oxon-hill-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Hyattsville",
+    "slug": "hyattsville-md",
+    "county": "Prince George's County",
+    "population": 21190,
+    "zip_codes": [
+      "20781",
+      "20782"
+    ],
+    "landmarks": [
+      "Arts District Hyattsville",
+      "Driskell Community Park",
+      "University Town Center",
+      "Magruder Park",
+      "Hyattsville Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "College Park",
+        "slug": "college-park-md"
+      },
+      {
+        "name": "Riverdale Park",
+        "slug": "riverdale-park-md"
+      },
+      {
+        "name": "Chillum",
+        "slug": "chillum-md"
+      },
+      {
+        "name": "Greenbelt",
+        "slug": "greenbelt-md"
+      },
+      {
+        "name": "Mount Rainier",
+        "slug": "mount-rainier-md"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "arts-education",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Ilchester",
+    "slug": "ilchester-md",
+    "county": "Howard County",
+    "population": 26240,
+    "zip_codes": [
+      "21043"
+    ],
+    "landmarks": [
+      "Patapsco Valley State Park",
+      "Ilchester Tunnel",
+      "Thomas Viaduct",
+      "Soapstone Trail",
+      "Patapsco River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ellicott City",
+        "slug": "ellicott-city-md"
+      },
+      {
+        "name": "Catonsville",
+        "slug": "catonsville-md"
+      },
+      {
+        "name": "Elkridge",
+        "slug": "elkridge-md"
+      },
+      {
+        "name": "Columbia",
+        "slug": "columbia-md"
+      },
+      {
+        "name": "Arbutus",
+        "slug": "arbutus-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-washington-corridor",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Lake Arbor",
+    "slug": "lake-arbor-md",
+    "county": "Prince George's County",
+    "population": 10240,
+    "zip_codes": [
+      "20721"
+    ],
+    "landmarks": [
+      "Lake Arbor Community Center",
+      "Lake Arbor Golf Club",
+      "Prince George's Sports & Learning Complex",
+      "Woodmore Towne Centre",
+      "Northwest Stadium"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Landover",
+        "slug": "landover-md"
+      },
+      {
+        "name": "Largo",
+        "slug": "largo-md"
+      },
+      {
+        "name": "Mitchellville",
+        "slug": "mitchellville-md"
+      },
+      {
+        "name": "Bowie",
+        "slug": "bowie-md"
+      },
+      {
+        "name": "Glenn Dale",
+        "slug": "glenn-dale-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Landover",
+    "slug": "landover-md",
+    "county": "Prince George's County",
+    "population": 26900,
+    "zip_codes": [
+      "20785"
+    ],
+    "landmarks": [
+      "Northwest Stadium",
+      "Prince George's Sports & Learning Complex",
+      "Landover Metro Station",
+      "FedEx Office Plaza",
+      "Woodmore Towne Centre"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lake Arbor",
+        "slug": "lake-arbor-md"
+      },
+      {
+        "name": "Largo",
+        "slug": "largo-md"
+      },
+      {
+        "name": "Hyattsville",
+        "slug": "hyattsville-md"
+      },
+      {
+        "name": "Bowie",
+        "slug": "bowie-md"
+      },
+      {
+        "name": "Cheverly",
+        "slug": "cheverly-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Largo",
+    "slug": "largo-md",
+    "county": "Prince George's County",
+    "population": 11890,
+    "zip_codes": [
+      "20774"
+    ],
+    "landmarks": [
+      "University of Maryland Capital Region Medical Center",
+      "Largo Town Center Metro Station",
+      "Boulevard at the Capital Centre",
+      "Prince George's Community College",
+      "Lake Arbor Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Landover",
+        "slug": "landover-md"
+      },
+      {
+        "name": "Lake Arbor",
+        "slug": "lake-arbor-md"
+      },
+      {
+        "name": "Bowie",
+        "slug": "bowie-md"
+      },
+      {
+        "name": "Kettering",
+        "slug": "kettering-md"
+      },
+      {
+        "name": "Mitchellville",
+        "slug": "mitchellville-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "healthcare-government",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Laurel",
+    "slug": "laurel-md",
+    "county": "Prince George's County",
+    "population": 30380,
+    "zip_codes": [
+      "20707",
+      "20708",
+      "20723",
+      "20724",
+      "20725"
+    ],
+    "landmarks": [
+      "Historic Laurel Museum",
+      "Granville Gude Park",
+      "Laurel Park",
+      "Patuxent Research Refuge",
+      "Laurel Lakes Centre"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Beltsville",
+        "slug": "beltsville-md"
+      },
+      {
+        "name": "Burtonsville",
+        "slug": "burtonsville-md"
+      },
+      {
+        "name": "Columbia",
+        "slug": "columbia-md"
+      },
+      {
+        "name": "Elkridge",
+        "slug": "elkridge-md"
+      },
+      {
+        "name": "Greenbelt",
+        "slug": "greenbelt-md"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-retail",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-washington-corridor",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Lochearn",
+    "slug": "lochearn-md",
+    "county": "Baltimore County",
+    "population": 26610,
+    "zip_codes": [
+      "21207"
+    ],
+    "landmarks": [
+      "Milford Mill Park",
+      "Gwynn Oak Park",
+      "Dead Run Greenway",
+      "Woodmoor Shopping Center",
+      "Liberty Road Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Woodlawn",
+        "slug": "woodlawn-md"
+      },
+      {
+        "name": "Randallstown",
+        "slug": "randallstown-md"
+      },
+      {
+        "name": "Pikesville",
+        "slug": "pikesville-md"
+      },
+      {
+        "name": "Baltimore",
+        "slug": "baltimore-md"
+      },
+      {
+        "name": "Catonsville",
+        "slug": "catonsville-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Middle River",
+    "slug": "middle-river-md",
+    "county": "Baltimore County",
+    "population": 25890,
+    "zip_codes": [
+      "21220"
+    ],
+    "landmarks": [
+      "Martin State Airport",
+      "Wilson Point Park",
+      "Hawthorne Plaza",
+      "Bengies Drive-In Theatre",
+      "Eastern Regional Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Essex",
+        "slug": "essex-md"
+      },
+      {
+        "name": "Dundalk",
+        "slug": "dundalk-md"
+      },
+      {
+        "name": "White Marsh",
+        "slug": "white-marsh-md"
+      },
+      {
+        "name": "Rosedale",
+        "slug": "rosedale-md"
+      },
+      {
+        "name": "Bowleys Quarters",
+        "slug": "bowleys-quarters-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "aerospace-logistics",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Milford Mill",
+    "slug": "milford-mill-md",
+    "county": "Baltimore County",
+    "population": 30980,
+    "zip_codes": [
+      "21244"
+    ],
+    "landmarks": [
+      "Milford Mill Metro Station",
+      "Milford Mill Park",
+      "Liberty Road Corridor",
+      "Dead Run Stream Valley",
+      "Northwest Regional Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Randallstown",
+        "slug": "randallstown-md"
+      },
+      {
+        "name": "Woodlawn",
+        "slug": "woodlawn-md"
+      },
+      {
+        "name": "Pikesville",
+        "slug": "pikesville-md"
+      },
+      {
+        "name": "Lochearn",
+        "slug": "lochearn-md"
+      },
+      {
+        "name": "Baltimore",
+        "slug": "baltimore-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Montgomery Village",
+    "slug": "montgomery-village-md",
+    "county": "Montgomery County",
+    "population": 34520,
+    "zip_codes": [
+      "20877",
+      "20879",
+      "20886"
+    ],
+    "landmarks": [
+      "Lake Whetstone",
+      "South Valley Park",
+      "North Creek Community Center",
+      "Montgomery Village Golf Club",
+      "Watkins Mill Recreation Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gaithersburg",
+        "slug": "gaithersburg-md"
+      },
+      {
+        "name": "Germantown",
+        "slug": "germantown-md"
+      },
+      {
+        "name": "North Potomac",
+        "slug": "north-potomac-md"
+      },
+      {
+        "name": "Derwood",
+        "slug": "derwood-md"
+      },
+      {
+        "name": "Rockville",
+        "slug": "rockville-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "master-planned",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "North Bethesda",
+    "slug": "north-bethesda-md",
+    "county": "Montgomery County",
+    "population": 50140,
+    "zip_codes": [
+      "20852",
+      "20895"
+    ],
+    "landmarks": [
+      "Pike & Rose",
+      "Strathmore",
+      "White Flint Metro Station",
+      "Cabin John Regional Park",
+      "Montrose Crossing"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bethesda",
+        "slug": "bethesda-md"
+      },
+      {
+        "name": "Rockville",
+        "slug": "rockville-md"
+      },
+      {
+        "name": "North Potomac",
+        "slug": "north-potomac-md"
+      },
+      {
+        "name": "Kensington",
+        "slug": "kensington-md"
+      },
+      {
+        "name": "Garrett Park",
+        "slug": "garrett-park-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "technology-biotechnology",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "North Potomac",
+    "slug": "north-potomac-md",
+    "county": "Montgomery County",
+    "population": 24960,
+    "zip_codes": [
+      "20878"
+    ],
+    "landmarks": [
+      "Potomac Horse Center",
+      "Dufief Local Park",
+      "Travilah Square",
+      "Falls Road Golf Course",
+      "Muddy Branch Greenway"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Bethesda",
+        "slug": "north-bethesda-md"
+      },
+      {
+        "name": "Rockville",
+        "slug": "rockville-md"
+      },
+      {
+        "name": "Gaithersburg",
+        "slug": "gaithersburg-md"
+      },
+      {
+        "name": "Potomac",
+        "slug": "potomac-md"
+      },
+      {
+        "name": "Germantown",
+        "slug": "germantown-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "upscale-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Odenton",
+    "slug": "odenton-md",
+    "county": "Anne Arundel County",
+    "population": 43210,
+    "zip_codes": [
+      "21113"
+    ],
+    "landmarks": [
+      "Odenton MARC Station",
+      "Seven Oaks Park",
+      "Piney Orchard Nature Preserve",
+      "Patuxent Research Refuge",
+      "Odenton Regional Library"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Crofton",
+        "slug": "crofton-md"
+      },
+      {
+        "name": "Gambrills",
+        "slug": "gambrills-md"
+      },
+      {
+        "name": "Severn",
+        "slug": "severn-md"
+      },
+      {
+        "name": "Bowie",
+        "slug": "bowie-md"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-technology",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "baltimore-washington-corridor",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Olney",
+    "slug": "olney-md",
+    "county": "Montgomery County",
+    "population": 35820,
+    "zip_codes": [
+      "20832"
+    ],
+    "landmarks": [
+      "Olney Theatre Center",
+      "Olney Manor Recreational Park",
+      "Cherrywood Park",
+      "Sandy Spring Museum",
+      "Olney Town Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Aspen Hill",
+        "slug": "aspen-hill-md"
+      },
+      {
+        "name": "Rockville",
+        "slug": "rockville-md"
+      },
+      {
+        "name": "Gaithersburg",
+        "slug": "gaithersburg-md"
+      },
+      {
+        "name": "Damascus",
+        "slug": "damascus-md"
+      },
+      {
+        "name": "Burtonsville",
+        "slug": "burtonsville-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Owings Mills",
+    "slug": "owings-mills-md",
+    "county": "Baltimore County",
+    "population": 37190,
+    "zip_codes": [
+      "21117"
+    ],
+    "landmarks": [
+      "Metro Centre at Owings Mills",
+      "Foundry Row",
+      "Soldiers Delight Natural Environment Area",
+      "Owings Mills Metro Station",
+      "Baltimore Ravens Training Facility"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Randallstown",
+        "slug": "randallstown-md"
+      },
+      {
+        "name": "Reisterstown",
+        "slug": "reisterstown-md"
+      },
+      {
+        "name": "Pikesville",
+        "slug": "pikesville-md"
+      },
+      {
+        "name": "Milford Mill",
+        "slug": "milford-mill-md"
+      },
+      {
+        "name": "Eldersburg",
+        "slug": "eldersburg-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "finance-retail",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Oxon Hill",
+    "slug": "oxon-hill-md",
+    "county": "Prince George's County",
+    "population": 18640,
+    "zip_codes": [
+      "20745"
+    ],
+    "landmarks": [
+      "National Harbor",
+      "MGM National Harbor",
+      "Oxon Cove Park",
+      "Tanger Outlets National Harbor",
+      "Oxon Hill Manor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fort Washington",
+        "slug": "fort-washington-md"
+      },
+      {
+        "name": "Temple Hills",
+        "slug": "temple-hills-md"
+      },
+      {
+        "name": "Hillcrest Heights",
+        "slug": "hillcrest-heights-md"
+      },
+      {
+        "name": "Camp Springs",
+        "slug": "camp-springs-md"
+      },
+      {
+        "name": "Suitland",
+        "slug": "suitland-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-entertainment",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Parkville",
+    "slug": "parkville-md",
+    "county": "Baltimore County",
+    "population": 31740,
+    "zip_codes": [
+      "21234"
+    ],
+    "landmarks": [
+      "Double Rock Park",
+      "Parkville Shopping Center",
+      "Taylor Memorial Park",
+      "Harford Park",
+      "Loch Raven Boulevard"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Carney",
+        "slug": "carney-md"
+      },
+      {
+        "name": "Towson",
+        "slug": "towson-md"
+      },
+      {
+        "name": "Perry Hall",
+        "slug": "perry-hall-md"
+      },
+      {
+        "name": "Baltimore",
+        "slug": "baltimore-md"
+      },
+      {
+        "name": "Overlea",
+        "slug": "overlea-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Parole",
+    "slug": "parole-md",
+    "county": "Anne Arundel County",
+    "population": 18620,
+    "zip_codes": [
+      "21401"
+    ],
+    "landmarks": [
+      "Westfield Annapolis",
+      "Annapolis Towne Centre",
+      "Anne Arundel Medical Center",
+      "Broad Creek Park",
+      "Bestgate Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Annapolis",
+        "slug": "annapolis-md"
+      },
+      {
+        "name": "Arnold",
+        "slug": "arnold-md"
+      },
+      {
+        "name": "Edgewater",
+        "slug": "edgewater-md"
+      },
+      {
+        "name": "Crofton",
+        "slug": "crofton-md"
+      },
+      {
+        "name": "Severna Park",
+        "slug": "severna-park-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "annapolis-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Pasadena",
+    "slug": "pasadena-md",
+    "county": "Anne Arundel County",
+    "population": 30880,
+    "zip_codes": [
+      "21122"
+    ],
+    "landmarks": [
+      "Lake Waterford Park",
+      "Fort Smallwood Park",
+      "Compass Pointe Golf Courses",
+      "Chesapeake Arts Center",
+      "Tick Neck Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Glen Burnie",
+        "slug": "glen-burnie-md"
+      },
+      {
+        "name": "Severna Park",
+        "slug": "severna-park-md"
+      },
+      {
+        "name": "Arnold",
+        "slug": "arnold-md"
+      },
+      {
+        "name": "Annapolis",
+        "slug": "annapolis-md"
+      },
+      {
+        "name": "Lake Shore",
+        "slug": "lake-shore-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "chesapeake-bay",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Perry Hall",
+    "slug": "perry-hall-md",
+    "county": "Baltimore County",
+    "population": 29180,
+    "zip_codes": [
+      "21128"
+    ],
+    "landmarks": [
+      "Honeygo Regional Park",
+      "Perry Hall Mansion",
+      "Angel Park",
+      "Gunpowder Falls State Park",
+      "Honeygo Village Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Parkville",
+        "slug": "parkville-md"
+      },
+      {
+        "name": "White Marsh",
+        "slug": "white-marsh-md"
+      },
+      {
+        "name": "Carney",
+        "slug": "carney-md"
+      },
+      {
+        "name": "Middle River",
+        "slug": "middle-river-md"
+      },
+      {
+        "name": "Nottingham",
+        "slug": "nottingham-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Pikesville",
+    "slug": "pikesville-md",
+    "county": "Baltimore County",
+    "population": 34310,
+    "zip_codes": [
+      "21208"
+    ],
+    "landmarks": [
+      "Pikesville Armory",
+      "Milford Mill Metro Station",
+      "Woodholme Country Club",
+      "Robert E. Lee Park",
+      "Pikesville Library"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Owings Mills",
+        "slug": "owings-mills-md"
+      },
+      {
+        "name": "Milford Mill",
+        "slug": "milford-mill-md"
+      },
+      {
+        "name": "Lochearn",
+        "slug": "lochearn-md"
+      },
+      {
+        "name": "Randallstown",
+        "slug": "randallstown-md"
+      },
+      {
+        "name": "Baltimore",
+        "slug": "baltimore-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Potomac",
+    "slug": "potomac-md",
+    "county": "Montgomery County",
+    "population": 46960,
+    "zip_codes": [
+      "20854",
+      "20859"
+    ],
+    "landmarks": [
+      "Great Falls Park",
+      "Potomac Village",
+      "Falls Road Golf Course",
+      "Billy Goat Trail",
+      "Cabin John Regional Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Potomac",
+        "slug": "north-potomac-md"
+      },
+      {
+        "name": "Bethesda",
+        "slug": "bethesda-md"
+      },
+      {
+        "name": "Rockville",
+        "slug": "rockville-md"
+      },
+      {
+        "name": "North Bethesda",
+        "slug": "north-bethesda-md"
+      },
+      {
+        "name": "Gaithersburg",
+        "slug": "gaithersburg-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "upscale-suburban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Randallstown",
+    "slug": "randallstown-md",
+    "county": "Baltimore County",
+    "population": 34890,
+    "zip_codes": [
+      "21133"
+    ],
+    "landmarks": [
+      "Liberty Reservoir",
+      "Northwest Regional Park",
+      "Liberty Court Shopping Center",
+      "Randallstown Community Center",
+      "Patapsco Valley State Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Owings Mills",
+        "slug": "owings-mills-md"
+      },
+      {
+        "name": "Pikesville",
+        "slug": "pikesville-md"
+      },
+      {
+        "name": "Milford Mill",
+        "slug": "milford-mill-md"
+      },
+      {
+        "name": "Woodlawn",
+        "slug": "woodlawn-md"
+      },
+      {
+        "name": "Eldersburg",
+        "slug": "eldersburg-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Redland",
+    "slug": "redland-md",
+    "county": "Montgomery County",
+    "population": 18040,
+    "zip_codes": [
+      "20855",
+      "20850"
+    ],
+    "landmarks": [
+      "Shady Grove Metro Station",
+      "King Farm Park",
+      "Needwood Golf Course",
+      "Rock Creek Regional Park",
+      "Shady Grove Medical Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Rockville",
+        "slug": "rockville-md"
+      },
+      {
+        "name": "Derwood",
+        "slug": "derwood-md"
+      },
+      {
+        "name": "Gaithersburg",
+        "slug": "gaithersburg-md"
+      },
+      {
+        "name": "North Potomac",
+        "slug": "north-potomac-md"
+      },
+      {
+        "name": "Montgomery Village",
+        "slug": "montgomery-village-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "healthcare-technology",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Rockville",
+    "slug": "rockville-md",
+    "county": "Montgomery County",
+    "population": 67910,
+    "zip_codes": [
+      "20850",
+      "20851",
+      "20852",
+      "20853",
+      "20854",
+      "20855"
+    ],
+    "landmarks": [
+      "Rockville Town Square",
+      "Rock Creek Regional Park",
+      "Civic Center Park",
+      "Glenview Mansion",
+      "Rockville Metro Station"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gaithersburg",
+        "slug": "gaithersburg-md"
+      },
+      {
+        "name": "North Bethesda",
+        "slug": "north-bethesda-md"
+      },
+      {
+        "name": "North Potomac",
+        "slug": "north-potomac-md"
+      },
+      {
+        "name": "Potomac",
+        "slug": "potomac-md"
+      },
+      {
+        "name": "Redland",
+        "slug": "redland-md"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "technology-biotechnology",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Rosedale",
+    "slug": "rosedale-md",
+    "county": "Baltimore County",
+    "population": 20470,
+    "zip_codes": [
+      "21237"
+    ],
+    "landmarks": [
+      "Golden Ring Mall Area",
+      "Rosedale Park",
+      "White Marsh Boulevard",
+      "Redhouse Run Park",
+      "Overlea Athletic Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Essex",
+        "slug": "essex-md"
+      },
+      {
+        "name": "Middle River",
+        "slug": "middle-river-md"
+      },
+      {
+        "name": "Baltimore",
+        "slug": "baltimore-md"
+      },
+      {
+        "name": "Parkville",
+        "slug": "parkville-md"
+      },
+      {
+        "name": "White Marsh",
+        "slug": "white-marsh-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-logistics",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Salisbury",
+    "slug": "salisbury-md",
+    "county": "Wicomico County",
+    "population": 33340,
+    "zip_codes": [
+      "21801",
+      "21802",
+      "21804"
+    ],
+    "landmarks": [
+      "Salisbury University",
+      "Salisbury Zoo",
+      "Downtown Salisbury",
+      "Pemberton Historical Park",
+      "Wicomico River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fruitland",
+        "slug": "fruitland-md"
+      },
+      {
+        "name": "Delmar",
+        "slug": "delmar-md"
+      },
+      {
+        "name": "Princess Anne",
+        "slug": "princess-anne-md"
+      },
+      {
+        "name": "Berlin",
+        "slug": "berlin-md"
+      },
+      {
+        "name": "Ocean Pines",
+        "slug": "ocean-pines-md"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "education-healthcare",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastern-shore",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Severn",
+    "slug": "severn-md",
+    "county": "Anne Arundel County",
+    "population": 53240,
+    "zip_codes": [
+      "21144"
+    ],
+    "landmarks": [
+      "Severn-Danza Park",
+      "Jessup-Provinces Park",
+      "Meade Village Park",
+      "Severn Run Natural Environment Area",
+      "Arundel Mills"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Odenton",
+        "slug": "odenton-md"
+      },
+      {
+        "name": "Glen Burnie",
+        "slug": "glen-burnie-md"
+      },
+      {
+        "name": "Hanover",
+        "slug": "hanover-md"
+      },
+      {
+        "name": "Jessup",
+        "slug": "jessup-md"
+      },
+      {
+        "name": "Fort Meade",
+        "slug": "fort-meade-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-logistics",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-washington-corridor",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Severna Park",
+    "slug": "severna-park-md",
+    "county": "Anne Arundel County",
+    "population": 39310,
+    "zip_codes": [
+      "21146"
+    ],
+    "landmarks": [
+      "B&A Trail",
+      "Kinder Farm Park",
+      "Severna Park Golf Center",
+      "Severna Park Community Center",
+      "Cypress Creek Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pasadena",
+        "slug": "pasadena-md"
+      },
+      {
+        "name": "Arnold",
+        "slug": "arnold-md"
+      },
+      {
+        "name": "Annapolis",
+        "slug": "annapolis-md"
+      },
+      {
+        "name": "Parole",
+        "slug": "parole-md"
+      },
+      {
+        "name": "Glen Burnie",
+        "slug": "glen-burnie-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "chesapeake-bay",
+    "economy_type": "professional-services",
+    "housing_profile": "upscale-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "annapolis-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Silver Spring",
+    "slug": "silver-spring-md",
+    "county": "Montgomery County",
+    "population": 81800,
+    "zip_codes": [
+      "20901",
+      "20902",
+      "20903",
+      "20904",
+      "20905",
+      "20906",
+      "20910"
+    ],
+    "landmarks": [
+      "Downtown Silver Spring",
+      "AFI Silver Theatre",
+      "The Fillmore Silver Spring",
+      "Sligo Creek Park",
+      "Acorn Urban Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Takoma Park",
+        "slug": "takoma-park-md"
+      },
+      {
+        "name": "Wheaton",
+        "slug": "wheaton-md"
+      },
+      {
+        "name": "Aspen Hill",
+        "slug": "aspen-hill-md"
+      },
+      {
+        "name": "Colesville",
+        "slug": "colesville-md"
+      },
+      {
+        "name": "Bethesda",
+        "slug": "bethesda-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "government-technology",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Suitland",
+    "slug": "suitland-md",
+    "county": "Prince George's County",
+    "population": 25210,
+    "zip_codes": [
+      "20746"
+    ],
+    "landmarks": [
+      "Suitland Federal Center",
+      "Suitland Metro Station",
+      "Smithsonian Museum Support Center",
+      "Suitland Bog Natural Area",
+      "Suitland Community Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Camp Springs",
+        "slug": "camp-springs-md"
+      },
+      {
+        "name": "District Heights",
+        "slug": "district-heights-md"
+      },
+      {
+        "name": "Hillcrest Heights",
+        "slug": "hillcrest-heights-md"
+      },
+      {
+        "name": "Temple Hills",
+        "slug": "temple-hills-md"
+      },
+      {
+        "name": "Forestville",
+        "slug": "forestville-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Takoma Park",
+    "slug": "takoma-park-md",
+    "county": "Montgomery County",
+    "population": 17740,
+    "zip_codes": [
+      "20912"
+    ],
+    "landmarks": [
+      "Takoma Urban Park",
+      "Takoma Junction",
+      "Sligo Creek Trail",
+      "Old Takoma Historic District",
+      "Takoma Park Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Silver Spring",
+        "slug": "silver-spring-md"
+      },
+      {
+        "name": "Chillum",
+        "slug": "chillum-md"
+      },
+      {
+        "name": "Hyattsville",
+        "slug": "hyattsville-md"
+      },
+      {
+        "name": "Langley Park",
+        "slug": "langley-park-md"
+      },
+      {
+        "name": "Adelphi",
+        "slug": "adelphi-md"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "arts-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Temple Hills",
+    "slug": "temple-hills-md",
+    "county": "Prince George's County",
+    "population": 8840,
+    "zip_codes": [
+      "20748"
+    ],
+    "landmarks": [
+      "Iverson Mall",
+      "Marlow Heights Shopping Center",
+      "Temple Hills Community Center",
+      "Henson Creek Trail",
+      "Temple Hills Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Suitland",
+        "slug": "suitland-md"
+      },
+      {
+        "name": "Hillcrest Heights",
+        "slug": "hillcrest-heights-md"
+      },
+      {
+        "name": "Camp Springs",
+        "slug": "camp-springs-md"
+      },
+      {
+        "name": "Oxon Hill",
+        "slug": "oxon-hill-md"
+      },
+      {
+        "name": "Fort Washington",
+        "slug": "fort-washington-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Towson",
+    "slug": "towson-md",
+    "county": "Baltimore County",
+    "population": 59470,
+    "zip_codes": [
+      "21204",
+      "21252",
+      "21286"
+    ],
+    "landmarks": [
+      "Towson University",
+      "Towson Town Center",
+      "Hampton National Historic Site",
+      "Goucher College",
+      "Towson Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Parkville",
+        "slug": "parkville-md"
+      },
+      {
+        "name": "Carney",
+        "slug": "carney-md"
+      },
+      {
+        "name": "Cockeysville",
+        "slug": "cockeysville-md"
+      },
+      {
+        "name": "Pikesville",
+        "slug": "pikesville-md"
+      },
+      {
+        "name": "Baltimore",
+        "slug": "baltimore-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "education-government",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Waldorf",
+    "slug": "waldorf-md",
+    "county": "Charles County",
+    "population": 81850,
+    "zip_codes": [
+      "20601",
+      "20602",
+      "20603"
+    ],
+    "landmarks": [
+      "St. Charles Towne Center",
+      "Regency Furniture Stadium",
+      "White Plains Regional Park",
+      "Blue Crabs Stadium",
+      "Capital Clubhouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "La Plata",
+        "slug": "la-plata-md"
+      },
+      {
+        "name": "Brandywine",
+        "slug": "brandywine-md"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-md"
+      },
+      {
+        "name": "Accokeek",
+        "slug": "accokeek-md"
+      },
+      {
+        "name": "Fort Washington",
+        "slug": "fort-washington-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-healthcare",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "southern-maryland",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Westminster",
+    "slug": "westminster-md",
+    "county": "Carroll County",
+    "population": 19840,
+    "zip_codes": [
+      "21157",
+      "21158"
+    ],
+    "landmarks": [
+      "McDaniel College",
+      "Carroll County Farm Museum",
+      "Westminster City Park",
+      "Hashawha Environmental Center",
+      "Downtown Westminster"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Eldersburg",
+        "slug": "eldersburg-md"
+      },
+      {
+        "name": "Hampstead",
+        "slug": "hampstead-md"
+      },
+      {
+        "name": "Taneytown",
+        "slug": "taneytown-md"
+      },
+      {
+        "name": "Manchester",
+        "slug": "manchester-md"
+      },
+      {
+        "name": "Sykesville",
+        "slug": "sykesville-md"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "education-government",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-maryland",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Wheaton",
+    "slug": "wheaton-md",
+    "county": "Montgomery County",
+    "population": 53570,
+    "zip_codes": [
+      "20902"
+    ],
+    "landmarks": [
+      "Westfield Wheaton",
+      "Brookside Gardens",
+      "Wheaton Regional Park",
+      "Wheaton Metro Station",
+      "Wheaton Library"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Silver Spring",
+        "slug": "silver-spring-md"
+      },
+      {
+        "name": "Aspen Hill",
+        "slug": "aspen-hill-md"
+      },
+      {
+        "name": "Kensington",
+        "slug": "kensington-md"
+      },
+      {
+        "name": "Rockville",
+        "slug": "rockville-md"
+      },
+      {
+        "name": "Takoma Park",
+        "slug": "takoma-park-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "washington-dc-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "White Marsh",
+    "slug": "white-marsh-md",
+    "county": "Baltimore County",
+    "population": 10480,
+    "zip_codes": [
+      "21162",
+      "21236"
+    ],
+    "landmarks": [
+      "White Marsh Mall",
+      "The Avenue at White Marsh",
+      "Honeygo Run Regional Park",
+      "White Marsh Park",
+      "IKEA Baltimore"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Perry Hall",
+        "slug": "perry-hall-md"
+      },
+      {
+        "name": "Middle River",
+        "slug": "middle-river-md"
+      },
+      {
+        "name": "Rosedale",
+        "slug": "rosedale-md"
+      },
+      {
+        "name": "Parkville",
+        "slug": "parkville-md"
+      },
+      {
+        "name": "Nottingham",
+        "slug": "nottingham-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-logistics",
+    "housing_profile": "suburban-commercial",
+    "growth_pattern": "steady-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  },
+  {
+    "city": "Woodlawn",
+    "slug": "woodlawn-md",
+    "county": "Baltimore County",
+    "population": 38840,
+    "zip_codes": [
+      "21207",
+      "21244"
+    ],
+    "landmarks": [
+      "Social Security Administration Headquarters",
+      "Security Square Mall",
+      "Patapsco Valley State Park",
+      "Woodlawn Memorial Park",
+      "Rutherford Business Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Catonsville",
+        "slug": "catonsville-md"
+      },
+      {
+        "name": "Milford Mill",
+        "slug": "milford-mill-md"
+      },
+      {
+        "name": "Randallstown",
+        "slug": "randallstown-md"
+      },
+      {
+        "name": "Pikesville",
+        "slug": "pikesville-md"
+      },
+      {
+        "name": "Baltimore",
+        "slug": "baltimore-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "government-professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "baltimore-metro",
+    "property_mix": "mixed-use",
+    "state": "MD"
+  }
+]

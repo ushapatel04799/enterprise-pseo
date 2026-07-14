@@ -1,0 +1,1388 @@
+[
+  {
+    "city": "Ashland",
+    "slug": "ashland-ky",
+    "county": "Boyd County",
+    "population": 21000,
+    "zip_codes": [
+      "41101",
+      "41102",
+      "41105"
+    ],
+    "landmarks": [
+      "Central Park",
+      "Paramount Arts Center",
+      "Ashland Town Center",
+      "Ohio River Waterfront",
+      "Highlands Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Russell",
+        "slug": "russell-ky"
+      },
+      {
+        "name": "Flatwoods",
+        "slug": "flatwoods-ky"
+      },
+      {
+        "name": "Huntington",
+        "slug": "huntington-wv"
+      },
+      {
+        "name": "Ironton",
+        "slug": "ironton-oh"
+      },
+      {
+        "name": "Catlettsburg",
+        "slug": "catlettsburg-ky"
+      }
+    ],
+    "city_type": "riverfront-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-valley",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "eastern-kentucky-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Bowling Green",
+    "slug": "bowling-green-ky",
+    "county": "Warren County",
+    "population": 76000,
+    "zip_codes": [
+      "42101",
+      "42102",
+      "42103",
+      "42104"
+    ],
+    "landmarks": [
+      "Western Kentucky University",
+      "National Corvette Museum",
+      "Lost River Cave",
+      "Fountain Square Park",
+      "Beech Bend Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Glasgow",
+        "slug": "glasgow-ky"
+      },
+      {
+        "name": "Franklin",
+        "slug": "franklin-ky"
+      },
+      {
+        "name": "Scottsville",
+        "slug": "scottsville-ky"
+      },
+      {
+        "name": "Russellville",
+        "slug": "russellville-ky"
+      },
+      {
+        "name": "Portland",
+        "slug": "portland-tn"
+      }
+    ],
+    "city_type": "regional-hub-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "manufacturing-education",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "south-central-kentucky-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Covington",
+    "slug": "covington-ky",
+    "county": "Kenton County",
+    "population": 40000,
+    "zip_codes": [
+      "41011",
+      "41014",
+      "41015"
+    ],
+    "landmarks": [
+      "Roebling Bridge",
+      "MainStrasse Village",
+      "Covington Riverfront",
+      "Devou Park",
+      "Madison Theater"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Newport",
+        "slug": "newport-ky"
+      },
+      {
+        "name": "Florence",
+        "slug": "florence-ky"
+      },
+      {
+        "name": "Cincinnati",
+        "slug": "cincinnati-oh"
+      },
+      {
+        "name": "Fort Thomas",
+        "slug": "fort-thomas-ky"
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-ky"
+      }
+    ],
+    "city_type": "metro-riverfront-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-bluffs",
+    "economy_type": "finance-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "cincinnati-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Elizabethtown",
+    "slug": "elizabethtown-ky",
+    "county": "Hardin County",
+    "population": 32000,
+    "zip_codes": [
+      "42701",
+      "42702"
+    ],
+    "landmarks": [
+      "Freeman Lake Park",
+      "Historic Downtown Elizabethtown",
+      "Hardin County History Museum",
+      "American Legion Park",
+      "Towne Mall Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Radcliff",
+        "slug": "radcliff-ky"
+      },
+      {
+        "name": "Fort Knox",
+        "slug": "fort-knox-ky"
+      },
+      {
+        "name": "Louisville",
+        "slug": "louisville-ky"
+      },
+      {
+        "name": "Bardstown",
+        "slug": "bardstown-ky"
+      },
+      {
+        "name": "Lebanon Junction",
+        "slug": "lebanon-junction-ky"
+      }
+    ],
+    "city_type": "regional-service-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "logistics-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-kentucky-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Florence",
+    "slug": "florence-ky",
+    "county": "Boone County",
+    "population": 33000,
+    "zip_codes": [
+      "41042"
+    ],
+    "landmarks": [
+      "Florence Mall",
+      "World of Golf",
+      "Florence Nature Park",
+      "UC Health Stadium",
+      "Downtown Florence"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Covington",
+        "slug": "covington-ky"
+      },
+      {
+        "name": "Newport",
+        "slug": "newport-ky"
+      },
+      {
+        "name": "Erlanger",
+        "slug": "erlanger-ky"
+      },
+      {
+        "name": "Cincinnati",
+        "slug": "cincinnati-oh"
+      },
+      {
+        "name": "Union",
+        "slug": "union-ky"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "retail-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "high-growth",
+    "service_environment": "cincinnati-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Georgetown",
+    "slug": "georgetown-ky",
+    "county": "Scott County",
+    "population": 39000,
+    "zip_codes": [
+      "40324"
+    ],
+    "landmarks": [
+      "Toyota Motor Manufacturing Kentucky",
+      "Georgetown College",
+      "Yuko-En on the Elkhorn",
+      "Royal Spring Park",
+      "Historic Downtown Georgetown"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lexington",
+        "slug": "lexington-ky"
+      },
+      {
+        "name": "Frankfort",
+        "slug": "frankfort-ky"
+      },
+      {
+        "name": "Paris",
+        "slug": "paris-ky"
+      },
+      {
+        "name": "Nicholasville",
+        "slug": "nicholasville-ky"
+      },
+      {
+        "name": "Midway",
+        "slug": "midway-ky"
+      }
+    ],
+    "city_type": "manufacturing-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "bluegrass-region",
+    "economy_type": "automotive-manufacturing",
+    "housing_profile": "family-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "lexington-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Henderson",
+    "slug": "henderson-ky",
+    "county": "Henderson County",
+    "population": 28000,
+    "zip_codes": [
+      "42420"
+    ],
+    "landmarks": [
+      "Audubon State Park",
+      "Ohio River Waterfront",
+      "John James Audubon Museum",
+      "Atkinson Park",
+      "Downtown Henderson"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Owensboro",
+        "slug": "owensboro-ky"
+      },
+      {
+        "name": "Evansville",
+        "slug": "evansville-in"
+      },
+      {
+        "name": "Morganfield",
+        "slug": "morganfield-ky"
+      },
+      {
+        "name": "Madisonville",
+        "slug": "madisonville-ky"
+      },
+      {
+        "name": "Newburgh",
+        "slug": "newburgh-in"
+      }
+    ],
+    "city_type": "riverfront-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-valley",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "western-kentucky-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Hopkinsville",
+    "slug": "hopkinsville-ky",
+    "county": "Christian County",
+    "population": 31000,
+    "zip_codes": [
+      "42240",
+      "42241"
+    ],
+    "landmarks": [
+      "Trail of Tears Park",
+      "Jeffers Bend Environmental Center",
+      "Pennyroyal Area Museum",
+      "Downtown Hopkinsville",
+      "Tie Breaker Family Aquatic Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Clarksville",
+        "slug": "clarksville-tn"
+      },
+      {
+        "name": "Fort Campbell",
+        "slug": "fort-campbell-ky"
+      },
+      {
+        "name": "Cadiz",
+        "slug": "cadiz-ky"
+      },
+      {
+        "name": "Murray",
+        "slug": "murray-ky"
+      },
+      {
+        "name": "Elkton",
+        "slug": "elkton-ky"
+      }
+    ],
+    "city_type": "military-support-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "military-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southwest-kentucky-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Jeffersontown",
+    "slug": "jeffersontown-ky",
+    "county": "Jefferson County",
+    "population": 29000,
+    "zip_codes": [
+      "40220",
+      "40222",
+      "40299"
+    ],
+    "landmarks": [
+      "Bluegrass Commerce Park",
+      "Veterans Memorial Park",
+      "Jeffersontown Historic District",
+      "Skyview Park",
+      "The Gaslight Square"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Louisville",
+        "slug": "louisville-ky"
+      },
+      {
+        "name": "Middletown",
+        "slug": "middletown-ky"
+      },
+      {
+        "name": "St. Matthews",
+        "slug": "st-matthews-ky"
+      },
+      {
+        "name": "Lyndon",
+        "slug": "lyndon-ky"
+      },
+      {
+        "name": "Shelbyville",
+        "slug": "shelbyville-ky"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "commerce-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "metro-growth",
+    "service_environment": "louisville-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Lexington",
+    "slug": "lexington-ky",
+    "county": "Fayette County",
+    "population": 325000,
+    "zip_codes": [
+      "40502",
+      "40503",
+      "40504",
+      "40505",
+      "40509"
+    ],
+    "landmarks": [
+      "University of Kentucky",
+      "Keeneland Race Course",
+      "Kentucky Horse Park",
+      "Rupp Arena",
+      "Arboretum State Botanical Garden"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Georgetown",
+        "slug": "georgetown-ky"
+      },
+      {
+        "name": "Nicholasville",
+        "slug": "nicholasville-ky"
+      },
+      {
+        "name": "Frankfort",
+        "slug": "frankfort-ky"
+      },
+      {
+        "name": "Paris",
+        "slug": "paris-ky"
+      },
+      {
+        "name": "Richmond",
+        "slug": "richmond-ky"
+      }
+    ],
+    "city_type": "major-metro-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "bluegrass-region",
+    "economy_type": "education-healthcare",
+    "housing_profile": "urban-high-density",
+    "growth_pattern": "metro-growth",
+    "service_environment": "lexington-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Louisville",
+    "slug": "louisville-ky",
+    "county": "Jefferson County",
+    "population": 620000,
+    "zip_codes": [
+      "40202",
+      "40203",
+      "40204",
+      "40205",
+      "40206",
+      "40207"
+    ],
+    "landmarks": [
+      "Churchill Downs",
+      "Louisville Slugger Museum",
+      "Waterfront Park",
+      "Kentucky Exposition Center",
+      "Muhammad Ali Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jeffersontown",
+        "slug": "jeffersontown-ky"
+      },
+      {
+        "name": "St. Matthews",
+        "slug": "st-matthews-ky"
+      },
+      {
+        "name": "Lyndon",
+        "slug": "lyndon-ky"
+      },
+      {
+        "name": "Middletown",
+        "slug": "middletown-ky"
+      },
+      {
+        "name": "New Albany",
+        "slug": "new-albany-in"
+      }
+    ],
+    "city_type": "major-metro-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-valley",
+    "economy_type": "healthcare-logistics",
+    "housing_profile": "urban-high-density",
+    "growth_pattern": "metro-growth",
+    "service_environment": "louisville-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Newport",
+    "slug": "newport-ky",
+    "county": "Campbell County",
+    "population": 23000,
+    "zip_codes": [
+      "41071"
+    ],
+    "landmarks": [
+      "Newport Aquarium",
+      "Newport on the Levee",
+      "General James Taylor Park",
+      "Purple People Bridge",
+      "Newport Riverfront"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Covington",
+        "slug": "covington-ky"
+      },
+      {
+        "name": "Florence",
+        "slug": "florence-ky"
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-ky"
+      },
+      {
+        "name": "Fort Thomas",
+        "slug": "fort-thomas-ky"
+      },
+      {
+        "name": "Cincinnati",
+        "slug": "cincinnati-oh"
+      }
+    ],
+    "city_type": "riverfront-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-bluffs",
+    "economy_type": "tourism-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "cincinnati-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Nicholasville",
+    "slug": "nicholasville-ky",
+    "county": "Jessamine County",
+    "population": 33000,
+    "zip_codes": [
+      "40356"
+    ],
+    "landmarks": [
+      "Lake Mingo Park",
+      "Riney B Aquatic Center",
+      "Downtown Nicholasville",
+      "City County Park",
+      "Camp Nelson National Monument"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lexington",
+        "slug": "lexington-ky"
+      },
+      {
+        "name": "Georgetown",
+        "slug": "georgetown-ky"
+      },
+      {
+        "name": "Richmond",
+        "slug": "richmond-ky"
+      },
+      {
+        "name": "Versailles",
+        "slug": "versailles-ky"
+      },
+      {
+        "name": "Wilmore",
+        "slug": "wilmore-ky"
+      }
+    ],
+    "city_type": "growth-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "bluegrass-region",
+    "economy_type": "services-retail",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "lexington-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Owensboro",
+    "slug": "owensboro-ky",
+    "county": "Daviess County",
+    "population": 60000,
+    "zip_codes": [
+      "42301",
+      "42303"
+    ],
+    "landmarks": [
+      "Smothers Park",
+      "Owensboro Convention Center",
+      "Bluegrass Music Hall of Fame",
+      "Legion Park",
+      "Owensboro Riverfront"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Henderson",
+        "slug": "henderson-ky"
+      },
+      {
+        "name": "Madisonville",
+        "slug": "madisonville-ky"
+      },
+      {
+        "name": "Beaver Dam",
+        "slug": "beaver-dam-ky"
+      },
+      {
+        "name": "Evansville",
+        "slug": "evansville-in"
+      },
+      {
+        "name": "Tell City",
+        "slug": "tell-city-in"
+      }
+    ],
+    "city_type": "regional-hub-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-valley",
+    "economy_type": "healthcare-manufacturing",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "western-kentucky-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Paducah",
+    "slug": "paducah-ky",
+    "county": "McCracken County",
+    "population": 27000,
+    "zip_codes": [
+      "42001",
+      "42003"
+    ],
+    "landmarks": [
+      "National Quilt Museum",
+      "Paducah Riverwalk",
+      "Lower Town Arts District",
+      "Bob Noble Park",
+      "Floodwall Murals"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Murray",
+        "slug": "murray-ky"
+      },
+      {
+        "name": "Mayfield",
+        "slug": "mayfield-ky"
+      },
+      {
+        "name": "Metropolis",
+        "slug": "metropolis-il"
+      },
+      {
+        "name": "Benton",
+        "slug": "benton-ky"
+      },
+      {
+        "name": "Calvert City",
+        "slug": "calvert-city-ky"
+      }
+    ],
+    "city_type": "riverfront-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-valley",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "western-kentucky-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Erlanger",
+    "slug": "erlanger-ky",
+    "county": "Kenton County",
+    "population": 20000,
+    "zip_codes": [
+      "41018"
+    ],
+    "landmarks": [
+      "Silver Lake Park",
+      "Erlanger City Park",
+      "Flagship Park",
+      "Railroad Depot Park",
+      "Thomas More Stadium Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Florence",
+        "slug": "florence-ky"
+      },
+      {
+        "name": "Covington",
+        "slug": "covington-ky"
+      },
+      {
+        "name": "Newport",
+        "slug": "newport-ky"
+      },
+      {
+        "name": "Independence",
+        "slug": "independence-ky"
+      },
+      {
+        "name": "Cincinnati",
+        "slug": "cincinnati-oh"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "healthcare-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "metro-growth",
+    "service_environment": "cincinnati-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Frankfort",
+    "slug": "frankfort-ky",
+    "county": "Franklin County",
+    "population": 29000,
+    "zip_codes": [
+      "40601"
+    ],
+    "landmarks": [
+      "Kentucky State Capitol",
+      "Buffalo Trace Distillery",
+      "Kentucky History Center",
+      "River View Park",
+      "Downtown Frankfort"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lexington",
+        "slug": "lexington-ky"
+      },
+      {
+        "name": "Georgetown",
+        "slug": "georgetown-ky"
+      },
+      {
+        "name": "Versailles",
+        "slug": "versailles-ky"
+      },
+      {
+        "name": "Shelbyville",
+        "slug": "shelbyville-ky"
+      },
+      {
+        "name": "Lawrenceburg",
+        "slug": "lawrenceburg-ky"
+      }
+    ],
+    "city_type": "state-capital-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-valley",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-kentucky-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Independence",
+    "slug": "independence-ky",
+    "county": "Kenton County",
+    "population": 29000,
+    "zip_codes": [
+      "41051"
+    ],
+    "landmarks": [
+      "Memorial Park",
+      "England-Idlewild Park",
+      "Lincoln Ridge Park",
+      "Historic Independence Square",
+      "Veterans Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Erlanger",
+        "slug": "erlanger-ky"
+      },
+      {
+        "name": "Florence",
+        "slug": "florence-ky"
+      },
+      {
+        "name": "Covington",
+        "slug": "covington-ky"
+      },
+      {
+        "name": "Newport",
+        "slug": "newport-ky"
+      },
+      {
+        "name": "Union",
+        "slug": "union-ky"
+      }
+    ],
+    "city_type": "growth-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "cincinnati-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Lyndon",
+    "slug": "lyndon-ky",
+    "county": "Jefferson County",
+    "population": 23000,
+    "zip_codes": [
+      "40222"
+    ],
+    "landmarks": [
+      "Robsion Park",
+      "Robsion Community Center",
+      "Lyndon City Hall Plaza",
+      "Beargrass Creek Corridor",
+      "Oxmoor Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Louisville",
+        "slug": "louisville-ky"
+      },
+      {
+        "name": "St. Matthews",
+        "slug": "st-matthews-ky"
+      },
+      {
+        "name": "Jeffersontown",
+        "slug": "jeffersontown-ky"
+      },
+      {
+        "name": "Middletown",
+        "slug": "middletown-ky"
+      },
+      {
+        "name": "Anchorage",
+        "slug": "anchorage-ky"
+      }
+    ],
+    "city_type": "metro-suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "retail-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "metro-growth",
+    "service_environment": "louisville-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Middletown",
+    "slug": "middletown-ky",
+    "county": "Jefferson County",
+    "population": 21000,
+    "zip_codes": [
+      "40243"
+    ],
+    "landmarks": [
+      "Middletown City Hall",
+      "Wetherby Park",
+      "Eastern High School Complex",
+      "Aiken Road Corridor",
+      "Middletown Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Louisville",
+        "slug": "louisville-ky"
+      },
+      {
+        "name": "Jeffersontown",
+        "slug": "jeffersontown-ky"
+      },
+      {
+        "name": "Lyndon",
+        "slug": "lyndon-ky"
+      },
+      {
+        "name": "St. Matthews",
+        "slug": "st-matthews-ky"
+      },
+      {
+        "name": "Shelbyville",
+        "slug": "shelbyville-ky"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "services-commerce",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "louisville-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Radcliff",
+    "slug": "radcliff-ky",
+    "county": "Hardin County",
+    "population": 25000,
+    "zip_codes": [
+      "40160"
+    ],
+    "landmarks": [
+      "Saunders Springs Nature Preserve",
+      "Radcliff Veterans Center",
+      "Boundary Oak Distillery",
+      "Millennium Park",
+      "North Hardin Memorial Gardens"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Elizabethtown",
+        "slug": "elizabethtown-ky"
+      },
+      {
+        "name": "Fort Knox",
+        "slug": "fort-knox-ky"
+      },
+      {
+        "name": "Louisville",
+        "slug": "louisville-ky"
+      },
+      {
+        "name": "Vine Grove",
+        "slug": "vine-grove-ky"
+      },
+      {
+        "name": "Brandenburg",
+        "slug": "brandenburg-ky"
+      }
+    ],
+    "city_type": "military-support-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "military-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-kentucky-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Richmond",
+    "slug": "richmond-ky",
+    "county": "Madison County",
+    "population": 37000,
+    "zip_codes": [
+      "40475"
+    ],
+    "landmarks": [
+      "Eastern Kentucky University",
+      "Lake Reba Park",
+      "EKU Center for the Arts",
+      "Downtown Richmond",
+      "Battle of Richmond Visitor Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lexington",
+        "slug": "lexington-ky"
+      },
+      {
+        "name": "Nicholasville",
+        "slug": "nicholasville-ky"
+      },
+      {
+        "name": "Berea",
+        "slug": "berea-ky"
+      },
+      {
+        "name": "Winchester",
+        "slug": "winchester-ky"
+      },
+      {
+        "name": "Lancaster",
+        "slug": "lancaster-ky"
+      }
+    ],
+    "city_type": "university-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "bluegrass-region",
+    "economy_type": "education-healthcare",
+    "housing_profile": "student-professional-mix",
+    "growth_pattern": "institutional-growth",
+    "service_environment": "lexington-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "St. Matthews",
+    "slug": "st-matthews-ky",
+    "county": "Jefferson County",
+    "population": 18000,
+    "zip_codes": [
+      "40207"
+    ],
+    "landmarks": [
+      "Mall St. Matthews",
+      "Brown Park",
+      "Seneca Park",
+      "St. Matthews Community Center",
+      "Chenoweth Square"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Louisville",
+        "slug": "louisville-ky"
+      },
+      {
+        "name": "Lyndon",
+        "slug": "lyndon-ky"
+      },
+      {
+        "name": "Jeffersontown",
+        "slug": "jeffersontown-ky"
+      },
+      {
+        "name": "Middletown",
+        "slug": "middletown-ky"
+      },
+      {
+        "name": "Anchorage",
+        "slug": "anchorage-ky"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "louisville-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Winchester",
+    "slug": "winchester-ky",
+    "county": "Clark County",
+    "population": 20000,
+    "zip_codes": [
+      "40391"
+    ],
+    "landmarks": [
+      "Bluegrass Heritage Museum",
+      "College Park",
+      "Downtown Winchester",
+      "Legacy Grove Park",
+      "Clark County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lexington",
+        "slug": "lexington-ky"
+      },
+      {
+        "name": "Richmond",
+        "slug": "richmond-ky"
+      },
+      {
+        "name": "Georgetown",
+        "slug": "georgetown-ky"
+      },
+      {
+        "name": "Mount Sterling",
+        "slug": "mount-sterling-ky"
+      },
+      {
+        "name": "Paris",
+        "slug": "paris-ky"
+      }
+    ],
+    "city_type": "regional-service-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "bluegrass-region",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "lexington-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Berea",
+    "slug": "berea-ky",
+    "county": "Madison County",
+    "population": 24000,
+    "zip_codes": [
+      "40403",
+      "40404"
+    ],
+    "landmarks": [
+      "Berea College",
+      "Boone Tavern",
+      "Pinnacles Trail",
+      "Old Town Artisan Village",
+      "Berea Welcome Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Richmond",
+        "slug": "richmond-ky"
+      },
+      {
+        "name": "Lexington",
+        "slug": "lexington-ky"
+      },
+      {
+        "name": "Lancaster",
+        "slug": "lancaster-ky"
+      },
+      {
+        "name": "Danville",
+        "slug": "danville-ky"
+      },
+      {
+        "name": "London",
+        "slug": "london-ky"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "foothills",
+    "economy_type": "education-tourism",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-kentucky-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Danville",
+    "slug": "danville-ky",
+    "county": "Boyle County",
+    "population": 18000,
+    "zip_codes": [
+      "40422"
+    ],
+    "landmarks": [
+      "Centre College",
+      "Constitution Square",
+      "Norton Center for the Arts",
+      "Millennium Park",
+      "Downtown Danville"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Berea",
+        "slug": "berea-ky"
+      },
+      {
+        "name": "Nicholasville",
+        "slug": "nicholasville-ky"
+      },
+      {
+        "name": "Lexington",
+        "slug": "lexington-ky"
+      },
+      {
+        "name": "Harrodsburg",
+        "slug": "harrodsburg-ky"
+      },
+      {
+        "name": "Lancaster",
+        "slug": "lancaster-ky"
+      }
+    ],
+    "city_type": "historic-college-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "bluegrass-region",
+    "economy_type": "education-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-kentucky-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Madisonville",
+    "slug": "madisonville-ky",
+    "county": "Hopkins County",
+    "population": 20000,
+    "zip_codes": [
+      "42431"
+    ],
+    "landmarks": [
+      "Mahr Park Arboretum",
+      "Madisonville City Park",
+      "Glema Mahr Center",
+      "Downtown Madisonville",
+      "Ruby Laffon Log Cabin"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Henderson",
+        "slug": "henderson-ky"
+      },
+      {
+        "name": "Owensboro",
+        "slug": "owensboro-ky"
+      },
+      {
+        "name": "Hopkinsville",
+        "slug": "hopkinsville-ky"
+      },
+      {
+        "name": "Princeton",
+        "slug": "princeton-ky"
+      },
+      {
+        "name": "Dawson Springs",
+        "slug": "dawson-springs-ky"
+      }
+    ],
+    "city_type": "regional-service-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "western-kentucky-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Murray",
+    "slug": "murray-ky",
+    "county": "Calloway County",
+    "population": 21000,
+    "zip_codes": [
+      "42071"
+    ],
+    "landmarks": [
+      "Murray State University",
+      "Central Park",
+      "Wrather Museum",
+      "Downtown Murray",
+      "Arboretum at Murray State"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Paducah",
+        "slug": "paducah-ky"
+      },
+      {
+        "name": "Mayfield",
+        "slug": "mayfield-ky"
+      },
+      {
+        "name": "Benton",
+        "slug": "benton-ky"
+      },
+      {
+        "name": "Paris",
+        "slug": "paris-tn"
+      },
+      {
+        "name": "Hopkinsville",
+        "slug": "hopkinsville-ky"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "education-services",
+    "housing_profile": "student-professional-mix",
+    "growth_pattern": "institutional-growth",
+    "service_environment": "western-kentucky-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  },
+  {
+    "city": "Shelbyville",
+    "slug": "shelbyville-ky",
+    "county": "Shelby County",
+    "population": 22000,
+    "zip_codes": [
+      "40065"
+    ],
+    "landmarks": [
+      "Shelby Trails Park",
+      "Historic Main Street",
+      "Shelby County Fairgrounds",
+      "Clear Creek Park",
+      "Talon Winery"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Louisville",
+        "slug": "louisville-ky"
+      },
+      {
+        "name": "Frankfort",
+        "slug": "frankfort-ky"
+      },
+      {
+        "name": "Jeffersontown",
+        "slug": "jeffersontown-ky"
+      },
+      {
+        "name": "Middletown",
+        "slug": "middletown-ky"
+      },
+      {
+        "name": "Simpsonville",
+        "slug": "simpsonville-ky"
+      }
+    ],
+    "city_type": "growth-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "louisville-market",
+    "property_mix": "mixed-use",
+    "state": "KY"
+  }
+]

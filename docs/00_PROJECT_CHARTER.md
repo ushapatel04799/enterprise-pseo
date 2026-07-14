@@ -210,7 +210,7 @@
 #
 # ↓
 #
-# 01_MASTER_PROMPT.md
+# 01_CONSOLIDATED_AI_PROTOCOL.md
 #
 # ↓
 #
@@ -218,7 +218,7 @@
 #
 # ↓
 #
-# 03_JSON_SCHEMA.md
+# JSON_SCHEMA.md
 #
 # ↓
 #

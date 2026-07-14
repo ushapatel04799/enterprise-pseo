@@ -1,0 +1,45 @@
+[
+  {
+    "city": "Austin",
+    "state": "TX",
+    "slug": "austin",
+    "county": "Travis County",
+    "population": 961855,
+    "coordinates": {
+      "latitude": 30.2672,
+      "longitude": -97.7431
+    },
+    "zip_codes": [
+      "78701",
+      "78702"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Dallas",
+        "slug": "dallas",
+        "distance_miles": 195
+      }
+    ]
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "slug": "dallas",
+    "county": "Dallas County",
+    "population": 1304379,
+    "coordinates": {
+      "latitude": 32.7767,
+      "longitude": -96.797
+    },
+    "zip_codes": [
+      "75201"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Austin",
+        "slug": "austin",
+        "distance_miles": 195
+      }
+    ]
+  }
+]

@@ -1,0 +1,1282 @@
+[
+  {
+    "city": "Aiea",
+    "slug": "aiea-hi",
+    "county": "Honolulu County",
+    "population": 10010,
+    "zip_codes": [
+      "96701"
+    ],
+    "landmarks": [
+      "Pearlridge Center",
+      "Aiea Loop Trail",
+      "Keaiwa Heiau State Recreation Area",
+      "Aloha Stadium",
+      "Pearl Harbor National Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city-hi"
+      },
+      {
+        "name": "Halawa",
+        "slug": "halawa-hi"
+      },
+      {
+        "name": "Honolulu",
+        "slug": "honolulu-hi"
+      },
+      {
+        "name": "Waimalu",
+        "slug": "waimalu-hi"
+      },
+      {
+        "name": "Waipahu",
+        "slug": "waipahu-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "coastal-valley",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "honolulu-metro",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Ewa Beach",
+    "slug": "ewa-beach-hi",
+    "county": "Honolulu County",
+    "population": 16750,
+    "zip_codes": [
+      "96706"
+    ],
+    "landmarks": [
+      "Ewa Beach Park",
+      "Oneʻula Beach Park",
+      "Hoakalei Country Club",
+      "Puʻuloa Beach",
+      "Ewa Pointe Marketplace"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kapolei",
+        "slug": "kapolei-hi"
+      },
+      {
+        "name": "Waipahu",
+        "slug": "waipahu-hi"
+      },
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city-hi"
+      },
+      {
+        "name": "Makakilo",
+        "slug": "makakilo-hi"
+      },
+      {
+        "name": "Honolulu",
+        "slug": "honolulu-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "honolulu-metro",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Hawaiian Paradise Park",
+    "slug": "hawaiian-paradise-park-hi",
+    "county": "Hawaii County",
+    "population": 16410,
+    "zip_codes": [
+      "96749"
+    ],
+    "landmarks": [
+      "Paradise Drive",
+      "Hawaiian Paradise Park Community Center",
+      "Kaloli Point",
+      "Puna Coast",
+      "Hobby Garden Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hilo",
+        "slug": "hilo-hi"
+      },
+      {
+        "name": "Keaau",
+        "slug": "keaau-hi"
+      },
+      {
+        "name": "Mountain View",
+        "slug": "mountain-view-hi"
+      },
+      {
+        "name": "Pahoa",
+        "slug": "pahoa-hi"
+      },
+      {
+        "name": "Volcano",
+        "slug": "volcano-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical-rainforest",
+    "terrain": "volcanic-coastal",
+    "economy_type": "residential-services",
+    "housing_profile": "rural-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "east-hawaii",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Hilo",
+    "slug": "hilo-hi",
+    "county": "Hawaii County",
+    "population": 45250,
+    "zip_codes": [
+      "96720",
+      "96721"
+    ],
+    "landmarks": [
+      "Rainbow Falls",
+      "Liliuokalani Gardens",
+      "University of Hawaii at Hilo",
+      "Hilo Farmers Market",
+      "Coconut Island"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Keaau",
+        "slug": "keaau-hi"
+      },
+      {
+        "name": "Hawaiian Paradise Park",
+        "slug": "hawaiian-paradise-park-hi"
+      },
+      {
+        "name": "Mountain View",
+        "slug": "mountain-view-hi"
+      },
+      {
+        "name": "Volcano",
+        "slug": "volcano-hi"
+      },
+      {
+        "name": "Papaikou",
+        "slug": "papaikou-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical-rainforest",
+    "terrain": "volcanic-coastal",
+    "economy_type": "government-tourism",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-hawaii",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Honolulu",
+    "slug": "honolulu-hi",
+    "county": "Honolulu County",
+    "population": 350960,
+    "zip_codes": [
+      "96813",
+      "96814",
+      "96815",
+      "96817",
+      "96818",
+      "96819",
+      "96822",
+      "96825",
+      "96826"
+    ],
+    "landmarks": [
+      "Waikiki Beach",
+      "Diamond Head",
+      "Iolani Palace",
+      "Pearl Harbor",
+      "Ala Moana Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Aiea",
+        "slug": "aiea-hi"
+      },
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city-hi"
+      },
+      {
+        "name": "Waipahu",
+        "slug": "waipahu-hi"
+      },
+      {
+        "name": "Kailua",
+        "slug": "kailua-hi"
+      },
+      {
+        "name": "Ewa Beach",
+        "slug": "ewa-beach-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "coastal",
+    "economy_type": "tourism-government",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "honolulu-metro",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Kahului",
+    "slug": "kahului-hi",
+    "county": "Maui County",
+    "population": 30760,
+    "zip_codes": [
+      "96732",
+      "96733"
+    ],
+    "landmarks": [
+      "Kahului Harbor",
+      "Maui Arts & Cultural Center",
+      "Queen Ka'ahumanu Center",
+      "Kanaha Beach Park",
+      "Maui Nui Botanical Gardens"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wailuku",
+        "slug": "wailuku-hi"
+      },
+      {
+        "name": "Kihei",
+        "slug": "kihei-hi"
+      },
+      {
+        "name": "Paia",
+        "slug": "paia-hi"
+      },
+      {
+        "name": "Makawao",
+        "slug": "makawao-hi"
+      },
+      {
+        "name": "Pukalani",
+        "slug": "pukalani-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-commerce",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-maui",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Kailua",
+    "slug": "kailua-hi",
+    "county": "Honolulu County",
+    "population": 40140,
+    "zip_codes": [
+      "96734"
+    ],
+    "landmarks": [
+      "Kailua Beach Park",
+      "Lanikai Beach",
+      "Ulupo Heiau",
+      "Kawainui Marsh",
+      "Kalama Beach Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Honolulu",
+        "slug": "honolulu-hi"
+      },
+      {
+        "name": "Waimanalo",
+        "slug": "waimanalo-hi"
+      },
+      {
+        "name": "Kaneohe",
+        "slug": "kaneohe-hi"
+      },
+      {
+        "name": "Ahuimanu",
+        "slug": "ahuimanu-hi"
+      },
+      {
+        "name": "Aiea",
+        "slug": "aiea-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "windward-coast",
+    "economy_type": "tourism-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "honolulu-metro",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Kaneohe",
+    "slug": "kaneohe-hi",
+    "county": "Honolulu County",
+    "population": 34970,
+    "zip_codes": [
+      "96744"
+    ],
+    "landmarks": [
+      "Ho'omaluhia Botanical Garden",
+      "Kaneohe Bay",
+      "Windward Mall",
+      "Valley of the Temples",
+      "He'eia State Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kailua",
+        "slug": "kailua-hi"
+      },
+      {
+        "name": "Honolulu",
+        "slug": "honolulu-hi"
+      },
+      {
+        "name": "Ahuimanu",
+        "slug": "ahuimanu-hi"
+      },
+      {
+        "name": "Waimanalo",
+        "slug": "waimanalo-hi"
+      },
+      {
+        "name": "Kahaluu",
+        "slug": "kahaluu-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "windward-coast",
+    "economy_type": "education-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "honolulu-metro",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Kapolei",
+    "slug": "kapolei-hi",
+    "county": "Honolulu County",
+    "population": 21320,
+    "zip_codes": [
+      "96707"
+    ],
+    "landmarks": [
+      "Ka Makana Ali'i",
+      "Wet'n'Wild Hawaii",
+      "Kapolei Regional Park",
+      "University of Hawaii West Oahu",
+      "Ko Olina Resort"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ewa Beach",
+        "slug": "ewa-beach-hi"
+      },
+      {
+        "name": "Makakilo",
+        "slug": "makakilo-hi"
+      },
+      {
+        "name": "Waipahu",
+        "slug": "waipahu-hi"
+      },
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city-hi"
+      },
+      {
+        "name": "Honolulu",
+        "slug": "honolulu-hi"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "tropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-tourism",
+    "housing_profile": "master-planned",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "honolulu-metro",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Kihei",
+    "slug": "kihei-hi",
+    "county": "Maui County",
+    "population": 22580,
+    "zip_codes": [
+      "96753"
+    ],
+    "landmarks": [
+      "Kamaole Beach Parks",
+      "Keawakapu Beach",
+      "Kalama Park",
+      "Maui Nui Golf Club",
+      "Cove Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kahului",
+        "slug": "kahului-hi"
+      },
+      {
+        "name": "Wailuku",
+        "slug": "wailuku-hi"
+      },
+      {
+        "name": "Wailea",
+        "slug": "wailea-hi"
+      },
+      {
+        "name": "Makawao",
+        "slug": "makawao-hi"
+      },
+      {
+        "name": "Pukalani",
+        "slug": "pukalani-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "coastal",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-maui",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Lahaina",
+    "slug": "lahaina-hi",
+    "county": "Maui County",
+    "population": 12920,
+    "zip_codes": [
+      "96761",
+      "96767"
+    ],
+    "landmarks": [
+      "Lahaina Banyan Court",
+      "Front Street",
+      "Lahaina Harbor",
+      "Wo Hing Museum",
+      "Baldwin Home Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kaanapali",
+        "slug": "kaanapali-hi"
+      },
+      {
+        "name": "Napili-Honokowai",
+        "slug": "napili-honokowai-hi"
+      },
+      {
+        "name": "Kapalua",
+        "slug": "kapalua-hi"
+      },
+      {
+        "name": "Kahului",
+        "slug": "kahului-hi"
+      },
+      {
+        "name": "Wailuku",
+        "slug": "wailuku-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "coastal",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "rebuilding",
+    "service_environment": "west-maui",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Makakilo",
+    "slug": "makakilo-hi",
+    "county": "Honolulu County",
+    "population": 19820,
+    "zip_codes": [
+      "96707"
+    ],
+    "landmarks": [
+      "Kapolei Regional Park",
+      "Makakilo Neighborhood Park",
+      "Makakilo Community Park",
+      "Pu'u Makakilo",
+      "Kapolei Commons"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kapolei",
+        "slug": "kapolei-hi"
+      },
+      {
+        "name": "Ewa Beach",
+        "slug": "ewa-beach-hi"
+      },
+      {
+        "name": "Waipahu",
+        "slug": "waipahu-hi"
+      },
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city-hi"
+      },
+      {
+        "name": "Honolulu",
+        "slug": "honolulu-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "hillside",
+    "economy_type": "residential-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "honolulu-metro",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Mililani Mauka",
+    "slug": "mililani-mauka-hi",
+    "county": "Honolulu County",
+    "population": 21480,
+    "zip_codes": [
+      "96789"
+    ],
+    "landmarks": [
+      "Mililani Mauka District Park",
+      "Mililani Golf Club",
+      "Mauka Community Park",
+      "Mililani Recreation Center",
+      "Koa Ridge Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mililani Town",
+        "slug": "mililani-town-hi"
+      },
+      {
+        "name": "Waipio",
+        "slug": "waipio-hi"
+      },
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city-hi"
+      },
+      {
+        "name": "Wahiawa",
+        "slug": "wahiawa-hi"
+      },
+      {
+        "name": "Waipahu",
+        "slug": "waipahu-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "upland",
+    "economy_type": "residential-services",
+    "housing_profile": "master-planned",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-oahu",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Mililani Town",
+    "slug": "mililani-town-hi",
+    "county": "Honolulu County",
+    "population": 28030,
+    "zip_codes": [
+      "96789"
+    ],
+    "landmarks": [
+      "Mililani Town Center",
+      "Mililani Golf Club",
+      "Mililani District Park",
+      "Mililani Recreation Center",
+      "Wheeler Army Airfield"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mililani Mauka",
+        "slug": "mililani-mauka-hi"
+      },
+      {
+        "name": "Waipio",
+        "slug": "waipio-hi"
+      },
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city-hi"
+      },
+      {
+        "name": "Wahiawa",
+        "slug": "wahiawa-hi"
+      },
+      {
+        "name": "Waipahu",
+        "slug": "waipahu-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "upland",
+    "economy_type": "retail-services",
+    "housing_profile": "master-planned",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-oahu",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Nanakuli",
+    "slug": "nanakuli-hi",
+    "county": "Honolulu County",
+    "population": 12440,
+    "zip_codes": [
+      "96792"
+    ],
+    "landmarks": [
+      "Nanakuli Beach Park",
+      "Kahe Point Beach Park",
+      "Maili Beach Park",
+      "Nanakuli Public Library",
+      "Lualualei Valley"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Maili",
+        "slug": "maili-hi"
+      },
+      {
+        "name": "Kapolei",
+        "slug": "kapolei-hi"
+      },
+      {
+        "name": "Makaha",
+        "slug": "makaha-hi"
+      },
+      {
+        "name": "Makakilo",
+        "slug": "makakilo-hi"
+      },
+      {
+        "name": "Ewa Beach",
+        "slug": "ewa-beach-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "coastal",
+    "economy_type": "residential-services",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "leeward-oahu",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Ocean Pointe",
+    "slug": "ocean-pointe-hi",
+    "county": "Honolulu County",
+    "population": 15710,
+    "zip_codes": [
+      "96706"
+    ],
+    "landmarks": [
+      "Ocean Pointe Community Park",
+      "Hoakalei Country Club",
+      "Oneʻula Beach Park",
+      "Ewa Pointe Marketplace",
+      "Puʻuloa Lagoon"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ewa Beach",
+        "slug": "ewa-beach-hi"
+      },
+      {
+        "name": "Kapolei",
+        "slug": "kapolei-hi"
+      },
+      {
+        "name": "Waipahu",
+        "slug": "waipahu-hi"
+      },
+      {
+        "name": "Makakilo",
+        "slug": "makakilo-hi"
+      },
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "coastal-plain",
+    "economy_type": "residential-services",
+    "housing_profile": "master-planned",
+    "growth_pattern": "steady-growth",
+    "service_environment": "honolulu-metro",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Pearl City",
+    "slug": "pearl-city-hi",
+    "county": "Honolulu County",
+    "population": 45600,
+    "zip_codes": [
+      "96782"
+    ],
+    "landmarks": [
+      "Pearl Highlands Center",
+      "Neal S. Blaisdell Park",
+      "Pearl City Public Library",
+      "Momilani Community Center",
+      "Pearl Harbor Historic Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Aiea",
+        "slug": "aiea-hi"
+      },
+      {
+        "name": "Waipahu",
+        "slug": "waipahu-hi"
+      },
+      {
+        "name": "Honolulu",
+        "slug": "honolulu-hi"
+      },
+      {
+        "name": "Mililani Town",
+        "slug": "mililani-town-hi"
+      },
+      {
+        "name": "Kapolei",
+        "slug": "kapolei-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "honolulu-metro",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Schofield Barracks",
+    "slug": "schofield-barracks-hi",
+    "county": "Honolulu County",
+    "population": 19720,
+    "zip_codes": [
+      "96857"
+    ],
+    "landmarks": [
+      "Schofield Barracks",
+      "Wheeler Army Airfield",
+      "Tropic Lightning Museum",
+      "Richardson Pool",
+      "Army Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mililani Town",
+        "slug": "mililani-town-hi"
+      },
+      {
+        "name": "Wahiawa",
+        "slug": "wahiawa-hi"
+      },
+      {
+        "name": "Waipio",
+        "slug": "waipio-hi"
+      },
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city-hi"
+      },
+      {
+        "name": "Waipahu",
+        "slug": "waipahu-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "central-plateau",
+    "economy_type": "military-government",
+    "housing_profile": "government-housing",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-oahu",
+    "property_mix": "institutional",
+    "state": "HI"
+  },
+  {
+    "city": "Wahiawa",
+    "slug": "wahiawa-hi",
+    "county": "Honolulu County",
+    "population": 18140,
+    "zip_codes": [
+      "96786"
+    ],
+    "landmarks": [
+      "Wahiawa Botanical Garden",
+      "Dole Plantation",
+      "Lake Wilson",
+      "Wahiawa Freshwater State Recreation Area",
+      "Kukaniloko Birthstones"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mililani Town",
+        "slug": "mililani-town-hi"
+      },
+      {
+        "name": "Schofield Barracks",
+        "slug": "schofield-barracks-hi"
+      },
+      {
+        "name": "Waipio",
+        "slug": "waipio-hi"
+      },
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city-hi"
+      },
+      {
+        "name": "Haleiwa",
+        "slug": "haleiwa-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "central-plateau",
+    "economy_type": "agriculture-services",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-oahu",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Waianae",
+    "slug": "waianae-hi",
+    "county": "Honolulu County",
+    "population": 13890,
+    "zip_codes": [
+      "96792"
+    ],
+    "landmarks": [
+      "Waianae Boat Harbor",
+      "Pokai Bay Beach Park",
+      "Waianae Mall",
+      "Makaha Valley Road",
+      "Waianae District Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Nanakuli",
+        "slug": "nanakuli-hi"
+      },
+      {
+        "name": "Maili",
+        "slug": "maili-hi"
+      },
+      {
+        "name": "Makaha",
+        "slug": "makaha-hi"
+      },
+      {
+        "name": "Kapolei",
+        "slug": "kapolei-hi"
+      },
+      {
+        "name": "Ewa Beach",
+        "slug": "ewa-beach-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "coastal",
+    "economy_type": "tourism-services",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "leeward-oahu",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Waikele",
+    "slug": "waikele-hi",
+    "county": "Honolulu County",
+    "population": 7640,
+    "zip_codes": [
+      "96797"
+    ],
+    "landmarks": [
+      "Waikele Premium Outlets",
+      "Waikele Community Park",
+      "Waikele Golf Club",
+      "Waikele Shopping Center",
+      "Waikele Elementary School"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Waipahu",
+        "slug": "waipahu-hi"
+      },
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city-hi"
+      },
+      {
+        "name": "Waipio",
+        "slug": "waipio-hi"
+      },
+      {
+        "name": "Aiea",
+        "slug": "aiea-hi"
+      },
+      {
+        "name": "Honolulu",
+        "slug": "honolulu-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "honolulu-metro",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Wailuku",
+    "slug": "wailuku-hi",
+    "county": "Maui County",
+    "population": 18110,
+    "zip_codes": [
+      "96793"
+    ],
+    "landmarks": [
+      "Iao Valley State Monument",
+      "Maui County Building",
+      "Kaahumanu Church",
+      "Maui Arts & Cultural Center",
+      "Bailey House Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kahului",
+        "slug": "kahului-hi"
+      },
+      {
+        "name": "Kihei",
+        "slug": "kihei-hi"
+      },
+      {
+        "name": "Makawao",
+        "slug": "makawao-hi"
+      },
+      {
+        "name": "Pukalani",
+        "slug": "pukalani-hi"
+      },
+      {
+        "name": "Lahaina",
+        "slug": "lahaina-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "valley",
+    "economy_type": "government-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-maui",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Waimalu",
+    "slug": "waimalu-hi",
+    "county": "Honolulu County",
+    "population": 13870,
+    "zip_codes": [
+      "96701"
+    ],
+    "landmarks": [
+      "Pearlridge Center",
+      "Waimalu Neighborhood Park",
+      "Neal S. Blaisdell Park",
+      "Pearl Harbor Historic Area",
+      "Aiea Bay Recreation Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Aiea",
+        "slug": "aiea-hi"
+      },
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city-hi"
+      },
+      {
+        "name": "Honolulu",
+        "slug": "honolulu-hi"
+      },
+      {
+        "name": "Waipahu",
+        "slug": "waipahu-hi"
+      },
+      {
+        "name": "Halawa",
+        "slug": "halawa-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "honolulu-metro",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Waimanalo",
+    "slug": "waimanalo-hi",
+    "county": "Honolulu County",
+    "population": 6200,
+    "zip_codes": [
+      "96795"
+    ],
+    "landmarks": [
+      "Waimanalo Beach",
+      "Bellows Field Beach Park",
+      "Sea Life Park Hawaii",
+      "Sherwood Forest Beach",
+      "Waimanalo Bay"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kailua",
+        "slug": "kailua-hi"
+      },
+      {
+        "name": "Kaneohe",
+        "slug": "kaneohe-hi"
+      },
+      {
+        "name": "Honolulu",
+        "slug": "honolulu-hi"
+      },
+      {
+        "name": "Ahuimanu",
+        "slug": "ahuimanu-hi"
+      },
+      {
+        "name": "Hawaii Kai",
+        "slug": "hawaii-kai-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "windward-coast",
+    "economy_type": "tourism-services",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "honolulu-metro",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Waipahu",
+    "slug": "waipahu-hi",
+    "county": "Honolulu County",
+    "population": 43820,
+    "zip_codes": [
+      "96797"
+    ],
+    "landmarks": [
+      "Waikele Premium Outlets",
+      "Hawaii's Plantation Village",
+      "Patsy T. Mink Central Oahu Regional Park",
+      "Waipahu Festival Marketplace",
+      "Hans L'Orange Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city-hi"
+      },
+      {
+        "name": "Waikele",
+        "slug": "waikele-hi"
+      },
+      {
+        "name": "Aiea",
+        "slug": "aiea-hi"
+      },
+      {
+        "name": "Kapolei",
+        "slug": "kapolei-hi"
+      },
+      {
+        "name": "Ewa Beach",
+        "slug": "ewa-beach-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "honolulu-metro",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "Waipio",
+    "slug": "waipio-hi",
+    "county": "Honolulu County",
+    "population": 11980,
+    "zip_codes": [
+      "96797"
+    ],
+    "landmarks": [
+      "Waipio Neighborhood Park",
+      "Patsy T. Mink Central Oahu Regional Park",
+      "Waipio Peninsula Soccer Complex",
+      "Waipio Shopping Center",
+      "Waipio Gentry"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Waipahu",
+        "slug": "waipahu-hi"
+      },
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city-hi"
+      },
+      {
+        "name": "Mililani Town",
+        "slug": "mililani-town-hi"
+      },
+      {
+        "name": "Waikele",
+        "slug": "waikele-hi"
+      },
+      {
+        "name": "Aiea",
+        "slug": "aiea-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "coastal-plain",
+    "economy_type": "residential-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "honolulu-metro",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  },
+  {
+    "city": "West Loch Estate",
+    "slug": "west-loch-estate-hi",
+    "county": "Honolulu County",
+    "population": 10120,
+    "zip_codes": [
+      "96706"
+    ],
+    "landmarks": [
+      "West Loch Golf Course",
+      "West Loch Community Park",
+      "Pearl Harbor West Loch",
+      "Kapolei Parkway",
+      "West Loch Neighborhood Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ewa Beach",
+        "slug": "ewa-beach-hi"
+      },
+      {
+        "name": "Waipahu",
+        "slug": "waipahu-hi"
+      },
+      {
+        "name": "Kapolei",
+        "slug": "kapolei-hi"
+      },
+      {
+        "name": "Pearl City",
+        "slug": "pearl-city-hi"
+      },
+      {
+        "name": "Aiea",
+        "slug": "aiea-hi"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "tropical",
+    "terrain": "coastal-plain",
+    "economy_type": "residential-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "honolulu-metro",
+    "property_mix": "mixed-use",
+    "state": "HI"
+  }
+]

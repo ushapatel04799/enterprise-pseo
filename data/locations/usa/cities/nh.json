@@ -1,0 +1,3494 @@
+[
+  {
+    "city": "Manchester",
+    "slug": "manchester-nh",
+    "county": "Hillsborough County",
+    "population": 115000,
+    "zip_codes": [
+      "03101",
+      "03102",
+      "03103",
+      "03104",
+      "03109"
+    ],
+    "landmarks": [
+      "SNHU Arena",
+      "Millyard District",
+      "Livingston Park",
+      "Currier Museum of Art",
+      "Downtown Manchester"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Nashua",
+        "slug": "nashua-nh"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      },
+      {
+        "name": "Londonderry",
+        "slug": "londonderry-nh"
+      },
+      {
+        "name": "Derry",
+        "slug": "derry-nh"
+      },
+      {
+        "name": "Bedford",
+        "slug": "bedford-nh"
+      }
+    ],
+    "city_type": "major-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "healthcare-technology",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Nashua",
+    "slug": "nashua-nh",
+    "county": "Hillsborough County",
+    "population": 92000,
+    "zip_codes": [
+      "03060",
+      "03062",
+      "03063",
+      "03064"
+    ],
+    "landmarks": [
+      "Mine Falls Park",
+      "Pheasant Lane Mall",
+      "Holman Stadium",
+      "Nashua River",
+      "Downtown Nashua"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Manchester",
+        "slug": "manchester-nh"
+      },
+      {
+        "name": "Hudson",
+        "slug": "hudson-nh"
+      },
+      {
+        "name": "Merrimack",
+        "slug": "merrimack-nh"
+      },
+      {
+        "name": "Litchfield",
+        "slug": "litchfield-nh"
+      },
+      {
+        "name": "Amherst",
+        "slug": "amherst-nh"
+      }
+    ],
+    "city_type": "major-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "technology-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Concord",
+    "slug": "concord-nh",
+    "county": "Merrimack County",
+    "population": 45000,
+    "zip_codes": [
+      "03301",
+      "03303"
+    ],
+    "landmarks": [
+      "New Hampshire State House",
+      "White Park",
+      "Capitol Center for the Arts",
+      "Merrimack River",
+      "Downtown Concord"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Manchester",
+        "slug": "manchester-nh"
+      },
+      {
+        "name": "Hooksett",
+        "slug": "hooksett-nh"
+      },
+      {
+        "name": "Bow",
+        "slug": "bow-nh"
+      },
+      {
+        "name": "Pembroke",
+        "slug": "pembroke-nh"
+      },
+      {
+        "name": "Loudon",
+        "slug": "loudon-nh"
+      }
+    ],
+    "city_type": "capital-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Derry",
+    "slug": "derry-nh",
+    "county": "Rockingham County",
+    "population": 35000,
+    "zip_codes": [
+      "03038"
+    ],
+    "landmarks": [
+      "Robert Frost Farm",
+      "Beaver Lake",
+      "Hood Commons",
+      "Veterans Memorial Park",
+      "Downtown Derry"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Manchester",
+        "slug": "manchester-nh"
+      },
+      {
+        "name": "Londonderry",
+        "slug": "londonderry-nh"
+      },
+      {
+        "name": "Nashua",
+        "slug": "nashua-nh"
+      },
+      {
+        "name": "Salem",
+        "slug": "salem-nh"
+      },
+      {
+        "name": "Windham",
+        "slug": "windham-nh"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Rochester",
+    "slug": "rochester-nh",
+    "county": "Strafford County",
+    "population": 33000,
+    "zip_codes": [
+      "03839",
+      "03867",
+      "03868"
+    ],
+    "landmarks": [
+      "Rochester Common",
+      "Cocheco River",
+      "Rochester Opera House",
+      "Skyhaven Airport",
+      "Downtown Rochester"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Dover",
+        "slug": "dover-nh"
+      },
+      {
+        "name": "Somersworth",
+        "slug": "somersworth-nh"
+      },
+      {
+        "name": "Farmington",
+        "slug": "farmington-nh"
+      },
+      {
+        "name": "Milton",
+        "slug": "milton-nh"
+      },
+      {
+        "name": "Barrington",
+        "slug": "barrington-nh"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "seacoast-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Dover",
+    "slug": "dover-nh",
+    "county": "Strafford County",
+    "population": 33000,
+    "zip_codes": [
+      "03820"
+    ],
+    "landmarks": [
+      "Children's Museum of NH",
+      "Cocheco River",
+      "Henry Law Park",
+      "Downtown Dover",
+      "Woodman Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Rochester",
+        "slug": "rochester-nh"
+      },
+      {
+        "name": "Somersworth",
+        "slug": "somersworth-nh"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-nh"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham-nh"
+      },
+      {
+        "name": "Madbury",
+        "slug": "madbury-nh"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "seacoast-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Salem",
+    "slug": "salem-nh",
+    "county": "Rockingham County",
+    "population": 31000,
+    "zip_codes": [
+      "03079"
+    ],
+    "landmarks": [
+      "Tuscan Village",
+      "Canobie Lake Park",
+      "Rockingham Mall",
+      "Arlington Mill Reservoir",
+      "Downtown Salem"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Derry",
+        "slug": "derry-nh"
+      },
+      {
+        "name": "Windham",
+        "slug": "windham-nh"
+      },
+      {
+        "name": "Londonderry",
+        "slug": "londonderry-nh"
+      },
+      {
+        "name": "Nashua",
+        "slug": "nashua-nh"
+      },
+      {
+        "name": "Pelham",
+        "slug": "pelham-nh"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Merrimack",
+    "slug": "merrimack-nh",
+    "county": "Hillsborough County",
+    "population": 27000,
+    "zip_codes": [
+      "03054"
+    ],
+    "landmarks": [
+      "Anheuser-Busch Brewery",
+      "Merrimack Premium Outlets",
+      "Wasserman Park",
+      "Merrimack River",
+      "Downtown Merrimack"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Nashua",
+        "slug": "nashua-nh"
+      },
+      {
+        "name": "Manchester",
+        "slug": "manchester-nh"
+      },
+      {
+        "name": "Bedford",
+        "slug": "bedford-nh"
+      },
+      {
+        "name": "Amherst",
+        "slug": "amherst-nh"
+      },
+      {
+        "name": "Litchfield",
+        "slug": "litchfield-nh"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "technology-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Londonderry",
+    "slug": "londonderry-nh",
+    "county": "Rockingham County",
+    "population": 26000,
+    "zip_codes": [
+      "03053"
+    ],
+    "landmarks": [
+      "Mack's Apples",
+      "Londonderry Commons",
+      "Musquash Conservation Area",
+      "Town Common",
+      "Manchester-Boston Regional Airport Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Manchester",
+        "slug": "manchester-nh"
+      },
+      {
+        "name": "Derry",
+        "slug": "derry-nh"
+      },
+      {
+        "name": "Salem",
+        "slug": "salem-nh"
+      },
+      {
+        "name": "Nashua",
+        "slug": "nashua-nh"
+      },
+      {
+        "name": "Windham",
+        "slug": "windham-nh"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "logistics-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Keene",
+    "slug": "keene-nh",
+    "county": "Cheshire County",
+    "population": 23000,
+    "zip_codes": [
+      "03431"
+    ],
+    "landmarks": [
+      "Central Square",
+      "Keene State College",
+      "Ashuelot River Park",
+      "Wheelock Park",
+      "Downtown Keene"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Swanzey",
+        "slug": "swanzey-nh"
+      },
+      {
+        "name": "Marlborough",
+        "slug": "marlborough-nh"
+      },
+      {
+        "name": "Winchester",
+        "slug": "winchester-nh"
+      },
+      {
+        "name": "Jaffrey",
+        "slug": "jaffrey-nh"
+      },
+      {
+        "name": "Peterborough",
+        "slug": "peterborough-nh"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southwest-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Portsmouth",
+    "slug": "portsmouth-nh",
+    "county": "Rockingham County",
+    "population": 22000,
+    "zip_codes": [
+      "03801"
+    ],
+    "landmarks": [
+      "Strawbery Banke Museum",
+      "Market Square",
+      "Prescott Park",
+      "Portsmouth Harbor",
+      "Downtown Portsmouth"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Dover",
+        "slug": "dover-nh"
+      },
+      {
+        "name": "Exeter",
+        "slug": "exeter-nh"
+      },
+      {
+        "name": "Newmarket",
+        "slug": "newmarket-nh"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham-nh"
+      },
+      {
+        "name": "Hampton",
+        "slug": "hampton-nh"
+      }
+    ],
+    "city_type": "seaport-city",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal",
+    "economy_type": "tourism-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "seacoast-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Laconia",
+    "slug": "laconia-nh",
+    "county": "Belknap County",
+    "population": 17500,
+    "zip_codes": [
+      "03246",
+      "03247"
+    ],
+    "landmarks": [
+      "Lake Winnipesaukee",
+      "Weirs Beach",
+      "Opechee Park",
+      "Bank of NH Pavilion",
+      "Downtown Laconia"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gilford",
+        "slug": "gilford-nh"
+      },
+      {
+        "name": "Meredith",
+        "slug": "meredith-nh"
+      },
+      {
+        "name": "Belmont",
+        "slug": "belmont-nh"
+      },
+      {
+        "name": "Tilton",
+        "slug": "tilton-nh"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      }
+    ],
+    "city_type": "lake-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lake-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "lakes-region-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Lebanon",
+    "slug": "lebanon-nh",
+    "county": "Grafton County",
+    "population": 15000,
+    "zip_codes": [
+      "03766",
+      "03784"
+    ],
+    "landmarks": [
+      "Dartmouth-Hitchcock Medical Center",
+      "Lebanon Green",
+      "Mascoma River",
+      "Northern Rail Trail",
+      "Downtown Lebanon"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hanover",
+        "slug": "hanover-nh"
+      },
+      {
+        "name": "Claremont",
+        "slug": "claremont-nh"
+      },
+      {
+        "name": "New London",
+        "slug": "new-london-nh"
+      },
+      {
+        "name": "Enfield",
+        "slug": "enfield-nh"
+      },
+      {
+        "name": "Canaan",
+        "slug": "canaan-nh"
+      }
+    ],
+    "city_type": "medical-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "upper-valley-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Claremont",
+    "slug": "claremont-nh",
+    "county": "Sullivan County",
+    "population": 13000,
+    "zip_codes": [
+      "03743"
+    ],
+    "landmarks": [
+      "Arrowhead Recreation Area",
+      "Sugar River",
+      "Opera House Square",
+      "Community Center",
+      "Downtown Claremont"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lebanon",
+        "slug": "lebanon-nh"
+      },
+      {
+        "name": "Newport",
+        "slug": "newport-nh"
+      },
+      {
+        "name": "Charlestown",
+        "slug": "charlestown-nh"
+      },
+      {
+        "name": "Sunapee",
+        "slug": "sunapee-nh"
+      },
+      {
+        "name": "Hanover",
+        "slug": "hanover-nh"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "western-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Somersworth",
+    "slug": "somersworth-nh",
+    "county": "Strafford County",
+    "population": 12000,
+    "zip_codes": [
+      "03878"
+    ],
+    "landmarks": [
+      "Salmon Falls River",
+      "Noble Pines Park",
+      "Downtown Somersworth",
+      "Berwick Bridge Area",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Dover",
+        "slug": "dover-nh"
+      },
+      {
+        "name": "Rochester",
+        "slug": "rochester-nh"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-nh"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham-nh"
+      },
+      {
+        "name": "Newmarket",
+        "slug": "newmarket-nh"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "seacoast-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Bedford",
+    "slug": "bedford-nh",
+    "county": "Hillsborough County",
+    "population": 23000,
+    "zip_codes": [
+      "03110"
+    ],
+    "landmarks": [
+      "Bedford Village Common",
+      "Benedictine Park",
+      "Merrimack River Corridor",
+      "Legacy Park",
+      "Downtown Bedford"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Manchester",
+        "slug": "manchester-nh"
+      },
+      {
+        "name": "Merrimack",
+        "slug": "merrimack-nh"
+      },
+      {
+        "name": "Nashua",
+        "slug": "nashua-nh"
+      },
+      {
+        "name": "Amherst",
+        "slug": "amherst-nh"
+      },
+      {
+        "name": "Goffstown",
+        "slug": "goffstown-nh"
+      }
+    ],
+    "city_type": "suburban-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "professional-services",
+    "housing_profile": "upscale-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Hudson",
+    "slug": "hudson-nh",
+    "county": "Hillsborough County",
+    "population": 26000,
+    "zip_codes": [
+      "03051"
+    ],
+    "landmarks": [
+      "Benson Park",
+      "Merrimack River",
+      "Robinson Pond",
+      "Community Center",
+      "Downtown Hudson"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Nashua",
+        "slug": "nashua-nh"
+      },
+      {
+        "name": "Merrimack",
+        "slug": "merrimack-nh"
+      },
+      {
+        "name": "Litchfield",
+        "slug": "litchfield-nh"
+      },
+      {
+        "name": "Pelham",
+        "slug": "pelham-nh"
+      },
+      {
+        "name": "Windham",
+        "slug": "windham-nh"
+      }
+    ],
+    "city_type": "suburban-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Milford",
+    "slug": "milford-nh",
+    "county": "Hillsborough County",
+    "population": 16000,
+    "zip_codes": [
+      "03055"
+    ],
+    "landmarks": [
+      "Oval Historic District",
+      "Souhegan River",
+      "Keyes Memorial Park",
+      "Milford Fish Hatchery",
+      "Downtown Milford"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Amherst",
+        "slug": "amherst-nh"
+      },
+      {
+        "name": "Nashua",
+        "slug": "nashua-nh"
+      },
+      {
+        "name": "Merrimack",
+        "slug": "merrimack-nh"
+      },
+      {
+        "name": "Bedford",
+        "slug": "bedford-nh"
+      },
+      {
+        "name": "Wilton",
+        "slug": "wilton-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Durham",
+    "slug": "durham-nh",
+    "county": "Strafford County",
+    "population": 16000,
+    "zip_codes": [
+      "03824"
+    ],
+    "landmarks": [
+      "University of New Hampshire",
+      "Great Bay",
+      "Memorial Union Building",
+      "College Woods",
+      "Downtown Durham"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Dover",
+        "slug": "dover-nh"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-nh"
+      },
+      {
+        "name": "Newmarket",
+        "slug": "newmarket-nh"
+      },
+      {
+        "name": "Somersworth",
+        "slug": "somersworth-nh"
+      },
+      {
+        "name": "Exeter",
+        "slug": "exeter-nh"
+      }
+    ],
+    "city_type": "college-town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-river",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "seacoast-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Hooksett",
+    "slug": "hooksett-nh",
+    "county": "Merrimack County",
+    "population": 15000,
+    "zip_codes": [
+      "03106"
+    ],
+    "landmarks": [
+      "Merrimack River",
+      "Bear Brook State Park Access",
+      "Robie's Country Store",
+      "Southern NH University Area",
+      "Downtown Hooksett"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Manchester",
+        "slug": "manchester-nh"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      },
+      {
+        "name": "Bedford",
+        "slug": "bedford-nh"
+      },
+      {
+        "name": "Goffstown",
+        "slug": "goffstown-nh"
+      },
+      {
+        "name": "Bow",
+        "slug": "bow-nh"
+      }
+    ],
+    "city_type": "suburban-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "services-logistics",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Windham",
+    "slug": "windham-nh",
+    "county": "Rockingham County",
+    "population": 15500,
+    "zip_codes": [
+      "03087"
+    ],
+    "landmarks": [
+      "Cobbetts Pond",
+      "Griffin Park",
+      "Windham Rail Trail",
+      "Town Beach",
+      "Windham Town Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Salem",
+        "slug": "salem-nh"
+      },
+      {
+        "name": "Derry",
+        "slug": "derry-nh"
+      },
+      {
+        "name": "Pelham",
+        "slug": "pelham-nh"
+      },
+      {
+        "name": "Hudson",
+        "slug": "hudson-nh"
+      },
+      {
+        "name": "Londonderry",
+        "slug": "londonderry-nh"
+      }
+    ],
+    "city_type": "suburban-town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Goffstown",
+    "slug": "goffstown-nh",
+    "county": "Hillsborough County",
+    "population": 19000,
+    "zip_codes": [
+      "03045"
+    ],
+    "landmarks": [
+      "Saint Anselm College",
+      "Piscataquog River",
+      "Glen Lake",
+      "Barnard Park",
+      "Downtown Goffstown"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Manchester",
+        "slug": "manchester-nh"
+      },
+      {
+        "name": "Bedford",
+        "slug": "bedford-nh"
+      },
+      {
+        "name": "Hooksett",
+        "slug": "hooksett-nh"
+      },
+      {
+        "name": "Merrimack",
+        "slug": "merrimack-nh"
+      },
+      {
+        "name": "Amherst",
+        "slug": "amherst-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "education-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Exeter",
+    "slug": "exeter-nh",
+    "county": "Rockingham County",
+    "population": 16000,
+    "zip_codes": [
+      "03833"
+    ],
+    "landmarks": [
+      "Phillips Exeter Academy",
+      "Swasey Parkway",
+      "Squamscott River",
+      "American Independence Museum",
+      "Downtown Exeter"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-nh"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham-nh"
+      },
+      {
+        "name": "Newmarket",
+        "slug": "newmarket-nh"
+      },
+      {
+        "name": "Hampton",
+        "slug": "hampton-nh"
+      },
+      {
+        "name": "Dover",
+        "slug": "dover-nh"
+      }
+    ],
+    "city_type": "historic-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "seacoast-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Amherst",
+    "slug": "amherst-nh",
+    "county": "Hillsborough County",
+    "population": 11500,
+    "zip_codes": [
+      "03031"
+    ],
+    "landmarks": [
+      "Amherst Village Historic District",
+      "Baboosic Lake",
+      "Joe English Reservation",
+      "Town Common",
+      "Amherst Country Club"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Milford",
+        "slug": "milford-nh"
+      },
+      {
+        "name": "Nashua",
+        "slug": "nashua-nh"
+      },
+      {
+        "name": "Merrimack",
+        "slug": "merrimack-nh"
+      },
+      {
+        "name": "Bedford",
+        "slug": "bedford-nh"
+      },
+      {
+        "name": "Goffstown",
+        "slug": "goffstown-nh"
+      }
+    ],
+    "city_type": "historic-town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Hampton",
+    "slug": "hampton-nh",
+    "county": "Rockingham County",
+    "population": 16300,
+    "zip_codes": [
+      "03842"
+    ],
+    "landmarks": [
+      "Hampton Beach",
+      "Hampton Beach State Park",
+      "Casino Ballroom",
+      "North Beach",
+      "Ocean Boulevard"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Exeter",
+        "slug": "exeter-nh"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-nh"
+      },
+      {
+        "name": "Seabrook",
+        "slug": "seabrook-nh"
+      },
+      {
+        "name": "North Hampton",
+        "slug": "north-hampton-nh"
+      },
+      {
+        "name": "Newmarket",
+        "slug": "newmarket-nh"
+      }
+    ],
+    "city_type": "coastal-town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "seacoast-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Pelham",
+    "slug": "pelham-nh",
+    "county": "Hillsborough County",
+    "population": 14500,
+    "zip_codes": [
+      "03076"
+    ],
+    "landmarks": [
+      "Long Pond",
+      "Muldoon Park",
+      "Veterans Memorial Park",
+      "Pelham Town Green",
+      "Mammoth Road Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hudson",
+        "slug": "hudson-nh"
+      },
+      {
+        "name": "Windham",
+        "slug": "windham-nh"
+      },
+      {
+        "name": "Nashua",
+        "slug": "nashua-nh"
+      },
+      {
+        "name": "Salem",
+        "slug": "salem-nh"
+      },
+      {
+        "name": "Londonderry",
+        "slug": "londonderry-nh"
+      }
+    ],
+    "city_type": "suburban-town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Newmarket",
+    "slug": "newmarket-nh",
+    "county": "Rockingham County",
+    "population": 9500,
+    "zip_codes": [
+      "03857"
+    ],
+    "landmarks": [
+      "Lamprey River",
+      "Schanda Park",
+      "Downtown Newmarket",
+      "Millspace Arts",
+      "Waterfront District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Durham",
+        "slug": "durham-nh"
+      },
+      {
+        "name": "Exeter",
+        "slug": "exeter-nh"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-nh"
+      },
+      {
+        "name": "Dover",
+        "slug": "dover-nh"
+      },
+      {
+        "name": "Hampton",
+        "slug": "hampton-nh"
+      }
+    ],
+    "city_type": "river-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "seacoast-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Peterborough",
+    "slug": "peterborough-nh",
+    "county": "Hillsborough County",
+    "population": 6500,
+    "zip_codes": [
+      "03458"
+    ],
+    "landmarks": [
+      "Miller State Park",
+      "MacDowell Colony",
+      "Contoocook River",
+      "Depot Square",
+      "Downtown Peterborough"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Keene",
+        "slug": "keene-nh"
+      },
+      {
+        "name": "Jaffrey",
+        "slug": "jaffrey-nh"
+      },
+      {
+        "name": "Milford",
+        "slug": "milford-nh"
+      },
+      {
+        "name": "Amherst",
+        "slug": "amherst-nh"
+      },
+      {
+        "name": "Wilton",
+        "slug": "wilton-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "arts-tourism",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southwest-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Raymond",
+    "slug": "raymond-nh",
+    "county": "Rockingham County",
+    "population": 10500,
+    "zip_codes": [
+      "03077"
+    ],
+    "landmarks": [
+      "Pawtuckaway State Park",
+      "Lamprey River",
+      "Tuck Woods",
+      "Raymond Town Common",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Exeter",
+        "slug": "exeter-nh"
+      },
+      {
+        "name": "Derry",
+        "slug": "derry-nh"
+      },
+      {
+        "name": "Newmarket",
+        "slug": "newmarket-nh"
+      },
+      {
+        "name": "Candia",
+        "slug": "candia-nh"
+      },
+      {
+        "name": "Epping",
+        "slug": "epping-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "rockingham-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Barrington",
+    "slug": "barrington-nh",
+    "county": "Strafford County",
+    "population": 9500,
+    "zip_codes": [
+      "03825"
+    ],
+    "landmarks": [
+      "Calef's Country Store",
+      "Isinglass River",
+      "Mendums Pond",
+      "Barrington Community Center",
+      "Town Hall District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Rochester",
+        "slug": "rochester-nh"
+      },
+      {
+        "name": "Dover",
+        "slug": "dover-nh"
+      },
+      {
+        "name": "Somersworth",
+        "slug": "somersworth-nh"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham-nh"
+      },
+      {
+        "name": "Newmarket",
+        "slug": "newmarket-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "strafford-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Litchfield",
+    "slug": "litchfield-nh",
+    "county": "Hillsborough County",
+    "population": 9000,
+    "zip_codes": [
+      "03052"
+    ],
+    "landmarks": [
+      "Darrah Pond",
+      "Litchfield State Forest",
+      "Parker Park",
+      "Merrimack River",
+      "Town Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Nashua",
+        "slug": "nashua-nh"
+      },
+      {
+        "name": "Hudson",
+        "slug": "hudson-nh"
+      },
+      {
+        "name": "Merrimack",
+        "slug": "merrimack-nh"
+      },
+      {
+        "name": "Manchester",
+        "slug": "manchester-nh"
+      },
+      {
+        "name": "Bedford",
+        "slug": "bedford-nh"
+      }
+    ],
+    "city_type": "suburban-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Weare",
+    "slug": "weare-nh",
+    "county": "Hillsborough County",
+    "population": 9500,
+    "zip_codes": [
+      "03281"
+    ],
+    "landmarks": [
+      "Horace Lake",
+      "Clough State Park",
+      "Weare Reservoir",
+      "Center Woods School Area",
+      "Town Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Goffstown",
+        "slug": "goffstown-nh"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      },
+      {
+        "name": "Hooksett",
+        "slug": "hooksett-nh"
+      },
+      {
+        "name": "Bedford",
+        "slug": "bedford-nh"
+      },
+      {
+        "name": "Henniker",
+        "slug": "henniker-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Gilford",
+    "slug": "gilford-nh",
+    "county": "Belknap County",
+    "population": 7600,
+    "zip_codes": [
+      "03249"
+    ],
+    "landmarks": [
+      "Gunstock Mountain Resort",
+      "Bank of NH Pavilion",
+      "Lake Winnipesaukee",
+      "Gilford Beach",
+      "Ellacoya State Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Laconia",
+        "slug": "laconia-nh"
+      },
+      {
+        "name": "Meredith",
+        "slug": "meredith-nh"
+      },
+      {
+        "name": "Belmont",
+        "slug": "belmont-nh"
+      },
+      {
+        "name": "Tilton",
+        "slug": "tilton-nh"
+      },
+      {
+        "name": "Wolfeboro",
+        "slug": "wolfeboro-nh"
+      }
+    ],
+    "city_type": "lake-town",
+    "climate_zone": "humid-continental",
+    "terrain": "lake-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "lakes-region-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Wolfeboro",
+    "slug": "wolfeboro-nh",
+    "county": "Carroll County",
+    "population": 6400,
+    "zip_codes": [
+      "03894"
+    ],
+    "landmarks": [
+      "Lake Winnipesaukee",
+      "Cate Park",
+      "Wright Museum",
+      "Wolfeboro Town Docks",
+      "Downtown Wolfeboro"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gilford",
+        "slug": "gilford-nh"
+      },
+      {
+        "name": "Laconia",
+        "slug": "laconia-nh"
+      },
+      {
+        "name": "Meredith",
+        "slug": "meredith-nh"
+      },
+      {
+        "name": "Ossipee",
+        "slug": "ossipee-nh"
+      },
+      {
+        "name": "Alton",
+        "slug": "alton-nh"
+      }
+    ],
+    "city_type": "tourism-town",
+    "climate_zone": "humid-continental",
+    "terrain": "lake-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "lakes-region-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Hanover",
+    "slug": "hanover-nh",
+    "county": "Grafton County",
+    "population": 12000,
+    "zip_codes": [
+      "03755"
+    ],
+    "landmarks": [
+      "Dartmouth College",
+      "Baker Library",
+      "Hanover Green",
+      "Connecticut River",
+      "Downtown Hanover"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lebanon",
+        "slug": "lebanon-nh"
+      },
+      {
+        "name": "Enfield",
+        "slug": "enfield-nh"
+      },
+      {
+        "name": "Canaan",
+        "slug": "canaan-nh"
+      },
+      {
+        "name": "New London",
+        "slug": "new-london-nh"
+      },
+      {
+        "name": "Claremont",
+        "slug": "claremont-nh"
+      }
+    ],
+    "city_type": "college-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "upper-valley-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Belmont",
+    "slug": "belmont-nh",
+    "county": "Belknap County",
+    "population": 7600,
+    "zip_codes": [
+      "03220"
+    ],
+    "landmarks": [
+      "Belmont Mill",
+      "Lake Winnisquam",
+      "Tioga River",
+      "Belmont Town Green",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Laconia",
+        "slug": "laconia-nh"
+      },
+      {
+        "name": "Gilford",
+        "slug": "gilford-nh"
+      },
+      {
+        "name": "Tilton",
+        "slug": "tilton-nh"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      },
+      {
+        "name": "Meredith",
+        "slug": "meredith-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "lake-region",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "lakes-region-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Tilton",
+    "slug": "tilton-nh",
+    "county": "Belknap County",
+    "population": 3800,
+    "zip_codes": [
+      "03276"
+    ],
+    "landmarks": [
+      "Tanger Outlets",
+      "Winnisquam Lake Area",
+      "Tilton Island Park",
+      "Downtown Tilton",
+      "Memorial Arch"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Belmont",
+        "slug": "belmont-nh"
+      },
+      {
+        "name": "Laconia",
+        "slug": "laconia-nh"
+      },
+      {
+        "name": "Gilford",
+        "slug": "gilford-nh"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      },
+      {
+        "name": "Franklin",
+        "slug": "franklin-nh"
+      }
+    ],
+    "city_type": "retail-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "retail-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Franklin",
+    "slug": "franklin-nh",
+    "county": "Merrimack County",
+    "population": 8900,
+    "zip_codes": [
+      "03235"
+    ],
+    "landmarks": [
+      "Mill City Park",
+      "Pemigewasset River",
+      "Veterans Memorial Recreation Area",
+      "Downtown Franklin",
+      "Daniel Webster Birthplace"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tilton",
+        "slug": "tilton-nh"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      },
+      {
+        "name": "Laconia",
+        "slug": "laconia-nh"
+      },
+      {
+        "name": "Belmont",
+        "slug": "belmont-nh"
+      },
+      {
+        "name": "Bristol",
+        "slug": "bristol-nh"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Seabrook",
+    "slug": "seabrook-nh",
+    "county": "Rockingham County",
+    "population": 8900,
+    "zip_codes": [
+      "03874"
+    ],
+    "landmarks": [
+      "Seabrook Beach",
+      "Seabrook Station",
+      "Blackwater River",
+      "Route 1 Retail Corridor",
+      "Harbor Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hampton",
+        "slug": "hampton-nh"
+      },
+      {
+        "name": "Exeter",
+        "slug": "exeter-nh"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-nh"
+      },
+      {
+        "name": "Salem",
+        "slug": "salem-nh"
+      },
+      {
+        "name": "Newmarket",
+        "slug": "newmarket-nh"
+      }
+    ],
+    "city_type": "coastal-town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal",
+    "economy_type": "tourism-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "seacoast-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Epping",
+    "slug": "epping-nh",
+    "county": "Rockingham County",
+    "population": 7000,
+    "zip_codes": [
+      "03042"
+    ],
+    "landmarks": [
+      "Brickyard Square",
+      "Lamprey River",
+      "Epping Crossing",
+      "Community Center",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Exeter",
+        "slug": "exeter-nh"
+      },
+      {
+        "name": "Raymond",
+        "slug": "raymond-nh"
+      },
+      {
+        "name": "Newmarket",
+        "slug": "newmarket-nh"
+      },
+      {
+        "name": "Durham",
+        "slug": "durham-nh"
+      },
+      {
+        "name": "Derry",
+        "slug": "derry-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "retail-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "rockingham-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Bow",
+    "slug": "bow-nh",
+    "county": "Merrimack County",
+    "population": 8200,
+    "zip_codes": [
+      "03304"
+    ],
+    "landmarks": [
+      "Merrimack River",
+      "Bow Town Forest",
+      "White Rock Conservation Area",
+      "Bow Community Center",
+      "Bow Junction"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      },
+      {
+        "name": "Hooksett",
+        "slug": "hooksett-nh"
+      },
+      {
+        "name": "Weare",
+        "slug": "weare-nh"
+      },
+      {
+        "name": "Pembroke",
+        "slug": "pembroke-nh"
+      },
+      {
+        "name": "Manchester",
+        "slug": "manchester-nh"
+      }
+    ],
+    "city_type": "suburban-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Pembroke",
+    "slug": "pembroke-nh",
+    "county": "Merrimack County",
+    "population": 7400,
+    "zip_codes": [
+      "03275"
+    ],
+    "landmarks": [
+      "Suncook River",
+      "Memorial Field",
+      "White Sands Conservation Area",
+      "Pembroke Academy",
+      "Town Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      },
+      {
+        "name": "Bow",
+        "slug": "bow-nh"
+      },
+      {
+        "name": "Hooksett",
+        "slug": "hooksett-nh"
+      },
+      {
+        "name": "Allenstown",
+        "slug": "allenstown-nh"
+      },
+      {
+        "name": "Epsom",
+        "slug": "epsom-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Allenstown",
+    "slug": "allenstown-nh",
+    "county": "Merrimack County",
+    "population": 4500,
+    "zip_codes": [
+      "03275"
+    ],
+    "landmarks": [
+      "Bear Brook State Park",
+      "Suncook Village",
+      "Suncook River",
+      "Community Center",
+      "Veterans Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pembroke",
+        "slug": "pembroke-nh"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      },
+      {
+        "name": "Hooksett",
+        "slug": "hooksett-nh"
+      },
+      {
+        "name": "Epsom",
+        "slug": "epsom-nh"
+      },
+      {
+        "name": "Bow",
+        "slug": "bow-nh"
+      }
+    ],
+    "city_type": "small-town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Epsom",
+    "slug": "epsom-nh",
+    "county": "Merrimack County",
+    "population": 4900,
+    "zip_codes": [
+      "03234"
+    ],
+    "landmarks": [
+      "Epsom Circle",
+      "Fort Mountain",
+      "Town Forest",
+      "Community Center",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pembroke",
+        "slug": "pembroke-nh"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      },
+      {
+        "name": "Allenstown",
+        "slug": "allenstown-nh"
+      },
+      {
+        "name": "Pittsfield",
+        "slug": "pittsfield-nh"
+      },
+      {
+        "name": "Chichester",
+        "slug": "chichester-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Plymouth",
+    "slug": "plymouth-nh",
+    "county": "Grafton County",
+    "population": 6500,
+    "zip_codes": [
+      "03264"
+    ],
+    "landmarks": [
+      "Plymouth State University",
+      "Pemigewasset River",
+      "Museum of the White Mountains",
+      "Main Street",
+      "Langdon Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Holderness",
+        "slug": "holderness-nh"
+      },
+      {
+        "name": "Ashland",
+        "slug": "ashland-nh"
+      },
+      {
+        "name": "Campton",
+        "slug": "campton-nh"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-nh"
+      },
+      {
+        "name": "Meredith",
+        "slug": "meredith-nh"
+      }
+    ],
+    "city_type": "college-town",
+    "climate_zone": "humid-continental",
+    "terrain": "mountain-valley",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "white-mountains-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Lincoln",
+    "slug": "lincoln-nh",
+    "county": "Grafton County",
+    "population": 1700,
+    "zip_codes": [
+      "03251"
+    ],
+    "landmarks": [
+      "Loon Mountain Resort",
+      "Franconia Notch State Park",
+      "Flume Gorge",
+      "Pemigewasset River",
+      "Downtown Lincoln"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-nh"
+      },
+      {
+        "name": "Campton",
+        "slug": "campton-nh"
+      },
+      {
+        "name": "Woodstock",
+        "slug": "woodstock-nh"
+      },
+      {
+        "name": "Franconia",
+        "slug": "franconia-nh"
+      },
+      {
+        "name": "Littleton",
+        "slug": "littleton-nh"
+      }
+    ],
+    "city_type": "mountain-town",
+    "climate_zone": "humid-continental",
+    "terrain": "mountains",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "white-mountains-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Littleton",
+    "slug": "littleton-nh",
+    "county": "Grafton County",
+    "population": 6300,
+    "zip_codes": [
+      "03561"
+    ],
+    "landmarks": [
+      "Main Street",
+      "Riverwalk Covered Bridge",
+      "Chutters",
+      "Ammonoosuc River",
+      "Downtown Littleton"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-nh"
+      },
+      {
+        "name": "Franconia",
+        "slug": "franconia-nh"
+      },
+      {
+        "name": "Bethlehem",
+        "slug": "bethlehem-nh"
+      },
+      {
+        "name": "Lancaster",
+        "slug": "lancaster-nh"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "mountain-valley",
+    "economy_type": "retail-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-country-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Moultonborough",
+    "slug": "moultonborough-nh",
+    "county": "Carroll County",
+    "population": 5000,
+    "zip_codes": [
+      "03254"
+    ],
+    "landmarks": [
+      "Castle in the Clouds",
+      "Lake Winnipesaukee",
+      "Moultonborough Bay",
+      "Long Island Bridge",
+      "Town Beach"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wolfeboro",
+        "slug": "wolfeboro-nh"
+      },
+      {
+        "name": "Meredith",
+        "slug": "meredith-nh"
+      },
+      {
+        "name": "Gilford",
+        "slug": "gilford-nh"
+      },
+      {
+        "name": "Laconia",
+        "slug": "laconia-nh"
+      },
+      {
+        "name": "Center Harbor",
+        "slug": "center-harbor-nh"
+      }
+    ],
+    "city_type": "lake-town",
+    "climate_zone": "humid-continental",
+    "terrain": "lake-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "lakes-region-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "New London",
+    "slug": "new-london-nh",
+    "county": "Merrimack County",
+    "population": 4600,
+    "zip_codes": [
+      "03257"
+    ],
+    "landmarks": [
+      "Colby-Sawyer College",
+      "Lake Sunapee Region",
+      "Town Green",
+      "Little Sunapee Lake",
+      "Main Street"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hanover",
+        "slug": "hanover-nh"
+      },
+      {
+        "name": "Lebanon",
+        "slug": "lebanon-nh"
+      },
+      {
+        "name": "Claremont",
+        "slug": "claremont-nh"
+      },
+      {
+        "name": "Sunapee",
+        "slug": "sunapee-nh"
+      },
+      {
+        "name": "Newport",
+        "slug": "newport-nh"
+      }
+    ],
+    "city_type": "college-town",
+    "climate_zone": "humid-continental",
+    "terrain": "lake-region",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "sunapee-region-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "North Hampton",
+    "slug": "north-hampton-nh",
+    "county": "Rockingham County",
+    "population": 4600,
+    "zip_codes": [
+      "03862"
+    ],
+    "landmarks": [
+      "North Hampton State Beach",
+      "Little River",
+      "Atlantic Coastline",
+      "Town Common",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hampton",
+        "slug": "hampton-nh"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-nh"
+      },
+      {
+        "name": "Exeter",
+        "slug": "exeter-nh"
+      },
+      {
+        "name": "Seabrook",
+        "slug": "seabrook-nh"
+      },
+      {
+        "name": "Rye",
+        "slug": "rye-nh"
+      }
+    ],
+    "city_type": "coastal-town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal",
+    "economy_type": "tourism-services",
+    "housing_profile": "residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "seacoast-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Rye",
+    "slug": "rye-nh",
+    "county": "Rockingham County",
+    "population": 5600,
+    "zip_codes": [
+      "03870"
+    ],
+    "landmarks": [
+      "Odiorne Point State Park",
+      "Wallis Sands Beach",
+      "Seacoast Science Center",
+      "Atlantic Coast",
+      "Rye Harbor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-nh"
+      },
+      {
+        "name": "Hampton",
+        "slug": "hampton-nh"
+      },
+      {
+        "name": "North Hampton",
+        "slug": "north-hampton-nh"
+      },
+      {
+        "name": "Exeter",
+        "slug": "exeter-nh"
+      },
+      {
+        "name": "Seabrook",
+        "slug": "seabrook-nh"
+      }
+    ],
+    "city_type": "coastal-town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "seacoast-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Henniker",
+    "slug": "henniker-nh",
+    "county": "Merrimack County",
+    "population": 5000,
+    "zip_codes": [
+      "03242"
+    ],
+    "landmarks": [
+      "New England College",
+      "Contoocook River",
+      "Pats Peak",
+      "Azalea Park",
+      "Downtown Henniker"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Weare",
+        "slug": "weare-nh"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      },
+      {
+        "name": "Bow",
+        "slug": "bow-nh"
+      },
+      {
+        "name": "Hooksett",
+        "slug": "hooksett-nh"
+      },
+      {
+        "name": "New London",
+        "slug": "new-london-nh"
+      }
+    ],
+    "city_type": "college-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Holderness",
+    "slug": "holderness-nh",
+    "county": "Grafton County",
+    "population": 2200,
+    "zip_codes": [
+      "03245"
+    ],
+    "landmarks": [
+      "Squam Lake",
+      "Holderness School",
+      "Little Squam Lake",
+      "Town Center",
+      "Natural Science Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-nh"
+      },
+      {
+        "name": "Meredith",
+        "slug": "meredith-nh"
+      },
+      {
+        "name": "Moultonborough",
+        "slug": "moultonborough-nh"
+      },
+      {
+        "name": "Laconia",
+        "slug": "laconia-nh"
+      },
+      {
+        "name": "Ashland",
+        "slug": "ashland-nh"
+      }
+    ],
+    "city_type": "lake-town",
+    "climate_zone": "humid-continental",
+    "terrain": "lake-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "lakes-region-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Ashland",
+    "slug": "ashland-nh",
+    "county": "Grafton County",
+    "population": 2200,
+    "zip_codes": [
+      "03217"
+    ],
+    "landmarks": [
+      "Squam River",
+      "Ashland Railroad Station Museum",
+      "Riverfront Park",
+      "Downtown Ashland",
+      "Whitten Woods"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-nh"
+      },
+      {
+        "name": "Holderness",
+        "slug": "holderness-nh"
+      },
+      {
+        "name": "Meredith",
+        "slug": "meredith-nh"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-nh"
+      },
+      {
+        "name": "Laconia",
+        "slug": "laconia-nh"
+      }
+    ],
+    "city_type": "small-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "lakes-region-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Campton",
+    "slug": "campton-nh",
+    "county": "Grafton County",
+    "population": 3400,
+    "zip_codes": [
+      "03223"
+    ],
+    "landmarks": [
+      "Campton Mountain",
+      "Blair State Forest",
+      "Mad River",
+      "Campton Town Hall",
+      "Community Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-nh"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-nh"
+      },
+      {
+        "name": "Holderness",
+        "slug": "holderness-nh"
+      },
+      {
+        "name": "Ashland",
+        "slug": "ashland-nh"
+      },
+      {
+        "name": "Meredith",
+        "slug": "meredith-nh"
+      }
+    ],
+    "city_type": "mountain-town",
+    "climate_zone": "humid-continental",
+    "terrain": "mountains",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "white-mountains-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Bethlehem",
+    "slug": "bethlehem-nh",
+    "county": "Grafton County",
+    "population": 2500,
+    "zip_codes": [
+      "03574"
+    ],
+    "landmarks": [
+      "Profile Trail",
+      "Colonial Theatre",
+      "Main Street",
+      "Bethlehem Town Forest",
+      "Downtown Bethlehem"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Littleton",
+        "slug": "littleton-nh"
+      },
+      {
+        "name": "Franconia",
+        "slug": "franconia-nh"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-nh"
+      },
+      {
+        "name": "Lancaster",
+        "slug": "lancaster-nh"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-nh"
+      }
+    ],
+    "city_type": "mountain-town",
+    "climate_zone": "humid-continental",
+    "terrain": "mountains",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-country-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Franconia",
+    "slug": "franconia-nh",
+    "county": "Grafton County",
+    "population": 1100,
+    "zip_codes": [
+      "03580"
+    ],
+    "landmarks": [
+      "Franconia Notch State Park",
+      "Echo Lake",
+      "Cannon Mountain",
+      "Downtown Franconia",
+      "Profile Lake"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-nh"
+      },
+      {
+        "name": "Littleton",
+        "slug": "littleton-nh"
+      },
+      {
+        "name": "Bethlehem",
+        "slug": "bethlehem-nh"
+      },
+      {
+        "name": "Lancaster",
+        "slug": "lancaster-nh"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-nh"
+      }
+    ],
+    "city_type": "mountain-town",
+    "climate_zone": "humid-continental",
+    "terrain": "mountains",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "white-mountains-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Charlestown",
+    "slug": "charlestown-nh",
+    "county": "Sullivan County",
+    "population": 4900,
+    "zip_codes": [
+      "03603"
+    ],
+    "landmarks": [
+      "Fort at No. 4",
+      "Connecticut River",
+      "Charlestown Town Hall",
+      "Historic District",
+      "Community Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Claremont",
+        "slug": "claremont-nh"
+      },
+      {
+        "name": "Newport",
+        "slug": "newport-nh"
+      },
+      {
+        "name": "Lebanon",
+        "slug": "lebanon-nh"
+      },
+      {
+        "name": "Hanover",
+        "slug": "hanover-nh"
+      },
+      {
+        "name": "Sunapee",
+        "slug": "sunapee-nh"
+      }
+    ],
+    "city_type": "historic-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "upper-valley-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Canaan",
+    "slug": "canaan-nh",
+    "county": "Grafton County",
+    "population": 3900,
+    "zip_codes": [
+      "03741"
+    ],
+    "landmarks": [
+      "Mascoma Lake",
+      "Canaan Street Lake",
+      "Historic District",
+      "Community Center",
+      "Downtown Canaan"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hanover",
+        "slug": "hanover-nh"
+      },
+      {
+        "name": "Lebanon",
+        "slug": "lebanon-nh"
+      },
+      {
+        "name": "New London",
+        "slug": "new-london-nh"
+      },
+      {
+        "name": "Enfield",
+        "slug": "enfield-nh"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "lake-region",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "upper-valley-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Enfield",
+    "slug": "enfield-nh",
+    "county": "Grafton County",
+    "population": 4700,
+    "zip_codes": [
+      "03748"
+    ],
+    "landmarks": [
+      "Mascoma Lake",
+      "Shaker Museum",
+      "Enfield Town Forest",
+      "Crystal Lake",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lebanon",
+        "slug": "lebanon-nh"
+      },
+      {
+        "name": "Hanover",
+        "slug": "hanover-nh"
+      },
+      {
+        "name": "Canaan",
+        "slug": "canaan-nh"
+      },
+      {
+        "name": "New London",
+        "slug": "new-london-nh"
+      },
+      {
+        "name": "Claremont",
+        "slug": "claremont-nh"
+      }
+    ],
+    "city_type": "lake-town",
+    "climate_zone": "humid-continental",
+    "terrain": "lake-region",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "upper-valley-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Wilton",
+    "slug": "wilton-nh",
+    "county": "Hillsborough County",
+    "population": 3900,
+    "zip_codes": [
+      "03086"
+    ],
+    "landmarks": [
+      "Wilton Town Hall Theatre",
+      "Souhegan River",
+      "Historic Main Street",
+      "Frye Field",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Milford",
+        "slug": "milford-nh"
+      },
+      {
+        "name": "Amherst",
+        "slug": "amherst-nh"
+      },
+      {
+        "name": "Peterborough",
+        "slug": "peterborough-nh"
+      },
+      {
+        "name": "Jaffrey",
+        "slug": "jaffrey-nh"
+      },
+      {
+        "name": "Nashua",
+        "slug": "nashua-nh"
+      }
+    ],
+    "city_type": "historic-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "monadnock-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Chichester",
+    "slug": "chichester-nh",
+    "county": "Merrimack County",
+    "population": 2700,
+    "zip_codes": [
+      "03258"
+    ],
+    "landmarks": [
+      "Chichester Town Forest",
+      "Horse Corner Road District",
+      "Carpenter Park",
+      "Community Center",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      },
+      {
+        "name": "Pembroke",
+        "slug": "pembroke-nh"
+      },
+      {
+        "name": "Epsom",
+        "slug": "epsom-nh"
+      },
+      {
+        "name": "Bow",
+        "slug": "bow-nh"
+      },
+      {
+        "name": "Pittsfield",
+        "slug": "pittsfield-nh"
+      }
+    ],
+    "city_type": "rural-town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Pittsfield",
+    "slug": "pittsfield-nh",
+    "county": "Merrimack County",
+    "population": 4300,
+    "zip_codes": [
+      "03263"
+    ],
+    "landmarks": [
+      "Drake Field",
+      "Suncook River",
+      "Hot Air Balloon Rally Grounds",
+      "Downtown Pittsfield",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Epsom",
+        "slug": "epsom-nh"
+      },
+      {
+        "name": "Chichester",
+        "slug": "chichester-nh"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      },
+      {
+        "name": "Pembroke",
+        "slug": "pembroke-nh"
+      },
+      {
+        "name": "Barnstead",
+        "slug": "barnstead-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Barnstead",
+    "slug": "barnstead-nh",
+    "county": "Belknap County",
+    "population": 4900,
+    "zip_codes": [
+      "03218",
+      "03225"
+    ],
+    "landmarks": [
+      "Upper Suncook Lake",
+      "Lower Suncook Lake",
+      "Town Hall",
+      "Community Center",
+      "Parade Ground Village"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pittsfield",
+        "slug": "pittsfield-nh"
+      },
+      {
+        "name": "Laconia",
+        "slug": "laconia-nh"
+      },
+      {
+        "name": "Belmont",
+        "slug": "belmont-nh"
+      },
+      {
+        "name": "Gilford",
+        "slug": "gilford-nh"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      }
+    ],
+    "city_type": "lake-town",
+    "climate_zone": "humid-continental",
+    "terrain": "lake-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "lakes-region-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Alton",
+    "slug": "alton-nh",
+    "county": "Belknap County",
+    "population": 5900,
+    "zip_codes": [
+      "03809",
+      "03810"
+    ],
+    "landmarks": [
+      "Alton Bay",
+      "Lake Winnipesaukee",
+      "Mount Major",
+      "Alton Town Beach",
+      "Downtown Alton"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wolfeboro",
+        "slug": "wolfeboro-nh"
+      },
+      {
+        "name": "Gilford",
+        "slug": "gilford-nh"
+      },
+      {
+        "name": "Laconia",
+        "slug": "laconia-nh"
+      },
+      {
+        "name": "Meredith",
+        "slug": "meredith-nh"
+      },
+      {
+        "name": "Ossipee",
+        "slug": "ossipee-nh"
+      }
+    ],
+    "city_type": "lake-town",
+    "climate_zone": "humid-continental",
+    "terrain": "lake-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "lakes-region-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Center Harbor",
+    "slug": "center-harbor-nh",
+    "county": "Belknap County",
+    "population": 1200,
+    "zip_codes": [
+      "03226"
+    ],
+    "landmarks": [
+      "Center Harbor Bay",
+      "Lake Winnipesaukee",
+      "Town Beach",
+      "Village Green",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Meredith",
+        "slug": "meredith-nh"
+      },
+      {
+        "name": "Moultonborough",
+        "slug": "moultonborough-nh"
+      },
+      {
+        "name": "Wolfeboro",
+        "slug": "wolfeboro-nh"
+      },
+      {
+        "name": "Gilford",
+        "slug": "gilford-nh"
+      },
+      {
+        "name": "Laconia",
+        "slug": "laconia-nh"
+      }
+    ],
+    "city_type": "lake-village",
+    "climate_zone": "humid-continental",
+    "terrain": "lake-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "lakes-region-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Woodstock",
+    "slug": "woodstock-nh",
+    "county": "Grafton County",
+    "population": 1400,
+    "zip_codes": [
+      "03262"
+    ],
+    "landmarks": [
+      "Lost River Gorge",
+      "Kancamagus Highway",
+      "Jack O'Lantern Resort",
+      "Pemigewasset River",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-nh"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-nh"
+      },
+      {
+        "name": "Franconia",
+        "slug": "franconia-nh"
+      },
+      {
+        "name": "Littleton",
+        "slug": "littleton-nh"
+      },
+      {
+        "name": "Campton",
+        "slug": "campton-nh"
+      }
+    ],
+    "city_type": "mountain-town",
+    "climate_zone": "humid-continental",
+    "terrain": "mountains",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "white-mountains-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Bristol",
+    "slug": "bristol-nh",
+    "county": "Grafton County",
+    "population": 3300,
+    "zip_codes": [
+      "03222"
+    ],
+    "landmarks": [
+      "Newfound Lake",
+      "Wellington State Park",
+      "Bristol Town Common",
+      "Pemigewasset River Area",
+      "Downtown Bristol"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Franklin",
+        "slug": "franklin-nh"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-nh"
+      },
+      {
+        "name": "Meredith",
+        "slug": "meredith-nh"
+      },
+      {
+        "name": "Laconia",
+        "slug": "laconia-nh"
+      },
+      {
+        "name": "New London",
+        "slug": "new-london-nh"
+      }
+    ],
+    "city_type": "lake-town",
+    "climate_zone": "humid-continental",
+    "terrain": "lake-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "newfound-lake-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Tamworth",
+    "slug": "tamworth-nh",
+    "county": "Carroll County",
+    "population": 2900,
+    "zip_codes": [
+      "03886"
+    ],
+    "landmarks": [
+      "Remick Country Doctor Museum",
+      "Mount Chocorua",
+      "Bearcamp River",
+      "Village Green",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ossipee",
+        "slug": "ossipee-nh"
+      },
+      {
+        "name": "Wolfeboro",
+        "slug": "wolfeboro-nh"
+      },
+      {
+        "name": "Meredith",
+        "slug": "meredith-nh"
+      },
+      {
+        "name": "Moultonborough",
+        "slug": "moultonborough-nh"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-nh"
+      }
+    ],
+    "city_type": "mountain-town",
+    "climate_zone": "humid-continental",
+    "terrain": "mountain-valley",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "carroll-county-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Hillsborough",
+    "slug": "hillsborough-nh",
+    "county": "Hillsborough County",
+    "population": 6400,
+    "zip_codes": [
+      "03244"
+    ],
+    "landmarks": [
+      "Franklin Pierce Homestead",
+      "Contoocook River",
+      "Grimes Field",
+      "Downtown Hillsborough",
+      "Fox State Forest"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Henniker",
+        "slug": "henniker-nh"
+      },
+      {
+        "name": "Concord",
+        "slug": "concord-nh"
+      },
+      {
+        "name": "Weare",
+        "slug": "weare-nh"
+      },
+      {
+        "name": "Peterborough",
+        "slug": "peterborough-nh"
+      },
+      {
+        "name": "New London",
+        "slug": "new-london-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Danville",
+    "slug": "danville-nh",
+    "county": "Rockingham County",
+    "population": 4500,
+    "zip_codes": [
+      "03819"
+    ],
+    "landmarks": [
+      "Hawke Conservation Area",
+      "Kingston State Park Area",
+      "Town Hall",
+      "Community Center",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Salem",
+        "slug": "salem-nh"
+      },
+      {
+        "name": "Derry",
+        "slug": "derry-nh"
+      },
+      {
+        "name": "Hampstead",
+        "slug": "hampstead-nh"
+      },
+      {
+        "name": "Windham",
+        "slug": "windham-nh"
+      },
+      {
+        "name": "Exeter",
+        "slug": "exeter-nh"
+      }
+    ],
+    "city_type": "small-town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "rockingham-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Hampstead",
+    "slug": "hampstead-nh",
+    "county": "Rockingham County",
+    "population": 8900,
+    "zip_codes": [
+      "03841"
+    ],
+    "landmarks": [
+      "Sunset Lake",
+      "Wash Pond",
+      "Town Common",
+      "Kiwanis Park",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Derry",
+        "slug": "derry-nh"
+      },
+      {
+        "name": "Salem",
+        "slug": "salem-nh"
+      },
+      {
+        "name": "Windham",
+        "slug": "windham-nh"
+      },
+      {
+        "name": "Danville",
+        "slug": "danville-nh"
+      },
+      {
+        "name": "Plaistow",
+        "slug": "plaistow-nh"
+      }
+    ],
+    "city_type": "suburban-town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-new-hampshire-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Plaistow",
+    "slug": "plaistow-nh",
+    "county": "Rockingham County",
+    "population": 7800,
+    "zip_codes": [
+      "03865"
+    ],
+    "landmarks": [
+      "Plaistow Village",
+      "Pollard School Area",
+      "Retail Corridor",
+      "Community Center",
+      "Veterans Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hampstead",
+        "slug": "hampstead-nh"
+      },
+      {
+        "name": "Salem",
+        "slug": "salem-nh"
+      },
+      {
+        "name": "Windham",
+        "slug": "windham-nh"
+      },
+      {
+        "name": "Exeter",
+        "slug": "exeter-nh"
+      },
+      {
+        "name": "Derry",
+        "slug": "derry-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "retail-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "rockingham-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  },
+  {
+    "city": "Kingston",
+    "slug": "kingston-nh",
+    "county": "Rockingham County",
+    "population": 6500,
+    "zip_codes": [
+      "03848"
+    ],
+    "landmarks": [
+      "Kingston State Park",
+      "Great Pond",
+      "Town Common",
+      "Historic District",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Exeter",
+        "slug": "exeter-nh"
+      },
+      {
+        "name": "Plaistow",
+        "slug": "plaistow-nh"
+      },
+      {
+        "name": "Hampstead",
+        "slug": "hampstead-nh"
+      },
+      {
+        "name": "Danville",
+        "slug": "danville-nh"
+      },
+      {
+        "name": "Derry",
+        "slug": "derry-nh"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "rockingham-market",
+    "property_mix": "mixed-use",
+    "state": "NH"
+  }
+]

@@ -1,0 +1,2967 @@
+[
+  {
+    "city": "American Fork",
+    "slug": "american-fork-ut",
+    "county": "Utah County",
+    "population": 38300,
+    "zip_codes": [
+      "84003"
+    ],
+    "landmarks": [
+      "Timpanogos Cave National Monument",
+      "Evermore Park",
+      "Fox Hollow Golf Club",
+      "American Fork Canyon",
+      "Rotary Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pleasant Grove",
+        "slug": "pleasant-grove-ut"
+      },
+      {
+        "name": "Highland",
+        "slug": "highland-ut"
+      },
+      {
+        "name": "Lehi",
+        "slug": "lehi-ut"
+      },
+      {
+        "name": "Lindon",
+        "slug": "lindon-ut"
+      },
+      {
+        "name": "Cedar Hills",
+        "slug": "cedar-hills-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "technology-retail",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "utah-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Bluffdale",
+    "slug": "bluffdale-ut",
+    "county": "Salt Lake County",
+    "population": 20200,
+    "zip_codes": [
+      "84065"
+    ],
+    "landmarks": [
+      "Jordan River Parkway",
+      "Wardle Fields Regional Park",
+      "Independence Park",
+      "Jordan Narrows",
+      "Bluffdale City Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Riverton",
+        "slug": "riverton-ut"
+      },
+      {
+        "name": "Draper",
+        "slug": "draper-ut"
+      },
+      {
+        "name": "Lehi",
+        "slug": "lehi-ut"
+      },
+      {
+        "name": "Herriman",
+        "slug": "herriman-ut"
+      },
+      {
+        "name": "South Jordan",
+        "slug": "south-jordan-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "technology-logistics",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "salt-lake-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Bountiful",
+    "slug": "bountiful-ut",
+    "county": "Davis County",
+    "population": 45400,
+    "zip_codes": [
+      "84010",
+      "84011"
+    ],
+    "landmarks": [
+      "Mueller Park",
+      "Bountiful Ridge Golf Club",
+      "South Davis Recreation Center",
+      "Bountiful Temple",
+      "Bountiful City Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Salt Lake",
+        "slug": "north-salt-lake-ut"
+      },
+      {
+        "name": "Centerville",
+        "slug": "centerville-ut"
+      },
+      {
+        "name": "Woods Cross",
+        "slug": "woods-cross-ut"
+      },
+      {
+        "name": "Farmington",
+        "slug": "farmington-ut"
+      },
+      {
+        "name": "Salt Lake City",
+        "slug": "salt-lake-city-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "healthcare-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Brigham City",
+    "slug": "brigham-city-ut",
+    "county": "Box Elder County",
+    "population": 20200,
+    "zip_codes": [
+      "84302"
+    ],
+    "landmarks": [
+      "Brigham City Museum",
+      "Bear River Migratory Bird Refuge",
+      "Pioneer Park",
+      "Box Elder Tabernacle",
+      "Rees Pioneer Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Perry",
+        "slug": "perry-ut"
+      },
+      {
+        "name": "Willard",
+        "slug": "willard-ut"
+      },
+      {
+        "name": "Tremonton",
+        "slug": "tremonton-ut"
+      },
+      {
+        "name": "Honeyville",
+        "slug": "honeyville-ut"
+      },
+      {
+        "name": "Ogden",
+        "slug": "ogden-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "great-basin",
+    "economy_type": "manufacturing-agriculture",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-utah",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Cedar City",
+    "slug": "cedar-city-ut",
+    "county": "Iron County",
+    "population": 37900,
+    "zip_codes": [
+      "84720",
+      "84721"
+    ],
+    "landmarks": [
+      "Southern Utah University",
+      "Utah Shakespeare Festival",
+      "Frontier Homestead Museum",
+      "Cedar Breaks National Monument",
+      "Main Street Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Enoch",
+        "slug": "enoch-ut"
+      },
+      {
+        "name": "Parowan",
+        "slug": "parowan-ut"
+      },
+      {
+        "name": "Kanarraville",
+        "slug": "kanarraville-ut"
+      },
+      {
+        "name": "Brian Head",
+        "slug": "brian-head-ut"
+      },
+      {
+        "name": "New Harmony",
+        "slug": "new-harmony-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "colorado-plateau",
+    "economy_type": "education-tourism",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-utah",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Centerville",
+    "slug": "centerville-ut",
+    "county": "Davis County",
+    "population": 18000,
+    "zip_codes": [
+      "84014"
+    ],
+    "landmarks": [
+      "Founders Park",
+      "Island View Park",
+      "Centerville Community Park",
+      "Parrish Creek Trail",
+      "Whitaker Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bountiful",
+        "slug": "bountiful-ut"
+      },
+      {
+        "name": "Farmington",
+        "slug": "farmington-ut"
+      },
+      {
+        "name": "West Bountiful",
+        "slug": "west-bountiful-ut"
+      },
+      {
+        "name": "Woods Cross",
+        "slug": "woods-cross-ut"
+      },
+      {
+        "name": "North Salt Lake",
+        "slug": "north-salt-lake-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Clearfield",
+    "slug": "clearfield-ut",
+    "county": "Davis County",
+    "population": 31900,
+    "zip_codes": [
+      "84015",
+      "84016",
+      "84089"
+    ],
+    "landmarks": [
+      "Hill Aerospace Museum",
+      "Steed Park",
+      "Clearfield Aquatic Center",
+      "Clearfield City Hall",
+      "Fisher Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Layton",
+        "slug": "layton-ut"
+      },
+      {
+        "name": "Syracuse",
+        "slug": "syracuse-ut"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-ut"
+      },
+      {
+        "name": "Sunset",
+        "slug": "sunset-ut"
+      },
+      {
+        "name": "Roy",
+        "slug": "roy-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "aerospace-defense",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "ogden-clearfield-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Clinton",
+    "slug": "clinton-ut",
+    "county": "Davis County",
+    "population": 23500,
+    "zip_codes": [
+      "84015"
+    ],
+    "landmarks": [
+      "Clinton City Park",
+      "Veterans Memorial Park",
+      "West Clinton Park",
+      "Nature Park",
+      "Clinton Pond"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Clearfield",
+        "slug": "clearfield-ut"
+      },
+      {
+        "name": "Syracuse",
+        "slug": "syracuse-ut"
+      },
+      {
+        "name": "West Point",
+        "slug": "west-point-ut"
+      },
+      {
+        "name": "Sunset",
+        "slug": "sunset-ut"
+      },
+      {
+        "name": "Layton",
+        "slug": "layton-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "residential-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "ogden-clearfield-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Cottonwood Heights",
+    "slug": "cottonwood-heights-ut",
+    "county": "Salt Lake County",
+    "population": 34000,
+    "zip_codes": [
+      "84047",
+      "84121"
+    ],
+    "landmarks": [
+      "Big Cottonwood Canyon",
+      "Little Cottonwood Canyon",
+      "Mountview Park",
+      "Butler Park",
+      "Old Mill Golf Course"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sandy",
+        "slug": "sandy-ut"
+      },
+      {
+        "name": "Holladay",
+        "slug": "holladay-ut"
+      },
+      {
+        "name": "Murray",
+        "slug": "murray-ut"
+      },
+      {
+        "name": "Midvale",
+        "slug": "midvale-ut"
+      },
+      {
+        "name": "South Salt Lake",
+        "slug": "south-salt-lake-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "professional-services",
+    "housing_profile": "upscale-suburban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Draper",
+    "slug": "draper-ut",
+    "county": "Salt Lake County",
+    "population": 53000,
+    "zip_codes": [
+      "84020"
+    ],
+    "landmarks": [
+      "Corner Canyon Trails",
+      "Flight Park State Recreation Area",
+      "Loveland Living Planet Aquarium",
+      "Draper Historic Park",
+      "SunCrest Community"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sandy",
+        "slug": "sandy-ut"
+      },
+      {
+        "name": "Bluffdale",
+        "slug": "bluffdale-ut"
+      },
+      {
+        "name": "South Jordan",
+        "slug": "south-jordan-ut"
+      },
+      {
+        "name": "Alpine",
+        "slug": "alpine-ut"
+      },
+      {
+        "name": "Riverton",
+        "slug": "riverton-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "technology-healthcare",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Eagle Mountain",
+    "slug": "eagle-mountain-ut",
+    "county": "Utah County",
+    "population": 62000,
+    "zip_codes": [
+      "84005"
+    ],
+    "landmarks": [
+      "Cory Wride Memorial Park",
+      "Pony Express Memorial",
+      "Hidden Hollow Trail",
+      "Eagle Mountain Bike Park",
+      "Mountain Ranch Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Saratoga Springs",
+        "slug": "saratoga-springs-ut"
+      },
+      {
+        "name": "Cedar Fort",
+        "slug": "cedar-fort-ut"
+      },
+      {
+        "name": "Lehi",
+        "slug": "lehi-ut"
+      },
+      {
+        "name": "Fairfield",
+        "slug": "fairfield-ut"
+      },
+      {
+        "name": "Bluffdale",
+        "slug": "bluffdale-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "utah-valley",
+    "economy_type": "technology-residential",
+    "housing_profile": "rapid-growth-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "utah-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Enoch",
+    "slug": "enoch-ut",
+    "county": "Iron County",
+    "population": 8900,
+    "zip_codes": [
+      "84721"
+    ],
+    "landmarks": [
+      "Enoch City Park",
+      "Midvalley Trail",
+      "Enoch City Offices",
+      "Iron County Fairgrounds",
+      "Cross Hollow Recreation Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cedar City",
+        "slug": "cedar-city-ut"
+      },
+      {
+        "name": "Parowan",
+        "slug": "parowan-ut"
+      },
+      {
+        "name": "Kanarraville",
+        "slug": "kanarraville-ut"
+      },
+      {
+        "name": "Summit",
+        "slug": "summit-ut"
+      },
+      {
+        "name": "Brian Head",
+        "slug": "brian-head-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "colorado-plateau",
+    "economy_type": "residential-services",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-utah",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Farmington",
+    "slug": "farmington-ut",
+    "county": "Davis County",
+    "population": 26800,
+    "zip_codes": [
+      "84025"
+    ],
+    "landmarks": [
+      "Lagoon Amusement Park",
+      "Farmington Station",
+      "Farmington Pond",
+      "Davis County Courthouse",
+      "Farmington Canyon"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kaysville",
+        "slug": "kaysville-ut"
+      },
+      {
+        "name": "Centerville",
+        "slug": "centerville-ut"
+      },
+      {
+        "name": "Fruit Heights",
+        "slug": "fruit-heights-ut"
+      },
+      {
+        "name": "Bountiful",
+        "slug": "bountiful-ut"
+      },
+      {
+        "name": "Layton",
+        "slug": "layton-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "retail-tourism",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Grantsville",
+    "slug": "grantsville-ut",
+    "county": "Tooele County",
+    "population": 13600,
+    "zip_codes": [
+      "84029"
+    ],
+    "landmarks": [
+      "Deseret Peak Complex",
+      "Grantsville Reservoir",
+      "Garrett Park",
+      "Clark Historic Farm",
+      "Old Lincoln Highway"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tooele",
+        "slug": "tooele-ut"
+      },
+      {
+        "name": "Stansbury Park",
+        "slug": "stansbury-park-ut"
+      },
+      {
+        "name": "Lake Point",
+        "slug": "lake-point-ut"
+      },
+      {
+        "name": "Erda",
+        "slug": "erda-ut"
+      },
+      {
+        "name": "Stockton",
+        "slug": "stockton-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "great-basin",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "tooele-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Herriman",
+    "slug": "herriman-ut",
+    "county": "Salt Lake County",
+    "population": 64000,
+    "zip_codes": [
+      "84096"
+    ],
+    "landmarks": [
+      "Blackridge Reservoir",
+      "J. Lynn Crane Park",
+      "Butterfield Canyon",
+      "Herriman Towne Center",
+      "Mountain View Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Riverton",
+        "slug": "riverton-ut"
+      },
+      {
+        "name": "South Jordan",
+        "slug": "south-jordan-ut"
+      },
+      {
+        "name": "Bluffdale",
+        "slug": "bluffdale-ut"
+      },
+      {
+        "name": "Draper",
+        "slug": "draper-ut"
+      },
+      {
+        "name": "Copperton",
+        "slug": "copperton-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "residential-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Highland",
+    "slug": "highland-ut",
+    "county": "Utah County",
+    "population": 20600,
+    "zip_codes": [
+      "84003"
+    ],
+    "landmarks": [
+      "Highland Glen Park",
+      "Murdock Canal Trail",
+      "Mitchell Hollow Park",
+      "American Fork Canyon",
+      "Highland City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "American Fork",
+        "slug": "american-fork-ut"
+      },
+      {
+        "name": "Alpine",
+        "slug": "alpine-ut"
+      },
+      {
+        "name": "Lehi",
+        "slug": "lehi-ut"
+      },
+      {
+        "name": "Cedar Hills",
+        "slug": "cedar-hills-ut"
+      },
+      {
+        "name": "Pleasant Grove",
+        "slug": "pleasant-grove-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "professional-services",
+    "housing_profile": "upscale-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "utah-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Holladay",
+    "slug": "holladay-ut",
+    "county": "Salt Lake County",
+    "population": 31500,
+    "zip_codes": [
+      "84117",
+      "84121",
+      "84124"
+    ],
+    "landmarks": [
+      "Holladay Village Plaza",
+      "Cottonwood Country Club",
+      "Big Cottonwood Creek",
+      "Knudsen Park",
+      "Holladay City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Murray",
+        "slug": "murray-ut"
+      },
+      {
+        "name": "Cottonwood Heights",
+        "slug": "cottonwood-heights-ut"
+      },
+      {
+        "name": "Millcreek",
+        "slug": "millcreek-ut"
+      },
+      {
+        "name": "Salt Lake City",
+        "slug": "salt-lake-city-ut"
+      },
+      {
+        "name": "South Salt Lake",
+        "slug": "south-salt-lake-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "professional-services",
+    "housing_profile": "upscale-suburban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Hurricane",
+    "slug": "hurricane-ut",
+    "county": "Washington County",
+    "population": 23400,
+    "zip_codes": [
+      "84737"
+    ],
+    "landmarks": [
+      "Sand Hollow State Park",
+      "Quail Creek State Park",
+      "Sky Mountain Golf Course",
+      "Hurricane Valley Heritage Park",
+      "Sand Hollow Reservoir"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Washington",
+        "slug": "washington-ut"
+      },
+      {
+        "name": "La Verkin",
+        "slug": "la-verkin-ut"
+      },
+      {
+        "name": "Toquerville",
+        "slug": "toquerville-ut"
+      },
+      {
+        "name": "St. George",
+        "slug": "st-george-ut"
+      },
+      {
+        "name": "Virgin",
+        "slug": "virgin-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "desert",
+    "terrain": "colorado-plateau",
+    "economy_type": "tourism-retail",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "greater-st-george",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Kaysville",
+    "slug": "kaysville-ut",
+    "county": "Davis County",
+    "population": 33700,
+    "zip_codes": [
+      "84037"
+    ],
+    "landmarks": [
+      "Barnes Park",
+      "Cherry Hill Water Park",
+      "Utah Botanical Center",
+      "Kaysville City Hall",
+      "Heritage Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Farmington",
+        "slug": "farmington-ut"
+      },
+      {
+        "name": "Layton",
+        "slug": "layton-ut"
+      },
+      {
+        "name": "Fruit Heights",
+        "slug": "fruit-heights-ut"
+      },
+      {
+        "name": "Centerville",
+        "slug": "centerville-ut"
+      },
+      {
+        "name": "Bountiful",
+        "slug": "bountiful-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "education-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "ogden-clearfield-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Kearns",
+    "slug": "kearns-ut",
+    "county": "Salt Lake County",
+    "population": 36500,
+    "zip_codes": [
+      "84118"
+    ],
+    "landmarks": [
+      "Utah Olympic Oval",
+      "Oquirrh Park Fitness Center",
+      "Kearns Recreation Center",
+      "West Ridge Golf Course",
+      "Southridge Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "West Valley City",
+        "slug": "west-valley-city-ut"
+      },
+      {
+        "name": "Taylorsville",
+        "slug": "taylorsville-ut"
+      },
+      {
+        "name": "Magna",
+        "slug": "magna-ut"
+      },
+      {
+        "name": "West Jordan",
+        "slug": "west-jordan-ut"
+      },
+      {
+        "name": "South Salt Lake",
+        "slug": "south-salt-lake-ut"
+      }
+    ],
+    "city_type": "metro-township",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "education-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Layton",
+    "slug": "layton-ut",
+    "county": "Davis County",
+    "population": 87200,
+    "zip_codes": [
+      "84040",
+      "84041"
+    ],
+    "landmarks": [
+      "Hill Air Force Base",
+      "Layton Hills Mall",
+      "SeaQuest Utah",
+      "Adams Canyon Trail",
+      "Ellison Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kaysville",
+        "slug": "kaysville-ut"
+      },
+      {
+        "name": "Clearfield",
+        "slug": "clearfield-ut"
+      },
+      {
+        "name": "Syracuse",
+        "slug": "syracuse-ut"
+      },
+      {
+        "name": "Farmington",
+        "slug": "farmington-ut"
+      },
+      {
+        "name": "Fruit Heights",
+        "slug": "fruit-heights-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "aerospace-retail",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "ogden-clearfield-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Lehi",
+    "slug": "lehi-ut",
+    "county": "Utah County",
+    "population": 95000,
+    "zip_codes": [
+      "84043"
+    ],
+    "landmarks": [
+      "Thanksgiving Point",
+      "Outlets at Traverse Mountain",
+      "Museum of Natural Curiosity",
+      "Ashton Gardens",
+      "Electric Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "American Fork",
+        "slug": "american-fork-ut"
+      },
+      {
+        "name": "Highland",
+        "slug": "highland-ut"
+      },
+      {
+        "name": "Draper",
+        "slug": "draper-ut"
+      },
+      {
+        "name": "Saratoga Springs",
+        "slug": "saratoga-springs-ut"
+      },
+      {
+        "name": "Bluffdale",
+        "slug": "bluffdale-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "utah-valley",
+    "economy_type": "technology",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "silicon-slopes",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Logan",
+    "slug": "logan-ut",
+    "county": "Cache County",
+    "population": 54100,
+    "zip_codes": [
+      "84321",
+      "84322",
+      "84323",
+      "84341"
+    ],
+    "landmarks": [
+      "Utah State University",
+      "Logan Canyon",
+      "First Dam",
+      "Logan Tabernacle",
+      "Willow Park Zoo"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Logan",
+        "slug": "north-logan-ut"
+      },
+      {
+        "name": "Providence",
+        "slug": "providence-ut"
+      },
+      {
+        "name": "Hyde Park",
+        "slug": "hyde-park-ut"
+      },
+      {
+        "name": "Smithfield",
+        "slug": "smithfield-ut"
+      },
+      {
+        "name": "Nibley",
+        "slug": "nibley-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "cache-valley",
+    "economy_type": "education-healthcare",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "cache-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Magna",
+    "slug": "magna-ut",
+    "county": "Salt Lake County",
+    "population": 29700,
+    "zip_codes": [
+      "84044"
+    ],
+    "landmarks": [
+      "Great Salt Lake Shorelands",
+      "Magna Main Street",
+      "Pleasant Green Park",
+      "Magna Recreation Center",
+      "Empress Theatre"
+    ],
+    "nearby_cities": [
+      {
+        "name": "West Valley City",
+        "slug": "west-valley-city-ut"
+      },
+      {
+        "name": "Kearns",
+        "slug": "kearns-ut"
+      },
+      {
+        "name": "Salt Lake City",
+        "slug": "salt-lake-city-ut"
+      },
+      {
+        "name": "West Jordan",
+        "slug": "west-jordan-ut"
+      },
+      {
+        "name": "Lake Point",
+        "slug": "lake-point-ut"
+      }
+    ],
+    "city_type": "metro-township",
+    "climate_zone": "semi-arid",
+    "terrain": "great-salt-lake-basin",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Midvale",
+    "slug": "midvale-ut",
+    "county": "Salt Lake County",
+    "population": 37900,
+    "zip_codes": [
+      "84047"
+    ],
+    "landmarks": [
+      "Bingham Junction",
+      "Midvale City Park",
+      "Jordan River Parkway",
+      "Topgolf Salt Lake City",
+      "Historic Main Street"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Murray",
+        "slug": "murray-ut"
+      },
+      {
+        "name": "Sandy",
+        "slug": "sandy-ut"
+      },
+      {
+        "name": "Cottonwood Heights",
+        "slug": "cottonwood-heights-ut"
+      },
+      {
+        "name": "West Jordan",
+        "slug": "west-jordan-ut"
+      },
+      {
+        "name": "South Jordan",
+        "slug": "south-jordan-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-mixed",
+    "growth_pattern": "steady-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Millcreek",
+    "slug": "millcreek-ut",
+    "county": "Salt Lake County",
+    "population": 65700,
+    "zip_codes": [
+      "84106",
+      "84107",
+      "84109",
+      "84117"
+    ],
+    "landmarks": [
+      "Millcreek Canyon",
+      "Big Cottonwood Regional Park",
+      "Olympus Hills Park",
+      "Millcreek Common",
+      "Canyon Rim Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Salt Lake City",
+        "slug": "salt-lake-city-ut"
+      },
+      {
+        "name": "Holladay",
+        "slug": "holladay-ut"
+      },
+      {
+        "name": "South Salt Lake",
+        "slug": "south-salt-lake-ut"
+      },
+      {
+        "name": "Murray",
+        "slug": "murray-ut"
+      },
+      {
+        "name": "Cottonwood Heights",
+        "slug": "cottonwood-heights-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "professional-services",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Moab",
+    "slug": "moab-ut",
+    "county": "Grand County",
+    "population": 5600,
+    "zip_codes": [
+      "84532"
+    ],
+    "landmarks": [
+      "Arches National Park",
+      "Canyonlands National Park",
+      "Dead Horse Point State Park",
+      "Moab Giants",
+      "Colorado River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Spanish Valley",
+        "slug": "spanish-valley-ut"
+      },
+      {
+        "name": "Castle Valley",
+        "slug": "castle-valley-ut"
+      },
+      {
+        "name": "Monticello",
+        "slug": "monticello-ut"
+      },
+      {
+        "name": "Green River",
+        "slug": "green-river-ut"
+      },
+      {
+        "name": "Blanding",
+        "slug": "blanding-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "desert",
+    "terrain": "colorado-plateau",
+    "economy_type": "tourism-outdoor-recreation",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southeastern-utah",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Murray",
+    "slug": "murray-ut",
+    "county": "Salt Lake County",
+    "population": 51000,
+    "zip_codes": [
+      "84107",
+      "84117",
+      "84123"
+    ],
+    "landmarks": [
+      "Intermountain Medical Center",
+      "Murray Park",
+      "Fashion Place Mall",
+      "Jordan River Parkway",
+      "Murray Theatre"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Midvale",
+        "slug": "midvale-ut"
+      },
+      {
+        "name": "Millcreek",
+        "slug": "millcreek-ut"
+      },
+      {
+        "name": "Taylorsville",
+        "slug": "taylorsville-ut"
+      },
+      {
+        "name": "Holladay",
+        "slug": "holladay-ut"
+      },
+      {
+        "name": "South Salt Lake",
+        "slug": "south-salt-lake-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "urban-mixed",
+    "growth_pattern": "steady-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "North Logan",
+    "slug": "north-logan-ut",
+    "county": "Cache County",
+    "population": 12200,
+    "zip_codes": [
+      "84341"
+    ],
+    "landmarks": [
+      "Elk Ridge Park",
+      "Green Canyon Trail",
+      "North Logan Library",
+      "Cache Valley Civic Center",
+      "North Logan City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Logan",
+        "slug": "logan-ut"
+      },
+      {
+        "name": "Hyde Park",
+        "slug": "hyde-park-ut"
+      },
+      {
+        "name": "Smithfield",
+        "slug": "smithfield-ut"
+      },
+      {
+        "name": "Providence",
+        "slug": "providence-ut"
+      },
+      {
+        "name": "Nibley",
+        "slug": "nibley-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "cache-valley",
+    "economy_type": "education-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "cache-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Ogden",
+    "slug": "ogden-ut",
+    "county": "Weber County",
+    "population": 89100,
+    "zip_codes": [
+      "84401",
+      "84403",
+      "84404",
+      "84405"
+    ],
+    "landmarks": [
+      "Historic 25th Street",
+      "Ogden Union Station",
+      "Snowbasin Resort",
+      "Ogden Nature Center",
+      "Peery's Egyptian Theater"
+    ],
+    "nearby_cities": [
+      {
+        "name": "South Ogden",
+        "slug": "south-ogden-ut"
+      },
+      {
+        "name": "North Ogden",
+        "slug": "north-ogden-ut"
+      },
+      {
+        "name": "Riverdale",
+        "slug": "riverdale-ut"
+      },
+      {
+        "name": "Roy",
+        "slug": "roy-ut"
+      },
+      {
+        "name": "Washington Terrace",
+        "slug": "washington-terrace-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "aerospace-healthcare",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "ogden-clearfield-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Orem",
+    "slug": "orem-ut",
+    "county": "Utah County",
+    "population": 100900,
+    "zip_codes": [
+      "84057",
+      "84058",
+      "84059",
+      "84097"
+    ],
+    "landmarks": [
+      "Utah Valley University",
+      "University Place",
+      "SCERA Center for the Arts",
+      "Mount Timpanogos Park",
+      "Sharon Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Provo",
+        "slug": "provo-ut"
+      },
+      {
+        "name": "Lindon",
+        "slug": "lindon-ut"
+      },
+      {
+        "name": "Pleasant Grove",
+        "slug": "pleasant-grove-ut"
+      },
+      {
+        "name": "Vineyard",
+        "slug": "vineyard-ut"
+      },
+      {
+        "name": "American Fork",
+        "slug": "american-fork-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "utah-valley",
+    "economy_type": "education-technology",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "utah-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Park City",
+    "slug": "park-city-ut",
+    "county": "Summit County",
+    "population": 8600,
+    "zip_codes": [
+      "84060",
+      "84068",
+      "84098"
+    ],
+    "landmarks": [
+      "Park City Mountain Resort",
+      "Deer Valley Resort",
+      "Historic Main Street",
+      "Utah Olympic Park",
+      "Kimball Art Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jeremy Ranch",
+        "slug": "jeremy-ranch-ut"
+      },
+      {
+        "name": "Summit Park",
+        "slug": "summit-park-ut"
+      },
+      {
+        "name": "Heber",
+        "slug": "heber-ut"
+      },
+      {
+        "name": "Kamas",
+        "slug": "kamas-ut"
+      },
+      {
+        "name": "Coalville",
+        "slug": "coalville-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "wasatch-mountains",
+    "economy_type": "tourism-recreation",
+    "housing_profile": "resort-community",
+    "growth_pattern": "steady-growth",
+    "service_environment": "summit-county",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Payson",
+    "slug": "payson-ut",
+    "county": "Utah County",
+    "population": 23300,
+    "zip_codes": [
+      "84651"
+    ],
+    "landmarks": [
+      "Peteetneet Museum",
+      "Payson Canyon",
+      "Memorial Park",
+      "Nebo Loop Scenic Byway",
+      "Payson Lakes"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Spanish Fork",
+        "slug": "spanish-fork-ut"
+      },
+      {
+        "name": "Santaquin",
+        "slug": "santaquin-ut"
+      },
+      {
+        "name": "Salem",
+        "slug": "salem-ut"
+      },
+      {
+        "name": "Elk Ridge",
+        "slug": "elk-ridge-ut"
+      },
+      {
+        "name": "Genola",
+        "slug": "genola-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "utah-valley",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "utah-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Pleasant Grove",
+    "slug": "pleasant-grove-ut",
+    "county": "Utah County",
+    "population": 39900,
+    "zip_codes": [
+      "84062"
+    ],
+    "landmarks": [
+      "Battle Creek Falls",
+      "Discovery Park",
+      "Pleasant Grove Recreation Center",
+      "Downtown Pleasant Grove",
+      "Kiwanis Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "American Fork",
+        "slug": "american-fork-ut"
+      },
+      {
+        "name": "Lindon",
+        "slug": "lindon-ut"
+      },
+      {
+        "name": "Orem",
+        "slug": "orem-ut"
+      },
+      {
+        "name": "Highland",
+        "slug": "highland-ut"
+      },
+      {
+        "name": "Cedar Hills",
+        "slug": "cedar-hills-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "technology-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "utah-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Price",
+    "slug": "price-ut",
+    "county": "Carbon County",
+    "population": 8700,
+    "zip_codes": [
+      "84501"
+    ],
+    "landmarks": [
+      "Utah State University Eastern",
+      "Western Mining and Railroad Museum",
+      "Terrace Hills Trail",
+      "Carbon Country Club",
+      "Peace Gardens"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wellington",
+        "slug": "wellington-ut"
+      },
+      {
+        "name": "Helper",
+        "slug": "helper-ut"
+      },
+      {
+        "name": "East Carbon",
+        "slug": "east-carbon-ut"
+      },
+      {
+        "name": "Castle Dale",
+        "slug": "castle-dale-ut"
+      },
+      {
+        "name": "Huntington",
+        "slug": "huntington-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "book-cliffs",
+    "economy_type": "education-energy",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "eastern-utah",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Provo",
+    "slug": "provo-ut",
+    "county": "Utah County",
+    "population": 116800,
+    "zip_codes": [
+      "84601",
+      "84602",
+      "84603",
+      "84604",
+      "84606"
+    ],
+    "landmarks": [
+      "Brigham Young University",
+      "Provo Canyon",
+      "Rock Canyon",
+      "Utah Lake State Park",
+      "Lavell Edwards Stadium"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Orem",
+        "slug": "orem-ut"
+      },
+      {
+        "name": "Springville",
+        "slug": "springville-ut"
+      },
+      {
+        "name": "Vineyard",
+        "slug": "vineyard-ut"
+      },
+      {
+        "name": "Lindon",
+        "slug": "lindon-ut"
+      },
+      {
+        "name": "Pleasant Grove",
+        "slug": "pleasant-grove-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "utah-valley",
+    "economy_type": "education-technology",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "utah-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Riverdale",
+    "slug": "riverdale-ut",
+    "county": "Weber County",
+    "population": 9100,
+    "zip_codes": [
+      "84405"
+    ],
+    "landmarks": [
+      "Riverdale Road Shopping District",
+      "Riverdale Park",
+      "Weber River Parkway",
+      "Golden Spike Event Center",
+      "Riverdale City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ogden",
+        "slug": "ogden-ut"
+      },
+      {
+        "name": "Roy",
+        "slug": "roy-ut"
+      },
+      {
+        "name": "South Ogden",
+        "slug": "south-ogden-ut"
+      },
+      {
+        "name": "Washington Terrace",
+        "slug": "washington-terrace-ut"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "ogden-clearfield-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Riverton",
+    "slug": "riverton-ut",
+    "county": "Salt Lake County",
+    "population": 45600,
+    "zip_codes": [
+      "84065",
+      "84096"
+    ],
+    "landmarks": [
+      "Western Springs Park",
+      "Riverton City Park",
+      "Blackridge Reservoir",
+      "Butterfield Park",
+      "Riverton Rodeo Grounds"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Herriman",
+        "slug": "herriman-ut"
+      },
+      {
+        "name": "South Jordan",
+        "slug": "south-jordan-ut"
+      },
+      {
+        "name": "Bluffdale",
+        "slug": "bluffdale-ut"
+      },
+      {
+        "name": "Draper",
+        "slug": "draper-ut"
+      },
+      {
+        "name": "West Jordan",
+        "slug": "west-jordan-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "healthcare-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Roy",
+    "slug": "roy-ut",
+    "county": "Weber County",
+    "population": 40000,
+    "zip_codes": [
+      "84067"
+    ],
+    "landmarks": [
+      "Roy Aquatic Center",
+      "George E. Wahlen Park",
+      "Sand Ridge Park",
+      "Roy City Center",
+      "Hill Air Force Base Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Riverdale",
+        "slug": "riverdale-ut"
+      },
+      {
+        "name": "Ogden",
+        "slug": "ogden-ut"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-ut"
+      },
+      {
+        "name": "Clearfield",
+        "slug": "clearfield-ut"
+      },
+      {
+        "name": "West Haven",
+        "slug": "west-haven-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "aerospace-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "ogden-clearfield-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "St. George",
+    "slug": "st-george-ut",
+    "county": "Washington County",
+    "population": 108500,
+    "zip_codes": [
+      "84770",
+      "84771",
+      "84790"
+    ],
+    "landmarks": [
+      "Snow Canyon State Park",
+      "St. George Temple",
+      "Pioneer Park",
+      "Thunder Junction Park",
+      "Red Cliffs Desert Reserve"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Washington",
+        "slug": "washington-ut"
+      },
+      {
+        "name": "Santa Clara",
+        "slug": "santa-clara-ut"
+      },
+      {
+        "name": "Ivins",
+        "slug": "ivins-ut"
+      },
+      {
+        "name": "Hurricane",
+        "slug": "hurricane-ut"
+      },
+      {
+        "name": "Bloomington",
+        "slug": "bloomington-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "desert",
+    "terrain": "mojave-desert",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "major-urban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "greater-st-george",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Salem",
+    "slug": "salem-ut",
+    "county": "Utah County",
+    "population": 10300,
+    "zip_codes": [
+      "84653"
+    ],
+    "landmarks": [
+      "Salem Pond",
+      "Knoll Park",
+      "Salem Hills Golf Club",
+      "Loafer Mountain Trailhead",
+      "Salem City Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Spanish Fork",
+        "slug": "spanish-fork-ut"
+      },
+      {
+        "name": "Payson",
+        "slug": "payson-ut"
+      },
+      {
+        "name": "Woodland Hills",
+        "slug": "woodland-hills-ut"
+      },
+      {
+        "name": "Elk Ridge",
+        "slug": "elk-ridge-ut"
+      },
+      {
+        "name": "Springville",
+        "slug": "springville-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "utah-valley",
+    "economy_type": "residential-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "utah-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Salt Lake City",
+    "slug": "salt-lake-city-ut",
+    "county": "Salt Lake County",
+    "population": 210000,
+    "zip_codes": [
+      "84101",
+      "84102",
+      "84103",
+      "84104",
+      "84105",
+      "84106",
+      "84108",
+      "84109",
+      "84111",
+      "84115",
+      "84116",
+      "84123"
+    ],
+    "landmarks": [
+      "Temple Square",
+      "Utah State Capitol",
+      "Liberty Park",
+      "Hogle Zoo",
+      "The Gateway"
+    ],
+    "nearby_cities": [
+      {
+        "name": "South Salt Lake",
+        "slug": "south-salt-lake-ut"
+      },
+      {
+        "name": "Millcreek",
+        "slug": "millcreek-ut"
+      },
+      {
+        "name": "Murray",
+        "slug": "murray-ut"
+      },
+      {
+        "name": "West Valley City",
+        "slug": "west-valley-city-ut"
+      },
+      {
+        "name": "North Salt Lake",
+        "slug": "north-salt-lake-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "government-finance",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Santa Clara",
+    "slug": "santa-clara-ut",
+    "county": "Washington County",
+    "population": 8900,
+    "zip_codes": [
+      "84765"
+    ],
+    "landmarks": [
+      "Santa Clara River Reserve",
+      "Jacob Hamblin Home",
+      "Gubler Park",
+      "Santa Clara Arboretum",
+      "Unity Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "St. George",
+        "slug": "st-george-ut"
+      },
+      {
+        "name": "Ivins",
+        "slug": "ivins-ut"
+      },
+      {
+        "name": "Washington",
+        "slug": "washington-ut"
+      },
+      {
+        "name": "Hurricane",
+        "slug": "hurricane-ut"
+      },
+      {
+        "name": "Bloomington",
+        "slug": "bloomington-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "desert",
+    "terrain": "mojave-desert",
+    "economy_type": "tourism-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "greater-st-george",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Saratoga Springs",
+    "slug": "saratoga-springs-ut",
+    "county": "Utah County",
+    "population": 52000,
+    "zip_codes": [
+      "84045"
+    ],
+    "landmarks": [
+      "Utah Lake",
+      "Neptune Park",
+      "TalonsCove Golf Club",
+      "Israel Canyon Trail",
+      "Patriot Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lehi",
+        "slug": "lehi-ut"
+      },
+      {
+        "name": "Eagle Mountain",
+        "slug": "eagle-mountain-ut"
+      },
+      {
+        "name": "American Fork",
+        "slug": "american-fork-ut"
+      },
+      {
+        "name": "Lindon",
+        "slug": "lindon-ut"
+      },
+      {
+        "name": "Vineyard",
+        "slug": "vineyard-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "utah-valley",
+    "economy_type": "technology-residential",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "utah-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Smithfield",
+    "slug": "smithfield-ut",
+    "county": "Cache County",
+    "population": 14000,
+    "zip_codes": [
+      "84335"
+    ],
+    "landmarks": [
+      "Forrester Acres",
+      "Mack Park",
+      "Sky View High School",
+      "Smithfield Canyon",
+      "Smithfield Recreation Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Logan",
+        "slug": "logan-ut"
+      },
+      {
+        "name": "North Logan",
+        "slug": "north-logan-ut"
+      },
+      {
+        "name": "Hyde Park",
+        "slug": "hyde-park-ut"
+      },
+      {
+        "name": "Richmond",
+        "slug": "richmond-ut"
+      },
+      {
+        "name": "Providence",
+        "slug": "providence-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "cache-valley",
+    "economy_type": "agriculture-services",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "cache-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "South Jordan",
+    "slug": "south-jordan-ut",
+    "county": "Salt Lake County",
+    "population": 87000,
+    "zip_codes": [
+      "84009",
+      "84095"
+    ],
+    "landmarks": [
+      "Daybreak",
+      "Oquirrh Lake",
+      "Gale Center",
+      "South Jordan City Park",
+      "Mulligan's Golf & Games"
+    ],
+    "nearby_cities": [
+      {
+        "name": "West Jordan",
+        "slug": "west-jordan-ut"
+      },
+      {
+        "name": "Herriman",
+        "slug": "herriman-ut"
+      },
+      {
+        "name": "Riverton",
+        "slug": "riverton-ut"
+      },
+      {
+        "name": "Draper",
+        "slug": "draper-ut"
+      },
+      {
+        "name": "Bluffdale",
+        "slug": "bluffdale-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "technology-healthcare",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "South Ogden",
+    "slug": "south-ogden-ut",
+    "county": "Weber County",
+    "population": 17800,
+    "zip_codes": [
+      "84403"
+    ],
+    "landmarks": [
+      "Friendship Park",
+      "Ogden Athletic Club",
+      "Burch Creek Trail",
+      "South Ogden Nature Park",
+      "Club Heights Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ogden",
+        "slug": "ogden-ut"
+      },
+      {
+        "name": "Riverdale",
+        "slug": "riverdale-ut"
+      },
+      {
+        "name": "Washington Terrace",
+        "slug": "washington-terrace-ut"
+      },
+      {
+        "name": "Roy",
+        "slug": "roy-ut"
+      },
+      {
+        "name": "South Weber",
+        "slug": "south-weber-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "ogden-clearfield-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "South Salt Lake",
+    "slug": "south-salt-lake-ut",
+    "county": "Salt Lake County",
+    "population": 27000,
+    "zip_codes": [
+      "84106",
+      "84115",
+      "84119"
+    ],
+    "landmarks": [
+      "Granary District",
+      "Fitts Park",
+      "Promise Park",
+      "Central Pointe Station",
+      "South Salt Lake City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Salt Lake City",
+        "slug": "salt-lake-city-ut"
+      },
+      {
+        "name": "Millcreek",
+        "slug": "millcreek-ut"
+      },
+      {
+        "name": "Murray",
+        "slug": "murray-ut"
+      },
+      {
+        "name": "West Valley City",
+        "slug": "west-valley-city-ut"
+      },
+      {
+        "name": "Taylorsville",
+        "slug": "taylorsville-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "business-services",
+    "housing_profile": "urban-mixed",
+    "growth_pattern": "steady-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Spanish Fork",
+    "slug": "spanish-fork-ut",
+    "county": "Utah County",
+    "population": 46000,
+    "zip_codes": [
+      "84660"
+    ],
+    "landmarks": [
+      "Spanish Fork Canyon",
+      "Canyon View Park",
+      "Sri Sri Radha Krishna Temple",
+      "Spanish Fork Fairgrounds",
+      "Adventure Heights Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Springville",
+        "slug": "springville-ut"
+      },
+      {
+        "name": "Salem",
+        "slug": "salem-ut"
+      },
+      {
+        "name": "Payson",
+        "slug": "payson-ut"
+      },
+      {
+        "name": "Mapleton",
+        "slug": "mapleton-ut"
+      },
+      {
+        "name": "Provo",
+        "slug": "provo-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "utah-valley",
+    "economy_type": "manufacturing-retail",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "utah-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Springville",
+    "slug": "springville-ut",
+    "county": "Utah County",
+    "population": 38000,
+    "zip_codes": [
+      "84663"
+    ],
+    "landmarks": [
+      "Springville Museum of Art",
+      "Hobble Creek Golf Course",
+      "Jolley's Ranch",
+      "Clyde Recreation Center",
+      "Spring Acres Arts Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Provo",
+        "slug": "provo-ut"
+      },
+      {
+        "name": "Spanish Fork",
+        "slug": "spanish-fork-ut"
+      },
+      {
+        "name": "Mapleton",
+        "slug": "mapleton-ut"
+      },
+      {
+        "name": "Salem",
+        "slug": "salem-ut"
+      },
+      {
+        "name": "Orem",
+        "slug": "orem-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "utah-valley",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "utah-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Stansbury Park",
+    "slug": "stansbury-park-ut",
+    "county": "Tooele County",
+    "population": 11700,
+    "zip_codes": [
+      "84074"
+    ],
+    "landmarks": [
+      "Stansbury Lake",
+      "Stansbury Golf Club",
+      "Porter Way Park",
+      "Millpond Park",
+      "Stansbury Observatory Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tooele",
+        "slug": "tooele-ut"
+      },
+      {
+        "name": "Grantsville",
+        "slug": "grantsville-ut"
+      },
+      {
+        "name": "Erda",
+        "slug": "erda-ut"
+      },
+      {
+        "name": "Lake Point",
+        "slug": "lake-point-ut"
+      },
+      {
+        "name": "Salt Lake City",
+        "slug": "salt-lake-city-ut"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "semi-arid",
+    "terrain": "great-basin",
+    "economy_type": "residential-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "tooele-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Syracuse",
+    "slug": "syracuse-ut",
+    "county": "Davis County",
+    "population": 36200,
+    "zip_codes": [
+      "84075"
+    ],
+    "landmarks": [
+      "Antelope Island Causeway",
+      "Founders Park",
+      "Jensen Nature Park",
+      "Syracuse Arts Academy",
+      "Black Island Farms"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Clearfield",
+        "slug": "clearfield-ut"
+      },
+      {
+        "name": "Layton",
+        "slug": "layton-ut"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-ut"
+      },
+      {
+        "name": "West Point",
+        "slug": "west-point-ut"
+      },
+      {
+        "name": "Farmington",
+        "slug": "farmington-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "education-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "ogden-clearfield-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Taylorsville",
+    "slug": "taylorsville-ut",
+    "county": "Salt Lake County",
+    "population": 61600,
+    "zip_codes": [
+      "84118",
+      "84123",
+      "84129"
+    ],
+    "landmarks": [
+      "Valley Regional Park",
+      "Murray-Taylorsville Trail",
+      "Taylorsville Bennion Heritage Center",
+      "Salt Lake Community College",
+      "Millrace Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "West Jordan",
+        "slug": "west-jordan-ut"
+      },
+      {
+        "name": "Murray",
+        "slug": "murray-ut"
+      },
+      {
+        "name": "Kearns",
+        "slug": "kearns-ut"
+      },
+      {
+        "name": "West Valley City",
+        "slug": "west-valley-city-ut"
+      },
+      {
+        "name": "South Salt Lake",
+        "slug": "south-salt-lake-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "education-healthcare",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Tooele",
+    "slug": "tooele-ut",
+    "county": "Tooele County",
+    "population": 39200,
+    "zip_codes": [
+      "84074"
+    ],
+    "landmarks": [
+      "Tooele Valley Railroad Museum",
+      "Deseret Peak Complex",
+      "Veterans Memorial Park",
+      "Tooele City Park",
+      "Dow James Memorial Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Stansbury Park",
+        "slug": "stansbury-park-ut"
+      },
+      {
+        "name": "Grantsville",
+        "slug": "grantsville-ut"
+      },
+      {
+        "name": "Erda",
+        "slug": "erda-ut"
+      },
+      {
+        "name": "Lake Point",
+        "slug": "lake-point-ut"
+      },
+      {
+        "name": "Stockton",
+        "slug": "stockton-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "great-basin",
+    "economy_type": "government-manufacturing",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "tooele-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Vernal",
+    "slug": "vernal-ut",
+    "county": "Uintah County",
+    "population": 10400,
+    "zip_codes": [
+      "84078"
+    ],
+    "landmarks": [
+      "Utah Field House of Natural History",
+      "Dinosaur National Monument",
+      "McConkie Ranch",
+      "Western Heritage Museum",
+      "Uintah Conference Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Naples",
+        "slug": "naples-ut"
+      },
+      {
+        "name": "Maeser",
+        "slug": "maeser-ut"
+      },
+      {
+        "name": "Ballard",
+        "slug": "ballard-ut"
+      },
+      {
+        "name": "Roosevelt",
+        "slug": "roosevelt-ut"
+      },
+      {
+        "name": "Jensen",
+        "slug": "jensen-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "uinta-basin",
+    "economy_type": "energy-tourism",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "uinta-basin",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Vineyard",
+    "slug": "vineyard-ut",
+    "county": "Utah County",
+    "population": 21400,
+    "zip_codes": [
+      "84059"
+    ],
+    "landmarks": [
+      "Utah Lake Shore Trail",
+      "Vineyard Grove Park",
+      "Sleepy Ridge Golf Course",
+      "Megaplex Geneva",
+      "Sunset Beach Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Orem",
+        "slug": "orem-ut"
+      },
+      {
+        "name": "Provo",
+        "slug": "provo-ut"
+      },
+      {
+        "name": "Lindon",
+        "slug": "lindon-ut"
+      },
+      {
+        "name": "Pleasant Grove",
+        "slug": "pleasant-grove-ut"
+      },
+      {
+        "name": "Lehi",
+        "slug": "lehi-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "utah-valley",
+    "economy_type": "technology-residential",
+    "housing_profile": "rapid-growth-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "utah-valley",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Washington",
+    "slug": "washington-ut",
+    "county": "Washington County",
+    "population": 33100,
+    "zip_codes": [
+      "84780"
+    ],
+    "landmarks": [
+      "Red Cliffs National Conservation Area",
+      "Staheli Family Farm",
+      "Sullivan Soccer Park",
+      "Washington City Community Center",
+      "Cottonwood Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "St. George",
+        "slug": "st-george-ut"
+      },
+      {
+        "name": "Hurricane",
+        "slug": "hurricane-ut"
+      },
+      {
+        "name": "Santa Clara",
+        "slug": "santa-clara-ut"
+      },
+      {
+        "name": "Ivins",
+        "slug": "ivins-ut"
+      },
+      {
+        "name": "La Verkin",
+        "slug": "la-verkin-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "desert",
+    "terrain": "mojave-desert",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "greater-st-george",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "West Haven",
+    "slug": "west-haven-ut",
+    "county": "Weber County",
+    "population": 20100,
+    "zip_codes": [
+      "84401"
+    ],
+    "landmarks": [
+      "West Haven Sports Complex",
+      "West Haven City Park",
+      "Weber River Trail",
+      "Kanesville Park",
+      "West Haven City Offices"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Roy",
+        "slug": "roy-ut"
+      },
+      {
+        "name": "Ogden",
+        "slug": "ogden-ut"
+      },
+      {
+        "name": "Riverdale",
+        "slug": "riverdale-ut"
+      },
+      {
+        "name": "Hooper",
+        "slug": "hooper-ut"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "residential-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "ogden-clearfield-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "West Jordan",
+    "slug": "west-jordan-ut",
+    "county": "Salt Lake County",
+    "population": 118000,
+    "zip_codes": [
+      "84081",
+      "84084",
+      "84088"
+    ],
+    "landmarks": [
+      "Veterans Memorial Park",
+      "Conservation Garden Park",
+      "Jordan Landing",
+      "West Jordan Rodeo Grounds",
+      "Ron Wood Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "South Jordan",
+        "slug": "south-jordan-ut"
+      },
+      {
+        "name": "Taylorsville",
+        "slug": "taylorsville-ut"
+      },
+      {
+        "name": "Riverton",
+        "slug": "riverton-ut"
+      },
+      {
+        "name": "Kearns",
+        "slug": "kearns-ut"
+      },
+      {
+        "name": "Herriman",
+        "slug": "herriman-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "West Valley City",
+    "slug": "west-valley-city-ut",
+    "county": "Salt Lake County",
+    "population": 136000,
+    "zip_codes": [
+      "84119",
+      "84120",
+      "84128"
+    ],
+    "landmarks": [
+      "Maverik Center",
+      "Valley Fair Mall",
+      "USANA Amphitheatre",
+      "Centennial Park",
+      "West Valley Performing Arts Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Salt Lake City",
+        "slug": "salt-lake-city-ut"
+      },
+      {
+        "name": "Taylorsville",
+        "slug": "taylorsville-ut"
+      },
+      {
+        "name": "Magna",
+        "slug": "magna-ut"
+      },
+      {
+        "name": "Kearns",
+        "slug": "kearns-ut"
+      },
+      {
+        "name": "West Jordan",
+        "slug": "west-jordan-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "retail-entertainment",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "West Point",
+    "slug": "west-point-ut",
+    "county": "Davis County",
+    "population": 12900,
+    "zip_codes": [
+      "84015"
+    ],
+    "landmarks": [
+      "West Point City Park",
+      "Loy Blake Park",
+      "West Point Nature Trail",
+      "West Point City Hall",
+      "Schneiter's Bluff Golf Course"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Syracuse",
+        "slug": "syracuse-ut"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-ut"
+      },
+      {
+        "name": "Clearfield",
+        "slug": "clearfield-ut"
+      },
+      {
+        "name": "Layton",
+        "slug": "layton-ut"
+      },
+      {
+        "name": "Roy",
+        "slug": "roy-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "residential-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "ogden-clearfield-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  },
+  {
+    "city": "Woods Cross",
+    "slug": "woods-cross-ut",
+    "county": "Davis County",
+    "population": 12200,
+    "zip_codes": [
+      "84087"
+    ],
+    "landmarks": [
+      "Hogan Park",
+      "Woods Cross City Hall",
+      "Mills Park",
+      "Legacy Nature Preserve",
+      "South Davis Recreation Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bountiful",
+        "slug": "bountiful-ut"
+      },
+      {
+        "name": "North Salt Lake",
+        "slug": "north-salt-lake-ut"
+      },
+      {
+        "name": "Centerville",
+        "slug": "centerville-ut"
+      },
+      {
+        "name": "West Bountiful",
+        "slug": "west-bountiful-ut"
+      },
+      {
+        "name": "Salt Lake City",
+        "slug": "salt-lake-city-ut"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "semi-arid",
+    "terrain": "wasatch-front",
+    "economy_type": "logistics-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "salt-lake-metro",
+    "property_mix": "mixed-use",
+    "state": "UT"
+  }
+]

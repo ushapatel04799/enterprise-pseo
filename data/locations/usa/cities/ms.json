@@ -1,0 +1,4549 @@
+[
+  {
+    "city": "Aberdeen",
+    "slug": "aberdeen-ms",
+    "county": "Monroe County",
+    "population": 5000,
+    "zip_codes": [
+      "39730"
+    ],
+    "landmarks": [
+      "Aberdeen Lake",
+      "Historic Downtown Aberdeen",
+      "Tennessee-Tombigbee Waterway",
+      "Evans Memorial Library",
+      "Monroe County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Amory",
+        "slug": "amory-ms"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-ms"
+      },
+      {
+        "name": "West Point",
+        "slug": "west-point-ms"
+      },
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "Starkville",
+        "slug": "starkville-ms"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Amory",
+    "slug": "amory-ms",
+    "county": "Monroe County",
+    "population": 6900,
+    "zip_codes": [
+      "38821"
+    ],
+    "landmarks": [
+      "Tennessee-Tombigbee Waterway",
+      "Frisco Park",
+      "Downtown Amory",
+      "River Birch Golf Club",
+      "Amory Railroad District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Aberdeen",
+        "slug": "aberdeen-ms"
+      },
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-ms"
+      },
+      {
+        "name": "West Point",
+        "slug": "west-point-ms"
+      },
+      {
+        "name": "Starkville",
+        "slug": "starkville-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Batesville",
+    "slug": "batesville-ms",
+    "county": "Panola County",
+    "population": 7600,
+    "zip_codes": [
+      "38606"
+    ],
+    "landmarks": [
+      "Panola Country Club",
+      "Downtown Batesville",
+      "Panola County Courthouse",
+      "Factory Stores Area",
+      "Civic Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      },
+      {
+        "name": "Southaven",
+        "slug": "southaven-ms"
+      },
+      {
+        "name": "Senatobia",
+        "slug": "senatobia-ms"
+      },
+      {
+        "name": "Hernando",
+        "slug": "hernando-ms"
+      },
+      {
+        "name": "Clarksdale",
+        "slug": "clarksdale-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Bay Saint Louis",
+    "slug": "bay-saint-louis-ms",
+    "county": "Hancock County",
+    "population": 10000,
+    "zip_codes": [
+      "39520"
+    ],
+    "landmarks": [
+      "Old Town Bay St Louis",
+      "Bay Beach",
+      "Municipal Harbor",
+      "Depot District",
+      "Washington Street Pier"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Waveland",
+        "slug": "waveland-ms"
+      },
+      {
+        "name": "Gulfport",
+        "slug": "gulfport-ms"
+      },
+      {
+        "name": "Biloxi",
+        "slug": "biloxi-ms"
+      },
+      {
+        "name": "Pass Christian",
+        "slug": "pass-christian-ms"
+      },
+      {
+        "name": "Picayune",
+        "slug": "picayune-ms"
+      }
+    ],
+    "city_type": "coastal-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Biloxi",
+    "slug": "biloxi-ms",
+    "county": "Harrison County",
+    "population": 50000,
+    "zip_codes": [
+      "39530",
+      "39531",
+      "39532"
+    ],
+    "landmarks": [
+      "Biloxi Beach",
+      "Beau Rivage",
+      "Hard Rock Casino",
+      "Biloxi Lighthouse",
+      "MGM Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gulfport",
+        "slug": "gulfport-ms"
+      },
+      {
+        "name": "D'Iberville",
+        "slug": "d-iberville-ms"
+      },
+      {
+        "name": "Ocean Springs",
+        "slug": "ocean-springs-ms"
+      },
+      {
+        "name": "Gautier",
+        "slug": "gautier-ms"
+      },
+      {
+        "name": "Pascagoula",
+        "slug": "pascagoula-ms"
+      }
+    ],
+    "city_type": "major-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal",
+    "economy_type": "tourism-gaming",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Booneville",
+    "slug": "booneville-ms",
+    "county": "Prentiss County",
+    "population": 8900,
+    "zip_codes": [
+      "38829"
+    ],
+    "landmarks": [
+      "Northeast Mississippi Community College",
+      "Downtown Booneville",
+      "City Park",
+      "Prentiss County Courthouse",
+      "Fairgrounds"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "Corinth",
+        "slug": "corinth-ms"
+      },
+      {
+        "name": "New Albany",
+        "slug": "new-albany-ms"
+      },
+      {
+        "name": "Amory",
+        "slug": "amory-ms"
+      },
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Brandon",
+    "slug": "brandon-ms",
+    "county": "Rankin County",
+    "population": 26000,
+    "zip_codes": [
+      "39042"
+    ],
+    "landmarks": [
+      "Brandon Amphitheater",
+      "Downtown Brandon",
+      "Shiloh Park",
+      "Rankin County Courthouse",
+      "The Quarry"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Pearl",
+        "slug": "pearl-ms"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-ms"
+      },
+      {
+        "name": "Ridgeland",
+        "slug": "ridgeland-ms"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-ms"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "jackson-metro-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Brookhaven",
+    "slug": "brookhaven-ms",
+    "county": "Lincoln County",
+    "population": 12000,
+    "zip_codes": [
+      "39601"
+    ],
+    "landmarks": [
+      "Downtown Brookhaven",
+      "Lincoln Civic Center",
+      "Exchange Club Park",
+      "Historic Depot",
+      "County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "McComb",
+        "slug": "mccomb-ms"
+      },
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Natchez",
+        "slug": "natchez-ms"
+      },
+      {
+        "name": "Crystal Springs",
+        "slug": "crystal-springs-ms"
+      },
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southwest-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Byhalia",
+    "slug": "byhalia-ms",
+    "county": "Marshall County",
+    "population": 1500,
+    "zip_codes": [
+      "38611"
+    ],
+    "landmarks": [
+      "Historic Downtown",
+      "Byhalia Town Square",
+      "Community Center",
+      "Railroad District",
+      "Municipal Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Olive Branch",
+        "slug": "olive-branch-ms"
+      },
+      {
+        "name": "Southaven",
+        "slug": "southaven-ms"
+      },
+      {
+        "name": "Hernando",
+        "slug": "hernando-ms"
+      },
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      },
+      {
+        "name": "Senatobia",
+        "slug": "senatobia-ms"
+      }
+    ],
+    "city_type": "small-town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "logistics-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "memphis-metro-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Canton",
+    "slug": "canton-ms",
+    "county": "Madison County",
+    "population": 13000,
+    "zip_codes": [
+      "39046"
+    ],
+    "landmarks": [
+      "Historic Courthouse Square",
+      "Canton Flea Market",
+      "Downtown Canton",
+      "Madison County Courthouse",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-ms"
+      },
+      {
+        "name": "Ridgeland",
+        "slug": "ridgeland-ms"
+      },
+      {
+        "name": "Pearl",
+        "slug": "pearl-ms"
+      },
+      {
+        "name": "Brandon",
+        "slug": "brandon-ms"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "jackson-metro-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Clarksdale",
+    "slug": "clarksdale-ms",
+    "county": "Coahoma County",
+    "population": 14500,
+    "zip_codes": [
+      "38614"
+    ],
+    "landmarks": [
+      "Delta Blues Museum",
+      "The Crossroads",
+      "Downtown Clarksdale",
+      "Ground Zero Blues Club",
+      "Coahoma County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cleveland",
+        "slug": "cleveland-ms"
+      },
+      {
+        "name": "Greenville",
+        "slug": "greenville-ms"
+      },
+      {
+        "name": "Batesville",
+        "slug": "batesville-ms"
+      },
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      },
+      {
+        "name": "Southaven",
+        "slug": "southaven-ms"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "delta-plains",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "mississippi-delta-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Cleveland",
+    "slug": "cleveland-ms",
+    "county": "Bolivar County",
+    "population": 12000,
+    "zip_codes": [
+      "38732"
+    ],
+    "landmarks": [
+      "Delta State University",
+      "GRAMMY Museum Mississippi",
+      "Downtown Cleveland",
+      "Bear Pen Park",
+      "Bolivar County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Clarksdale",
+        "slug": "clarksdale-ms"
+      },
+      {
+        "name": "Greenville",
+        "slug": "greenville-ms"
+      },
+      {
+        "name": "Indianola",
+        "slug": "indianola-ms"
+      },
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-ms"
+      },
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "delta-plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "mississippi-delta-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Clinton",
+    "slug": "clinton-ms",
+    "county": "Hinds County",
+    "population": 26000,
+    "zip_codes": [
+      "39056"
+    ],
+    "landmarks": [
+      "Mississippi College",
+      "Olde Towne Clinton",
+      "Traceway Park",
+      "Downtown Clinton",
+      "Arrow Drive District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Ridgeland",
+        "slug": "ridgeland-ms"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-ms"
+      },
+      {
+        "name": "Pearl",
+        "slug": "pearl-ms"
+      },
+      {
+        "name": "Brandon",
+        "slug": "brandon-ms"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "education-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "jackson-metro-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Columbus",
+    "slug": "columbus-ms",
+    "county": "Lowndes County",
+    "population": 24500,
+    "zip_codes": [
+      "39701",
+      "39702",
+      "39705"
+    ],
+    "landmarks": [
+      "Tennessee-Tombigbee Waterway",
+      "Mississippi University for Women",
+      "Riverwalk",
+      "Downtown Columbus",
+      "Lowndes County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Starkville",
+        "slug": "starkville-ms"
+      },
+      {
+        "name": "West Point",
+        "slug": "west-point-ms"
+      },
+      {
+        "name": "Amory",
+        "slug": "amory-ms"
+      },
+      {
+        "name": "Aberdeen",
+        "slug": "aberdeen-ms"
+      },
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "golden-triangle-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Corinth",
+    "slug": "corinth-ms",
+    "county": "Alcorn County",
+    "population": 14800,
+    "zip_codes": [
+      "38834",
+      "38835"
+    ],
+    "landmarks": [
+      "Corinth Civil War Interpretive Center",
+      "Crossroads Museum",
+      "Downtown Corinth",
+      "Borroum's Drug Store",
+      "Alcorn County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Booneville",
+        "slug": "booneville-ms"
+      },
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "New Albany",
+        "slug": "new-albany-ms"
+      },
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      },
+      {
+        "name": "Amory",
+        "slug": "amory-ms"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Crystal Springs",
+    "slug": "crystal-springs-ms",
+    "county": "Copiah County",
+    "population": 4700,
+    "zip_codes": [
+      "39059"
+    ],
+    "landmarks": [
+      "Chautauqua Park",
+      "Historic Downtown",
+      "Tomatopolis Monument",
+      "Community Center",
+      "Copiah County District Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Brookhaven",
+        "slug": "brookhaven-ms"
+      },
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "McComb",
+        "slug": "mccomb-ms"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-ms"
+      },
+      {
+        "name": "Pearl",
+        "slug": "pearl-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "D'Iberville",
+    "slug": "d-iberville-ms",
+    "county": "Harrison County",
+    "population": 13500,
+    "zip_codes": [
+      "39540"
+    ],
+    "landmarks": [
+      "Promenade Shopping Center",
+      "Scarlet Pearl Casino",
+      "Back Bay Area",
+      "Downtown D'Iberville",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Biloxi",
+        "slug": "biloxi-ms"
+      },
+      {
+        "name": "Ocean Springs",
+        "slug": "ocean-springs-ms"
+      },
+      {
+        "name": "Gulfport",
+        "slug": "gulfport-ms"
+      },
+      {
+        "name": "Gautier",
+        "slug": "gautier-ms"
+      },
+      {
+        "name": "Pascagoula",
+        "slug": "pascagoula-ms"
+      }
+    ],
+    "city_type": "coastal-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal",
+    "economy_type": "retail-tourism",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Gautier",
+    "slug": "gautier-ms",
+    "county": "Jackson County",
+    "population": 19000,
+    "zip_codes": [
+      "39553"
+    ],
+    "landmarks": [
+      "Shepard State Park",
+      "Gautier Waterfront",
+      "Downtown Gautier",
+      "Community Center",
+      "Nature Trail System"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ocean Springs",
+        "slug": "ocean-springs-ms"
+      },
+      {
+        "name": "Pascagoula",
+        "slug": "pascagoula-ms"
+      },
+      {
+        "name": "Biloxi",
+        "slug": "biloxi-ms"
+      },
+      {
+        "name": "D'Iberville",
+        "slug": "d-iberville-ms"
+      },
+      {
+        "name": "Moss Point",
+        "slug": "moss-point-ms"
+      }
+    ],
+    "city_type": "coastal-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-woodlands",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Greenville",
+    "slug": "greenville-ms",
+    "county": "Washington County",
+    "population": 29000,
+    "zip_codes": [
+      "38701",
+      "38703"
+    ],
+    "landmarks": [
+      "Mississippi River",
+      "Warfield Point Park",
+      "Downtown Greenville",
+      "Greenville Cypress Preserve",
+      "Washington County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-ms"
+      },
+      {
+        "name": "Cleveland",
+        "slug": "cleveland-ms"
+      },
+      {
+        "name": "Clarksdale",
+        "slug": "clarksdale-ms"
+      },
+      {
+        "name": "Indianola",
+        "slug": "indianola-ms"
+      },
+      {
+        "name": "Vicksburg",
+        "slug": "vicksburg-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "delta-plains",
+    "economy_type": "logistics-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "mississippi-delta-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Greenwood",
+    "slug": "greenwood-ms",
+    "county": "Leflore County",
+    "population": 14000,
+    "zip_codes": [
+      "38930",
+      "38935"
+    ],
+    "landmarks": [
+      "Museum of the Mississippi Delta",
+      "Yazoo River",
+      "Downtown Greenwood",
+      "Whittington Park",
+      "Leflore County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Greenville",
+        "slug": "greenville-ms"
+      },
+      {
+        "name": "Indianola",
+        "slug": "indianola-ms"
+      },
+      {
+        "name": "Cleveland",
+        "slug": "cleveland-ms"
+      },
+      {
+        "name": "Yazoo City",
+        "slug": "yazoo-city-ms"
+      },
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "delta-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "mississippi-delta-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Gulfport",
+    "slug": "gulfport-ms",
+    "county": "Harrison County",
+    "population": 73000,
+    "zip_codes": [
+      "39501",
+      "39503",
+      "39507"
+    ],
+    "landmarks": [
+      "Gulfport Harbor",
+      "Jones Park",
+      "Mississippi Aquarium",
+      "Downtown Gulfport",
+      "Gulfport Sportsplex"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Biloxi",
+        "slug": "biloxi-ms"
+      },
+      {
+        "name": "Long Beach",
+        "slug": "long-beach-ms"
+      },
+      {
+        "name": "D'Iberville",
+        "slug": "d-iberville-ms"
+      },
+      {
+        "name": "Pass Christian",
+        "slug": "pass-christian-ms"
+      },
+      {
+        "name": "Ocean Springs",
+        "slug": "ocean-springs-ms"
+      }
+    ],
+    "city_type": "major-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal",
+    "economy_type": "port-tourism-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Hattiesburg",
+    "slug": "hattiesburg-ms",
+    "county": "Forrest County",
+    "population": 47000,
+    "zip_codes": [
+      "39401",
+      "39402"
+    ],
+    "landmarks": [
+      "University of Southern Mississippi",
+      "Hattiesburg Zoo",
+      "Downtown Hattiesburg",
+      "Longleaf Trace",
+      "Forrest County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Laurel",
+        "slug": "laurel-ms"
+      },
+      {
+        "name": "Petal",
+        "slug": "petal-ms"
+      },
+      {
+        "name": "Brookhaven",
+        "slug": "brookhaven-ms"
+      },
+      {
+        "name": "McComb",
+        "slug": "mccomb-ms"
+      },
+      {
+        "name": "Gulfport",
+        "slug": "gulfport-ms"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "education-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "south-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Hernando",
+    "slug": "hernando-ms",
+    "county": "DeSoto County",
+    "population": 18500,
+    "zip_codes": [
+      "38632"
+    ],
+    "landmarks": [
+      "Historic Hernando Square",
+      "DeSoto County Courthouse",
+      "Conger Park",
+      "Downtown Hernando",
+      "Hernando Point Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Southaven",
+        "slug": "southaven-ms"
+      },
+      {
+        "name": "Olive Branch",
+        "slug": "olive-branch-ms"
+      },
+      {
+        "name": "Horn Lake",
+        "slug": "horn-lake-ms"
+      },
+      {
+        "name": "Senatobia",
+        "slug": "senatobia-ms"
+      },
+      {
+        "name": "Batesville",
+        "slug": "batesville-ms"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "memphis-metro-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Holly Springs",
+    "slug": "holly-springs-ms",
+    "county": "Marshall County",
+    "population": 7200,
+    "zip_codes": [
+      "38635"
+    ],
+    "landmarks": [
+      "Marshall County Courthouse",
+      "Historic Downtown Holly Springs",
+      "Rust College",
+      "Wall Doxey State Park",
+      "Court Square"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      },
+      {
+        "name": "Southaven",
+        "slug": "southaven-ms"
+      },
+      {
+        "name": "Olive Branch",
+        "slug": "olive-branch-ms"
+      },
+      {
+        "name": "Byhalia",
+        "slug": "byhalia-ms"
+      },
+      {
+        "name": "Senatobia",
+        "slug": "senatobia-ms"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Horn Lake",
+    "slug": "horn-lake-ms",
+    "county": "DeSoto County",
+    "population": 28000,
+    "zip_codes": [
+      "38637"
+    ],
+    "landmarks": [
+      "Latimer Lakes Park",
+      "Horn Lake Creek",
+      "Downtown Horn Lake",
+      "Community Center",
+      "Nail Road Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Southaven",
+        "slug": "southaven-ms"
+      },
+      {
+        "name": "Olive Branch",
+        "slug": "olive-branch-ms"
+      },
+      {
+        "name": "Hernando",
+        "slug": "hernando-ms"
+      },
+      {
+        "name": "Memphis",
+        "slug": "memphis-tn"
+      },
+      {
+        "name": "Senatobia",
+        "slug": "senatobia-ms"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "urban-plains",
+    "economy_type": "logistics-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "memphis-metro-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Indianola",
+    "slug": "indianola-ms",
+    "county": "Sunflower County",
+    "population": 9500,
+    "zip_codes": [
+      "38751"
+    ],
+    "landmarks": [
+      "B.B. King Museum",
+      "Downtown Indianola",
+      "Sunflower River",
+      "Community Center",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-ms"
+      },
+      {
+        "name": "Cleveland",
+        "slug": "cleveland-ms"
+      },
+      {
+        "name": "Greenville",
+        "slug": "greenville-ms"
+      },
+      {
+        "name": "Clarksdale",
+        "slug": "clarksdale-ms"
+      },
+      {
+        "name": "Yazoo City",
+        "slug": "yazoo-city-ms"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "delta-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "mississippi-delta-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Jackson",
+    "slug": "jackson-ms",
+    "county": "Hinds County",
+    "population": 145000,
+    "zip_codes": [
+      "39201",
+      "39202",
+      "39203",
+      "39204",
+      "39206",
+      "39209",
+      "39211",
+      "39212",
+      "39213",
+      "39216"
+    ],
+    "landmarks": [
+      "Mississippi State Capitol",
+      "Mississippi Museum of Art",
+      "LeFleur's Bluff State Park",
+      "Downtown Jackson",
+      "Jackson Convention Complex"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ridgeland",
+        "slug": "ridgeland-ms"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-ms"
+      },
+      {
+        "name": "Pearl",
+        "slug": "pearl-ms"
+      },
+      {
+        "name": "Brandon",
+        "slug": "brandon-ms"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-ms"
+      }
+    ],
+    "city_type": "capital-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "government-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "jackson-metro-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Kosciusko",
+    "slug": "kosciusko-ms",
+    "county": "Attala County",
+    "population": 6900,
+    "zip_codes": [
+      "39090"
+    ],
+    "landmarks": [
+      "Historic Downtown Kosciusko",
+      "Attala County Courthouse",
+      "Natchez Trace Parkway",
+      "Jason Niles Park",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Canton",
+        "slug": "canton-ms"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-ms"
+      },
+      {
+        "name": "Starkville",
+        "slug": "starkville-ms"
+      },
+      {
+        "name": "Yazoo City",
+        "slug": "yazoo-city-ms"
+      },
+      {
+        "name": "Philadelphia",
+        "slug": "philadelphia-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Laurel",
+    "slug": "laurel-ms",
+    "county": "Jones County",
+    "population": 17500,
+    "zip_codes": [
+      "39440",
+      "39441",
+      "39443"
+    ],
+    "landmarks": [
+      "Historic Downtown Laurel",
+      "Lauren Rogers Museum",
+      "Gardiner Park",
+      "Laurel Mercantile Area",
+      "Jones County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      },
+      {
+        "name": "Petal",
+        "slug": "petal-ms"
+      },
+      {
+        "name": "Meridian",
+        "slug": "meridian-ms"
+      },
+      {
+        "name": "Brookhaven",
+        "slug": "brookhaven-ms"
+      },
+      {
+        "name": "McComb",
+        "slug": "mccomb-ms"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Long Beach",
+    "slug": "long-beach-ms",
+    "county": "Harrison County",
+    "population": 15000,
+    "zip_codes": [
+      "39560"
+    ],
+    "landmarks": [
+      "University of Southern Mississippi Gulf Park",
+      "Long Beach Harbor",
+      "Downtown Long Beach",
+      "Beachfront District",
+      "Harper McCaughan Town Green"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gulfport",
+        "slug": "gulfport-ms"
+      },
+      {
+        "name": "Pass Christian",
+        "slug": "pass-christian-ms"
+      },
+      {
+        "name": "Biloxi",
+        "slug": "biloxi-ms"
+      },
+      {
+        "name": "Bay Saint Louis",
+        "slug": "bay-saint-louis-ms"
+      },
+      {
+        "name": "Waveland",
+        "slug": "waveland-ms"
+      }
+    ],
+    "city_type": "coastal-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Louisville",
+    "slug": "louisville-ms",
+    "county": "Winston County",
+    "population": 6200,
+    "zip_codes": [
+      "39339"
+    ],
+    "landmarks": [
+      "Legion State Park",
+      "Downtown Louisville",
+      "Winston County Courthouse",
+      "Louisville Coliseum",
+      "Main Street District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Philadelphia",
+        "slug": "philadelphia-ms"
+      },
+      {
+        "name": "Starkville",
+        "slug": "starkville-ms"
+      },
+      {
+        "name": "West Point",
+        "slug": "west-point-ms"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-ms"
+      },
+      {
+        "name": "Kosciusko",
+        "slug": "kosciusko-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Madison",
+    "slug": "madison-ms",
+    "county": "Madison County",
+    "population": 29000,
+    "zip_codes": [
+      "39110"
+    ],
+    "landmarks": [
+      "Renaissance at Colony Park",
+      "Liberty Park",
+      "Downtown Madison",
+      "Madison Avenue District",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ridgeland",
+        "slug": "ridgeland-ms"
+      },
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Canton",
+        "slug": "canton-ms"
+      },
+      {
+        "name": "Pearl",
+        "slug": "pearl-ms"
+      },
+      {
+        "name": "Brandon",
+        "slug": "brandon-ms"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "jackson-metro-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "McComb",
+    "slug": "mccomb-ms",
+    "county": "Pike County",
+    "population": 12300,
+    "zip_codes": [
+      "39648",
+      "39649"
+    ],
+    "landmarks": [
+      "McComb Railroad Museum",
+      "Downtown McComb",
+      "Pike County Courthouse",
+      "Edgewood Park",
+      "Historic Depot"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Brookhaven",
+        "slug": "brookhaven-ms"
+      },
+      {
+        "name": "Natchez",
+        "slug": "natchez-ms"
+      },
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-ms"
+      },
+      {
+        "name": "Crystal Springs",
+        "slug": "crystal-springs-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "transportation-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southwest-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Meridian",
+    "slug": "meridian-ms",
+    "county": "Lauderdale County",
+    "population": 34000,
+    "zip_codes": [
+      "39301",
+      "39305",
+      "39307"
+    ],
+    "landmarks": [
+      "Mississippi Arts and Entertainment Experience",
+      "Bonita Lakes Park",
+      "Downtown Meridian",
+      "Temple Theater",
+      "Meridian Museum of Art"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Laurel",
+        "slug": "laurel-ms"
+      },
+      {
+        "name": "Philadelphia",
+        "slug": "philadelphia-ms"
+      },
+      {
+        "name": "Starkville",
+        "slug": "starkville-ms"
+      },
+      {
+        "name": "Louisville",
+        "slug": "louisville-ms"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Moss Point",
+    "slug": "moss-point-ms",
+    "county": "Jackson County",
+    "population": 12500,
+    "zip_codes": [
+      "39562",
+      "39563"
+    ],
+    "landmarks": [
+      "Pascagoula River Basin",
+      "Downtown Moss Point",
+      "Riverfront Area",
+      "Community Center",
+      "Main Street District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pascagoula",
+        "slug": "pascagoula-ms"
+      },
+      {
+        "name": "Gautier",
+        "slug": "gautier-ms"
+      },
+      {
+        "name": "Ocean Springs",
+        "slug": "ocean-springs-ms"
+      },
+      {
+        "name": "Biloxi",
+        "slug": "biloxi-ms"
+      },
+      {
+        "name": "Mobile",
+        "slug": "mobile-al"
+      }
+    ],
+    "city_type": "coastal-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "riverfront",
+    "economy_type": "industrial-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Natchez",
+    "slug": "natchez-ms",
+    "county": "Adams County",
+    "population": 14500,
+    "zip_codes": [
+      "39120"
+    ],
+    "landmarks": [
+      "Natchez Trace Parkway",
+      "Longwood Mansion",
+      "Downtown Natchez",
+      "Mississippi River Bluff",
+      "Rosalie Mansion"
+    ],
+    "nearby_cities": [
+      {
+        "name": "McComb",
+        "slug": "mccomb-ms"
+      },
+      {
+        "name": "Brookhaven",
+        "slug": "brookhaven-ms"
+      },
+      {
+        "name": "Vicksburg",
+        "slug": "vicksburg-ms"
+      },
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-la"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-bluffs",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southwest-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "New Albany",
+    "slug": "new-albany-ms",
+    "county": "Union County",
+    "population": 9000,
+    "zip_codes": [
+      "38652"
+    ],
+    "landmarks": [
+      "Tanglefoot Trail",
+      "Downtown New Albany",
+      "Union County Heritage Museum",
+      "Park Along the River",
+      "Historic Main Street"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      },
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "Booneville",
+        "slug": "booneville-ms"
+      },
+      {
+        "name": "Corinth",
+        "slug": "corinth-ms"
+      },
+      {
+        "name": "Amory",
+        "slug": "amory-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Ocean Springs",
+    "slug": "ocean-springs-ms",
+    "county": "Jackson County",
+    "population": 18500,
+    "zip_codes": [
+      "39564",
+      "39566"
+    ],
+    "landmarks": [
+      "Front Beach",
+      "Walter Anderson Museum",
+      "Downtown Ocean Springs",
+      "Fort Maurepas Park",
+      "Ocean Springs Harbor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Biloxi",
+        "slug": "biloxi-ms"
+      },
+      {
+        "name": "D'Iberville",
+        "slug": "d-iberville-ms"
+      },
+      {
+        "name": "Gautier",
+        "slug": "gautier-ms"
+      },
+      {
+        "name": "Pascagoula",
+        "slug": "pascagoula-ms"
+      },
+      {
+        "name": "Moss Point",
+        "slug": "moss-point-ms"
+      }
+    ],
+    "city_type": "coastal-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Olive Branch",
+    "slug": "olive-branch-ms",
+    "county": "DeSoto County",
+    "population": 43000,
+    "zip_codes": [
+      "38654"
+    ],
+    "landmarks": [
+      "Olive Branch City Park",
+      "Historic Downtown Olive Branch",
+      "Olive Branch Airport",
+      "Veterans Park",
+      "Old Towne District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Southaven",
+        "slug": "southaven-ms"
+      },
+      {
+        "name": "Horn Lake",
+        "slug": "horn-lake-ms"
+      },
+      {
+        "name": "Hernando",
+        "slug": "hernando-ms"
+      },
+      {
+        "name": "Byhalia",
+        "slug": "byhalia-ms"
+      },
+      {
+        "name": "Memphis",
+        "slug": "memphis-tn"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "urban-plains",
+    "economy_type": "logistics-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "memphis-metro-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Oxford",
+    "slug": "oxford-ms",
+    "county": "Lafayette County",
+    "population": 29000,
+    "zip_codes": [
+      "38655"
+    ],
+    "landmarks": [
+      "University of Mississippi",
+      "The Square",
+      "Vaught-Hemingway Stadium",
+      "Rowan Oak",
+      "Downtown Oxford"
+    ],
+    "nearby_cities": [
+      {
+        "name": "New Albany",
+        "slug": "new-albany-ms"
+      },
+      {
+        "name": "Batesville",
+        "slug": "batesville-ms"
+      },
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "Corinth",
+        "slug": "corinth-ms"
+      },
+      {
+        "name": "Holly Springs",
+        "slug": "holly-springs-ms"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "north-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Pascagoula",
+    "slug": "pascagoula-ms",
+    "county": "Jackson County",
+    "population": 22000,
+    "zip_codes": [
+      "39567",
+      "39568",
+      "39581"
+    ],
+    "landmarks": [
+      "Pascagoula River",
+      "Ingalls Shipbuilding",
+      "Beach Park",
+      "Downtown Pascagoula",
+      "Lighthouse Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Moss Point",
+        "slug": "moss-point-ms"
+      },
+      {
+        "name": "Gautier",
+        "slug": "gautier-ms"
+      },
+      {
+        "name": "Ocean Springs",
+        "slug": "ocean-springs-ms"
+      },
+      {
+        "name": "Biloxi",
+        "slug": "biloxi-ms"
+      },
+      {
+        "name": "Mobile",
+        "slug": "mobile-al"
+      }
+    ],
+    "city_type": "coastal-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-riverfront",
+    "economy_type": "shipbuilding-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Pearl",
+    "slug": "pearl-ms",
+    "county": "Rankin County",
+    "population": 27000,
+    "zip_codes": [
+      "39208"
+    ],
+    "landmarks": [
+      "Trustmark Park",
+      "Outlets of Mississippi",
+      "Downtown Pearl",
+      "Pearl River Area",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Brandon",
+        "slug": "brandon-ms"
+      },
+      {
+        "name": "Ridgeland",
+        "slug": "ridgeland-ms"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-ms"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-ms"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "jackson-metro-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Petal",
+    "slug": "petal-ms",
+    "county": "Forrest County",
+    "population": 11500,
+    "zip_codes": [
+      "39465"
+    ],
+    "landmarks": [
+      "Leaf River",
+      "Petal River Park",
+      "Downtown Petal",
+      "Petal Civic Center",
+      "Main Street District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-ms"
+      },
+      {
+        "name": "Brookhaven",
+        "slug": "brookhaven-ms"
+      },
+      {
+        "name": "McComb",
+        "slug": "mccomb-ms"
+      },
+      {
+        "name": "Ellisville",
+        "slug": "ellisville-ms"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "south-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Philadelphia",
+    "slug": "philadelphia-ms",
+    "county": "Neshoba County",
+    "population": 7200,
+    "zip_codes": [
+      "39350"
+    ],
+    "landmarks": [
+      "Silver Star Casino",
+      "Golden Moon Casino",
+      "Downtown Philadelphia",
+      "Neshoba County Fairgrounds",
+      "Historic Courthouse Square"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Louisville",
+        "slug": "louisville-ms"
+      },
+      {
+        "name": "Meridian",
+        "slug": "meridian-ms"
+      },
+      {
+        "name": "Kosciusko",
+        "slug": "kosciusko-ms"
+      },
+      {
+        "name": "Starkville",
+        "slug": "starkville-ms"
+      },
+      {
+        "name": "Canton",
+        "slug": "canton-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "tourism-gaming",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Picayune",
+    "slug": "picayune-ms",
+    "county": "Pearl River County",
+    "population": 11000,
+    "zip_codes": [
+      "39466"
+    ],
+    "landmarks": [
+      "Crosby Arboretum",
+      "Downtown Picayune",
+      "Friendship Park",
+      "Historic Depot",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bay Saint Louis",
+        "slug": "bay-saint-louis-ms"
+      },
+      {
+        "name": "Waveland",
+        "slug": "waveland-ms"
+      },
+      {
+        "name": "Gulfport",
+        "slug": "gulfport-ms"
+      },
+      {
+        "name": "Long Beach",
+        "slug": "long-beach-ms"
+      },
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Ridgeland",
+    "slug": "ridgeland-ms",
+    "county": "Madison County",
+    "population": 25000,
+    "zip_codes": [
+      "39157",
+      "39158"
+    ],
+    "landmarks": [
+      "Renaissance at Colony Park",
+      "Natchez Trace Parkway",
+      "Ridgeland Retail District",
+      "Freedom Ridge Park",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Madison",
+        "slug": "madison-ms"
+      },
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Pearl",
+        "slug": "pearl-ms"
+      },
+      {
+        "name": "Brandon",
+        "slug": "brandon-ms"
+      },
+      {
+        "name": "Canton",
+        "slug": "canton-ms"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "jackson-metro-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Senatobia",
+    "slug": "senatobia-ms",
+    "county": "Tate County",
+    "population": 8600,
+    "zip_codes": [
+      "38668"
+    ],
+    "landmarks": [
+      "Northwest Mississippi Community College",
+      "Downtown Senatobia",
+      "Gabbert Park",
+      "Historic Courthouse",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Southaven",
+        "slug": "southaven-ms"
+      },
+      {
+        "name": "Hernando",
+        "slug": "hernando-ms"
+      },
+      {
+        "name": "Batesville",
+        "slug": "batesville-ms"
+      },
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      },
+      {
+        "name": "Horn Lake",
+        "slug": "horn-lake-ms"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Southaven",
+    "slug": "southaven-ms",
+    "county": "DeSoto County",
+    "population": 58000,
+    "zip_codes": [
+      "38671",
+      "38672"
+    ],
+    "landmarks": [
+      "Landers Center",
+      "Southaven Towne Center",
+      "Snowden Grove Park",
+      "BankPlus Amphitheater",
+      "Downtown Southaven"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Horn Lake",
+        "slug": "horn-lake-ms"
+      },
+      {
+        "name": "Olive Branch",
+        "slug": "olive-branch-ms"
+      },
+      {
+        "name": "Hernando",
+        "slug": "hernando-ms"
+      },
+      {
+        "name": "Memphis",
+        "slug": "memphis-tn"
+      },
+      {
+        "name": "Senatobia",
+        "slug": "senatobia-ms"
+      }
+    ],
+    "city_type": "major-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "urban-plains",
+    "economy_type": "retail-logistics",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "memphis-metro-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Starkville",
+    "slug": "starkville-ms",
+    "county": "Oktibbeha County",
+    "population": 26000,
+    "zip_codes": [
+      "39759",
+      "39760"
+    ],
+    "landmarks": [
+      "Mississippi State University",
+      "The Cotton District",
+      "Dudy Noble Field",
+      "Downtown Starkville",
+      "McKee Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Columbus",
+        "slug": "columbus-ms"
+      },
+      {
+        "name": "West Point",
+        "slug": "west-point-ms"
+      },
+      {
+        "name": "Louisville",
+        "slug": "louisville-ms"
+      },
+      {
+        "name": "Philadelphia",
+        "slug": "philadelphia-ms"
+      },
+      {
+        "name": "Amory",
+        "slug": "amory-ms"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "golden-triangle-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Tupelo",
+    "slug": "tupelo-ms",
+    "county": "Lee County",
+    "population": 39000,
+    "zip_codes": [
+      "38801",
+      "38804"
+    ],
+    "landmarks": [
+      "Elvis Presley Birthplace",
+      "Tupelo Buffalo Park",
+      "Downtown Tupelo",
+      "Cadence Bank Arena",
+      "Veterans Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "New Albany",
+        "slug": "new-albany-ms"
+      },
+      {
+        "name": "Corinth",
+        "slug": "corinth-ms"
+      },
+      {
+        "name": "Amory",
+        "slug": "amory-ms"
+      },
+      {
+        "name": "Booneville",
+        "slug": "booneville-ms"
+      },
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "northeast-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Vicksburg",
+    "slug": "vicksburg-ms",
+    "county": "Warren County",
+    "population": 20500,
+    "zip_codes": [
+      "39180",
+      "39181",
+      "39183"
+    ],
+    "landmarks": [
+      "Vicksburg National Military Park",
+      "Mississippi River",
+      "Downtown Vicksburg",
+      "Riverfront Murals",
+      "Biedenharn Coca-Cola Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Natchez",
+        "slug": "natchez-ms"
+      },
+      {
+        "name": "Yazoo City",
+        "slug": "yazoo-city-ms"
+      },
+      {
+        "name": "Greenville",
+        "slug": "greenville-ms"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-ms"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-bluffs",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "west-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Waveland",
+    "slug": "waveland-ms",
+    "county": "Hancock County",
+    "population": 7000,
+    "zip_codes": [
+      "39576"
+    ],
+    "landmarks": [
+      "Waveland Beach",
+      "Ground Zero Hurricane Museum",
+      "Downtown Waveland",
+      "Garcia Avenue District",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bay Saint Louis",
+        "slug": "bay-saint-louis-ms"
+      },
+      {
+        "name": "Long Beach",
+        "slug": "long-beach-ms"
+      },
+      {
+        "name": "Gulfport",
+        "slug": "gulfport-ms"
+      },
+      {
+        "name": "Picayune",
+        "slug": "picayune-ms"
+      },
+      {
+        "name": "Pass Christian",
+        "slug": "pass-christian-ms"
+      }
+    ],
+    "city_type": "coastal-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "West Point",
+    "slug": "west-point-ms",
+    "county": "Clay County",
+    "population": 9800,
+    "zip_codes": [
+      "39773"
+    ],
+    "landmarks": [
+      "Howlin' Wolf Blues Museum",
+      "Downtown West Point",
+      "Clay County Courthouse",
+      "Community Center",
+      "Main Street District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Starkville",
+        "slug": "starkville-ms"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-ms"
+      },
+      {
+        "name": "Amory",
+        "slug": "amory-ms"
+      },
+      {
+        "name": "Louisville",
+        "slug": "louisville-ms"
+      },
+      {
+        "name": "Aberdeen",
+        "slug": "aberdeen-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "golden-triangle-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Yazoo City",
+    "slug": "yazoo-city-ms",
+    "county": "Yazoo County",
+    "population": 10500,
+    "zip_codes": [
+      "39194"
+    ],
+    "landmarks": [
+      "Yazoo County Courthouse",
+      "Triangle Cultural Center",
+      "Downtown Yazoo City",
+      "Main Street District",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Vicksburg",
+        "slug": "vicksburg-ms"
+      },
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-ms"
+      },
+      {
+        "name": "Indianola",
+        "slug": "indianola-ms"
+      },
+      {
+        "name": "Canton",
+        "slug": "canton-ms"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "delta-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Pass Christian",
+    "slug": "pass-christian-ms",
+    "county": "Harrison County",
+    "population": 6200,
+    "zip_codes": [
+      "39571"
+    ],
+    "landmarks": [
+      "Pass Christian Harbor",
+      "War Memorial Park",
+      "Scenic Drive",
+      "Downtown Pass Christian",
+      "Beachfront District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Long Beach",
+        "slug": "long-beach-ms"
+      },
+      {
+        "name": "Waveland",
+        "slug": "waveland-ms"
+      },
+      {
+        "name": "Bay Saint Louis",
+        "slug": "bay-saint-louis-ms"
+      },
+      {
+        "name": "Gulfport",
+        "slug": "gulfport-ms"
+      },
+      {
+        "name": "Biloxi",
+        "slug": "biloxi-ms"
+      }
+    ],
+    "city_type": "coastal-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Ellisville",
+    "slug": "ellisville-ms",
+    "county": "Jones County",
+    "population": 6500,
+    "zip_codes": [
+      "39437"
+    ],
+    "landmarks": [
+      "Jones College",
+      "Downtown Ellisville",
+      "Community Center",
+      "Main Street District",
+      "Veterans Memorial Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Laurel",
+        "slug": "laurel-ms"
+      },
+      {
+        "name": "Petal",
+        "slug": "petal-ms"
+      },
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      },
+      {
+        "name": "Meridian",
+        "slug": "meridian-ms"
+      },
+      {
+        "name": "Brookhaven",
+        "slug": "brookhaven-ms"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Richland",
+    "slug": "richland-ms",
+    "county": "Rankin County",
+    "population": 7600,
+    "zip_codes": [
+      "39218"
+    ],
+    "landmarks": [
+      "Richland City Hall",
+      "Richland Creek Area",
+      "Community Center",
+      "Main Street District",
+      "Veterans Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pearl",
+        "slug": "pearl-ms"
+      },
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Brandon",
+        "slug": "brandon-ms"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-ms"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-ms"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "jackson-metro-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Flowood",
+    "slug": "flowood-ms",
+    "county": "Rankin County",
+    "population": 11000,
+    "zip_codes": [
+      "39232"
+    ],
+    "landmarks": [
+      "Dogwood Festival Market",
+      "The Refuge Golf Course",
+      "Flowood Nature Park",
+      "Downtown Flowood",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Pearl",
+        "slug": "pearl-ms"
+      },
+      {
+        "name": "Brandon",
+        "slug": "brandon-ms"
+      },
+      {
+        "name": "Ridgeland",
+        "slug": "ridgeland-ms"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-ms"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "jackson-metro-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Grenada",
+    "slug": "grenada-ms",
+    "county": "Grenada County",
+    "population": 12000,
+    "zip_codes": [
+      "38901",
+      "38902"
+    ],
+    "landmarks": [
+      "Grenada Lake",
+      "Downtown Grenada",
+      "Bledsoe Park",
+      "Grenada Country Club",
+      "Historic Square"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      },
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-ms"
+      },
+      {
+        "name": "Starkville",
+        "slug": "starkville-ms"
+      },
+      {
+        "name": "Yazoo City",
+        "slug": "yazoo-city-ms"
+      },
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-central-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Magee",
+    "slug": "magee-ms",
+    "county": "Simpson County",
+    "population": 5200,
+    "zip_codes": [
+      "39111"
+    ],
+    "landmarks": [
+      "Downtown Magee",
+      "Magee Sportsplex",
+      "Community Center",
+      "Main Street District",
+      "Veterans Memorial Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mendenhall",
+        "slug": "mendenhall-ms"
+      },
+      {
+        "name": "Richland",
+        "slug": "richland-ms"
+      },
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Brookhaven",
+        "slug": "brookhaven-ms"
+      },
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Mendenhall",
+    "slug": "mendenhall-ms",
+    "county": "Simpson County",
+    "population": 7200,
+    "zip_codes": [
+      "39114"
+    ],
+    "landmarks": [
+      "Simpson County Courthouse",
+      "Downtown Mendenhall",
+      "Community Center",
+      "Main Street District",
+      "Veterans Memorial Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Magee",
+        "slug": "magee-ms"
+      },
+      {
+        "name": "Richland",
+        "slug": "richland-ms"
+      },
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Brookhaven",
+        "slug": "brookhaven-ms"
+      },
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Byram",
+    "slug": "byram-ms",
+    "county": "Hinds County",
+    "population": 11500,
+    "zip_codes": [
+      "39272"
+    ],
+    "landmarks": [
+      "Byram Swinging Bridge",
+      "Downtown Byram",
+      "Community Center",
+      "Terry Road Corridor",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-ms"
+      },
+      {
+        "name": "Pearl",
+        "slug": "pearl-ms"
+      },
+      {
+        "name": "Richland",
+        "slug": "richland-ms"
+      },
+      {
+        "name": "Flowood",
+        "slug": "flowood-ms"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "jackson-metro-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Carthage",
+    "slug": "carthage-ms",
+    "county": "Leake County",
+    "population": 5100,
+    "zip_codes": [
+      "39051"
+    ],
+    "landmarks": [
+      "Leake County Courthouse",
+      "Downtown Carthage",
+      "Pearl River Area",
+      "Community Center",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Philadelphia",
+        "slug": "philadelphia-ms"
+      },
+      {
+        "name": "Kosciusko",
+        "slug": "kosciusko-ms"
+      },
+      {
+        "name": "Canton",
+        "slug": "canton-ms"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-ms"
+      },
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Brooksville",
+    "slug": "brooksville-ms",
+    "county": "Noxubee County",
+    "population": 5200,
+    "zip_codes": [
+      "39739"
+    ],
+    "landmarks": [
+      "Downtown Brooksville",
+      "Noxubee County District",
+      "Community Center",
+      "Historic Main Street",
+      "Veterans Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Starkville",
+        "slug": "starkville-ms"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-ms"
+      },
+      {
+        "name": "West Point",
+        "slug": "west-point-ms"
+      },
+      {
+        "name": "Louisville",
+        "slug": "louisville-ms"
+      },
+      {
+        "name": "Macon",
+        "slug": "macon-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Macon",
+    "slug": "macon-ms",
+    "county": "Noxubee County",
+    "population": 6400,
+    "zip_codes": [
+      "39341"
+    ],
+    "landmarks": [
+      "Noxubee County Courthouse",
+      "Downtown Macon",
+      "Community Center",
+      "Historic District",
+      "Main Street Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Brooksville",
+        "slug": "brooksville-ms"
+      },
+      {
+        "name": "Starkville",
+        "slug": "starkville-ms"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-ms"
+      },
+      {
+        "name": "West Point",
+        "slug": "west-point-ms"
+      },
+      {
+        "name": "Louisville",
+        "slug": "louisville-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Forest",
+    "slug": "forest-ms",
+    "county": "Scott County",
+    "population": 5400,
+    "zip_codes": [
+      "39074"
+    ],
+    "landmarks": [
+      "Bienville National Forest Area",
+      "Downtown Forest",
+      "Community Center",
+      "Main Street District",
+      "Scott County Civic Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Carthage",
+        "slug": "carthage-ms"
+      },
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "Philadelphia",
+        "slug": "philadelphia-ms"
+      },
+      {
+        "name": "Meridian",
+        "slug": "meridian-ms"
+      },
+      {
+        "name": "Kosciusko",
+        "slug": "kosciusko-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "woodlands",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Pontotoc",
+    "slug": "pontotoc-ms",
+    "county": "Pontotoc County",
+    "population": 6200,
+    "zip_codes": [
+      "38863"
+    ],
+    "landmarks": [
+      "Downtown Pontotoc",
+      "Pontotoc County Courthouse",
+      "Howard Stafford Park",
+      "Community Center",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "New Albany",
+        "slug": "new-albany-ms"
+      },
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      },
+      {
+        "name": "Booneville",
+        "slug": "booneville-ms"
+      },
+      {
+        "name": "Amory",
+        "slug": "amory-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Winona",
+    "slug": "winona-ms",
+    "county": "Montgomery County",
+    "population": 5000,
+    "zip_codes": [
+      "38967"
+    ],
+    "landmarks": [
+      "Winona Historic District",
+      "Downtown Winona",
+      "Community Center",
+      "Main Street Corridor",
+      "Veterans Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Grenada",
+        "slug": "grenada-ms"
+      },
+      {
+        "name": "Kosciusko",
+        "slug": "kosciusko-ms"
+      },
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-ms"
+      },
+      {
+        "name": "Starkville",
+        "slug": "starkville-ms"
+      },
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-central-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Waynesboro",
+    "slug": "waynesboro-ms",
+    "county": "Wayne County",
+    "population": 5100,
+    "zip_codes": [
+      "39367"
+    ],
+    "landmarks": [
+      "Chickasawhay River",
+      "Downtown Waynesboro",
+      "Wayne County Courthouse",
+      "Community Center",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Laurel",
+        "slug": "laurel-ms"
+      },
+      {
+        "name": "Meridian",
+        "slug": "meridian-ms"
+      },
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      },
+      {
+        "name": "Petal",
+        "slug": "petal-ms"
+      },
+      {
+        "name": "Ellisville",
+        "slug": "ellisville-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "woodlands",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "south-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Hazlehurst",
+    "slug": "hazlehurst-ms",
+    "county": "Copiah County",
+    "population": 5200,
+    "zip_codes": [
+      "39083"
+    ],
+    "landmarks": [
+      "Downtown Hazlehurst",
+      "Hazlehurst Depot",
+      "Community Center",
+      "Historic District",
+      "Main Street Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Brookhaven",
+        "slug": "brookhaven-ms"
+      },
+      {
+        "name": "Crystal Springs",
+        "slug": "crystal-springs-ms"
+      },
+      {
+        "name": "Jackson",
+        "slug": "jackson-ms"
+      },
+      {
+        "name": "McComb",
+        "slug": "mccomb-ms"
+      },
+      {
+        "name": "Byram",
+        "slug": "byram-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southwest-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Iuka",
+    "slug": "iuka-ms",
+    "county": "Tishomingo County",
+    "population": 5300,
+    "zip_codes": [
+      "38852"
+    ],
+    "landmarks": [
+      "J.P. Coleman State Park",
+      "Pickwick Lake",
+      "Downtown Iuka",
+      "Mineral Springs Park",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Corinth",
+        "slug": "corinth-ms"
+      },
+      {
+        "name": "Booneville",
+        "slug": "booneville-ms"
+      },
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "New Albany",
+        "slug": "new-albany-ms"
+      },
+      {
+        "name": "Amory",
+        "slug": "amory-ms"
+      }
+    ],
+    "city_type": "lake-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "hills-and-lakes",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Ripley",
+    "slug": "ripley-ms",
+    "county": "Tippah County",
+    "population": 5500,
+    "zip_codes": [
+      "38663"
+    ],
+    "landmarks": [
+      "Tippah County Courthouse",
+      "Downtown Ripley",
+      "City Park",
+      "Historic District",
+      "Main Street Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Corinth",
+        "slug": "corinth-ms"
+      },
+      {
+        "name": "New Albany",
+        "slug": "new-albany-ms"
+      },
+      {
+        "name": "Booneville",
+        "slug": "booneville-ms"
+      },
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Houston",
+    "slug": "houston-ms",
+    "county": "Chickasaw County",
+    "population": 9300,
+    "zip_codes": [
+      "38851"
+    ],
+    "landmarks": [
+      "Downtown Houston",
+      "Chickasaw County Courthouse",
+      "Community Center",
+      "Historic District",
+      "Main Street Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "Amory",
+        "slug": "amory-ms"
+      },
+      {
+        "name": "Pontotoc",
+        "slug": "pontotoc-ms"
+      },
+      {
+        "name": "Starkville",
+        "slug": "starkville-ms"
+      },
+      {
+        "name": "West Point",
+        "slug": "west-point-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Fulton",
+    "slug": "fulton-ms",
+    "county": "Itawamba County",
+    "population": 5600,
+    "zip_codes": [
+      "38843"
+    ],
+    "landmarks": [
+      "Itawamba Community College",
+      "Downtown Fulton",
+      "Tenn-Tom Waterway",
+      "Community Center",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "Amory",
+        "slug": "amory-ms"
+      },
+      {
+        "name": "Aberdeen",
+        "slug": "aberdeen-ms"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-ms"
+      },
+      {
+        "name": "Booneville",
+        "slug": "booneville-ms"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Shannon",
+    "slug": "shannon-ms",
+    "county": "Lee County",
+    "population": 5100,
+    "zip_codes": [
+      "38868"
+    ],
+    "landmarks": [
+      "Downtown Shannon",
+      "Community Park",
+      "Industrial Corridor",
+      "Civic Center",
+      "Historic Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "Amory",
+        "slug": "amory-ms"
+      },
+      {
+        "name": "Pontotoc",
+        "slug": "pontotoc-ms"
+      },
+      {
+        "name": "Houston",
+        "slug": "houston-ms"
+      },
+      {
+        "name": "Fulton",
+        "slug": "fulton-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Wiggins",
+    "slug": "wiggins-ms",
+    "county": "Stone County",
+    "population": 5100,
+    "zip_codes": [
+      "39577"
+    ],
+    "landmarks": [
+      "Flint Creek Water Park",
+      "Downtown Wiggins",
+      "Blaylock Park",
+      "Stone County Courthouse",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gulfport",
+        "slug": "gulfport-ms"
+      },
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      },
+      {
+        "name": "Long Beach",
+        "slug": "long-beach-ms"
+      },
+      {
+        "name": "Biloxi",
+        "slug": "biloxi-ms"
+      },
+      {
+        "name": "Picayune",
+        "slug": "picayune-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "south-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Lucedale",
+    "slug": "lucedale-ms",
+    "county": "George County",
+    "population": 6100,
+    "zip_codes": [
+      "39452"
+    ],
+    "landmarks": [
+      "George County Courthouse",
+      "Downtown Lucedale",
+      "Community Center",
+      "Historic District",
+      "Main Street Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pascagoula",
+        "slug": "pascagoula-ms"
+      },
+      {
+        "name": "Moss Point",
+        "slug": "moss-point-ms"
+      },
+      {
+        "name": "Gautier",
+        "slug": "gautier-ms"
+      },
+      {
+        "name": "Mobile",
+        "slug": "mobile-al"
+      },
+      {
+        "name": "Wiggins",
+        "slug": "wiggins-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "woodlands",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Bay Springs",
+    "slug": "bay-springs-ms",
+    "county": "Jasper County",
+    "population": 5400,
+    "zip_codes": [
+      "39422"
+    ],
+    "landmarks": [
+      "Downtown Bay Springs",
+      "Jasper County District",
+      "Community Center",
+      "Historic Main Street",
+      "Veterans Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Laurel",
+        "slug": "laurel-ms"
+      },
+      {
+        "name": "Meridian",
+        "slug": "meridian-ms"
+      },
+      {
+        "name": "Waynesboro",
+        "slug": "waynesboro-ms"
+      },
+      {
+        "name": "Ellisville",
+        "slug": "ellisville-ms"
+      },
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "woodlands",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "south-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Purvis",
+    "slug": "purvis-ms",
+    "county": "Lamar County",
+    "population": 5600,
+    "zip_codes": [
+      "39475"
+    ],
+    "landmarks": [
+      "Lamar County Courthouse",
+      "Downtown Purvis",
+      "Community Center",
+      "Main Street District",
+      "Veterans Memorial Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      },
+      {
+        "name": "Petal",
+        "slug": "petal-ms"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-ms"
+      },
+      {
+        "name": "Ellisville",
+        "slug": "ellisville-ms"
+      },
+      {
+        "name": "Brookhaven",
+        "slug": "brookhaven-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Diamondhead",
+    "slug": "diamondhead-ms",
+    "county": "Hancock County",
+    "population": 9500,
+    "zip_codes": [
+      "39525"
+    ],
+    "landmarks": [
+      "Diamondhead Country Club",
+      "Twin Lakes",
+      "Downtown Diamondhead",
+      "Marina Area",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bay Saint Louis",
+        "slug": "bay-saint-louis-ms"
+      },
+      {
+        "name": "Waveland",
+        "slug": "waveland-ms"
+      },
+      {
+        "name": "Long Beach",
+        "slug": "long-beach-ms"
+      },
+      {
+        "name": "Gulfport",
+        "slug": "gulfport-ms"
+      },
+      {
+        "name": "Picayune",
+        "slug": "picayune-ms"
+      }
+    ],
+    "city_type": "coastal-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Richmond",
+    "slug": "richmond-ms",
+    "county": "Sunflower County",
+    "population": 5200,
+    "zip_codes": [
+      "38778"
+    ],
+    "landmarks": [
+      "Historic Downtown",
+      "Community Center",
+      "Town Park",
+      "Main Street District",
+      "Civic Grounds"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Indianola",
+        "slug": "indianola-ms"
+      },
+      {
+        "name": "Greenville",
+        "slug": "greenville-ms"
+      },
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-ms"
+      },
+      {
+        "name": "Cleveland",
+        "slug": "cleveland-ms"
+      },
+      {
+        "name": "Clarksdale",
+        "slug": "clarksdale-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "delta-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "mississippi-delta-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Water Valley",
+    "slug": "water-valley-ms",
+    "county": "Yalobusha County",
+    "population": 6200,
+    "zip_codes": [
+      "38965"
+    ],
+    "landmarks": [
+      "Historic Depot",
+      "Downtown Water Valley",
+      "City Park",
+      "Main Street District",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      },
+      {
+        "name": "Grenada",
+        "slug": "grenada-ms"
+      },
+      {
+        "name": "Batesville",
+        "slug": "batesville-ms"
+      },
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "Winona",
+        "slug": "winona-ms"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Durant",
+    "slug": "durant-ms",
+    "county": "Holmes County",
+    "population": 5300,
+    "zip_codes": [
+      "39063"
+    ],
+    "landmarks": [
+      "Historic Downtown",
+      "Community Center",
+      "Main Street Corridor",
+      "City Park",
+      "Civic Grounds"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kosciusko",
+        "slug": "kosciusko-ms"
+      },
+      {
+        "name": "Yazoo City",
+        "slug": "yazoo-city-ms"
+      },
+      {
+        "name": "Grenada",
+        "slug": "grenada-ms"
+      },
+      {
+        "name": "Canton",
+        "slug": "canton-ms"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Charleston",
+    "slug": "charleston-ms",
+    "county": "Tallahatchie County",
+    "population": 5100,
+    "zip_codes": [
+      "38921"
+    ],
+    "landmarks": [
+      "Tallahatchie County Courthouse",
+      "Downtown Charleston",
+      "Historic District",
+      "Community Center",
+      "Main Street Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Grenada",
+        "slug": "grenada-ms"
+      },
+      {
+        "name": "Clarksdale",
+        "slug": "clarksdale-ms"
+      },
+      {
+        "name": "Batesville",
+        "slug": "batesville-ms"
+      },
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-ms"
+      },
+      {
+        "name": "Oxford",
+        "slug": "oxford-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "delta-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "mississippi-delta-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Ruleville",
+    "slug": "ruleville-ms",
+    "county": "Sunflower County",
+    "population": 5400,
+    "zip_codes": [
+      "38771"
+    ],
+    "landmarks": [
+      "Fannie Lou Hamer Memorial",
+      "Downtown Ruleville",
+      "Community Center",
+      "Historic District",
+      "Main Street Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Indianola",
+        "slug": "indianola-ms"
+      },
+      {
+        "name": "Cleveland",
+        "slug": "cleveland-ms"
+      },
+      {
+        "name": "Greenville",
+        "slug": "greenville-ms"
+      },
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-ms"
+      },
+      {
+        "name": "Clarksdale",
+        "slug": "clarksdale-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "delta-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "mississippi-delta-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Baldwyn",
+    "slug": "baldwyn-ms",
+    "county": "Prentiss County",
+    "population": 7600,
+    "zip_codes": [
+      "38824"
+    ],
+    "landmarks": [
+      "Historic Downtown Baldwyn",
+      "Brice's Cross Roads Area",
+      "Community Center",
+      "Main Street District",
+      "Veterans Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "Booneville",
+        "slug": "booneville-ms"
+      },
+      {
+        "name": "Corinth",
+        "slug": "corinth-ms"
+      },
+      {
+        "name": "New Albany",
+        "slug": "new-albany-ms"
+      },
+      {
+        "name": "Pontotoc",
+        "slug": "pontotoc-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northeast-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Columbia",
+    "slug": "columbia-ms",
+    "county": "Marion County",
+    "population": 6200,
+    "zip_codes": [
+      "39429"
+    ],
+    "landmarks": [
+      "Marion County Courthouse",
+      "Pearl River",
+      "Downtown Columbia",
+      "Community Center",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      },
+      {
+        "name": "Purvis",
+        "slug": "purvis-ms"
+      },
+      {
+        "name": "Picayune",
+        "slug": "picayune-ms"
+      },
+      {
+        "name": "McComb",
+        "slug": "mccomb-ms"
+      },
+      {
+        "name": "Petal",
+        "slug": "petal-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "south-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Belmont",
+    "slug": "belmont-ms",
+    "county": "Tishomingo County",
+    "population": 5200,
+    "zip_codes": [
+      "38827"
+    ],
+    "landmarks": [
+      "Belmont Park",
+      "Historic Downtown",
+      "Community Center",
+      "Main Street District",
+      "Veterans Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Iuka",
+        "slug": "iuka-ms"
+      },
+      {
+        "name": "Booneville",
+        "slug": "booneville-ms"
+      },
+      {
+        "name": "Corinth",
+        "slug": "corinth-ms"
+      },
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "New Albany",
+        "slug": "new-albany-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Ackerman",
+    "slug": "ackerman-ms",
+    "county": "Choctaw County",
+    "population": 5100,
+    "zip_codes": [
+      "39735"
+    ],
+    "landmarks": [
+      "Choctaw County Courthouse",
+      "Downtown Ackerman",
+      "Community Center",
+      "Historic District",
+      "Main Street Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Starkville",
+        "slug": "starkville-ms"
+      },
+      {
+        "name": "Louisville",
+        "slug": "louisville-ms"
+      },
+      {
+        "name": "Kosciusko",
+        "slug": "kosciusko-ms"
+      },
+      {
+        "name": "West Point",
+        "slug": "west-point-ms"
+      },
+      {
+        "name": "Houston",
+        "slug": "houston-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Tylertown",
+    "slug": "tylertown-ms",
+    "county": "Walthall County",
+    "population": 7200,
+    "zip_codes": [
+      "39667"
+    ],
+    "landmarks": [
+      "Magee's Creek",
+      "Downtown Tylertown",
+      "Community Center",
+      "Historic District",
+      "Veterans Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "McComb",
+        "slug": "mccomb-ms"
+      },
+      {
+        "name": "Brookhaven",
+        "slug": "brookhaven-ms"
+      },
+      {
+        "name": "Columbia",
+        "slug": "columbia-ms"
+      },
+      {
+        "name": "Purvis",
+        "slug": "purvis-ms"
+      },
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southwest-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Poplarville",
+    "slug": "poplarville-ms",
+    "county": "Pearl River County",
+    "population": 6400,
+    "zip_codes": [
+      "39470"
+    ],
+    "landmarks": [
+      "Pearl River Community College",
+      "Downtown Poplarville",
+      "City Park",
+      "Historic District",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Picayune",
+        "slug": "picayune-ms"
+      },
+      {
+        "name": "Diamondhead",
+        "slug": "diamondhead-ms"
+      },
+      {
+        "name": "Bay Saint Louis",
+        "slug": "bay-saint-louis-ms"
+      },
+      {
+        "name": "Wiggins",
+        "slug": "wiggins-ms"
+      },
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Leakesville",
+    "slug": "leakesville-ms",
+    "county": "Greene County",
+    "population": 5300,
+    "zip_codes": [
+      "39451"
+    ],
+    "landmarks": [
+      "Greene County Courthouse",
+      "Downtown Leakesville",
+      "Chickasawhay River",
+      "Community Center",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lucedale",
+        "slug": "lucedale-ms"
+      },
+      {
+        "name": "Waynesboro",
+        "slug": "waynesboro-ms"
+      },
+      {
+        "name": "Pascagoula",
+        "slug": "pascagoula-ms"
+      },
+      {
+        "name": "Moss Point",
+        "slug": "moss-point-ms"
+      },
+      {
+        "name": "Mobile",
+        "slug": "mobile-al"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "woodlands",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southeast-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Prentiss",
+    "slug": "prentiss-ms",
+    "county": "Jefferson Davis County",
+    "population": 5200,
+    "zip_codes": [
+      "39474"
+    ],
+    "landmarks": [
+      "Jefferson Davis County Courthouse",
+      "Downtown Prentiss",
+      "Community Center",
+      "Historic District",
+      "Main Street Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hattiesburg",
+        "slug": "hattiesburg-ms"
+      },
+      {
+        "name": "Brookhaven",
+        "slug": "brookhaven-ms"
+      },
+      {
+        "name": "McComb",
+        "slug": "mccomb-ms"
+      },
+      {
+        "name": "Purvis",
+        "slug": "purvis-ms"
+      },
+      {
+        "name": "Columbia",
+        "slug": "columbia-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "pine-woodlands",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "south-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Myrtle",
+    "slug": "myrtle-ms",
+    "county": "Union County",
+    "population": 5100,
+    "zip_codes": [
+      "38650"
+    ],
+    "landmarks": [
+      "Downtown Myrtle",
+      "Community Center",
+      "Town Park",
+      "Historic District",
+      "Main Street Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "New Albany",
+        "slug": "new-albany-ms"
+      },
+      {
+        "name": "Ripley",
+        "slug": "ripley-ms"
+      },
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "Corinth",
+        "slug": "corinth-ms"
+      },
+      {
+        "name": "Pontotoc",
+        "slug": "pontotoc-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Nettleton",
+    "slug": "nettleton-ms",
+    "county": "Monroe County",
+    "population": 6100,
+    "zip_codes": [
+      "38858"
+    ],
+    "landmarks": [
+      "Downtown Nettleton",
+      "Community Center",
+      "Main Street District",
+      "Town Park",
+      "Historic Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Amory",
+        "slug": "amory-ms"
+      },
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "Aberdeen",
+        "slug": "aberdeen-ms"
+      },
+      {
+        "name": "Fulton",
+        "slug": "fulton-ms"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  },
+  {
+    "city": "Mantachie",
+    "slug": "mantachie-ms",
+    "county": "Itawamba County",
+    "population": 5000,
+    "zip_codes": [
+      "38855"
+    ],
+    "landmarks": [
+      "Mantachie Creek Area",
+      "Downtown Mantachie",
+      "Community Center",
+      "Town Park",
+      "Main Street District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fulton",
+        "slug": "fulton-ms"
+      },
+      {
+        "name": "Tupelo",
+        "slug": "tupelo-ms"
+      },
+      {
+        "name": "Amory",
+        "slug": "amory-ms"
+      },
+      {
+        "name": "Aberdeen",
+        "slug": "aberdeen-ms"
+      },
+      {
+        "name": "Pontotoc",
+        "slug": "pontotoc-ms"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-mississippi-market",
+    "property_mix": "mixed-use",
+    "state": "MS"
+  }
+]

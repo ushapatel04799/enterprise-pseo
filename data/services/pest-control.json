@@ -1,0 +1,42 @@
+[
+  {
+    "id": "termite-control",
+    "name": "Termite Control",
+    "slug": "termite-control",
+    "description": "Comprehensive termite inspections, soil treatments, and baiting systems to protect your property's structure.",
+    "faqs": [
+      {
+        "question": "How often should I get a termite inspection?",
+        "answer": "We recommend professional inspections at least once a year to catch infestations before structural damage occurs."
+      },
+      {
+        "question": "How long do termite treatments last?",
+        "answer": "Liquid chemical barriers typically last 5 to 8 years, while baiting systems require annual maintenance."
+      }
+    ]
+  },
+  {
+    "id": "bed-bug-treatment",
+    "name": "Bed Bug Treatment",
+    "slug": "bed-bug-treatment",
+    "description": "Advanced thermal heat treatments and chemical treatments to eliminate bed bugs from homes and businesses.",
+    "faqs": [
+      {
+        "question": "Should I throw away my mattress if I have bed bugs?",
+        "answer": "No, our heat treatments completely eliminate bed bugs from mattresses and box springs without requiring disposal."
+      }
+    ]
+  },
+  {
+    "id": "rodent-control",
+    "name": "Rodent Control & Exclusion",
+    "slug": "rodent-control",
+    "description": "Effective rodent trapping, baiting, and structural entry-point sealing to prevent rat and mouse infestations.",
+    "faqs": [
+      {
+        "question": "How do you keep mice from coming back?",
+        "answer": "We perform complete rodent exclusion, sealing all foundation cracks, vents, and utility gaps wider than 1/4 inch."
+      }
+    ]
+  }
+]

@@ -1,0 +1,3312 @@
+[
+  {
+    "city": "Alexandria",
+    "slug": "alexandria-va",
+    "county": "Alexandria City",
+    "population": 160700,
+    "zip_codes": [
+      "22301",
+      "22302",
+      "22304",
+      "22305",
+      "22311",
+      "22314",
+      "22315"
+    ],
+    "landmarks": [
+      "Old Town Alexandria",
+      "Torpedo Factory Art Center",
+      "George Washington Masonic National Memorial",
+      "Waterfront Park",
+      "Jones Point Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Arlington",
+        "slug": "arlington-va"
+      },
+      {
+        "name": "Falls Church",
+        "slug": "falls-church-va"
+      },
+      {
+        "name": "Springfield",
+        "slug": "springfield-va"
+      },
+      {
+        "name": "Fort Hunt",
+        "slug": "fort-hunt-va"
+      },
+      {
+        "name": "Washington",
+        "slug": "washington-dc"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "atlantic-coastal-plain",
+    "economy_type": "government-professional-services",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Annandale",
+    "slug": "annandale-va",
+    "county": "Fairfax County",
+    "population": 43500,
+    "zip_codes": [
+      "22003"
+    ],
+    "landmarks": [
+      "Mason District Park",
+      "Hidden Oaks Nature Center",
+      "Wakefield Park",
+      "Poe House",
+      "Annandale Community Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Falls Church",
+        "slug": "falls-church-va"
+      },
+      {
+        "name": "Springfield",
+        "slug": "springfield-va"
+      },
+      {
+        "name": "Burke",
+        "slug": "burke-va"
+      },
+      {
+        "name": "Fairfax",
+        "slug": "fairfax-va"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Arlington",
+    "slug": "arlington-va",
+    "county": "Arlington County",
+    "population": 240000,
+    "zip_codes": [
+      "22201",
+      "22202",
+      "22203",
+      "22204",
+      "22205",
+      "22207",
+      "22209"
+    ],
+    "landmarks": [
+      "Arlington National Cemetery",
+      "The Pentagon",
+      "Rosslyn",
+      "Ballston Quarter",
+      "Air Force Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-va"
+      },
+      {
+        "name": "Falls Church",
+        "slug": "falls-church-va"
+      },
+      {
+        "name": "McLean",
+        "slug": "mclean-va"
+      },
+      {
+        "name": "Washington",
+        "slug": "washington-dc"
+      },
+      {
+        "name": "Annandale",
+        "slug": "annandale-va"
+      }
+    ],
+    "city_type": "county",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "government-defense",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Ashburn",
+    "slug": "ashburn-va",
+    "county": "Loudoun County",
+    "population": 46500,
+    "zip_codes": [
+      "20147",
+      "20148"
+    ],
+    "landmarks": [
+      "One Loudoun",
+      "Ashburn Park",
+      "Trailside Park",
+      "Ashburn Ice House",
+      "Washington & Old Dominion Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Leesburg",
+        "slug": "leesburg-va"
+      },
+      {
+        "name": "Sterling",
+        "slug": "sterling-va"
+      },
+      {
+        "name": "Broadlands",
+        "slug": "broadlands-va"
+      },
+      {
+        "name": "South Riding",
+        "slug": "south-riding-va"
+      },
+      {
+        "name": "Herndon",
+        "slug": "herndon-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "technology-data-centers",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Baileys Crossroads",
+    "slug": "baileys-crossroads-va",
+    "county": "Fairfax County",
+    "population": 26000,
+    "zip_codes": [
+      "22041"
+    ],
+    "landmarks": [
+      "Crossroads Center",
+      "Baileys Community Center",
+      "Skyline Plaza",
+      "Justice Park",
+      "Holmes Run Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Falls Church",
+        "slug": "falls-church-va"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-va"
+      },
+      {
+        "name": "Annandale",
+        "slug": "annandale-va"
+      },
+      {
+        "name": "Arlington",
+        "slug": "arlington-va"
+      },
+      {
+        "name": "Springfield",
+        "slug": "springfield-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-mixed",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Blacksburg",
+    "slug": "blacksburg-va",
+    "county": "Montgomery County",
+    "population": 45000,
+    "zip_codes": [
+      "24060",
+      "24061"
+    ],
+    "landmarks": [
+      "Virginia Tech",
+      "Huckleberry Trail",
+      "Pandapas Pond",
+      "Lane Stadium",
+      "Downtown Blacksburg"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Christiansburg",
+        "slug": "christiansburg-va"
+      },
+      {
+        "name": "Radford",
+        "slug": "radford-va"
+      },
+      {
+        "name": "Salem",
+        "slug": "salem-va"
+      },
+      {
+        "name": "Roanoke",
+        "slug": "roanoke-va"
+      },
+      {
+        "name": "Dublin",
+        "slug": "dublin-va"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "education-research",
+    "housing_profile": "college-town",
+    "growth_pattern": "steady-growth",
+    "service_environment": "new-river-valley",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Bon Air",
+    "slug": "bon-air-va",
+    "county": "Chesterfield County",
+    "population": 18800,
+    "zip_codes": [
+      "23235"
+    ],
+    "landmarks": [
+      "Bon Air Historic District",
+      "Huguenot Park",
+      "Rockwood Park",
+      "Bon Air Community Center",
+      "James River Park System"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Richmond",
+        "slug": "richmond-va"
+      },
+      {
+        "name": "Midlothian",
+        "slug": "midlothian-va"
+      },
+      {
+        "name": "Chesterfield",
+        "slug": "chesterfield-va"
+      },
+      {
+        "name": "Manchester",
+        "slug": "manchester-va"
+      },
+      {
+        "name": "Mechanicsville",
+        "slug": "mechanicsville-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "healthcare-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "greater-richmond",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Bristol",
+    "slug": "bristol-va",
+    "county": "Bristol City",
+    "population": 17100,
+    "zip_codes": [
+      "24201",
+      "24202"
+    ],
+    "landmarks": [
+      "Birthplace of Country Music Museum",
+      "State Street",
+      "Paramount Center",
+      "Steele Creek Park",
+      "Hard Rock Hotel & Casino Bristol"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Abingdon",
+        "slug": "abingdon-va"
+      },
+      {
+        "name": "Kingsport",
+        "slug": "kingsport-tn"
+      },
+      {
+        "name": "Blountville",
+        "slug": "blountville-tn"
+      },
+      {
+        "name": "Lebanon",
+        "slug": "lebanon-va"
+      },
+      {
+        "name": "Marion",
+        "slug": "marion-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "tourism-entertainment",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southwest-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Burke",
+    "slug": "burke-va",
+    "county": "Fairfax County",
+    "population": 44900,
+    "zip_codes": [
+      "22015"
+    ],
+    "landmarks": [
+      "Burke Lake Park",
+      "Lake Barton",
+      "Rolling Valley Park",
+      "Burke Centre",
+      "South Run Recreation Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Springfield",
+        "slug": "springfield-va"
+      },
+      {
+        "name": "Annandale",
+        "slug": "annandale-va"
+      },
+      {
+        "name": "Fairfax",
+        "slug": "fairfax-va"
+      },
+      {
+        "name": "Lorton",
+        "slug": "lorton-va"
+      },
+      {
+        "name": "West Springfield",
+        "slug": "west-springfield-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Cave Spring",
+    "slug": "cave-spring-va",
+    "county": "Roanoke County",
+    "population": 25500,
+    "zip_codes": [
+      "24018"
+    ],
+    "landmarks": [
+      "Green Hill Park",
+      "Hidden Valley Country Club",
+      "Cave Spring Corners",
+      "Oak Grove Plaza",
+      "Roanoke Greenway"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Roanoke",
+        "slug": "roanoke-va"
+      },
+      {
+        "name": "Salem",
+        "slug": "salem-va"
+      },
+      {
+        "name": "Hollins",
+        "slug": "hollins-va"
+      },
+      {
+        "name": "Vinton",
+        "slug": "vinton-va"
+      },
+      {
+        "name": "Blacksburg",
+        "slug": "blacksburg-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "healthcare-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "roanoke-valley",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Centreville",
+    "slug": "centreville-va",
+    "county": "Fairfax County",
+    "population": 74700,
+    "zip_codes": [
+      "20120",
+      "20121"
+    ],
+    "landmarks": [
+      "Bull Run Regional Park",
+      "Historic Centreville Park",
+      "Ellanor C. Lawrence Park",
+      "Centre Ridge Marketplace",
+      "Cub Run Stream Valley Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Chantilly",
+        "slug": "chantilly-va"
+      },
+      {
+        "name": "Clifton",
+        "slug": "clifton-va"
+      },
+      {
+        "name": "Fairfax",
+        "slug": "fairfax-va"
+      },
+      {
+        "name": "Manassas",
+        "slug": "manassas-va"
+      },
+      {
+        "name": "Burke",
+        "slug": "burke-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "technology-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Chantilly",
+    "slug": "chantilly-va",
+    "county": "Fairfax County",
+    "population": 24600,
+    "zip_codes": [
+      "20151",
+      "20152"
+    ],
+    "landmarks": [
+      "Steven F. Udvar-Hazy Center",
+      "Sully Historic Site",
+      "Flat Lick Stream Valley Park",
+      "Chantilly Crossing",
+      "Ellanor C. Lawrence Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Centreville",
+        "slug": "centreville-va"
+      },
+      {
+        "name": "Herndon",
+        "slug": "herndon-va"
+      },
+      {
+        "name": "South Riding",
+        "slug": "south-riding-va"
+      },
+      {
+        "name": "Fairfax",
+        "slug": "fairfax-va"
+      },
+      {
+        "name": "Ashburn",
+        "slug": "ashburn-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "technology-aerospace",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Charlottesville",
+    "slug": "charlottesville-va",
+    "county": "Charlottesville City",
+    "population": 46900,
+    "zip_codes": [
+      "22901",
+      "22902",
+      "22903",
+      "22911"
+    ],
+    "landmarks": [
+      "University of Virginia",
+      "Downtown Mall",
+      "Monticello",
+      "Rivanna Trail",
+      "John Paul Jones Arena"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pantops",
+        "slug": "pantops-va"
+      },
+      {
+        "name": "Hollymead",
+        "slug": "hollymead-va"
+      },
+      {
+        "name": "Crozet",
+        "slug": "crozet-va"
+      },
+      {
+        "name": "Waynesboro",
+        "slug": "waynesboro-va"
+      },
+      {
+        "name": "Scottsville",
+        "slug": "scottsville-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "education-healthcare",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Chesapeake",
+    "slug": "chesapeake-va",
+    "county": "Chesapeake City",
+    "population": 255000,
+    "zip_codes": [
+      "23320",
+      "23321",
+      "23322",
+      "23323",
+      "23324",
+      "23325"
+    ],
+    "landmarks": [
+      "Great Dismal Swamp National Wildlife Refuge",
+      "Oak Grove Lake Park",
+      "Chesapeake Arboretum",
+      "Greenbrier Mall",
+      "Northwest River Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Virginia Beach",
+        "slug": "virginia-beach-va"
+      },
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-va"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-va"
+      },
+      {
+        "name": "Suffolk",
+        "slug": "suffolk-va"
+      },
+      {
+        "name": "Elizabeth City",
+        "slug": "elizabeth-city-nc"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "logistics-defense",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "hampton-roads",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Christiansburg",
+    "slug": "christiansburg-va",
+    "county": "Montgomery County",
+    "population": 22800,
+    "zip_codes": [
+      "24073"
+    ],
+    "landmarks": [
+      "Christiansburg Aquatic Center",
+      "Huckleberry Trail",
+      "New River Valley Mall",
+      "Depot Park",
+      "Downtown Christiansburg"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Blacksburg",
+        "slug": "blacksburg-va"
+      },
+      {
+        "name": "Radford",
+        "slug": "radford-va"
+      },
+      {
+        "name": "Salem",
+        "slug": "salem-va"
+      },
+      {
+        "name": "Roanoke",
+        "slug": "roanoke-va"
+      },
+      {
+        "name": "Dublin",
+        "slug": "dublin-va"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "education-retail",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "new-river-valley",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Colonial Heights",
+    "slug": "colonial-heights-va",
+    "county": "Colonial Heights City",
+    "population": 18100,
+    "zip_codes": [
+      "23834"
+    ],
+    "landmarks": [
+      "Southpark Mall",
+      "Swift Creek Mill Theatre",
+      "White Bank Park",
+      "Keystone Antique Truck Museum",
+      "Appomattox River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Petersburg",
+        "slug": "petersburg-va"
+      },
+      {
+        "name": "Hopewell",
+        "slug": "hopewell-va"
+      },
+      {
+        "name": "Chester",
+        "slug": "chester-va"
+      },
+      {
+        "name": "Prince George",
+        "slug": "prince-george-va"
+      },
+      {
+        "name": "Richmond",
+        "slug": "richmond-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-healthcare",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "greater-richmond",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Dale City",
+    "slug": "dale-city-va",
+    "county": "Prince William County",
+    "population": 72300,
+    "zip_codes": [
+      "22191",
+      "22193"
+    ],
+    "landmarks": [
+      "Waterworks Waterpark",
+      "Andrew Leitch Park",
+      "Mapledale Plaza",
+      "Dale City Recreation Center",
+      "Prince William Parkway"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Woodbridge",
+        "slug": "woodbridge-va"
+      },
+      {
+        "name": "Lake Ridge",
+        "slug": "lake-ridge-va"
+      },
+      {
+        "name": "Montclair",
+        "slug": "montclair-va"
+      },
+      {
+        "name": "Dumfries",
+        "slug": "dumfries-va"
+      },
+      {
+        "name": "Manassas",
+        "slug": "manassas-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "government-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Danville",
+    "slug": "danville-va",
+    "county": "Danville City",
+    "population": 42000,
+    "zip_codes": [
+      "24540",
+      "24541"
+    ],
+    "landmarks": [
+      "Caesars Virginia",
+      "Riverwalk Trail",
+      "Danville Museum of Fine Arts",
+      "Ballou Park",
+      "Anglers Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Martinsville",
+        "slug": "martinsville-va"
+      },
+      {
+        "name": "South Boston",
+        "slug": "south-boston-va"
+      },
+      {
+        "name": "Reidsville",
+        "slug": "reidsville-nc"
+      },
+      {
+        "name": "Yanceyville",
+        "slug": "yanceyville-nc"
+      },
+      {
+        "name": "Chatham",
+        "slug": "chatham-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "gaming-manufacturing",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southside-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Dumfries",
+    "slug": "dumfries-va",
+    "county": "Prince William County",
+    "population": 6200,
+    "zip_codes": [
+      "22026"
+    ],
+    "landmarks": [
+      "Prince William Forest Park",
+      "Weems-Botts Museum",
+      "Quantico Creek",
+      "Merchant Park",
+      "Historic Dumfries"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Dale City",
+        "slug": "dale-city-va"
+      },
+      {
+        "name": "Woodbridge",
+        "slug": "woodbridge-va"
+      },
+      {
+        "name": "Montclair",
+        "slug": "montclair-va"
+      },
+      {
+        "name": "Quantico",
+        "slug": "quantico-va"
+      },
+      {
+        "name": "Triangle",
+        "slug": "triangle-va"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-tourism",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "East Highland Park",
+    "slug": "east-highland-park-va",
+    "county": "Henrico County",
+    "population": 16000,
+    "zip_codes": [
+      "23222",
+      "23223"
+    ],
+    "landmarks": [
+      "Dorey Park",
+      "Highland Springs Recreation Area",
+      "Richmond Raceway",
+      "Armstrong Renaissance",
+      "Henrico Theatre"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Richmond",
+        "slug": "richmond-va"
+      },
+      {
+        "name": "Highland Springs",
+        "slug": "highland-springs-va"
+      },
+      {
+        "name": "Sandston",
+        "slug": "sandston-va"
+      },
+      {
+        "name": "Mechanicsville",
+        "slug": "mechanicsville-va"
+      },
+      {
+        "name": "East Richmond Heights",
+        "slug": "east-richmond-heights-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "healthcare-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "greater-richmond",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Fair Oaks",
+    "slug": "fair-oaks-va",
+    "county": "Fairfax County",
+    "population": 34800,
+    "zip_codes": [
+      "22033",
+      "22030"
+    ],
+    "landmarks": [
+      "Fair Oaks Mall",
+      "Ox Hill Battlefield Park",
+      "Fairfax Towne Center",
+      "Fair Oaks Hospital",
+      "Difficult Run Stream Valley"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fairfax",
+        "slug": "fairfax-va"
+      },
+      {
+        "name": "Centreville",
+        "slug": "centreville-va"
+      },
+      {
+        "name": "Chantilly",
+        "slug": "chantilly-va"
+      },
+      {
+        "name": "Oakton",
+        "slug": "oakton-va"
+      },
+      {
+        "name": "Reston",
+        "slug": "reston-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "technology-retail",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Fairfax",
+    "slug": "fairfax-va",
+    "county": "Fairfax City",
+    "population": 25000,
+    "zip_codes": [
+      "22030",
+      "22031"
+    ],
+    "landmarks": [
+      "George Mason University",
+      "Historic Fairfax Courthouse",
+      "Daniels Run Park",
+      "Old Town Fairfax",
+      "Ratcliffe-Allison House"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fair Oaks",
+        "slug": "fair-oaks-va"
+      },
+      {
+        "name": "Oakton",
+        "slug": "oakton-va"
+      },
+      {
+        "name": "Burke",
+        "slug": "burke-va"
+      },
+      {
+        "name": "Centreville",
+        "slug": "centreville-va"
+      },
+      {
+        "name": "Annandale",
+        "slug": "annandale-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "education-government",
+    "housing_profile": "urban-mixed",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Falls Church",
+    "slug": "falls-church-va",
+    "county": "Falls Church City",
+    "population": 15400,
+    "zip_codes": [
+      "22041",
+      "22042",
+      "22046"
+    ],
+    "landmarks": [
+      "Cherry Hill Farmhouse",
+      "State Theatre",
+      "Falls Church City Hall",
+      "Farmers Market",
+      "W&OD Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Arlington",
+        "slug": "arlington-va"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-va"
+      },
+      {
+        "name": "Annandale",
+        "slug": "annandale-va"
+      },
+      {
+        "name": "McLean",
+        "slug": "mclean-va"
+      },
+      {
+        "name": "Fairfax",
+        "slug": "fairfax-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "government-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Forest",
+    "slug": "forest-va",
+    "county": "Bedford County",
+    "population": 11000,
+    "zip_codes": [
+      "24551"
+    ],
+    "landmarks": [
+      "Poplar Forest",
+      "New London Academy",
+      "Ivy Creek Park",
+      "Thomas Jefferson's Poplar Forest",
+      "London Downs Golf Club"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lynchburg",
+        "slug": "lynchburg-va"
+      },
+      {
+        "name": "Bedford",
+        "slug": "bedford-va"
+      },
+      {
+        "name": "Madison Heights",
+        "slug": "madison-heights-va"
+      },
+      {
+        "name": "Timberlake",
+        "slug": "timberlake-va"
+      },
+      {
+        "name": "Rustburg",
+        "slug": "rustburg-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "education-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Franconia",
+    "slug": "franconia-va",
+    "county": "Fairfax County",
+    "population": 18900,
+    "zip_codes": [
+      "22310"
+    ],
+    "landmarks": [
+      "Franconia Park",
+      "Springfield Town Center",
+      "Lee District Park",
+      "Greendale Golf Course",
+      "Franconia Governmental Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Springfield",
+        "slug": "springfield-va"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-va"
+      },
+      {
+        "name": "Annandale",
+        "slug": "annandale-va"
+      },
+      {
+        "name": "Burke",
+        "slug": "burke-va"
+      },
+      {
+        "name": "Fort Hunt",
+        "slug": "fort-hunt-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "government-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Fredericksburg",
+    "slug": "fredericksburg-va",
+    "county": "Fredericksburg City",
+    "population": 28700,
+    "zip_codes": [
+      "22401",
+      "22405",
+      "22408"
+    ],
+    "landmarks": [
+      "Historic Downtown Fredericksburg",
+      "Fredericksburg Battlefield",
+      "University of Mary Washington",
+      "Rappahannock River Heritage Trail",
+      "Hugh Mercer Apothecary"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Spotsylvania",
+        "slug": "spotsylvania-va"
+      },
+      {
+        "name": "Stafford",
+        "slug": "stafford-va"
+      },
+      {
+        "name": "Falmouth",
+        "slug": "falmouth-va"
+      },
+      {
+        "name": "Massaponax",
+        "slug": "massaponax-va"
+      },
+      {
+        "name": "Dahlgren",
+        "slug": "dahlgren-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-government",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Gainesville",
+    "slug": "gainesville-va",
+    "county": "Prince William County",
+    "population": 18700,
+    "zip_codes": [
+      "20155"
+    ],
+    "landmarks": [
+      "Virginia Gateway",
+      "Stonewall Golf Club",
+      "Conway Robinson State Forest",
+      "James S. Long Regional Park",
+      "Haymarket Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Haymarket",
+        "slug": "haymarket-va"
+      },
+      {
+        "name": "Manassas",
+        "slug": "manassas-va"
+      },
+      {
+        "name": "Centreville",
+        "slug": "centreville-va"
+      },
+      {
+        "name": "Bristow",
+        "slug": "bristow-va"
+      },
+      {
+        "name": "Warrenton",
+        "slug": "warrenton-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "retail-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Great Falls",
+    "slug": "great-falls-va",
+    "county": "Fairfax County",
+    "population": 15400,
+    "zip_codes": [
+      "22066"
+    ],
+    "landmarks": [
+      "Great Falls Park",
+      "Riverbend Park",
+      "Great Falls Village Centre",
+      "Difficult Run Trail",
+      "Turner Farm Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "McLean",
+        "slug": "mclean-va"
+      },
+      {
+        "name": "Reston",
+        "slug": "reston-va"
+      },
+      {
+        "name": "Herndon",
+        "slug": "herndon-va"
+      },
+      {
+        "name": "Vienna",
+        "slug": "vienna-va"
+      },
+      {
+        "name": "Potomac",
+        "slug": "potomac-md"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "upscale-suburban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Hampton",
+    "slug": "hampton-va",
+    "county": "Hampton City",
+    "population": 137600,
+    "zip_codes": [
+      "23661",
+      "23663",
+      "23664",
+      "23666",
+      "23669"
+    ],
+    "landmarks": [
+      "Fort Monroe",
+      "Virginia Air & Space Science Center",
+      "Buckroe Beach",
+      "Hampton Coliseum",
+      "Bluebird Gap Farm"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Newport News",
+        "slug": "newport-news-va"
+      },
+      {
+        "name": "Poquoson",
+        "slug": "poquoson-va"
+      },
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-va"
+      },
+      {
+        "name": "Yorktown",
+        "slug": "yorktown-va"
+      },
+      {
+        "name": "Williamsburg",
+        "slug": "williamsburg-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "defense-tourism",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "hampton-roads",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Harrisonburg",
+    "slug": "harrisonburg-va",
+    "county": "Harrisonburg City",
+    "population": 54000,
+    "zip_codes": [
+      "22801",
+      "22802",
+      "22807"
+    ],
+    "landmarks": [
+      "James Madison University",
+      "Edith J. Carrier Arboretum",
+      "Downtown Harrisonburg",
+      "Explore More Discovery Museum",
+      "Hillandale Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bridgewater",
+        "slug": "bridgewater-va"
+      },
+      {
+        "name": "Elkton",
+        "slug": "elkton-va"
+      },
+      {
+        "name": "Broadway",
+        "slug": "broadway-va"
+      },
+      {
+        "name": "Dayton",
+        "slug": "dayton-va"
+      },
+      {
+        "name": "Staunton",
+        "slug": "staunton-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "shenandoah-valley",
+    "economy_type": "education-agriculture",
+    "housing_profile": "college-town",
+    "growth_pattern": "steady-growth",
+    "service_environment": "shenandoah-valley",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Herndon",
+    "slug": "herndon-va",
+    "county": "Fairfax County",
+    "population": 25100,
+    "zip_codes": [
+      "20170",
+      "20171"
+    ],
+    "landmarks": [
+      "Historic Herndon Depot",
+      "Herndon Centennial Golf Course",
+      "Trailside Park",
+      "Town Green",
+      "Washington & Old Dominion Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Reston",
+        "slug": "reston-va"
+      },
+      {
+        "name": "Sterling",
+        "slug": "sterling-va"
+      },
+      {
+        "name": "Chantilly",
+        "slug": "chantilly-va"
+      },
+      {
+        "name": "Ashburn",
+        "slug": "ashburn-va"
+      },
+      {
+        "name": "Great Falls",
+        "slug": "great-falls-va"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "technology-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Hopewell",
+    "slug": "hopewell-va",
+    "county": "Hopewell City",
+    "population": 23300,
+    "zip_codes": [
+      "23860"
+    ],
+    "landmarks": [
+      "Weston Plantation",
+      "Appomattox River",
+      "Hopewell Marina",
+      "City Point Historic District",
+      "Beacon Theatre"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Colonial Heights",
+        "slug": "colonial-heights-va"
+      },
+      {
+        "name": "Petersburg",
+        "slug": "petersburg-va"
+      },
+      {
+        "name": "Prince George",
+        "slug": "prince-george-va"
+      },
+      {
+        "name": "Chester",
+        "slug": "chester-va"
+      },
+      {
+        "name": "Richmond",
+        "slug": "richmond-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "greater-richmond",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Hybla Valley",
+    "slug": "hybla-valley-va",
+    "county": "Fairfax County",
+    "population": 16900,
+    "zip_codes": [
+      "22306"
+    ],
+    "landmarks": [
+      "Mount Vernon Plaza",
+      "Huntley Meadows Park",
+      "Jefferson Manor Park",
+      "Bucknell Manor",
+      "Richmond Highway Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-va"
+      },
+      {
+        "name": "Fort Hunt",
+        "slug": "fort-hunt-va"
+      },
+      {
+        "name": "Franconia",
+        "slug": "franconia-va"
+      },
+      {
+        "name": "Groveton",
+        "slug": "groveton-va"
+      },
+      {
+        "name": "Mount Vernon",
+        "slug": "mount-vernon-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Lake Ridge",
+    "slug": "lake-ridge-va",
+    "county": "Prince William County",
+    "population": 46300,
+    "zip_codes": [
+      "22192"
+    ],
+    "landmarks": [
+      "Lake Ridge Park",
+      "Occoquan Reservoir",
+      "Fantasy Playground",
+      "Old Bridge Marina",
+      "Water's End Brewery District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Woodbridge",
+        "slug": "woodbridge-va"
+      },
+      {
+        "name": "Dale City",
+        "slug": "dale-city-va"
+      },
+      {
+        "name": "Occoquan",
+        "slug": "occoquan-va"
+      },
+      {
+        "name": "Montclair",
+        "slug": "montclair-va"
+      },
+      {
+        "name": "Dumfries",
+        "slug": "dumfries-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "government-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Laurel",
+    "slug": "laurel-va",
+    "county": "Henrico County",
+    "population": 18400,
+    "zip_codes": [
+      "23228"
+    ],
+    "landmarks": [
+      "Laurel Recreation Area",
+      "Crump Park",
+      "Lewis Ginter Botanical Garden",
+      "Virginia Center Commons Area",
+      "Three Lakes Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Richmond",
+        "slug": "richmond-va"
+      },
+      {
+        "name": "Glen Allen",
+        "slug": "glen-allen-va"
+      },
+      {
+        "name": "Lakeside",
+        "slug": "lakeside-va"
+      },
+      {
+        "name": "Mechanicsville",
+        "slug": "mechanicsville-va"
+      },
+      {
+        "name": "Short Pump",
+        "slug": "short-pump-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "greater-richmond",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Leesburg",
+    "slug": "leesburg-va",
+    "county": "Loudoun County",
+    "population": 49800,
+    "zip_codes": [
+      "20175",
+      "20176"
+    ],
+    "landmarks": [
+      "Historic Downtown Leesburg",
+      "Morven Park",
+      "Ida Lee Park",
+      "Ball's Bluff Battlefield",
+      "Village at Leesburg"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ashburn",
+        "slug": "ashburn-va"
+      },
+      {
+        "name": "Sterling",
+        "slug": "sterling-va"
+      },
+      {
+        "name": "Purcellville",
+        "slug": "purcellville-va"
+      },
+      {
+        "name": "Broadlands",
+        "slug": "broadlands-va"
+      },
+      {
+        "name": "Hamilton",
+        "slug": "hamilton-va"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "government-technology",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Lynchburg",
+    "slug": "lynchburg-va",
+    "county": "Lynchburg City",
+    "population": 81000,
+    "zip_codes": [
+      "24501",
+      "24502",
+      "24503",
+      "24504"
+    ],
+    "landmarks": [
+      "Liberty University",
+      "University of Lynchburg",
+      "Percival's Island",
+      "Point of Honor",
+      "Blackwater Creek Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Forest",
+        "slug": "forest-va"
+      },
+      {
+        "name": "Madison Heights",
+        "slug": "madison-heights-va"
+      },
+      {
+        "name": "Timberlake",
+        "slug": "timberlake-va"
+      },
+      {
+        "name": "Bedford",
+        "slug": "bedford-va"
+      },
+      {
+        "name": "Rustburg",
+        "slug": "rustburg-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "education-healthcare",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Manassas",
+    "slug": "manassas-va",
+    "county": "Manassas City",
+    "population": 43200,
+    "zip_codes": [
+      "20109",
+      "20110",
+      "20111"
+    ],
+    "landmarks": [
+      "Manassas National Battlefield Park",
+      "Historic Downtown Manassas",
+      "Harris Pavilion",
+      "Liberia House",
+      "Signal Hill Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Centreville",
+        "slug": "centreville-va"
+      },
+      {
+        "name": "Gainesville",
+        "slug": "gainesville-va"
+      },
+      {
+        "name": "Bristow",
+        "slug": "bristow-va"
+      },
+      {
+        "name": "Woodbridge",
+        "slug": "woodbridge-va"
+      },
+      {
+        "name": "Fairfax",
+        "slug": "fairfax-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "government-retail",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "McLean",
+    "slug": "mclean-va",
+    "county": "Fairfax County",
+    "population": 50800,
+    "zip_codes": [
+      "22101",
+      "22102"
+    ],
+    "landmarks": [
+      "Tysons Corner Center",
+      "Scott's Run Nature Preserve",
+      "Clemyjontri Park",
+      "Capital One Hall",
+      "The Galleria"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tysons",
+        "slug": "tysons-va"
+      },
+      {
+        "name": "Great Falls",
+        "slug": "great-falls-va"
+      },
+      {
+        "name": "Falls Church",
+        "slug": "falls-church-va"
+      },
+      {
+        "name": "Arlington",
+        "slug": "arlington-va"
+      },
+      {
+        "name": "Vienna",
+        "slug": "vienna-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "finance-technology",
+    "housing_profile": "upscale-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Mechanicsville",
+    "slug": "mechanicsville-va",
+    "county": "Hanover County",
+    "population": 39500,
+    "zip_codes": [
+      "23111",
+      "23116"
+    ],
+    "landmarks": [
+      "Cold Harbor Battlefield",
+      "Pole Green Park",
+      "Mechanicsville Turnpike",
+      "Hanover Arts Center",
+      "Pole Green Church Historic Site"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Richmond",
+        "slug": "richmond-va"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-va"
+      },
+      {
+        "name": "Ashland",
+        "slug": "ashland-va"
+      },
+      {
+        "name": "Highland Springs",
+        "slug": "highland-springs-va"
+      },
+      {
+        "name": "Sandston",
+        "slug": "sandston-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-healthcare",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "greater-richmond",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Midlothian",
+    "slug": "midlothian-va",
+    "county": "Chesterfield County",
+    "population": 19700,
+    "zip_codes": [
+      "23112",
+      "23113",
+      "23114"
+    ],
+    "landmarks": [
+      "Midlothian Mines Park",
+      "Robious Landing Park",
+      "Westchester Commons",
+      "Rockwood Park",
+      "Salisbury Country Club"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bon Air",
+        "slug": "bon-air-va"
+      },
+      {
+        "name": "Richmond",
+        "slug": "richmond-va"
+      },
+      {
+        "name": "Chesterfield",
+        "slug": "chesterfield-va"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-va"
+      },
+      {
+        "name": "Short Pump",
+        "slug": "short-pump-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "greater-richmond",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Montclair",
+    "slug": "montclair-va",
+    "county": "Prince William County",
+    "population": 22300,
+    "zip_codes": [
+      "22025"
+    ],
+    "landmarks": [
+      "Lake Montclair",
+      "Southlake Recreation Area",
+      "Montclair Country Club",
+      "Dolphin Beach",
+      "West Beach Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Dale City",
+        "slug": "dale-city-va"
+      },
+      {
+        "name": "Lake Ridge",
+        "slug": "lake-ridge-va"
+      },
+      {
+        "name": "Dumfries",
+        "slug": "dumfries-va"
+      },
+      {
+        "name": "Woodbridge",
+        "slug": "woodbridge-va"
+      },
+      {
+        "name": "Triangle",
+        "slug": "triangle-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "government-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Newport News",
+    "slug": "newport-news-va",
+    "county": "Newport News City",
+    "population": 186000,
+    "zip_codes": [
+      "23601",
+      "23602",
+      "23605",
+      "23606",
+      "23607",
+      "23608"
+    ],
+    "landmarks": [
+      "Virginia Living Museum",
+      "Mariners' Museum",
+      "Newport News Shipbuilding",
+      "Huntington Park",
+      "Newport News Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hampton",
+        "slug": "hampton-va"
+      },
+      {
+        "name": "Yorktown",
+        "slug": "yorktown-va"
+      },
+      {
+        "name": "Poquoson",
+        "slug": "poquoson-va"
+      },
+      {
+        "name": "Williamsburg",
+        "slug": "williamsburg-va"
+      },
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "shipbuilding-defense",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "hampton-roads",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Norfolk",
+    "slug": "norfolk-va",
+    "county": "Norfolk City",
+    "population": 232000,
+    "zip_codes": [
+      "23502",
+      "23503",
+      "23505",
+      "23507",
+      "23508",
+      "23509",
+      "23510",
+      "23513",
+      "23517",
+      "23518"
+    ],
+    "landmarks": [
+      "Naval Station Norfolk",
+      "Waterside District",
+      "Nauticus",
+      "Norfolk Botanical Garden",
+      "Chrysler Museum of Art"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Virginia Beach",
+        "slug": "virginia-beach-va"
+      },
+      {
+        "name": "Chesapeake",
+        "slug": "chesapeake-va"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-va"
+      },
+      {
+        "name": "Newport News",
+        "slug": "newport-news-va"
+      },
+      {
+        "name": "Hampton",
+        "slug": "hampton-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "defense-port-logistics",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "hampton-roads",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Oakton",
+    "slug": "oakton-va",
+    "county": "Fairfax County",
+    "population": 36900,
+    "zip_codes": [
+      "22124"
+    ],
+    "landmarks": [
+      "Oak Marr Recreation Center",
+      "Nottoway Park",
+      "Oakton Library",
+      "Blake Lane Park",
+      "Difficult Run Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fairfax",
+        "slug": "fairfax-va"
+      },
+      {
+        "name": "Fair Oaks",
+        "slug": "fair-oaks-va"
+      },
+      {
+        "name": "Vienna",
+        "slug": "vienna-va"
+      },
+      {
+        "name": "Reston",
+        "slug": "reston-va"
+      },
+      {
+        "name": "McLean",
+        "slug": "mclean-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "upscale-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Petersburg",
+    "slug": "petersburg-va",
+    "county": "Petersburg City",
+    "population": 33800,
+    "zip_codes": [
+      "23803",
+      "23805"
+    ],
+    "landmarks": [
+      "Pamplin Historical Park",
+      "Petersburg National Battlefield",
+      "Centre Hill Mansion",
+      "Old Towne Petersburg",
+      "Appomattox River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Colonial Heights",
+        "slug": "colonial-heights-va"
+      },
+      {
+        "name": "Hopewell",
+        "slug": "hopewell-va"
+      },
+      {
+        "name": "Prince George",
+        "slug": "prince-george-va"
+      },
+      {
+        "name": "Chester",
+        "slug": "chester-va"
+      },
+      {
+        "name": "Richmond",
+        "slug": "richmond-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-manufacturing",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "greater-richmond",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Portsmouth",
+    "slug": "portsmouth-va",
+    "county": "Portsmouth City",
+    "population": 97800,
+    "zip_codes": [
+      "23701",
+      "23702",
+      "23703",
+      "23704",
+      "23707"
+    ],
+    "landmarks": [
+      "Children's Museum of Virginia",
+      "Portsmouth Naval Shipyard Museum",
+      "Olde Towne Portsmouth",
+      "Riverfront Park",
+      "Victory Crossing"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-va"
+      },
+      {
+        "name": "Chesapeake",
+        "slug": "chesapeake-va"
+      },
+      {
+        "name": "Suffolk",
+        "slug": "suffolk-va"
+      },
+      {
+        "name": "Virginia Beach",
+        "slug": "virginia-beach-va"
+      },
+      {
+        "name": "Newport News",
+        "slug": "newport-news-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "defense-port-logistics",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "hampton-roads",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Radford",
+    "slug": "radford-va",
+    "county": "Radford City",
+    "population": 16600,
+    "zip_codes": [
+      "24141",
+      "24142"
+    ],
+    "landmarks": [
+      "Radford University",
+      "Bisset Park",
+      "Glencoe Museum",
+      "New River Trail",
+      "Wildwood Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Blacksburg",
+        "slug": "blacksburg-va"
+      },
+      {
+        "name": "Christiansburg",
+        "slug": "christiansburg-va"
+      },
+      {
+        "name": "Dublin",
+        "slug": "dublin-va"
+      },
+      {
+        "name": "Pulaski",
+        "slug": "pulaski-va"
+      },
+      {
+        "name": "Salem",
+        "slug": "salem-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "education-services",
+    "housing_profile": "college-town",
+    "growth_pattern": "steady-growth",
+    "service_environment": "new-river-valley",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Reston",
+    "slug": "reston-va",
+    "county": "Fairfax County",
+    "population": 64000,
+    "zip_codes": [
+      "20190",
+      "20191",
+      "20194"
+    ],
+    "landmarks": [
+      "Reston Town Center",
+      "Lake Anne Plaza",
+      "Walker Nature Center",
+      "Lake Fairfax Park",
+      "Washington & Old Dominion Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Herndon",
+        "slug": "herndon-va"
+      },
+      {
+        "name": "Oakton",
+        "slug": "oakton-va"
+      },
+      {
+        "name": "McLean",
+        "slug": "mclean-va"
+      },
+      {
+        "name": "Great Falls",
+        "slug": "great-falls-va"
+      },
+      {
+        "name": "Sterling",
+        "slug": "sterling-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "technology-business-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Richmond",
+    "slug": "richmond-va",
+    "county": "Richmond City",
+    "population": 233000,
+    "zip_codes": [
+      "23219",
+      "23220",
+      "23221",
+      "23222",
+      "23223",
+      "23224",
+      "23225",
+      "23226",
+      "23230",
+      "23235"
+    ],
+    "landmarks": [
+      "Virginia State Capitol",
+      "Maymont",
+      "Lewis Ginter Botanical Garden",
+      "Virginia Museum of Fine Arts",
+      "Canal Walk"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mechanicsville",
+        "slug": "mechanicsville-va"
+      },
+      {
+        "name": "Midlothian",
+        "slug": "midlothian-va"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-va"
+      },
+      {
+        "name": "Bon Air",
+        "slug": "bon-air-va"
+      },
+      {
+        "name": "Short Pump",
+        "slug": "short-pump-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "government-finance-healthcare",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "greater-richmond",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Roanoke",
+    "slug": "roanoke-va",
+    "county": "Roanoke City",
+    "population": 100300,
+    "zip_codes": [
+      "24011",
+      "24012",
+      "24013",
+      "24014",
+      "24015",
+      "24016",
+      "24017",
+      "24018",
+      "24019"
+    ],
+    "landmarks": [
+      "Mill Mountain Star",
+      "Taubman Museum of Art",
+      "Virginia Museum of Transportation",
+      "Elmwood Park",
+      "Blue Ridge Parkway"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Salem",
+        "slug": "salem-va"
+      },
+      {
+        "name": "Cave Spring",
+        "slug": "cave-spring-va"
+      },
+      {
+        "name": "Hollins",
+        "slug": "hollins-va"
+      },
+      {
+        "name": "Vinton",
+        "slug": "vinton-va"
+      },
+      {
+        "name": "Blacksburg",
+        "slug": "blacksburg-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "healthcare-transportation",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "roanoke-valley",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Salem",
+    "slug": "salem-va",
+    "county": "Salem City",
+    "population": 25800,
+    "zip_codes": [
+      "24153"
+    ],
+    "landmarks": [
+      "Salem Civic Center",
+      "Moyer Sports Complex",
+      "Longwood Park",
+      "Roanoke College",
+      "Green Hill Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Roanoke",
+        "slug": "roanoke-va"
+      },
+      {
+        "name": "Cave Spring",
+        "slug": "cave-spring-va"
+      },
+      {
+        "name": "Blacksburg",
+        "slug": "blacksburg-va"
+      },
+      {
+        "name": "Christiansburg",
+        "slug": "christiansburg-va"
+      },
+      {
+        "name": "Vinton",
+        "slug": "vinton-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "education-healthcare",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "roanoke-valley",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Short Pump",
+    "slug": "short-pump-va",
+    "county": "Henrico County",
+    "population": 32600,
+    "zip_codes": [
+      "23233"
+    ],
+    "landmarks": [
+      "Short Pump Town Center",
+      "Deep Run Park",
+      "Drive Shack Richmond",
+      "Twin Hickory Park",
+      "Pouncey Tract Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Richmond",
+        "slug": "richmond-va"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-va"
+      },
+      {
+        "name": "Midlothian",
+        "slug": "midlothian-va"
+      },
+      {
+        "name": "Glen Allen",
+        "slug": "glen-allen-va"
+      },
+      {
+        "name": "Ashland",
+        "slug": "ashland-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "retail-business-services",
+    "housing_profile": "upscale-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "greater-richmond",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "South Riding",
+    "slug": "south-riding-va",
+    "county": "Loudoun County",
+    "population": 33900,
+    "zip_codes": [
+      "20152"
+    ],
+    "landmarks": [
+      "South Riding Golf Club",
+      "Town Green",
+      "South Riding Center",
+      "Murrey Park",
+      "Dulles South Recreation Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ashburn",
+        "slug": "ashburn-va"
+      },
+      {
+        "name": "Chantilly",
+        "slug": "chantilly-va"
+      },
+      {
+        "name": "Centreville",
+        "slug": "centreville-va"
+      },
+      {
+        "name": "Aldie",
+        "slug": "aldie-va"
+      },
+      {
+        "name": "Leesburg",
+        "slug": "leesburg-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "technology-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Springfield",
+    "slug": "springfield-va",
+    "county": "Fairfax County",
+    "population": 31600,
+    "zip_codes": [
+      "22150",
+      "22151",
+      "22152"
+    ],
+    "landmarks": [
+      "Springfield Town Center",
+      "Lake Accotink Park",
+      "Hidden Pond Nature Center",
+      "South Run Stream Valley",
+      "Franconia-Springfield Metro Station"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Franconia",
+        "slug": "franconia-va"
+      },
+      {
+        "name": "Burke",
+        "slug": "burke-va"
+      },
+      {
+        "name": "Annandale",
+        "slug": "annandale-va"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-va"
+      },
+      {
+        "name": "West Springfield",
+        "slug": "west-springfield-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "government-retail",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Stafford",
+    "slug": "stafford-va",
+    "county": "Stafford County",
+    "population": 31000,
+    "zip_codes": [
+      "22554",
+      "22556"
+    ],
+    "landmarks": [
+      "Government Island",
+      "Aquia Landing Park",
+      "Crow's Nest Natural Area",
+      "Stafford Civil War Park",
+      "Curtis Memorial Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fredericksburg",
+        "slug": "fredericksburg-va"
+      },
+      {
+        "name": "Falmouth",
+        "slug": "falmouth-va"
+      },
+      {
+        "name": "Dumfries",
+        "slug": "dumfries-va"
+      },
+      {
+        "name": "Woodbridge",
+        "slug": "woodbridge-va"
+      },
+      {
+        "name": "Quantico",
+        "slug": "quantico-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-defense",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Sterling",
+    "slug": "sterling-va",
+    "county": "Loudoun County",
+    "population": 31300,
+    "zip_codes": [
+      "20164",
+      "20165",
+      "20166"
+    ],
+    "landmarks": [
+      "Algonkian Regional Park",
+      "Claude Moore Park",
+      "Dulles Town Center",
+      "Potomac Heritage Trail",
+      "Heritage Farm Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ashburn",
+        "slug": "ashburn-va"
+      },
+      {
+        "name": "Herndon",
+        "slug": "herndon-va"
+      },
+      {
+        "name": "Leesburg",
+        "slug": "leesburg-va"
+      },
+      {
+        "name": "Reston",
+        "slug": "reston-va"
+      },
+      {
+        "name": "Great Falls",
+        "slug": "great-falls-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "technology-logistics",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Suffolk",
+    "slug": "suffolk-va",
+    "county": "Suffolk City",
+    "population": 100000,
+    "zip_codes": [
+      "23432",
+      "23434",
+      "23435",
+      "23436",
+      "23437"
+    ],
+    "landmarks": [
+      "Great Dismal Swamp",
+      "Constant's Wharf",
+      "Suffolk Seaboard Station",
+      "Nansemond River",
+      "Planters Peanut Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Chesapeake",
+        "slug": "chesapeake-va"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-va"
+      },
+      {
+        "name": "Franklin",
+        "slug": "franklin-va"
+      },
+      {
+        "name": "Smithfield",
+        "slug": "smithfield-va"
+      },
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "agriculture-logistics",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "hampton-roads",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Timberlake",
+    "slug": "timberlake-va",
+    "county": "Campbell County",
+    "population": 13900,
+    "zip_codes": [
+      "24502"
+    ],
+    "landmarks": [
+      "Timberlake Shopping Center",
+      "Ivy Creek Park",
+      "Candlers Mountain Trail",
+      "Liberty Mountain",
+      "London Downs Golf Club"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lynchburg",
+        "slug": "lynchburg-va"
+      },
+      {
+        "name": "Forest",
+        "slug": "forest-va"
+      },
+      {
+        "name": "Madison Heights",
+        "slug": "madison-heights-va"
+      },
+      {
+        "name": "Rustburg",
+        "slug": "rustburg-va"
+      },
+      {
+        "name": "Bedford",
+        "slug": "bedford-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "education-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Tysons",
+    "slug": "tysons-va",
+    "county": "Fairfax County",
+    "population": 26800,
+    "zip_codes": [
+      "22102",
+      "22182"
+    ],
+    "landmarks": [
+      "Tysons Corner Center",
+      "Tysons Galleria",
+      "Capital One Hall",
+      "The Boro",
+      "Scott's Run Nature Preserve"
+    ],
+    "nearby_cities": [
+      {
+        "name": "McLean",
+        "slug": "mclean-va"
+      },
+      {
+        "name": "Vienna",
+        "slug": "vienna-va"
+      },
+      {
+        "name": "Falls Church",
+        "slug": "falls-church-va"
+      },
+      {
+        "name": "Oakton",
+        "slug": "oakton-va"
+      },
+      {
+        "name": "Great Falls",
+        "slug": "great-falls-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "finance-technology",
+    "housing_profile": "major-urban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Vienna",
+    "slug": "vienna-va",
+    "county": "Fairfax County",
+    "population": 16700,
+    "zip_codes": [
+      "22180",
+      "22181",
+      "22182"
+    ],
+    "landmarks": [
+      "Meadowlark Botanical Gardens",
+      "Wolf Trap National Park for the Performing Arts",
+      "W&OD Trail",
+      "Vienna Town Green",
+      "Freeman Store and Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tysons",
+        "slug": "tysons-va"
+      },
+      {
+        "name": "Oakton",
+        "slug": "oakton-va"
+      },
+      {
+        "name": "McLean",
+        "slug": "mclean-va"
+      },
+      {
+        "name": "Reston",
+        "slug": "reston-va"
+      },
+      {
+        "name": "Fairfax",
+        "slug": "fairfax-va"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "professional-services",
+    "housing_profile": "upscale-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Virginia Beach",
+    "slug": "virginia-beach-va",
+    "county": "Virginia Beach City",
+    "population": 457000,
+    "zip_codes": [
+      "23451",
+      "23452",
+      "23453",
+      "23454",
+      "23455",
+      "23456",
+      "23462",
+      "23464"
+    ],
+    "landmarks": [
+      "Virginia Beach Boardwalk",
+      "First Landing State Park",
+      "Virginia Aquarium",
+      "Sandbridge Beach",
+      "Cape Henry Lighthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-va"
+      },
+      {
+        "name": "Chesapeake",
+        "slug": "chesapeake-va"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-va"
+      },
+      {
+        "name": "Suffolk",
+        "slug": "suffolk-va"
+      },
+      {
+        "name": "Hampton",
+        "slug": "hampton-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-defense",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "hampton-roads",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Waynesboro",
+    "slug": "waynesboro-va",
+    "county": "Waynesboro City",
+    "population": 23300,
+    "zip_codes": [
+      "22980"
+    ],
+    "landmarks": [
+      "Blue Ridge Parkway",
+      "Constitution Park",
+      "South River Greenway",
+      "P. Buckley Moss Gallery",
+      "Waynesboro Heritage Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Staunton",
+        "slug": "staunton-va"
+      },
+      {
+        "name": "Charlottesville",
+        "slug": "charlottesville-va"
+      },
+      {
+        "name": "Crozet",
+        "slug": "crozet-va"
+      },
+      {
+        "name": "Fishersville",
+        "slug": "fishersville-va"
+      },
+      {
+        "name": "Stuarts Draft",
+        "slug": "stuarts-draft-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "shenandoah-valley",
+    "economy_type": "manufacturing-tourism",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "shenandoah-valley",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "West Springfield",
+    "slug": "west-springfield-va",
+    "county": "Fairfax County",
+    "population": 31000,
+    "zip_codes": [
+      "22152"
+    ],
+    "landmarks": [
+      "Hidden Pond Nature Center",
+      "South Run Recreation Center",
+      "Lake Accotink Park",
+      "Rolling Road VRE Station",
+      "Cardinal Forest Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Springfield",
+        "slug": "springfield-va"
+      },
+      {
+        "name": "Burke",
+        "slug": "burke-va"
+      },
+      {
+        "name": "Annandale",
+        "slug": "annandale-va"
+      },
+      {
+        "name": "Franconia",
+        "slug": "franconia-va"
+      },
+      {
+        "name": "Fairfax",
+        "slug": "fairfax-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "piedmont",
+    "economy_type": "government-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Williamsburg",
+    "slug": "williamsburg-va",
+    "county": "Williamsburg City",
+    "population": 15700,
+    "zip_codes": [
+      "23185",
+      "23188"
+    ],
+    "landmarks": [
+      "Colonial Williamsburg",
+      "Busch Gardens Williamsburg",
+      "William & Mary",
+      "Governor's Palace",
+      "Merchant's Square"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Newport News",
+        "slug": "newport-news-va"
+      },
+      {
+        "name": "Yorktown",
+        "slug": "yorktown-va"
+      },
+      {
+        "name": "Hampton",
+        "slug": "hampton-va"
+      },
+      {
+        "name": "Toano",
+        "slug": "toano-va"
+      },
+      {
+        "name": "Poquoson",
+        "slug": "poquoson-va"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-education",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "hampton-roads",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Winchester",
+    "slug": "winchester-va",
+    "county": "Winchester City",
+    "population": 29100,
+    "zip_codes": [
+      "22601",
+      "22602",
+      "22603"
+    ],
+    "landmarks": [
+      "Old Town Winchester",
+      "Museum of the Shenandoah Valley",
+      "Shenandoah University",
+      "Patsy Cline Historic House",
+      "Jim Barnett Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Stephens City",
+        "slug": "stephens-city-va"
+      },
+      {
+        "name": "Front Royal",
+        "slug": "front-royal-va"
+      },
+      {
+        "name": "Berryville",
+        "slug": "berryville-va"
+      },
+      {
+        "name": "Martinsburg",
+        "slug": "martinsburg-wv"
+      },
+      {
+        "name": "Inwood",
+        "slug": "inwood-wv"
+      }
+    ],
+    "city_type": "independent-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "shenandoah-valley",
+    "economy_type": "healthcare-logistics",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-shenandoah",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Woodbridge",
+    "slug": "woodbridge-va",
+    "county": "Prince William County",
+    "population": 45600,
+    "zip_codes": [
+      "22191",
+      "22192",
+      "22193"
+    ],
+    "landmarks": [
+      "Potomac Mills",
+      "Leesylvania State Park",
+      "Occoquan Bay National Wildlife Refuge",
+      "Veterans Memorial Park",
+      "Neabsco Boardwalk"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lake Ridge",
+        "slug": "lake-ridge-va"
+      },
+      {
+        "name": "Dale City",
+        "slug": "dale-city-va"
+      },
+      {
+        "name": "Montclair",
+        "slug": "montclair-va"
+      },
+      {
+        "name": "Dumfries",
+        "slug": "dumfries-va"
+      },
+      {
+        "name": "Stafford",
+        "slug": "stafford-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "government-retail",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-virginia",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  },
+  {
+    "city": "Yorktown",
+    "slug": "yorktown-va",
+    "county": "York County",
+    "population": 9200,
+    "zip_codes": [
+      "23690"
+    ],
+    "landmarks": [
+      "Yorktown Battlefield",
+      "American Revolution Museum at Yorktown",
+      "Yorktown Beach",
+      "Riverwalk Landing",
+      "York River State Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Williamsburg",
+        "slug": "williamsburg-va"
+      },
+      {
+        "name": "Newport News",
+        "slug": "newport-news-va"
+      },
+      {
+        "name": "Hampton",
+        "slug": "hampton-va"
+      },
+      {
+        "name": "Poquoson",
+        "slug": "poquoson-va"
+      },
+      {
+        "name": "Gloucester Point",
+        "slug": "gloucester-point-va"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-government",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "hampton-roads",
+    "property_mix": "mixed-use",
+    "state": "VA"
+  }
+]

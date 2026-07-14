@@ -1,0 +1,5689 @@
+[
+  {
+    "city": "Jacksonville",
+    "slug": "jacksonville-fl",
+    "county": "Duval County",
+    "population": 985000,
+    "zip_codes": [
+      "32099",
+      "32202",
+      "32204",
+      "32207",
+      "32210",
+      "32216",
+      "32224",
+      "32225",
+      "32244",
+      "32256"
+    ],
+    "landmarks": [
+      "Jacksonville Riverwalk",
+      "TIAA Bank Field",
+      "Jacksonville Beach",
+      "St. Johns River",
+      "Cummer Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Orange Park",
+        "slug": "orange-park-fl"
+      },
+      {
+        "name": "Atlantic Beach",
+        "slug": "atlantic-beach-fl"
+      },
+      {
+        "name": "Neptune Beach",
+        "slug": "neptune-beach-fl"
+      },
+      {
+        "name": "St. Augustine",
+        "slug": "st-augustine-fl"
+      },
+      {
+        "name": "Fernandina Beach",
+        "slug": "fernandina-beach-fl"
+      }
+    ],
+    "city_type": "major-coastal-metro",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "logistics-finance",
+    "housing_profile": "urban-suburban-mix",
+    "growth_pattern": "metro-growth",
+    "service_environment": "north-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Miami",
+    "slug": "miami-fl",
+    "county": "Miami-Dade County",
+    "population": 456000,
+    "zip_codes": [
+      "33101",
+      "33125",
+      "33126",
+      "33130",
+      "33131",
+      "33132",
+      "33133",
+      "33137",
+      "33139"
+    ],
+    "landmarks": [
+      "Bayside Marketplace",
+      "South Beach",
+      "Brickell",
+      "Bayfront Park",
+      "Wynwood Walls"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hialeah",
+        "slug": "hialeah-fl"
+      },
+      {
+        "name": "Coral Gables",
+        "slug": "coral-gables-fl"
+      },
+      {
+        "name": "Miami Beach",
+        "slug": "miami-beach-fl"
+      },
+      {
+        "name": "Doral",
+        "slug": "doral-fl"
+      },
+      {
+        "name": "North Miami",
+        "slug": "north-miami-fl"
+      }
+    ],
+    "city_type": "international-gateway-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-finance",
+    "housing_profile": "urban-high-density",
+    "growth_pattern": "global-growth",
+    "service_environment": "south-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Tampa",
+    "slug": "tampa-fl",
+    "county": "Hillsborough County",
+    "population": 408000,
+    "zip_codes": [
+      "33602",
+      "33606",
+      "33607",
+      "33609",
+      "33611",
+      "33612",
+      "33624",
+      "33647"
+    ],
+    "landmarks": [
+      "Tampa Riverwalk",
+      "Busch Gardens",
+      "Ybor City",
+      "Amalie Arena",
+      "ZooTampa"
+    ],
+    "nearby_cities": [
+      {
+        "name": "St. Petersburg",
+        "slug": "st-petersburg-fl"
+      },
+      {
+        "name": "Clearwater",
+        "slug": "clearwater-fl"
+      },
+      {
+        "name": "Brandon",
+        "slug": "brandon-fl"
+      },
+      {
+        "name": "Temple Terrace",
+        "slug": "temple-terrace-fl"
+      },
+      {
+        "name": "Riverview",
+        "slug": "riverview-fl"
+      }
+    ],
+    "city_type": "gulf-coast-metro",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-plain",
+    "economy_type": "healthcare-finance",
+    "housing_profile": "urban-suburban-mix",
+    "growth_pattern": "high-growth",
+    "service_environment": "tampa-bay-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Orlando",
+    "slug": "orlando-fl",
+    "county": "Orange County",
+    "population": 325000,
+    "zip_codes": [
+      "32801",
+      "32803",
+      "32804",
+      "32806",
+      "32809",
+      "32819",
+      "32822",
+      "32828"
+    ],
+    "landmarks": [
+      "Lake Eola Park",
+      "Universal Orlando",
+      "ICON Park",
+      "Kia Center",
+      "Downtown Orlando"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kissimmee",
+        "slug": "kissimmee-fl"
+      },
+      {
+        "name": "Winter Park",
+        "slug": "winter-park-fl"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-fl"
+      },
+      {
+        "name": "Ocoee",
+        "slug": "ocoee-fl"
+      },
+      {
+        "name": "Altamonte Springs",
+        "slug": "altamonte-springs-fl"
+      }
+    ],
+    "city_type": "tourism-entertainment-hub",
+    "climate_zone": "humid-subtropical",
+    "terrain": "central-florida-lowlands",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "urban-suburban-mix",
+    "growth_pattern": "high-growth",
+    "service_environment": "central-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "St. Petersburg",
+    "slug": "st-petersburg-fl",
+    "county": "Pinellas County",
+    "population": 267000,
+    "zip_codes": [
+      "33701",
+      "33703",
+      "33705",
+      "33710",
+      "33713",
+      "33716"
+    ],
+    "landmarks": [
+      "St. Pete Pier",
+      "Vinoy Park",
+      "Tropicana Field",
+      "Salvador Dali Museum",
+      "Downtown St. Petersburg"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tampa",
+        "slug": "tampa-fl"
+      },
+      {
+        "name": "Clearwater",
+        "slug": "clearwater-fl"
+      },
+      {
+        "name": "Largo",
+        "slug": "largo-fl"
+      },
+      {
+        "name": "Pinellas Park",
+        "slug": "pinellas-park-fl"
+      },
+      {
+        "name": "Seminole",
+        "slug": "seminole-fl"
+      }
+    ],
+    "city_type": "waterfront-metro-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "peninsula-coastal",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "tampa-bay-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Hialeah",
+    "slug": "hialeah-fl",
+    "county": "Miami-Dade County",
+    "population": 223000,
+    "zip_codes": [
+      "33010",
+      "33012",
+      "33013",
+      "33014",
+      "33016",
+      "33018"
+    ],
+    "landmarks": [
+      "Westland Mall",
+      "Amelia Earhart Park",
+      "Hialeah Park",
+      "Milander Park",
+      "Downtown Hialeah"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Miami",
+        "slug": "miami-fl"
+      },
+      {
+        "name": "Doral",
+        "slug": "doral-fl"
+      },
+      {
+        "name": "Miami Lakes",
+        "slug": "miami-lakes-fl"
+      },
+      {
+        "name": "North Miami",
+        "slug": "north-miami-fl"
+      },
+      {
+        "name": "Miami Gardens",
+        "slug": "miami-gardens-fl"
+      }
+    ],
+    "city_type": "dense-urban-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-high-density",
+    "growth_pattern": "mature-growth",
+    "service_environment": "south-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Tallahassee",
+    "slug": "tallahassee-fl",
+    "county": "Leon County",
+    "population": 205000,
+    "zip_codes": [
+      "32301",
+      "32303",
+      "32304",
+      "32308",
+      "32309",
+      "32311",
+      "32312"
+    ],
+    "landmarks": [
+      "Florida State Capitol",
+      "Florida State University",
+      "Cascades Park",
+      "Doak Campbell Stadium",
+      "Alfred B. Maclay Gardens"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Quincy",
+        "slug": "quincy-fl"
+      },
+      {
+        "name": "Crawfordville",
+        "slug": "crawfordville-fl"
+      },
+      {
+        "name": "Thomasville",
+        "slug": "thomasville-ga"
+      },
+      {
+        "name": "Havana",
+        "slug": "havana-fl"
+      },
+      {
+        "name": "Midway",
+        "slug": "midway-fl"
+      }
+    ],
+    "city_type": "state-capital-university-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "government-education",
+    "housing_profile": "student-professional-mix",
+    "growth_pattern": "institutional-growth",
+    "service_environment": "north-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Port St. Lucie",
+    "slug": "port-st-lucie-fl",
+    "county": "St. Lucie County",
+    "population": 260000,
+    "zip_codes": [
+      "34952",
+      "34953",
+      "34983",
+      "34984",
+      "34986",
+      "34987"
+    ],
+    "landmarks": [
+      "Tradition",
+      "Clover Park",
+      "Riverwalk Boardwalk",
+      "Savannas Preserve",
+      "Veterans Memorial Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fort Pierce",
+        "slug": "fort-pierce-fl"
+      },
+      {
+        "name": "Stuart",
+        "slug": "stuart-fl"
+      },
+      {
+        "name": "Jupiter",
+        "slug": "jupiter-fl"
+      },
+      {
+        "name": "Palm City",
+        "slug": "palm-city-fl"
+      },
+      {
+        "name": "Vero Beach",
+        "slug": "vero-beach-fl"
+      }
+    ],
+    "city_type": "master-planned-growth-city",
+    "climate_zone": "tropical-savanna",
+    "terrain": "coastal-lowlands",
+    "economy_type": "healthcare-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "treasure-coast-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Cape Coral",
+    "slug": "cape-coral-fl",
+    "county": "Lee County",
+    "population": 225000,
+    "zip_codes": [
+      "33904",
+      "33909",
+      "33914",
+      "33990",
+      "33991",
+      "33993"
+    ],
+    "landmarks": [
+      "Cape Coral Yacht Club",
+      "Four Freedoms Park",
+      "Sun Splash Family Waterpark",
+      "Cape Harbour",
+      "Rotary Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fort Myers",
+        "slug": "fort-myers-fl"
+      },
+      {
+        "name": "North Fort Myers",
+        "slug": "north-fort-myers-fl"
+      },
+      {
+        "name": "Pine Island",
+        "slug": "pine-island-fl"
+      },
+      {
+        "name": "Bonita Springs",
+        "slug": "bonita-springs-fl"
+      },
+      {
+        "name": "Lehigh Acres",
+        "slug": "lehigh-acres-fl"
+      }
+    ],
+    "city_type": "waterfront-growth-city",
+    "climate_zone": "tropical-savanna",
+    "terrain": "canal-coastal",
+    "economy_type": "construction-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "southwest-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Fort Lauderdale",
+    "slug": "fort-lauderdale-fl",
+    "county": "Broward County",
+    "population": 185000,
+    "zip_codes": [
+      "33301",
+      "33304",
+      "33305",
+      "33308",
+      "33311",
+      "33316"
+    ],
+    "landmarks": [
+      "Las Olas Boulevard",
+      "Fort Lauderdale Beach",
+      "Riverwalk",
+      "Bonnet House Museum",
+      "Port Everglades"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hollywood",
+        "slug": "hollywood-fl"
+      },
+      {
+        "name": "Plantation",
+        "slug": "plantation-fl"
+      },
+      {
+        "name": "Pompano Beach",
+        "slug": "pompano-beach-fl"
+      },
+      {
+        "name": "Sunrise",
+        "slug": "sunrise-fl"
+      },
+      {
+        "name": "Davie",
+        "slug": "davie-fl"
+      }
+    ],
+    "city_type": "coastal-business-hub",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-marine-services",
+    "housing_profile": "urban-high-density",
+    "growth_pattern": "metro-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Fort Myers",
+    "slug": "fort-myers-fl",
+    "county": "Lee County",
+    "population": 98000,
+    "zip_codes": [
+      "33901",
+      "33905",
+      "33907",
+      "33908",
+      "33912",
+      "33916"
+    ],
+    "landmarks": [
+      "Edison and Ford Winter Estates",
+      "Downtown River District",
+      "Centennial Park",
+      "City of Palms Park",
+      "Caloosahatchee River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cape Coral",
+        "slug": "cape-coral-fl"
+      },
+      {
+        "name": "Lehigh Acres",
+        "slug": "lehigh-acres-fl"
+      },
+      {
+        "name": "Bonita Springs",
+        "slug": "bonita-springs-fl"
+      },
+      {
+        "name": "Estero",
+        "slug": "estero-fl"
+      },
+      {
+        "name": "North Fort Myers",
+        "slug": "north-fort-myers-fl"
+      }
+    ],
+    "city_type": "southwest-florida-hub",
+    "climate_zone": "tropical-savanna",
+    "terrain": "coastal-lowlands",
+    "economy_type": "healthcare-tourism",
+    "housing_profile": "urban-suburban-mix",
+    "growth_pattern": "high-growth",
+    "service_environment": "southwest-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Pembroke Pines",
+    "slug": "pembroke-pines-fl",
+    "county": "Broward County",
+    "population": 175000,
+    "zip_codes": [
+      "33024",
+      "33025",
+      "33026",
+      "33027",
+      "33028",
+      "33029"
+    ],
+    "landmarks": [
+      "Pembroke Lakes Mall",
+      "CB Smith Park",
+      "Pembroke Gardens",
+      "West Pines Soccer Park",
+      "City Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Miramar",
+        "slug": "miramar-fl"
+      },
+      {
+        "name": "Hollywood",
+        "slug": "hollywood-fl"
+      },
+      {
+        "name": "Davie",
+        "slug": "davie-fl"
+      },
+      {
+        "name": "Weston",
+        "slug": "weston-fl"
+      },
+      {
+        "name": "Miami Gardens",
+        "slug": "miami-gardens-fl"
+      }
+    ],
+    "city_type": "master-planned-suburban-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "mature-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Hollywood",
+    "slug": "hollywood-fl",
+    "county": "Broward County",
+    "population": 155000,
+    "zip_codes": [
+      "33019",
+      "33020",
+      "33021",
+      "33023",
+      "33024"
+    ],
+    "landmarks": [
+      "Hollywood Beach Broadwalk",
+      "ArtsPark at Young Circle",
+      "Anne Kolb Nature Center",
+      "Downtown Hollywood",
+      "West Lake Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl"
+      },
+      {
+        "name": "Pembroke Pines",
+        "slug": "pembroke-pines-fl"
+      },
+      {
+        "name": "Miramar",
+        "slug": "miramar-fl"
+      },
+      {
+        "name": "Hallandale Beach",
+        "slug": "hallandale-beach-fl"
+      },
+      {
+        "name": "Dania Beach",
+        "slug": "dania-beach-fl"
+      }
+    ],
+    "city_type": "coastal-tourism-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Miramar",
+    "slug": "miramar-fl",
+    "county": "Broward County",
+    "population": 142000,
+    "zip_codes": [
+      "33023",
+      "33025",
+      "33027",
+      "33029"
+    ],
+    "landmarks": [
+      "Miramar Regional Park",
+      "Miramar Cultural Center",
+      "Snake Warrior Island",
+      "Ansin Sports Complex",
+      "City Hall Plaza"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pembroke Pines",
+        "slug": "pembroke-pines-fl"
+      },
+      {
+        "name": "Hollywood",
+        "slug": "hollywood-fl"
+      },
+      {
+        "name": "Miami Gardens",
+        "slug": "miami-gardens-fl"
+      },
+      {
+        "name": "West Park",
+        "slug": "west-park-fl"
+      },
+      {
+        "name": "Hialeah",
+        "slug": "hialeah-fl"
+      }
+    ],
+    "city_type": "diverse-growth-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "professional-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "high-growth",
+    "service_environment": "south-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Gainesville",
+    "slug": "gainesville-fl",
+    "county": "Alachua County",
+    "population": 146000,
+    "zip_codes": [
+      "32601",
+      "32603",
+      "32605",
+      "32607",
+      "32608",
+      "32609"
+    ],
+    "landmarks": [
+      "University of Florida",
+      "Ben Hill Griffin Stadium",
+      "Depot Park",
+      "Paynes Prairie",
+      "Florida Museum of Natural History"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Alachua",
+        "slug": "alachua-fl"
+      },
+      {
+        "name": "Newberry",
+        "slug": "newberry-fl"
+      },
+      {
+        "name": "High Springs",
+        "slug": "high-springs-fl"
+      },
+      {
+        "name": "Ocala",
+        "slug": "ocala-fl"
+      },
+      {
+        "name": "Lake City",
+        "slug": "lake-city-fl"
+      }
+    ],
+    "city_type": "university-innovation-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "inland-lowlands",
+    "economy_type": "education-healthcare",
+    "housing_profile": "student-professional-mix",
+    "growth_pattern": "institutional-growth",
+    "service_environment": "north-central-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Coral Springs",
+    "slug": "coral-springs-fl",
+    "county": "Broward County",
+    "population": 135000,
+    "zip_codes": [
+      "33065",
+      "33067",
+      "33071",
+      "33076"
+    ],
+    "landmarks": [
+      "Coral Springs Center for the Arts",
+      "Mullins Park",
+      "Sportsplex",
+      "The Walk",
+      "Cypress Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Parkland",
+        "slug": "parkland-fl"
+      },
+      {
+        "name": "Margate",
+        "slug": "margate-fl"
+      },
+      {
+        "name": "Tamarac",
+        "slug": "tamarac-fl"
+      },
+      {
+        "name": "Coconut Creek",
+        "slug": "coconut-creek-fl"
+      },
+      {
+        "name": "Pompano Beach",
+        "slug": "pompano-beach-fl"
+      }
+    ],
+    "city_type": "planned-suburban-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Clearwater",
+    "slug": "clearwater-fl",
+    "county": "Pinellas County",
+    "population": 118000,
+    "zip_codes": [
+      "33755",
+      "33756",
+      "33759",
+      "33760",
+      "33764",
+      "33765"
+    ],
+    "landmarks": [
+      "Clearwater Beach",
+      "Pier 60",
+      "Coachman Park",
+      "Clearwater Marine Aquarium",
+      "Downtown Clearwater"
+    ],
+    "nearby_cities": [
+      {
+        "name": "St. Petersburg",
+        "slug": "st-petersburg-fl"
+      },
+      {
+        "name": "Largo",
+        "slug": "largo-fl"
+      },
+      {
+        "name": "Dunedin",
+        "slug": "dunedin-fl"
+      },
+      {
+        "name": "Palm Harbor",
+        "slug": "palm-harbor-fl"
+      },
+      {
+        "name": "Tampa",
+        "slug": "tampa-fl"
+      }
+    ],
+    "city_type": "coastal-tourism-hub",
+    "climate_zone": "humid-subtropical",
+    "terrain": "peninsula-coastal",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "tampa-bay-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Palm Bay",
+    "slug": "palm-bay-fl",
+    "county": "Brevard County",
+    "population": 145000,
+    "zip_codes": [
+      "32905",
+      "32907",
+      "32908",
+      "32909"
+    ],
+    "landmarks": [
+      "Turkey Creek Sanctuary",
+      "Palm Bay Regional Park",
+      "Fred Poppe Regional Park",
+      "Palm Bay Marina",
+      "Malabar Scrub Sanctuary"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Melbourne",
+        "slug": "melbourne-fl"
+      },
+      {
+        "name": "West Melbourne",
+        "slug": "west-melbourne-fl"
+      },
+      {
+        "name": "Rockledge",
+        "slug": "rockledge-fl"
+      },
+      {
+        "name": "Cocoa",
+        "slug": "cocoa-fl"
+      },
+      {
+        "name": "Sebastian",
+        "slug": "sebastian-fl"
+      }
+    ],
+    "city_type": "space-coast-growth-city",
+    "climate_zone": "tropical-savanna",
+    "terrain": "coastal-lowlands",
+    "economy_type": "technology-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "space-coast-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "West Palm Beach",
+    "slug": "west-palm-beach-fl",
+    "county": "Palm Beach County",
+    "population": 125000,
+    "zip_codes": [
+      "33401",
+      "33405",
+      "33406",
+      "33407",
+      "33409",
+      "33411"
+    ],
+    "landmarks": [
+      "Clematis Street",
+      "The Square",
+      "Norton Museum of Art",
+      "Palm Beach Waterfront",
+      "Kravis Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Palm Beach Gardens",
+        "slug": "palm-beach-gardens-fl"
+      },
+      {
+        "name": "Lake Worth Beach",
+        "slug": "lake-worth-beach-fl"
+      },
+      {
+        "name": "Wellington",
+        "slug": "wellington-fl"
+      },
+      {
+        "name": "Boynton Beach",
+        "slug": "boynton-beach-fl"
+      },
+      {
+        "name": "Jupiter",
+        "slug": "jupiter-fl"
+      }
+    ],
+    "city_type": "coastal-business-center",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "finance-tourism",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "palm-beach-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Lakeland",
+    "slug": "lakeland-fl",
+    "county": "Polk County",
+    "population": 126000,
+    "zip_codes": [
+      "33801",
+      "33803",
+      "33805",
+      "33809",
+      "33810",
+      "33813"
+    ],
+    "landmarks": [
+      "Lake Mirror",
+      "Bonnet Springs Park",
+      "Joker Marchant Stadium",
+      "Florida Southern College",
+      "Downtown Lakeland"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Winter Haven",
+        "slug": "winter-haven-fl"
+      },
+      {
+        "name": "Plant City",
+        "slug": "plant-city-fl"
+      },
+      {
+        "name": "Bartow",
+        "slug": "bartow-fl"
+      },
+      {
+        "name": "Auburndale",
+        "slug": "auburndale-fl"
+      },
+      {
+        "name": "Tampa",
+        "slug": "tampa-fl"
+      }
+    ],
+    "city_type": "central-florida-logistics-hub",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "logistics-manufacturing",
+    "housing_profile": "family-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "central-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Miami Gardens",
+    "slug": "miami-gardens-fl",
+    "county": "Miami-Dade County",
+    "population": 112000,
+    "zip_codes": [
+      "33054",
+      "33055",
+      "33056"
+    ],
+    "landmarks": [
+      "Hard Rock Stadium",
+      "Calder Casino",
+      "Rolling Oaks Park",
+      "Betty T. Ferguson Recreation Complex",
+      "Florida Memorial University"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hialeah",
+        "slug": "hialeah-fl"
+      },
+      {
+        "name": "Miramar",
+        "slug": "miramar-fl"
+      },
+      {
+        "name": "Miami",
+        "slug": "miami-fl"
+      },
+      {
+        "name": "North Miami",
+        "slug": "north-miami-fl"
+      },
+      {
+        "name": "Pembroke Pines",
+        "slug": "pembroke-pines-fl"
+      }
+    ],
+    "city_type": "sports-entertainment-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "south-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Pompano Beach",
+    "slug": "pompano-beach-fl",
+    "county": "Broward County",
+    "population": 115000,
+    "zip_codes": [
+      "33060",
+      "33062",
+      "33064",
+      "33069",
+      "33073"
+    ],
+    "landmarks": [
+      "Pompano Beach Pier",
+      "Pompano Community Park",
+      "Isle Casino",
+      "Air Park",
+      "Atlantic Boulevard District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl"
+      },
+      {
+        "name": "Deerfield Beach",
+        "slug": "deerfield-beach-fl"
+      },
+      {
+        "name": "Coral Springs",
+        "slug": "coral-springs-fl"
+      },
+      {
+        "name": "Lighthouse Point",
+        "slug": "lighthouse-point-fl"
+      },
+      {
+        "name": "Coconut Creek",
+        "slug": "coconut-creek-fl"
+      }
+    ],
+    "city_type": "coastal-redevelopment-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-marine-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "waterfront-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Davie",
+    "slug": "davie-fl",
+    "county": "Broward County",
+    "population": 108000,
+    "zip_codes": [
+      "33314",
+      "33317",
+      "33324",
+      "33325",
+      "33328"
+    ],
+    "landmarks": [
+      "Tree Tops Park",
+      "Flamingo Gardens",
+      "Bergeron Rodeo Grounds",
+      "Nova Southeastern University",
+      "Bamford Sports Complex"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl"
+      },
+      {
+        "name": "Plantation",
+        "slug": "plantation-fl"
+      },
+      {
+        "name": "Sunrise",
+        "slug": "sunrise-fl"
+      },
+      {
+        "name": "Pembroke Pines",
+        "slug": "pembroke-pines-fl"
+      },
+      {
+        "name": "Weston",
+        "slug": "weston-fl"
+      }
+    ],
+    "city_type": "education-equestrian-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "education-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Boca Raton",
+    "slug": "boca-raton-fl",
+    "county": "Palm Beach County",
+    "population": 102000,
+    "zip_codes": [
+      "33431",
+      "33432",
+      "33433",
+      "33434",
+      "33486",
+      "33487"
+    ],
+    "landmarks": [
+      "Mizner Park",
+      "Town Center at Boca Raton",
+      "Red Reef Park",
+      "Florida Atlantic University",
+      "Spanish River Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Deerfield Beach",
+        "slug": "deerfield-beach-fl"
+      },
+      {
+        "name": "Delray Beach",
+        "slug": "delray-beach-fl"
+      },
+      {
+        "name": "Boynton Beach",
+        "slug": "boynton-beach-fl"
+      },
+      {
+        "name": "Parkland",
+        "slug": "parkland-fl"
+      },
+      {
+        "name": "Coconut Creek",
+        "slug": "coconut-creek-fl"
+      }
+    ],
+    "city_type": "affluent-coastal-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "finance-healthcare",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "palm-beach-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Sunrise",
+    "slug": "sunrise-fl",
+    "county": "Broward County",
+    "population": 98000,
+    "zip_codes": [
+      "33313",
+      "33322",
+      "33323",
+      "33325",
+      "33326"
+    ],
+    "landmarks": [
+      "Sawgrass Mills",
+      "Amerant Bank Arena",
+      "Markham Park",
+      "Welleby Park",
+      "Sunrise Civic Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Plantation",
+        "slug": "plantation-fl"
+      },
+      {
+        "name": "Davie",
+        "slug": "davie-fl"
+      },
+      {
+        "name": "Weston",
+        "slug": "weston-fl"
+      },
+      {
+        "name": "Coral Springs",
+        "slug": "coral-springs-fl"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl"
+      }
+    ],
+    "city_type": "retail-entertainment-hub",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-tourism",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "commercial-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Plantation",
+    "slug": "plantation-fl",
+    "county": "Broward County",
+    "population": 94000,
+    "zip_codes": [
+      "33317",
+      "33322",
+      "33324",
+      "33325"
+    ],
+    "landmarks": [
+      "Plantation Central Park",
+      "Volunteer Park",
+      "Plantation Preserve",
+      "Broward Mall",
+      "Jacaranda Golf Club"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl"
+      },
+      {
+        "name": "Davie",
+        "slug": "davie-fl"
+      },
+      {
+        "name": "Sunrise",
+        "slug": "sunrise-fl"
+      },
+      {
+        "name": "Lauderhill",
+        "slug": "lauderhill-fl"
+      },
+      {
+        "name": "Weston",
+        "slug": "weston-fl"
+      }
+    ],
+    "city_type": "master-planned-suburb",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "professional-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Deltona",
+    "slug": "deltona-fl",
+    "county": "Volusia County",
+    "population": 98000,
+    "zip_codes": [
+      "32725",
+      "32738"
+    ],
+    "landmarks": [
+      "Lake Monroe",
+      "Green Springs Park",
+      "Deltona Lakes",
+      "Campbell Park",
+      "Dewey O. Boster Sports Complex"
+    ],
+    "nearby_cities": [
+      {
+        "name": "DeLand",
+        "slug": "deland-fl"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-fl"
+      },
+      {
+        "name": "Orange City",
+        "slug": "orange-city-fl"
+      },
+      {
+        "name": "Lake Mary",
+        "slug": "lake-mary-fl"
+      },
+      {
+        "name": "Orlando",
+        "slug": "orlando-fl"
+      }
+    ],
+    "city_type": "commuter-growth-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "services-construction",
+    "housing_profile": "family-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "central-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Melbourne",
+    "slug": "melbourne-fl",
+    "county": "Brevard County",
+    "population": 90000,
+    "zip_codes": [
+      "32901",
+      "32904",
+      "32935",
+      "32940"
+    ],
+    "landmarks": [
+      "Historic Downtown Melbourne",
+      "Melbourne Harbor Marina",
+      "Andretti Thrill Park",
+      "Wickham Park",
+      "Florida Tech"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Palm Bay",
+        "slug": "palm-bay-fl"
+      },
+      {
+        "name": "West Melbourne",
+        "slug": "west-melbourne-fl"
+      },
+      {
+        "name": "Rockledge",
+        "slug": "rockledge-fl"
+      },
+      {
+        "name": "Cocoa",
+        "slug": "cocoa-fl"
+      },
+      {
+        "name": "Satellite Beach",
+        "slug": "satellite-beach-fl"
+      }
+    ],
+    "city_type": "space-coast-tech-city",
+    "climate_zone": "tropical-savanna",
+    "terrain": "coastal-lowlands",
+    "economy_type": "technology-aerospace",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "innovation-growth",
+    "service_environment": "space-coast-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Palm Coast",
+    "slug": "palm-coast-fl",
+    "county": "Flagler County",
+    "population": 105000,
+    "zip_codes": [
+      "32137",
+      "32164"
+    ],
+    "landmarks": [
+      "European Village",
+      "Washington Oaks Gardens",
+      "Waterfront Park",
+      "Palm Coast Marina",
+      "Linear Park Trail System"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ormond Beach",
+        "slug": "ormond-beach-fl"
+      },
+      {
+        "name": "Daytona Beach",
+        "slug": "daytona-beach-fl"
+      },
+      {
+        "name": "St. Augustine",
+        "slug": "st-augustine-fl"
+      },
+      {
+        "name": "Bunnell",
+        "slug": "bunnell-fl"
+      },
+      {
+        "name": "Flagler Beach",
+        "slug": "flagler-beach-fl"
+      }
+    ],
+    "city_type": "master-planned-coastal-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-lowlands",
+    "economy_type": "healthcare-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "northeast-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Deerfield Beach",
+    "slug": "deerfield-beach-fl",
+    "county": "Broward County",
+    "population": 87000,
+    "zip_codes": [
+      "33441",
+      "33442"
+    ],
+    "landmarks": [
+      "Deerfield Beach Pier",
+      "Quiet Waters Park",
+      "Sullivan Park",
+      "International Fishing Pier",
+      "Oceanfront District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Boca Raton",
+        "slug": "boca-raton-fl"
+      },
+      {
+        "name": "Pompano Beach",
+        "slug": "pompano-beach-fl"
+      },
+      {
+        "name": "Coconut Creek",
+        "slug": "coconut-creek-fl"
+      },
+      {
+        "name": "Lighthouse Point",
+        "slug": "lighthouse-point-fl"
+      },
+      {
+        "name": "Coral Springs",
+        "slug": "coral-springs-fl"
+      }
+    ],
+    "city_type": "coastal-resort-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "waterfront-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Miami Beach",
+    "slug": "miami-beach-fl",
+    "county": "Miami-Dade County",
+    "population": 82000,
+    "zip_codes": [
+      "33139",
+      "33140",
+      "33141"
+    ],
+    "landmarks": [
+      "South Beach",
+      "Ocean Drive",
+      "Lincoln Road",
+      "Lummus Park",
+      "Art Deco Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Miami",
+        "slug": "miami-fl"
+      },
+      {
+        "name": "North Miami",
+        "slug": "north-miami-fl"
+      },
+      {
+        "name": "Surfside",
+        "slug": "surfside-fl"
+      },
+      {
+        "name": "Bal Harbour",
+        "slug": "bal-harbour-fl"
+      },
+      {
+        "name": "Key Biscayne",
+        "slug": "key-biscayne-fl"
+      }
+    ],
+    "city_type": "world-famous-beach-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "barrier-island",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "urban-high-density",
+    "growth_pattern": "premium-growth",
+    "service_environment": "south-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Miami Lakes",
+    "slug": "miami-lakes-fl",
+    "county": "Miami-Dade County",
+    "population": 32000,
+    "zip_codes": [
+      "33014",
+      "33016",
+      "33018"
+    ],
+    "landmarks": [
+      "Main Street Miami Lakes",
+      "Veterans Park",
+      "Graham Dairy Lake",
+      "Miami Lakes Golf Club",
+      "Optimist Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hialeah",
+        "slug": "hialeah-fl"
+      },
+      {
+        "name": "Miami Gardens",
+        "slug": "miami-gardens-fl"
+      },
+      {
+        "name": "Miramar",
+        "slug": "miramar-fl"
+      },
+      {
+        "name": "Doral",
+        "slug": "doral-fl"
+      },
+      {
+        "name": "Pembroke Pines",
+        "slug": "pembroke-pines-fl"
+      }
+    ],
+    "city_type": "master-planned-community",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "professional-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "south-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Doral",
+    "slug": "doral-fl",
+    "county": "Miami-Dade County",
+    "population": 78000,
+    "zip_codes": [
+      "33122",
+      "33126",
+      "33166",
+      "33172",
+      "33178"
+    ],
+    "landmarks": [
+      "CityPlace Doral",
+      "Trump National Doral",
+      "Downtown Doral",
+      "Doral Central Park",
+      "Miami International Mall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Miami",
+        "slug": "miami-fl"
+      },
+      {
+        "name": "Hialeah",
+        "slug": "hialeah-fl"
+      },
+      {
+        "name": "Miami Lakes",
+        "slug": "miami-lakes-fl"
+      },
+      {
+        "name": "Sweetwater",
+        "slug": "sweetwater-fl"
+      },
+      {
+        "name": "Coral Gables",
+        "slug": "coral-gables-fl"
+      }
+    ],
+    "city_type": "business-logistics-hub",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "logistics-finance",
+    "housing_profile": "professional-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "south-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "North Miami",
+    "slug": "north-miami-fl",
+    "county": "Miami-Dade County",
+    "population": 63000,
+    "zip_codes": [
+      "33161",
+      "33162",
+      "33168",
+      "33181"
+    ],
+    "landmarks": [
+      "Oleta River State Park",
+      "Museum of Contemporary Art",
+      "Enchanted Forest Park",
+      "Arch Creek Park",
+      "Downtown North Miami"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Miami",
+        "slug": "miami-fl"
+      },
+      {
+        "name": "Miami Beach",
+        "slug": "miami-beach-fl"
+      },
+      {
+        "name": "North Miami Beach",
+        "slug": "north-miami-beach-fl"
+      },
+      {
+        "name": "Aventura",
+        "slug": "aventura-fl"
+      },
+      {
+        "name": "Miami Gardens",
+        "slug": "miami-gardens-fl"
+      }
+    ],
+    "city_type": "urban-coastal-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "education-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "south-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "North Miami Beach",
+    "slug": "north-miami-beach-fl",
+    "county": "Miami-Dade County",
+    "population": 45000,
+    "zip_codes": [
+      "33160",
+      "33162",
+      "33179",
+      "33180"
+    ],
+    "landmarks": [
+      "Greynolds Park",
+      "Snake Creek Canal",
+      "Ancient Spanish Monastery",
+      "Fulford-by-the-Sea District",
+      "City Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Miami",
+        "slug": "north-miami-fl"
+      },
+      {
+        "name": "Aventura",
+        "slug": "aventura-fl"
+      },
+      {
+        "name": "Miami Gardens",
+        "slug": "miami-gardens-fl"
+      },
+      {
+        "name": "Sunny Isles Beach",
+        "slug": "sunny-isles-beach-fl"
+      },
+      {
+        "name": "Hallandale Beach",
+        "slug": "hallandale-beach-fl"
+      }
+    ],
+    "city_type": "coastal-residential-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Coconut Creek",
+    "slug": "coconut-creek-fl",
+    "county": "Broward County",
+    "population": 61000,
+    "zip_codes": [
+      "33063",
+      "33066",
+      "33073"
+    ],
+    "landmarks": [
+      "Butterfly World",
+      "Promenade at Coconut Creek",
+      "Tradewinds Park",
+      "Sabal Pines Park",
+      "Town Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Coral Springs",
+        "slug": "coral-springs-fl"
+      },
+      {
+        "name": "Pompano Beach",
+        "slug": "pompano-beach-fl"
+      },
+      {
+        "name": "Deerfield Beach",
+        "slug": "deerfield-beach-fl"
+      },
+      {
+        "name": "Margate",
+        "slug": "margate-fl"
+      },
+      {
+        "name": "Parkland",
+        "slug": "parkland-fl"
+      }
+    ],
+    "city_type": "planned-green-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Tamarac",
+    "slug": "tamarac-fl",
+    "county": "Broward County",
+    "population": 73000,
+    "zip_codes": [
+      "33319",
+      "33321"
+    ],
+    "landmarks": [
+      "Tamarac Sports Complex",
+      "Caporella Park",
+      "Woodmont Natural Area",
+      "Tamarac Community Center",
+      "Mainlands Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Coral Springs",
+        "slug": "coral-springs-fl"
+      },
+      {
+        "name": "Lauderhill",
+        "slug": "lauderhill-fl"
+      },
+      {
+        "name": "Sunrise",
+        "slug": "sunrise-fl"
+      },
+      {
+        "name": "Margate",
+        "slug": "margate-fl"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl"
+      }
+    ],
+    "city_type": "suburban-residential-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "services-retail",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Lauderhill",
+    "slug": "lauderhill-fl",
+    "county": "Broward County",
+    "population": 74000,
+    "zip_codes": [
+      "33311",
+      "33313",
+      "33319"
+    ],
+    "landmarks": [
+      "Central Broward Park",
+      "Lauderhill Performing Arts Center",
+      "Veterans Park",
+      "Lauderhill Golf Course",
+      "West Ken Lark Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl"
+      },
+      {
+        "name": "Sunrise",
+        "slug": "sunrise-fl"
+      },
+      {
+        "name": "Plantation",
+        "slug": "plantation-fl"
+      },
+      {
+        "name": "Tamarac",
+        "slug": "tamarac-fl"
+      },
+      {
+        "name": "Oakland Park",
+        "slug": "oakland-park-fl"
+      }
+    ],
+    "city_type": "urban-suburban-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Weston",
+    "slug": "weston-fl",
+    "county": "Broward County",
+    "population": 69000,
+    "zip_codes": [
+      "33326",
+      "33327",
+      "33331",
+      "33332"
+    ],
+    "landmarks": [
+      "Weston Town Center",
+      "Peace Mound Park",
+      "Markham Park",
+      "Regional Park at Weston",
+      "Weston Library"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Davie",
+        "slug": "davie-fl"
+      },
+      {
+        "name": "Sunrise",
+        "slug": "sunrise-fl"
+      },
+      {
+        "name": "Pembroke Pines",
+        "slug": "pembroke-pines-fl"
+      },
+      {
+        "name": "Plantation",
+        "slug": "plantation-fl"
+      },
+      {
+        "name": "Miramar",
+        "slug": "miramar-fl"
+      }
+    ],
+    "city_type": "master-planned-affluent-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Boynton Beach",
+    "slug": "boynton-beach-fl",
+    "county": "Palm Beach County",
+    "population": 81000,
+    "zip_codes": [
+      "33424",
+      "33426",
+      "33435",
+      "33436",
+      "33437"
+    ],
+    "landmarks": [
+      "Oceanfront Park",
+      "Boynton Harbor Marina",
+      "Green Cay Nature Center",
+      "Downtown Boynton Beach",
+      "Arthur R. Marshall Preserve"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Delray Beach",
+        "slug": "delray-beach-fl"
+      },
+      {
+        "name": "Lake Worth Beach",
+        "slug": "lake-worth-beach-fl"
+      },
+      {
+        "name": "Boca Raton",
+        "slug": "boca-raton-fl"
+      },
+      {
+        "name": "Wellington",
+        "slug": "wellington-fl"
+      },
+      {
+        "name": "West Palm Beach",
+        "slug": "west-palm-beach-fl"
+      }
+    ],
+    "city_type": "coastal-growth-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "palm-beach-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Delray Beach",
+    "slug": "delray-beach-fl",
+    "county": "Palm Beach County",
+    "population": 69000,
+    "zip_codes": [
+      "33444",
+      "33445",
+      "33446",
+      "33483",
+      "33484"
+    ],
+    "landmarks": [
+      "Atlantic Avenue",
+      "Delray Municipal Beach",
+      "Morikami Museum",
+      "Old School Square",
+      "Veterans Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Boynton Beach",
+        "slug": "boynton-beach-fl"
+      },
+      {
+        "name": "Boca Raton",
+        "slug": "boca-raton-fl"
+      },
+      {
+        "name": "Lake Worth Beach",
+        "slug": "lake-worth-beach-fl"
+      },
+      {
+        "name": "Wellington",
+        "slug": "wellington-fl"
+      },
+      {
+        "name": "West Palm Beach",
+        "slug": "west-palm-beach-fl"
+      }
+    ],
+    "city_type": "coastal-lifestyle-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "palm-beach-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Wellington",
+    "slug": "wellington-fl",
+    "county": "Palm Beach County",
+    "population": 62000,
+    "zip_codes": [
+      "33411",
+      "33414",
+      "33449"
+    ],
+    "landmarks": [
+      "Wellington International",
+      "Village Park",
+      "Wellington Environmental Preserve",
+      "Tiger Shark Cove",
+      "Wellington Amphitheater"
+    ],
+    "nearby_cities": [
+      {
+        "name": "West Palm Beach",
+        "slug": "west-palm-beach-fl"
+      },
+      {
+        "name": "Boynton Beach",
+        "slug": "boynton-beach-fl"
+      },
+      {
+        "name": "Lake Worth Beach",
+        "slug": "lake-worth-beach-fl"
+      },
+      {
+        "name": "Royal Palm Beach",
+        "slug": "royal-palm-beach-fl"
+      },
+      {
+        "name": "Palm Beach Gardens",
+        "slug": "palm-beach-gardens-fl"
+      }
+    ],
+    "city_type": "equestrian-community-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "sports-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "premium-growth",
+    "service_environment": "palm-beach-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Jupiter",
+    "slug": "jupiter-fl",
+    "county": "Palm Beach County",
+    "population": 62000,
+    "zip_codes": [
+      "33458",
+      "33469",
+      "33477",
+      "33478"
+    ],
+    "landmarks": [
+      "Jupiter Inlet Lighthouse",
+      "Dubois Park",
+      "Carlin Park",
+      "Roger Dean Stadium",
+      "Harbourside Place"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Palm Beach Gardens",
+        "slug": "palm-beach-gardens-fl"
+      },
+      {
+        "name": "West Palm Beach",
+        "slug": "west-palm-beach-fl"
+      },
+      {
+        "name": "Tequesta",
+        "slug": "tequesta-fl"
+      },
+      {
+        "name": "Juno Beach",
+        "slug": "juno-beach-fl"
+      },
+      {
+        "name": "Palm City",
+        "slug": "palm-city-fl"
+      }
+    ],
+    "city_type": "coastal-affluent-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-waterfront",
+    "economy_type": "tourism-marine-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "palm-beach-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Palm Beach Gardens",
+    "slug": "palm-beach-gardens-fl",
+    "county": "Palm Beach County",
+    "population": 61000,
+    "zip_codes": [
+      "33410",
+      "33412",
+      "33418"
+    ],
+    "landmarks": [
+      "The Gardens Mall",
+      "PGA National Resort",
+      "Downtown at the Gardens",
+      "Burns Road Recreation Center",
+      "Frenchman's Forest"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jupiter",
+        "slug": "jupiter-fl"
+      },
+      {
+        "name": "West Palm Beach",
+        "slug": "west-palm-beach-fl"
+      },
+      {
+        "name": "North Palm Beach",
+        "slug": "north-palm-beach-fl"
+      },
+      {
+        "name": "Wellington",
+        "slug": "wellington-fl"
+      },
+      {
+        "name": "Juno Beach",
+        "slug": "juno-beach-fl"
+      }
+    ],
+    "city_type": "golf-lifestyle-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "palm-beach-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Lake Worth Beach",
+    "slug": "lake-worth-beach-fl",
+    "county": "Palm Beach County",
+    "population": 43000,
+    "zip_codes": [
+      "33460",
+      "33461",
+      "33462",
+      "33463"
+    ],
+    "landmarks": [
+      "Lake Worth Beach Pier",
+      "Bryant Park",
+      "Downtown Lake Worth",
+      "Snook Islands",
+      "Cultural Plaza"
+    ],
+    "nearby_cities": [
+      {
+        "name": "West Palm Beach",
+        "slug": "west-palm-beach-fl"
+      },
+      {
+        "name": "Boynton Beach",
+        "slug": "boynton-beach-fl"
+      },
+      {
+        "name": "Wellington",
+        "slug": "wellington-fl"
+      },
+      {
+        "name": "Palm Springs",
+        "slug": "palm-springs-fl"
+      },
+      {
+        "name": "Greenacres",
+        "slug": "greenacres-fl"
+      }
+    ],
+    "city_type": "historic-coastal-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "urban-renewal",
+    "service_environment": "palm-beach-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Homestead",
+    "slug": "homestead-fl",
+    "county": "Miami-Dade County",
+    "population": 86000,
+    "zip_codes": [
+      "33030",
+      "33033",
+      "33035"
+    ],
+    "landmarks": [
+      "Homestead Miami Speedway",
+      "Coral Castle",
+      "Homestead Bayfront Park",
+      "Losner Park",
+      "Everglades Gateway"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Florida City",
+        "slug": "florida-city-fl"
+      },
+      {
+        "name": "Cutler Bay",
+        "slug": "cutler-bay-fl"
+      },
+      {
+        "name": "Miami",
+        "slug": "miami-fl"
+      },
+      {
+        "name": "Kendall",
+        "slug": "kendall-fl"
+      },
+      {
+        "name": "Key Largo",
+        "slug": "key-largo-fl"
+      }
+    ],
+    "city_type": "south-florida-gateway-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "agriculture-logistics",
+    "housing_profile": "family-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "south-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Kissimmee",
+    "slug": "kissimmee-fl",
+    "county": "Osceola County",
+    "population": 86000,
+    "zip_codes": [
+      "34741",
+      "34744",
+      "34746",
+      "34747",
+      "34758",
+      "34759"
+    ],
+    "landmarks": [
+      "Old Town",
+      "Lakefront Park",
+      "Silver Spurs Arena",
+      "Osceola Heritage Park",
+      "Downtown Kissimmee"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Orlando",
+        "slug": "orlando-fl"
+      },
+      {
+        "name": "St. Cloud",
+        "slug": "st-cloud-fl"
+      },
+      {
+        "name": "Celebration",
+        "slug": "celebration-fl"
+      },
+      {
+        "name": "Davenport",
+        "slug": "davenport-fl"
+      },
+      {
+        "name": "Winter Garden",
+        "slug": "winter-garden-fl"
+      }
+    ],
+    "city_type": "tourism-corridor-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "central-florida-lowlands",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "family-residential",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "central-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Sanford",
+    "slug": "sanford-fl",
+    "county": "Seminole County",
+    "population": 67000,
+    "zip_codes": [
+      "32771",
+      "32773"
+    ],
+    "landmarks": [
+      "Historic Downtown Sanford",
+      "Lake Monroe",
+      "Sanford Riverwalk",
+      "Central Florida Zoo",
+      "Orlando Sanford Airport"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Orlando",
+        "slug": "orlando-fl"
+      },
+      {
+        "name": "Lake Mary",
+        "slug": "lake-mary-fl"
+      },
+      {
+        "name": "Deltona",
+        "slug": "deltona-fl"
+      },
+      {
+        "name": "Longwood",
+        "slug": "longwood-fl"
+      },
+      {
+        "name": "DeBary",
+        "slug": "debary-fl"
+      }
+    ],
+    "city_type": "riverfront-growth-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "logistics-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "central-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Daytona Beach",
+    "slug": "daytona-beach-fl",
+    "county": "Volusia County",
+    "population": 84000,
+    "zip_codes": [
+      "32114",
+      "32117",
+      "32118",
+      "32119",
+      "32124"
+    ],
+    "landmarks": [
+      "Daytona International Speedway",
+      "Daytona Beach Boardwalk",
+      "Ocean Walk",
+      "Embry-Riddle Aeronautical University",
+      "Sun Splash Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ormond Beach",
+        "slug": "ormond-beach-fl"
+      },
+      {
+        "name": "Palm Coast",
+        "slug": "palm-coast-fl"
+      },
+      {
+        "name": "Port Orange",
+        "slug": "port-orange-fl"
+      },
+      {
+        "name": "New Smyrna Beach",
+        "slug": "new-smyrna-beach-fl"
+      },
+      {
+        "name": "Deltona",
+        "slug": "deltona-fl"
+      }
+    ],
+    "city_type": "motorsports-tourism-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-lowlands",
+    "economy_type": "tourism-education",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "volusia-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Ocala",
+    "slug": "ocala-fl",
+    "county": "Marion County",
+    "population": 72000,
+    "zip_codes": [
+      "34470",
+      "34471",
+      "34472",
+      "34473",
+      "34474",
+      "34475"
+    ],
+    "landmarks": [
+      "World Equestrian Center",
+      "Silver Springs State Park",
+      "Downtown Ocala",
+      "Tuscawilla Park",
+      "Appleton Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gainesville",
+        "slug": "gainesville-fl"
+      },
+      {
+        "name": "Belleview",
+        "slug": "belleview-fl"
+      },
+      {
+        "name": "The Villages",
+        "slug": "the-villages-fl"
+      },
+      {
+        "name": "Dunnellon",
+        "slug": "dunnellon-fl"
+      },
+      {
+        "name": "Lady Lake",
+        "slug": "lady-lake-fl"
+      }
+    ],
+    "city_type": "equestrian-regional-hub",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "healthcare-logistics",
+    "housing_profile": "family-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "north-central-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Port Orange",
+    "slug": "port-orange-fl",
+    "county": "Volusia County",
+    "population": 68000,
+    "zip_codes": [
+      "32127",
+      "32128",
+      "32129"
+    ],
+    "landmarks": [
+      "Riverwalk Park",
+      "Dunlawton Sugar Mill Gardens",
+      "Port Orange City Center",
+      "All Children's Park",
+      "Spruce Creek Preserve"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Daytona Beach",
+        "slug": "daytona-beach-fl"
+      },
+      {
+        "name": "New Smyrna Beach",
+        "slug": "new-smyrna-beach-fl"
+      },
+      {
+        "name": "Ormond Beach",
+        "slug": "ormond-beach-fl"
+      },
+      {
+        "name": "Deltona",
+        "slug": "deltona-fl"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-fl"
+      }
+    ],
+    "city_type": "coastal-growth-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-lowlands",
+    "economy_type": "healthcare-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "volusia-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "North Port",
+    "slug": "north-port-fl",
+    "county": "Sarasota County",
+    "population": 89000,
+    "zip_codes": [
+      "34286",
+      "34287",
+      "34288",
+      "34289"
+    ],
+    "landmarks": [
+      "Warm Mineral Springs",
+      "Atwater Community Park",
+      "Heron Creek Golf Club",
+      "Blue Ridge Park",
+      "Myakkahatchee Creek"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sarasota",
+        "slug": "sarasota-fl"
+      },
+      {
+        "name": "Port Charlotte",
+        "slug": "port-charlotte-fl"
+      },
+      {
+        "name": "Venice",
+        "slug": "venice-fl"
+      },
+      {
+        "name": "Punta Gorda",
+        "slug": "punta-gorda-fl"
+      },
+      {
+        "name": "Englewood",
+        "slug": "englewood-fl"
+      }
+    ],
+    "city_type": "master-planned-growth-city",
+    "climate_zone": "tropical-savanna",
+    "terrain": "coastal-lowlands",
+    "economy_type": "construction-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Sarasota",
+    "slug": "sarasota-fl",
+    "county": "Sarasota County",
+    "population": 58000,
+    "zip_codes": [
+      "34231",
+      "34232",
+      "34234",
+      "34236",
+      "34237",
+      "34239"
+    ],
+    "landmarks": [
+      "St. Armands Circle",
+      "Siesta Key",
+      "The Ringling",
+      "Bayfront Park",
+      "Van Wezel Performing Arts Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bradenton",
+        "slug": "bradenton-fl"
+      },
+      {
+        "name": "North Port",
+        "slug": "north-port-fl"
+      },
+      {
+        "name": "Venice",
+        "slug": "venice-fl"
+      },
+      {
+        "name": "Longboat Key",
+        "slug": "longboat-key-fl"
+      },
+      {
+        "name": "Lakewood Ranch",
+        "slug": "lakewood-ranch-fl"
+      }
+    ],
+    "city_type": "coastal-cultural-city",
+    "climate_zone": "tropical-savanna",
+    "terrain": "coastal-waterfront",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Bradenton",
+    "slug": "bradenton-fl",
+    "county": "Manatee County",
+    "population": 59000,
+    "zip_codes": [
+      "34205",
+      "34207",
+      "34208",
+      "34209",
+      "34210"
+    ],
+    "landmarks": [
+      "Riverwalk",
+      "LECOM Park",
+      "Village of the Arts",
+      "Manatee River",
+      "Downtown Bradenton"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sarasota",
+        "slug": "sarasota-fl"
+      },
+      {
+        "name": "Palmetto",
+        "slug": "palmetto-fl"
+      },
+      {
+        "name": "Lakewood Ranch",
+        "slug": "lakewood-ranch-fl"
+      },
+      {
+        "name": "Anna Maria",
+        "slug": "anna-maria-fl"
+      },
+      {
+        "name": "Ellenton",
+        "slug": "ellenton-fl"
+      }
+    ],
+    "city_type": "riverfront-regional-city",
+    "climate_zone": "tropical-savanna",
+    "terrain": "coastal-lowlands",
+    "economy_type": "tourism-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Winter Haven",
+    "slug": "winter-haven-fl",
+    "county": "Polk County",
+    "population": 62000,
+    "zip_codes": [
+      "33880",
+      "33881",
+      "33884"
+    ],
+    "landmarks": [
+      "LEGOLAND Florida",
+      "Chain of Lakes",
+      "Downtown Winter Haven",
+      "Lake Howard",
+      "Central Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lakeland",
+        "slug": "lakeland-fl"
+      },
+      {
+        "name": "Haines City",
+        "slug": "haines-city-fl"
+      },
+      {
+        "name": "Auburndale",
+        "slug": "auburndale-fl"
+      },
+      {
+        "name": "Bartow",
+        "slug": "bartow-fl"
+      },
+      {
+        "name": "Davenport",
+        "slug": "davenport-fl"
+      }
+    ],
+    "city_type": "lake-region-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "tourism-logistics",
+    "housing_profile": "family-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "central-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "St. Cloud",
+    "slug": "st-cloud-fl",
+    "county": "Osceola County",
+    "population": 65000,
+    "zip_codes": [
+      "34769",
+      "34771",
+      "34772",
+      "34773"
+    ],
+    "landmarks": [
+      "Lakefront Park",
+      "Veterans Memorial Library",
+      "Downtown St. Cloud",
+      "Peghorn Nature Park",
+      "East Lake Tohopekaliga"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kissimmee",
+        "slug": "kissimmee-fl"
+      },
+      {
+        "name": "Orlando",
+        "slug": "orlando-fl"
+      },
+      {
+        "name": "Lake Nona",
+        "slug": "lake-nona-fl"
+      },
+      {
+        "name": "Melbourne",
+        "slug": "melbourne-fl"
+      },
+      {
+        "name": "Harmony",
+        "slug": "harmony-fl"
+      }
+    ],
+    "city_type": "family-growth-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "services-construction",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "central-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Apopka",
+    "slug": "apopka-fl",
+    "county": "Orange County",
+    "population": 61000,
+    "zip_codes": [
+      "32703",
+      "32712"
+    ],
+    "landmarks": [
+      "Wekiwa Springs",
+      "Kelly Park",
+      "Apopka Amphitheater",
+      "Northwest Recreation Complex",
+      "Downtown Apopka"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Orlando",
+        "slug": "orlando-fl"
+      },
+      {
+        "name": "Ocoee",
+        "slug": "ocoee-fl"
+      },
+      {
+        "name": "Altamonte Springs",
+        "slug": "altamonte-springs-fl"
+      },
+      {
+        "name": "Winter Garden",
+        "slug": "winter-garden-fl"
+      },
+      {
+        "name": "Maitland",
+        "slug": "maitland-fl"
+      }
+    ],
+    "city_type": "northwest-orlando-growth-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "construction-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "orlando-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Clermont",
+    "slug": "clermont-fl",
+    "county": "Lake County",
+    "population": 47000,
+    "zip_codes": [
+      "34711",
+      "34714",
+      "34715"
+    ],
+    "landmarks": [
+      "Waterfront Park",
+      "Lake Minneola",
+      "Florida Citrus Tower",
+      "Victory Pointe",
+      "South Lake Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Winter Garden",
+        "slug": "winter-garden-fl"
+      },
+      {
+        "name": "Ocoee",
+        "slug": "ocoee-fl"
+      },
+      {
+        "name": "Groveland",
+        "slug": "groveland-fl"
+      },
+      {
+        "name": "Minneola",
+        "slug": "minneola-fl"
+      },
+      {
+        "name": "Orlando",
+        "slug": "orlando-fl"
+      }
+    ],
+    "city_type": "lake-hills-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-hills",
+    "economy_type": "healthcare-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "central-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Ocoee",
+    "slug": "ocoee-fl",
+    "county": "Orange County",
+    "population": 49000,
+    "zip_codes": [
+      "34761"
+    ],
+    "landmarks": [
+      "Bill Breeze Park",
+      "Starke Lake",
+      "Prairie Lake Park",
+      "Downtown Ocoee",
+      "West Orange Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Orlando",
+        "slug": "orlando-fl"
+      },
+      {
+        "name": "Winter Garden",
+        "slug": "winter-garden-fl"
+      },
+      {
+        "name": "Apopka",
+        "slug": "apopka-fl"
+      },
+      {
+        "name": "Clermont",
+        "slug": "clermont-fl"
+      },
+      {
+        "name": "Maitland",
+        "slug": "maitland-fl"
+      }
+    ],
+    "city_type": "orlando-suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "retail-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "orlando-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Altamonte Springs",
+    "slug": "altamonte-springs-fl",
+    "county": "Seminole County",
+    "population": 46000,
+    "zip_codes": [
+      "32701",
+      "32714"
+    ],
+    "landmarks": [
+      "Cranes Roost Park",
+      "Altamonte Mall",
+      "Uptown Altamonte",
+      "Lake Lotus Park",
+      "Westmonte Recreation Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Orlando",
+        "slug": "orlando-fl"
+      },
+      {
+        "name": "Apopka",
+        "slug": "apopka-fl"
+      },
+      {
+        "name": "Longwood",
+        "slug": "longwood-fl"
+      },
+      {
+        "name": "Maitland",
+        "slug": "maitland-fl"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-fl"
+      }
+    ],
+    "city_type": "orlando-commercial-center",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "retail-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "commercial-growth",
+    "service_environment": "orlando-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Haines City",
+    "slug": "haines-city-fl",
+    "county": "Polk County",
+    "population": 39000,
+    "zip_codes": [
+      "33844"
+    ],
+    "landmarks": [
+      "Lake Eva Park",
+      "Lake Marion",
+      "Downtown Haines City",
+      "Wilson Park",
+      "Lake Eva Event Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Davenport",
+        "slug": "davenport-fl"
+      },
+      {
+        "name": "Winter Haven",
+        "slug": "winter-haven-fl"
+      },
+      {
+        "name": "Kissimmee",
+        "slug": "kissimmee-fl"
+      },
+      {
+        "name": "Auburndale",
+        "slug": "auburndale-fl"
+      },
+      {
+        "name": "Lakeland",
+        "slug": "lakeland-fl"
+      }
+    ],
+    "city_type": "central-florida-growth-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "tourism-logistics",
+    "housing_profile": "family-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "polk-county-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Davenport",
+    "slug": "davenport-fl",
+    "county": "Polk County",
+    "population": 17000,
+    "zip_codes": [
+      "33837"
+    ],
+    "landmarks": [
+      "Posner Park",
+      "Northeast Regional Park",
+      "ChampionsGate Area",
+      "Lewis Mathews Sports Complex",
+      "Downtown Davenport"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Haines City",
+        "slug": "haines-city-fl"
+      },
+      {
+        "name": "Kissimmee",
+        "slug": "kissimmee-fl"
+      },
+      {
+        "name": "Winter Haven",
+        "slug": "winter-haven-fl"
+      },
+      {
+        "name": "Clermont",
+        "slug": "clermont-fl"
+      },
+      {
+        "name": "Celebration",
+        "slug": "celebration-fl"
+      }
+    ],
+    "city_type": "tourism-corridor-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "hospitality-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "central-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Auburndale",
+    "slug": "auburndale-fl",
+    "county": "Polk County",
+    "population": 24000,
+    "zip_codes": [
+      "33823"
+    ],
+    "landmarks": [
+      "Lake Ariana",
+      "Auburndale City Park",
+      "TECO Trail",
+      "Lake Myrtle Sports Complex",
+      "Downtown Auburndale"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lakeland",
+        "slug": "lakeland-fl"
+      },
+      {
+        "name": "Winter Haven",
+        "slug": "winter-haven-fl"
+      },
+      {
+        "name": "Haines City",
+        "slug": "haines-city-fl"
+      },
+      {
+        "name": "Bartow",
+        "slug": "bartow-fl"
+      },
+      {
+        "name": "Plant City",
+        "slug": "plant-city-fl"
+      }
+    ],
+    "city_type": "lake-region-community",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "logistics-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "polk-county-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Palm Harbor",
+    "slug": "palm-harbor-fl",
+    "county": "Pinellas County",
+    "population": 62000,
+    "zip_codes": [
+      "34683",
+      "34684",
+      "34685"
+    ],
+    "landmarks": [
+      "Wall Springs Park",
+      "John Chesnut Park",
+      "Innisbrook Resort",
+      "Pop Stansell Park",
+      "Palm Harbor Marina"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Clearwater",
+        "slug": "clearwater-fl"
+      },
+      {
+        "name": "Dunedin",
+        "slug": "dunedin-fl"
+      },
+      {
+        "name": "Tarpon Springs",
+        "slug": "tarpon-springs-fl"
+      },
+      {
+        "name": "Oldsmar",
+        "slug": "oldsmar-fl"
+      },
+      {
+        "name": "Tampa",
+        "slug": "tampa-fl"
+      }
+    ],
+    "city_type": "coastal-suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "peninsula-coastal",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "tampa-bay-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Largo",
+    "slug": "largo-fl",
+    "county": "Pinellas County",
+    "population": 83000,
+    "zip_codes": [
+      "33770",
+      "33771",
+      "33773",
+      "33774",
+      "33778"
+    ],
+    "landmarks": [
+      "Largo Central Park",
+      "Florida Botanical Gardens",
+      "Highland Recreation Complex",
+      "Taylor Park",
+      "Downtown Largo"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Clearwater",
+        "slug": "clearwater-fl"
+      },
+      {
+        "name": "Pinellas Park",
+        "slug": "pinellas-park-fl"
+      },
+      {
+        "name": "Seminole",
+        "slug": "seminole-fl"
+      },
+      {
+        "name": "St. Petersburg",
+        "slug": "st-petersburg-fl"
+      },
+      {
+        "name": "Indian Rocks Beach",
+        "slug": "indian-rocks-beach-fl"
+      }
+    ],
+    "city_type": "central-pinellas-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-lowlands",
+    "economy_type": "healthcare-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "tampa-bay-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Pinellas Park",
+    "slug": "pinellas-park-fl",
+    "county": "Pinellas County",
+    "population": 54000,
+    "zip_codes": [
+      "33781",
+      "33782"
+    ],
+    "landmarks": [
+      "England Brothers Park",
+      "Freedom Lake Park",
+      "Pinellas Park Performing Arts Center",
+      "Helen Howarth Park",
+      "Downtown Pinellas Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "St. Petersburg",
+        "slug": "st-petersburg-fl"
+      },
+      {
+        "name": "Largo",
+        "slug": "largo-fl"
+      },
+      {
+        "name": "Clearwater",
+        "slug": "clearwater-fl"
+      },
+      {
+        "name": "Seminole",
+        "slug": "seminole-fl"
+      },
+      {
+        "name": "Kenneth City",
+        "slug": "kenneth-city-fl"
+      }
+    ],
+    "city_type": "urban-suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-lowlands",
+    "economy_type": "retail-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "tampa-bay-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Riverview",
+    "slug": "riverview-fl",
+    "county": "Hillsborough County",
+    "population": 112000,
+    "zip_codes": [
+      "33569",
+      "33578",
+      "33579"
+    ],
+    "landmarks": [
+      "Alafia River",
+      "Bell Creek Nature Preserve",
+      "Riverview Civic Center",
+      "Boyette Springs Park",
+      "Summerfield Crossings"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tampa",
+        "slug": "tampa-fl"
+      },
+      {
+        "name": "Brandon",
+        "slug": "brandon-fl"
+      },
+      {
+        "name": "Apollo Beach",
+        "slug": "apollo-beach-fl"
+      },
+      {
+        "name": "Valrico",
+        "slug": "valrico-fl"
+      },
+      {
+        "name": "Ruskin",
+        "slug": "ruskin-fl"
+      }
+    ],
+    "city_type": "high-growth-suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "river-lowlands",
+    "economy_type": "services-construction",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "tampa-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Brandon",
+    "slug": "brandon-fl",
+    "county": "Hillsborough County",
+    "population": 115000,
+    "zip_codes": [
+      "33510",
+      "33511"
+    ],
+    "landmarks": [
+      "Westfield Brandon",
+      "Brandon Regional Library",
+      "Paul Sanders Park",
+      "Brandon Parkway Trail",
+      "Limona Village"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tampa",
+        "slug": "tampa-fl"
+      },
+      {
+        "name": "Riverview",
+        "slug": "riverview-fl"
+      },
+      {
+        "name": "Valrico",
+        "slug": "valrico-fl"
+      },
+      {
+        "name": "Plant City",
+        "slug": "plant-city-fl"
+      },
+      {
+        "name": "Seffner",
+        "slug": "seffner-fl"
+      }
+    ],
+    "city_type": "major-suburban-center",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-lowlands",
+    "economy_type": "retail-healthcare",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "metro-growth",
+    "service_environment": "tampa-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Wesley Chapel",
+    "slug": "wesley-chapel-fl",
+    "county": "Pasco County",
+    "population": 86000,
+    "zip_codes": [
+      "33543",
+      "33544",
+      "33545"
+    ],
+    "landmarks": [
+      "The Shops at Wiregrass",
+      "Tampa Premium Outlets",
+      "Epperson Lagoon",
+      "Cypress Creek Preserve",
+      "AdventHealth Center Ice"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tampa",
+        "slug": "tampa-fl"
+      },
+      {
+        "name": "Zephyrhills",
+        "slug": "zephyrhills-fl"
+      },
+      {
+        "name": "Land O Lakes",
+        "slug": "land-o-lakes-fl"
+      },
+      {
+        "name": "New Tampa",
+        "slug": "new-tampa-fl"
+      },
+      {
+        "name": "Lutz",
+        "slug": "lutz-fl"
+      }
+    ],
+    "city_type": "master-planned-growth-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-lowlands",
+    "economy_type": "retail-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "tampa-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Spring Hill",
+    "slug": "spring-hill-fl",
+    "county": "Hernando County",
+    "population": 118000,
+    "zip_codes": [
+      "34606",
+      "34608",
+      "34609"
+    ],
+    "landmarks": [
+      "Weeki Wachee Springs",
+      "Nature Coast Botanical Gardens",
+      "Delta Woods Park",
+      "Veterans Memorial Park",
+      "Anderson Snow Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Brooksville",
+        "slug": "brooksville-fl"
+      },
+      {
+        "name": "Hudson",
+        "slug": "hudson-fl"
+      },
+      {
+        "name": "Land O Lakes",
+        "slug": "land-o-lakes-fl"
+      },
+      {
+        "name": "New Port Richey",
+        "slug": "new-port-richey-fl"
+      },
+      {
+        "name": "Tampa",
+        "slug": "tampa-fl"
+      }
+    ],
+    "city_type": "nature-coast-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-lowlands",
+    "economy_type": "healthcare-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "nature-coast-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Port Charlotte",
+    "slug": "port-charlotte-fl",
+    "county": "Charlotte County",
+    "population": 64000,
+    "zip_codes": [
+      "33948",
+      "33952",
+      "33953",
+      "33954"
+    ],
+    "landmarks": [
+      "Charlotte Harbor",
+      "Port Charlotte Beach Park",
+      "Charlotte Sports Park",
+      "Cultural Center",
+      "Harborwalk Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Port",
+        "slug": "north-port-fl"
+      },
+      {
+        "name": "Punta Gorda",
+        "slug": "punta-gorda-fl"
+      },
+      {
+        "name": "Venice",
+        "slug": "venice-fl"
+      },
+      {
+        "name": "Englewood",
+        "slug": "englewood-fl"
+      },
+      {
+        "name": "Cape Coral",
+        "slug": "cape-coral-fl"
+      }
+    ],
+    "city_type": "harbor-growth-city",
+    "climate_zone": "tropical-savanna",
+    "terrain": "coastal-lowlands",
+    "economy_type": "healthcare-services",
+    "housing_profile": "retirement-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Venice",
+    "slug": "venice-fl",
+    "county": "Sarasota County",
+    "population": 29000,
+    "zip_codes": [
+      "34285",
+      "34292",
+      "34293"
+    ],
+    "landmarks": [
+      "Venice Beach",
+      "Historic Downtown Venice",
+      "Sharky's Pier",
+      "Legacy Trail",
+      "Venice Fishing Pier"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Port",
+        "slug": "north-port-fl"
+      },
+      {
+        "name": "Sarasota",
+        "slug": "sarasota-fl"
+      },
+      {
+        "name": "Port Charlotte",
+        "slug": "port-charlotte-fl"
+      },
+      {
+        "name": "Englewood",
+        "slug": "englewood-fl"
+      },
+      {
+        "name": "Osprey",
+        "slug": "osprey-fl"
+      }
+    ],
+    "city_type": "coastal-lifestyle-city",
+    "climate_zone": "tropical-savanna",
+    "terrain": "coastal-waterfront",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "retirement-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "gulf-coast-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "DeLand",
+    "slug": "deland-fl",
+    "county": "Volusia County",
+    "population": 39000,
+    "zip_codes": [
+      "32720",
+      "32724"
+    ],
+    "landmarks": [
+      "Stetson University",
+      "Downtown DeLand",
+      "Athens Theatre",
+      "Freedom Playground",
+      "Blue Spring Access"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Deltona",
+        "slug": "deltona-fl"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-fl"
+      },
+      {
+        "name": "Daytona Beach",
+        "slug": "daytona-beach-fl"
+      },
+      {
+        "name": "Orange City",
+        "slug": "orange-city-fl"
+      },
+      {
+        "name": "Lake Helen",
+        "slug": "lake-helen-fl"
+      }
+    ],
+    "city_type": "university-regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-lowlands",
+    "economy_type": "education-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "volusia-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "New Smyrna Beach",
+    "slug": "new-smyrna-beach-fl",
+    "county": "Volusia County",
+    "population": 31000,
+    "zip_codes": [
+      "32168",
+      "32169"
+    ],
+    "landmarks": [
+      "Flagler Avenue",
+      "Canal Street",
+      "Smyrna Dunes Park",
+      "Marine Discovery Center",
+      "New Smyrna Beach Boardwalk"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Port Orange",
+        "slug": "port-orange-fl"
+      },
+      {
+        "name": "Daytona Beach",
+        "slug": "daytona-beach-fl"
+      },
+      {
+        "name": "Edgewater",
+        "slug": "edgewater-fl"
+      },
+      {
+        "name": "Deltona",
+        "slug": "deltona-fl"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-fl"
+      }
+    ],
+    "city_type": "surf-coast-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "barrier-island",
+    "economy_type": "tourism-services",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "volusia-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Ormond Beach",
+    "slug": "ormond-beach-fl",
+    "county": "Volusia County",
+    "population": 45000,
+    "zip_codes": [
+      "32174",
+      "32176"
+    ],
+    "landmarks": [
+      "Tomoka State Park",
+      "Ormond Scenic Loop",
+      "The Casements",
+      "Andy Romano Beachfront Park",
+      "Granada Boulevard"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Daytona Beach",
+        "slug": "daytona-beach-fl"
+      },
+      {
+        "name": "Palm Coast",
+        "slug": "palm-coast-fl"
+      },
+      {
+        "name": "Port Orange",
+        "slug": "port-orange-fl"
+      },
+      {
+        "name": "Flagler Beach",
+        "slug": "flagler-beach-fl"
+      },
+      {
+        "name": "Holly Hill",
+        "slug": "holly-hill-fl"
+      }
+    ],
+    "city_type": "coastal-residential-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-lowlands",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "family-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "volusia-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Lake Mary",
+    "slug": "lake-mary-fl",
+    "county": "Seminole County",
+    "population": 18000,
+    "zip_codes": [
+      "32746"
+    ],
+    "landmarks": [
+      "Colonial TownPark",
+      "Lake Mary Sports Complex",
+      "Central Park at City Hall",
+      "Trailblazer Park",
+      "Lake Mary Events Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sanford",
+        "slug": "sanford-fl"
+      },
+      {
+        "name": "Longwood",
+        "slug": "longwood-fl"
+      },
+      {
+        "name": "Altamonte Springs",
+        "slug": "altamonte-springs-fl"
+      },
+      {
+        "name": "Orlando",
+        "slug": "orlando-fl"
+      },
+      {
+        "name": "DeBary",
+        "slug": "debary-fl"
+      }
+    ],
+    "city_type": "corporate-suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "technology-services",
+    "housing_profile": "professional-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "orlando-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Longwood",
+    "slug": "longwood-fl",
+    "county": "Seminole County",
+    "population": 16000,
+    "zip_codes": [
+      "32750",
+      "32779"
+    ],
+    "landmarks": [
+      "Historic Longwood",
+      "Reiter Park",
+      "Wekiva Springs Area",
+      "Longwood SunRail Station",
+      "Candyland Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lake Mary",
+        "slug": "lake-mary-fl"
+      },
+      {
+        "name": "Altamonte Springs",
+        "slug": "altamonte-springs-fl"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-fl"
+      },
+      {
+        "name": "Apopka",
+        "slug": "apopka-fl"
+      },
+      {
+        "name": "Orlando",
+        "slug": "orlando-fl"
+      }
+    ],
+    "city_type": "historic-suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "services-retail",
+    "housing_profile": "family-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "orlando-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Maitland",
+    "slug": "maitland-fl",
+    "county": "Orange County",
+    "population": 21000,
+    "zip_codes": [
+      "32751"
+    ],
+    "landmarks": [
+      "Lake Lily Park",
+      "Enzian Theater",
+      "Maitland Art Center",
+      "Maitland City Centre",
+      "Independence Square"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Orlando",
+        "slug": "orlando-fl"
+      },
+      {
+        "name": "Winter Park",
+        "slug": "winter-park-fl"
+      },
+      {
+        "name": "Altamonte Springs",
+        "slug": "altamonte-springs-fl"
+      },
+      {
+        "name": "Longwood",
+        "slug": "longwood-fl"
+      },
+      {
+        "name": "Apopka",
+        "slug": "apopka-fl"
+      }
+    ],
+    "city_type": "professional-services-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "finance-services",
+    "housing_profile": "professional-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "orlando-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Winter Garden",
+    "slug": "winter-garden-fl",
+    "county": "Orange County",
+    "population": 50000,
+    "zip_codes": [
+      "34787"
+    ],
+    "landmarks": [
+      "Plant Street",
+      "West Orange Trail",
+      "Downtown Winter Garden",
+      "Crooked Can Brewery",
+      "Newton Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ocoee",
+        "slug": "ocoee-fl"
+      },
+      {
+        "name": "Clermont",
+        "slug": "clermont-fl"
+      },
+      {
+        "name": "Orlando",
+        "slug": "orlando-fl"
+      },
+      {
+        "name": "Apopka",
+        "slug": "apopka-fl"
+      },
+      {
+        "name": "Windermere",
+        "slug": "windermere-fl"
+      }
+    ],
+    "city_type": "historic-growth-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "retail-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "orlando-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Cutler Bay",
+    "slug": "cutler-bay-fl",
+    "county": "Miami-Dade County",
+    "population": 46000,
+    "zip_codes": [
+      "33157",
+      "33189",
+      "33190"
+    ],
+    "landmarks": [
+      "Black Point Marina",
+      "Cutler Ridge Park",
+      "Lakes by the Bay",
+      "Whispering Pines Park",
+      "Southland Mall Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Homestead",
+        "slug": "homestead-fl"
+      },
+      {
+        "name": "Miami",
+        "slug": "miami-fl"
+      },
+      {
+        "name": "Palmetto Bay",
+        "slug": "palmetto-bay-fl"
+      },
+      {
+        "name": "Pinecrest",
+        "slug": "pinecrest-fl"
+      },
+      {
+        "name": "Florida City",
+        "slug": "florida-city-fl"
+      }
+    ],
+    "city_type": "south-miami-suburban-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "The Villages",
+    "slug": "the-villages-fl",
+    "county": "Sumter County",
+    "population": 86000,
+    "zip_codes": [
+      "32162",
+      "32163"
+    ],
+    "landmarks": [
+      "Spanish Springs Town Square",
+      "Lake Sumter Landing",
+      "Brownwood Paddock Square",
+      "Sharon Rose Wiechens Preserve",
+      "The Villages Polo Club"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ocala",
+        "slug": "ocala-fl"
+      },
+      {
+        "name": "Lady Lake",
+        "slug": "lady-lake-fl"
+      },
+      {
+        "name": "Leesburg",
+        "slug": "leesburg-fl"
+      },
+      {
+        "name": "Wildwood",
+        "slug": "wildwood-fl"
+      },
+      {
+        "name": "Fruitland Park",
+        "slug": "fruitland-park-fl"
+      }
+    ],
+    "city_type": "active-adult-community",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-lowlands",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "retirement-residential",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "central-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Land O Lakes",
+    "slug": "land-o-lakes-fl",
+    "county": "Pasco County",
+    "population": 38000,
+    "zip_codes": [
+      "34637",
+      "34638",
+      "34639"
+    ],
+    "landmarks": [
+      "Conner Preserve",
+      "Land O Lakes Recreation Complex",
+      "Lake Padgett",
+      "Collier Parkway Corridor",
+      "Central Pasco District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wesley Chapel",
+        "slug": "wesley-chapel-fl"
+      },
+      {
+        "name": "Lutz",
+        "slug": "lutz-fl"
+      },
+      {
+        "name": "Spring Hill",
+        "slug": "spring-hill-fl"
+      },
+      {
+        "name": "Tampa",
+        "slug": "tampa-fl"
+      },
+      {
+        "name": "Zephyrhills",
+        "slug": "zephyrhills-fl"
+      }
+    ],
+    "city_type": "suburban-growth-community",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-lowlands",
+    "economy_type": "services-construction",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "tampa-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "New Port Richey",
+    "slug": "new-port-richey-fl",
+    "county": "Pasco County",
+    "population": 21000,
+    "zip_codes": [
+      "34652",
+      "34653",
+      "34654",
+      "34655"
+    ],
+    "landmarks": [
+      "Sims Park",
+      "Pithlachascotee River",
+      "Downtown New Port Richey",
+      "James E. Grey Preserve",
+      "Richey Suncoast Theatre"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Spring Hill",
+        "slug": "spring-hill-fl"
+      },
+      {
+        "name": "Hudson",
+        "slug": "hudson-fl"
+      },
+      {
+        "name": "Tarpon Springs",
+        "slug": "tarpon-springs-fl"
+      },
+      {
+        "name": "Land O Lakes",
+        "slug": "land-o-lakes-fl"
+      },
+      {
+        "name": "Palm Harbor",
+        "slug": "palm-harbor-fl"
+      }
+    ],
+    "city_type": "riverfront-coastal-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-lowlands",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "pasco-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Zephyrhills",
+    "slug": "zephyrhills-fl",
+    "county": "Pasco County",
+    "population": 24000,
+    "zip_codes": [
+      "33540",
+      "33541",
+      "33542",
+      "33543"
+    ],
+    "landmarks": [
+      "Zephyr Park",
+      "Skydive City",
+      "Downtown Zephyrhills",
+      "Water Play Area",
+      "Historic Train Depot"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wesley Chapel",
+        "slug": "wesley-chapel-fl"
+      },
+      {
+        "name": "Land O Lakes",
+        "slug": "land-o-lakes-fl"
+      },
+      {
+        "name": "Plant City",
+        "slug": "plant-city-fl"
+      },
+      {
+        "name": "Lakeland",
+        "slug": "lakeland-fl"
+      },
+      {
+        "name": "Tampa",
+        "slug": "tampa-fl"
+      }
+    ],
+    "city_type": "growth-corridor-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-lowlands",
+    "economy_type": "services-logistics",
+    "housing_profile": "family-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "tampa-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Plant City",
+    "slug": "plant-city-fl",
+    "county": "Hillsborough County",
+    "population": 41000,
+    "zip_codes": [
+      "33563",
+      "33565",
+      "33566",
+      "33567"
+    ],
+    "landmarks": [
+      "Florida Strawberry Festival",
+      "Downtown Plant City",
+      "McCall Park",
+      "Plant City Stadium",
+      "Robert W. Willaford Railroad Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lakeland",
+        "slug": "lakeland-fl"
+      },
+      {
+        "name": "Brandon",
+        "slug": "brandon-fl"
+      },
+      {
+        "name": "Tampa",
+        "slug": "tampa-fl"
+      },
+      {
+        "name": "Zephyrhills",
+        "slug": "zephyrhills-fl"
+      },
+      {
+        "name": "Auburndale",
+        "slug": "auburndale-fl"
+      }
+    ],
+    "city_type": "agricultural-regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "inland-lowlands",
+    "economy_type": "agriculture-logistics",
+    "housing_profile": "family-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "tampa-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Valrico",
+    "slug": "valrico-fl",
+    "county": "Hillsborough County",
+    "population": 39000,
+    "zip_codes": [
+      "33594",
+      "33596"
+    ],
+    "landmarks": [
+      "Bloomingdale Golfers Club",
+      "Buckhorn Springs",
+      "Lithia Springs Access",
+      "Valrico Recreation Area",
+      "Bloomingdale Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Brandon",
+        "slug": "brandon-fl"
+      },
+      {
+        "name": "Riverview",
+        "slug": "riverview-fl"
+      },
+      {
+        "name": "Plant City",
+        "slug": "plant-city-fl"
+      },
+      {
+        "name": "Tampa",
+        "slug": "tampa-fl"
+      },
+      {
+        "name": "Lithia",
+        "slug": "lithia-fl"
+      }
+    ],
+    "city_type": "suburban-family-community",
+    "climate_zone": "humid-subtropical",
+    "terrain": "inland-lowlands",
+    "economy_type": "services-retail",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "tampa-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Lehigh Acres",
+    "slug": "lehigh-acres-fl",
+    "county": "Lee County",
+    "population": 125000,
+    "zip_codes": [
+      "33936",
+      "33971",
+      "33972",
+      "33973",
+      "33974",
+      "33976"
+    ],
+    "landmarks": [
+      "Veterans Park",
+      "Lehigh Community Park",
+      "Harns Marsh",
+      "Lehigh Acres Trailhead",
+      "Lee Boulevard Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fort Myers",
+        "slug": "fort-myers-fl"
+      },
+      {
+        "name": "Cape Coral",
+        "slug": "cape-coral-fl"
+      },
+      {
+        "name": "Estero",
+        "slug": "estero-fl"
+      },
+      {
+        "name": "Bonita Springs",
+        "slug": "bonita-springs-fl"
+      },
+      {
+        "name": "Immokalee",
+        "slug": "immokalee-fl"
+      }
+    ],
+    "city_type": "high-growth-residential-city",
+    "climate_zone": "tropical-savanna",
+    "terrain": "flat-lowlands",
+    "economy_type": "construction-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "southwest-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Estero",
+    "slug": "estero-fl",
+    "county": "Lee County",
+    "population": 39000,
+    "zip_codes": [
+      "33928"
+    ],
+    "landmarks": [
+      "Miromar Outlets",
+      "Koreshan State Park",
+      "Hertz Arena",
+      "Coconut Point",
+      "Florida Gulf Coast University"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fort Myers",
+        "slug": "fort-myers-fl"
+      },
+      {
+        "name": "Bonita Springs",
+        "slug": "bonita-springs-fl"
+      },
+      {
+        "name": "Naples",
+        "slug": "naples-fl"
+      },
+      {
+        "name": "Lehigh Acres",
+        "slug": "lehigh-acres-fl"
+      },
+      {
+        "name": "Cape Coral",
+        "slug": "cape-coral-fl"
+      }
+    ],
+    "city_type": "master-planned-community",
+    "climate_zone": "tropical-savanna",
+    "terrain": "coastal-lowlands",
+    "economy_type": "retail-education",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "southwest-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Bonita Springs",
+    "slug": "bonita-springs-fl",
+    "county": "Lee County",
+    "population": 61000,
+    "zip_codes": [
+      "34134",
+      "34135"
+    ],
+    "landmarks": [
+      "Bonita Beach",
+      "Riverside Park",
+      "Barefoot Beach",
+      "Promenade at Bonita Bay",
+      "Everglades Wonder Gardens"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Estero",
+        "slug": "estero-fl"
+      },
+      {
+        "name": "Fort Myers",
+        "slug": "fort-myers-fl"
+      },
+      {
+        "name": "Naples",
+        "slug": "naples-fl"
+      },
+      {
+        "name": "Lehigh Acres",
+        "slug": "lehigh-acres-fl"
+      },
+      {
+        "name": "Cape Coral",
+        "slug": "cape-coral-fl"
+      }
+    ],
+    "city_type": "coastal-lifestyle-city",
+    "climate_zone": "tropical-savanna",
+    "terrain": "coastal-waterfront",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "southwest-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Royal Palm Beach",
+    "slug": "royal-palm-beach-fl",
+    "county": "Palm Beach County",
+    "population": 41000,
+    "zip_codes": [
+      "33411"
+    ],
+    "landmarks": [
+      "Commons Park",
+      "Veterans Park",
+      "Royal Palm Beach Pines Preserve",
+      "Madison Green Golf Club",
+      "Crestwood Boulevard District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wellington",
+        "slug": "wellington-fl"
+      },
+      {
+        "name": "West Palm Beach",
+        "slug": "west-palm-beach-fl"
+      },
+      {
+        "name": "Lake Worth Beach",
+        "slug": "lake-worth-beach-fl"
+      },
+      {
+        "name": "Palm Beach Gardens",
+        "slug": "palm-beach-gardens-fl"
+      },
+      {
+        "name": "Greenacres",
+        "slug": "greenacres-fl"
+      }
+    ],
+    "city_type": "family-oriented-suburb",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "services-retail",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "palm-beach-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Greenacres",
+    "slug": "greenacres-fl",
+    "county": "Palm Beach County",
+    "population": 44000,
+    "zip_codes": [
+      "33413",
+      "33415",
+      "33463"
+    ],
+    "landmarks": [
+      "Okeeheelee Park",
+      "Samuel J. Ferreri Community Park",
+      "Greenacres Freedom Park",
+      "Greenacres Community Center",
+      "Jog Road Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lake Worth Beach",
+        "slug": "lake-worth-beach-fl"
+      },
+      {
+        "name": "Wellington",
+        "slug": "wellington-fl"
+      },
+      {
+        "name": "Royal Palm Beach",
+        "slug": "royal-palm-beach-fl"
+      },
+      {
+        "name": "West Palm Beach",
+        "slug": "west-palm-beach-fl"
+      },
+      {
+        "name": "Boynton Beach",
+        "slug": "boynton-beach-fl"
+      }
+    ],
+    "city_type": "family-suburban-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "services-retail",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "palm-beach-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Margate",
+    "slug": "margate-fl",
+    "county": "Broward County",
+    "population": 59000,
+    "zip_codes": [
+      "33063",
+      "33068",
+      "33073"
+    ],
+    "landmarks": [
+      "Calypso Cove",
+      "Firefighters Park",
+      "Oriole Golf Club",
+      "Margate Sports Complex",
+      "Coral Gate Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Coral Springs",
+        "slug": "coral-springs-fl"
+      },
+      {
+        "name": "Coconut Creek",
+        "slug": "coconut-creek-fl"
+      },
+      {
+        "name": "Tamarac",
+        "slug": "tamarac-fl"
+      },
+      {
+        "name": "Pompano Beach",
+        "slug": "pompano-beach-fl"
+      },
+      {
+        "name": "North Lauderdale",
+        "slug": "north-lauderdale-fl"
+      }
+    ],
+    "city_type": "broward-residential-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Parkland",
+    "slug": "parkland-fl",
+    "county": "Broward County",
+    "population": 37000,
+    "zip_codes": [
+      "33067",
+      "33076"
+    ],
+    "landmarks": [
+      "Pine Trails Park",
+      "Terramar Park",
+      "Parkland Golf & Country Club",
+      "Liberty Park",
+      "Equestrian Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Coral Springs",
+        "slug": "coral-springs-fl"
+      },
+      {
+        "name": "Coconut Creek",
+        "slug": "coconut-creek-fl"
+      },
+      {
+        "name": "Boca Raton",
+        "slug": "boca-raton-fl"
+      },
+      {
+        "name": "Deerfield Beach",
+        "slug": "deerfield-beach-fl"
+      },
+      {
+        "name": "Margate",
+        "slug": "margate-fl"
+      }
+    ],
+    "city_type": "affluent-master-planned-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Oakland Park",
+    "slug": "oakland-park-fl",
+    "county": "Broward County",
+    "population": 47000,
+    "zip_codes": [
+      "33309",
+      "33311",
+      "33334"
+    ],
+    "landmarks": [
+      "Jaco Pastorius Park",
+      "Downtown Culinary Arts District",
+      "Easterlin Park",
+      "Oakland Park Boulevard",
+      "Funky Buddha Brewery"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl"
+      },
+      {
+        "name": "Lauderhill",
+        "slug": "lauderhill-fl"
+      },
+      {
+        "name": "Pompano Beach",
+        "slug": "pompano-beach-fl"
+      },
+      {
+        "name": "Wilton Manors",
+        "slug": "wilton-manors-fl"
+      },
+      {
+        "name": "Tamarac",
+        "slug": "tamarac-fl"
+      }
+    ],
+    "city_type": "urban-redevelopment-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "urban-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Hallandale Beach",
+    "slug": "hallandale-beach-fl",
+    "county": "Broward County",
+    "population": 42000,
+    "zip_codes": [
+      "33009"
+    ],
+    "landmarks": [
+      "Gulfstream Park",
+      "Hallandale Beach Boulevard",
+      "South City Beach Park",
+      "Golden Isles",
+      "Joseph Scavo Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hollywood",
+        "slug": "hollywood-fl"
+      },
+      {
+        "name": "Aventura",
+        "slug": "aventura-fl"
+      },
+      {
+        "name": "North Miami Beach",
+        "slug": "north-miami-beach-fl"
+      },
+      {
+        "name": "Sunny Isles Beach",
+        "slug": "sunny-isles-beach-fl"
+      },
+      {
+        "name": "Miami Beach",
+        "slug": "miami-beach-fl"
+      }
+    ],
+    "city_type": "coastal-entertainment-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-waterfront",
+    "economy_type": "tourism-gaming",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "waterfront-growth",
+    "service_environment": "south-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Aventura",
+    "slug": "aventura-fl",
+    "county": "Miami-Dade County",
+    "population": 41000,
+    "zip_codes": [
+      "33160",
+      "33180"
+    ],
+    "landmarks": [
+      "Aventura Mall",
+      "Founders Park",
+      "Turnberry Isle",
+      "Waterways Marina",
+      "Aventura Arts Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Miami Beach",
+        "slug": "north-miami-beach-fl"
+      },
+      {
+        "name": "Hallandale Beach",
+        "slug": "hallandale-beach-fl"
+      },
+      {
+        "name": "Sunny Isles Beach",
+        "slug": "sunny-isles-beach-fl"
+      },
+      {
+        "name": "North Miami",
+        "slug": "north-miami-fl"
+      },
+      {
+        "name": "Miami Beach",
+        "slug": "miami-beach-fl"
+      }
+    ],
+    "city_type": "luxury-urban-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-waterfront",
+    "economy_type": "retail-finance",
+    "housing_profile": "high-density-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "miami-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "North Lauderdale",
+    "slug": "north-lauderdale-fl",
+    "county": "Broward County",
+    "population": 45000,
+    "zip_codes": [
+      "33068"
+    ],
+    "landmarks": [
+      "Hampton Pines Park",
+      "North Lauderdale Aquatic Center",
+      "Broadview Country Club Area",
+      "City Hall Complex",
+      "Veterans Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Margate",
+        "slug": "margate-fl"
+      },
+      {
+        "name": "Tamarac",
+        "slug": "tamarac-fl"
+      },
+      {
+        "name": "Coral Springs",
+        "slug": "coral-springs-fl"
+      },
+      {
+        "name": "Lauderhill",
+        "slug": "lauderhill-fl"
+      },
+      {
+        "name": "Coconut Creek",
+        "slug": "coconut-creek-fl"
+      }
+    ],
+    "city_type": "urban-residential-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "services-retail",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "broward-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Port St. Joe",
+    "slug": "port-st-joe-fl",
+    "county": "Gulf County",
+    "population": 22000,
+    "zip_codes": [
+      "32456"
+    ],
+    "landmarks": [
+      "Cape San Blas Access",
+      "George Core Park",
+      "Port St. Joe Marina",
+      "Constitution Convention Museum",
+      "Downtown Port St. Joe"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Panama City",
+        "slug": "panama-city-fl"
+      },
+      {
+        "name": "Mexico Beach",
+        "slug": "mexico-beach-fl"
+      },
+      {
+        "name": "Apalachicola",
+        "slug": "apalachicola-fl"
+      },
+      {
+        "name": "Wewahitchka",
+        "slug": "wewahitchka-fl"
+      },
+      {
+        "name": "Lynn Haven",
+        "slug": "lynn-haven-fl"
+      }
+    ],
+    "city_type": "gulf-coast-community",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-lowlands",
+    "economy_type": "tourism-marine-services",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "panhandle-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Panama City",
+    "slug": "panama-city-fl",
+    "county": "Bay County",
+    "population": 36000,
+    "zip_codes": [
+      "32401",
+      "32404",
+      "32405"
+    ],
+    "landmarks": [
+      "St. Andrews Marina",
+      "Downtown Panama City",
+      "Bay County Courthouse",
+      "Panama City Marina",
+      "McKenzie Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Panama City Beach",
+        "slug": "panama-city-beach-fl"
+      },
+      {
+        "name": "Lynn Haven",
+        "slug": "lynn-haven-fl"
+      },
+      {
+        "name": "Callaway",
+        "slug": "callaway-fl"
+      },
+      {
+        "name": "Port St. Joe",
+        "slug": "port-st-joe-fl"
+      },
+      {
+        "name": "Mexico Beach",
+        "slug": "mexico-beach-fl"
+      }
+    ],
+    "city_type": "panhandle-regional-hub",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-lowlands",
+    "economy_type": "healthcare-military",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "panhandle-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Panama City Beach",
+    "slug": "panama-city-beach-fl",
+    "county": "Bay County",
+    "population": 22000,
+    "zip_codes": [
+      "32407",
+      "32408",
+      "32413"
+    ],
+    "landmarks": [
+      "Pier Park",
+      "Russell-Fields Pier",
+      "Shipwreck Island",
+      "Frank Brown Park",
+      "Gulf World Marine Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Panama City",
+        "slug": "panama-city-fl"
+      },
+      {
+        "name": "Lynn Haven",
+        "slug": "lynn-haven-fl"
+      },
+      {
+        "name": "Callaway",
+        "slug": "callaway-fl"
+      },
+      {
+        "name": "Port St. Joe",
+        "slug": "port-st-joe-fl"
+      },
+      {
+        "name": "Santa Rosa Beach",
+        "slug": "santa-rosa-beach-fl"
+      }
+    ],
+    "city_type": "gulf-tourism-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-waterfront",
+    "economy_type": "tourism-hospitality",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "tourism-growth",
+    "service_environment": "panhandle-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Pensacola",
+    "slug": "pensacola-fl",
+    "county": "Escambia County",
+    "population": 55000,
+    "zip_codes": [
+      "32501",
+      "32502",
+      "32503",
+      "32504",
+      "32505",
+      "32507"
+    ],
+    "landmarks": [
+      "Pensacola Naval Air Station",
+      "Historic Pensacola Village",
+      "Pensacola Bay",
+      "Blue Wahoos Stadium",
+      "Palafox Street"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gulf Breeze",
+        "slug": "gulf-breeze-fl"
+      },
+      {
+        "name": "Milton",
+        "slug": "milton-fl"
+      },
+      {
+        "name": "Navarre",
+        "slug": "navarre-fl"
+      },
+      {
+        "name": "Pace",
+        "slug": "pace-fl"
+      },
+      {
+        "name": "Pensacola Beach",
+        "slug": "pensacola-beach-fl"
+      }
+    ],
+    "city_type": "military-coastal-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-lowlands",
+    "economy_type": "military-tourism",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "panhandle-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Fort Walton Beach",
+    "slug": "fort-walton-beach-fl",
+    "county": "Okaloosa County",
+    "population": 21000,
+    "zip_codes": [
+      "32547",
+      "32548"
+    ],
+    "landmarks": [
+      "Okaloosa Island",
+      "The Boardwalk",
+      "Fort Walton Landing",
+      "Indian Temple Mound Museum",
+      "Liza Jackson Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Destin",
+        "slug": "destin-fl"
+      },
+      {
+        "name": "Niceville",
+        "slug": "niceville-fl"
+      },
+      {
+        "name": "Crestview",
+        "slug": "crestview-fl"
+      },
+      {
+        "name": "Mary Esther",
+        "slug": "mary-esther-fl"
+      },
+      {
+        "name": "Navarre",
+        "slug": "navarre-fl"
+      }
+    ],
+    "city_type": "gulf-coast-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-waterfront",
+    "economy_type": "tourism-military",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "emerald-coast-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Navarre",
+    "slug": "navarre-fl",
+    "county": "Santa Rosa County",
+    "population": 42000,
+    "zip_codes": [
+      "32566"
+    ],
+    "landmarks": [
+      "Navarre Beach",
+      "Navarre Beach Marine Park",
+      "Navarre Park",
+      "Panhandle Butterfly House",
+      "Santa Rosa Sound"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pensacola",
+        "slug": "pensacola-fl"
+      },
+      {
+        "name": "Fort Walton Beach",
+        "slug": "fort-walton-beach-fl"
+      },
+      {
+        "name": "Gulf Breeze",
+        "slug": "gulf-breeze-fl"
+      },
+      {
+        "name": "Milton",
+        "slug": "milton-fl"
+      },
+      {
+        "name": "Destin",
+        "slug": "destin-fl"
+      }
+    ],
+    "city_type": "coastal-growth-community",
+    "climate_zone": "humid-subtropical",
+    "terrain": "coastal-waterfront",
+    "economy_type": "tourism-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "emerald-coast-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Crestview",
+    "slug": "crestview-fl",
+    "county": "Okaloosa County",
+    "population": 29000,
+    "zip_codes": [
+      "32536",
+      "32539"
+    ],
+    "landmarks": [
+      "Twin Hills Park",
+      "Main Street Crestview",
+      "Shoal River Area",
+      "Allen Park",
+      "North Okaloosa Medical Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fort Walton Beach",
+        "slug": "fort-walton-beach-fl"
+      },
+      {
+        "name": "Niceville",
+        "slug": "niceville-fl"
+      },
+      {
+        "name": "Destin",
+        "slug": "destin-fl"
+      },
+      {
+        "name": "Milton",
+        "slug": "milton-fl"
+      },
+      {
+        "name": "Pensacola",
+        "slug": "pensacola-fl"
+      }
+    ],
+    "city_type": "regional-service-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-lowlands",
+    "economy_type": "logistics-military",
+    "housing_profile": "family-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "emerald-coast-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Cape Canaveral",
+    "slug": "cape-canaveral-fl",
+    "county": "Brevard County",
+    "population": 12000,
+    "zip_codes": [
+      "32920"
+    ],
+    "landmarks": [
+      "Port Canaveral",
+      "Jetty Park",
+      "Cape Canaveral Lighthouse",
+      "Cherie Down Park",
+      "Space Coast Beaches"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cocoa Beach",
+        "slug": "cocoa-beach-fl"
+      },
+      {
+        "name": "Cocoa",
+        "slug": "cocoa-fl"
+      },
+      {
+        "name": "Rockledge",
+        "slug": "rockledge-fl"
+      },
+      {
+        "name": "Melbourne",
+        "slug": "melbourne-fl"
+      },
+      {
+        "name": "Palm Bay",
+        "slug": "palm-bay-fl"
+      }
+    ],
+    "city_type": "space-coast-port-city",
+    "climate_zone": "tropical-savanna",
+    "terrain": "coastal-waterfront",
+    "economy_type": "tourism-aerospace",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "space-coast-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Cocoa",
+    "slug": "cocoa-fl",
+    "county": "Brevard County",
+    "population": 21000,
+    "zip_codes": [
+      "32922",
+      "32926",
+      "32927"
+    ],
+    "landmarks": [
+      "Historic Cocoa Village",
+      "Riverfront Park",
+      "Brevard Museum",
+      "Indian River Lagoon",
+      "Cocoa Riverfront"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Melbourne",
+        "slug": "melbourne-fl"
+      },
+      {
+        "name": "Palm Bay",
+        "slug": "palm-bay-fl"
+      },
+      {
+        "name": "Rockledge",
+        "slug": "rockledge-fl"
+      },
+      {
+        "name": "Cape Canaveral",
+        "slug": "cape-canaveral-fl"
+      },
+      {
+        "name": "Cocoa Beach",
+        "slug": "cocoa-beach-fl"
+      }
+    ],
+    "city_type": "space-coast-river-city",
+    "climate_zone": "tropical-savanna",
+    "terrain": "riverfront-lowlands",
+    "economy_type": "aerospace-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "space-coast-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Rockledge",
+    "slug": "rockledge-fl",
+    "county": "Brevard County",
+    "population": 31000,
+    "zip_codes": [
+      "32955"
+    ],
+    "landmarks": [
+      "Rockledge Gardens",
+      "Barton Boulevard",
+      "McLarty Park",
+      "Riverwalk Area",
+      "Cocoa-Rockledge Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cocoa",
+        "slug": "cocoa-fl"
+      },
+      {
+        "name": "Melbourne",
+        "slug": "melbourne-fl"
+      },
+      {
+        "name": "Palm Bay",
+        "slug": "palm-bay-fl"
+      },
+      {
+        "name": "Cape Canaveral",
+        "slug": "cape-canaveral-fl"
+      },
+      {
+        "name": "Merritt Island",
+        "slug": "merritt-island-fl"
+      }
+    ],
+    "city_type": "space-coast-community",
+    "climate_zone": "tropical-savanna",
+    "terrain": "coastal-lowlands",
+    "economy_type": "healthcare-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "space-coast-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Palm Springs",
+    "slug": "palm-springs-fl",
+    "county": "Palm Beach County",
+    "population": 27000,
+    "zip_codes": [
+      "33461"
+    ],
+    "landmarks": [
+      "Village Center",
+      "Palm Springs Park",
+      "Lake Osborne Area",
+      "Congress Avenue Corridor",
+      "Community Recreation Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lake Worth Beach",
+        "slug": "lake-worth-beach-fl"
+      },
+      {
+        "name": "Greenacres",
+        "slug": "greenacres-fl"
+      },
+      {
+        "name": "West Palm Beach",
+        "slug": "west-palm-beach-fl"
+      },
+      {
+        "name": "Wellington",
+        "slug": "wellington-fl"
+      },
+      {
+        "name": "Boynton Beach",
+        "slug": "boynton-beach-fl"
+      }
+    ],
+    "city_type": "inner-suburban-city",
+    "climate_zone": "tropical-monsoon",
+    "terrain": "coastal-plain",
+    "economy_type": "services-retail",
+    "housing_profile": "family-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "palm-beach-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Pace",
+    "slug": "pace-fl",
+    "county": "Santa Rosa County",
+    "population": 26000,
+    "zip_codes": [
+      "32571"
+    ],
+    "landmarks": [
+      "Pace Patriots Park",
+      "Benny Russell Park",
+      "Woodbine Springs Area",
+      "Pace Community Center",
+      "Highway 90 Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pensacola",
+        "slug": "pensacola-fl"
+      },
+      {
+        "name": "Milton",
+        "slug": "milton-fl"
+      },
+      {
+        "name": "Navarre",
+        "slug": "navarre-fl"
+      },
+      {
+        "name": "Gulf Breeze",
+        "slug": "gulf-breeze-fl"
+      },
+      {
+        "name": "Crestview",
+        "slug": "crestview-fl"
+      }
+    ],
+    "city_type": "panhandle-growth-community",
+    "climate_zone": "humid-subtropical",
+    "terrain": "rolling-lowlands",
+    "economy_type": "services-construction",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "high-growth",
+    "service_environment": "panhandle-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Leesburg",
+    "slug": "leesburg-fl",
+    "county": "Lake County",
+    "population": 31000,
+    "zip_codes": [
+      "34748",
+      "34788"
+    ],
+    "landmarks": [
+      "Venetian Gardens",
+      "Lake Harris",
+      "Downtown Leesburg",
+      "UF Health Leesburg Hospital",
+      "Ski Beach Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "The Villages",
+        "slug": "the-villages-fl"
+      },
+      {
+        "name": "Tavares",
+        "slug": "tavares-fl"
+      },
+      {
+        "name": "Lady Lake",
+        "slug": "lady-lake-fl"
+      },
+      {
+        "name": "Fruitland Park",
+        "slug": "fruitland-park-fl"
+      },
+      {
+        "name": "Mount Dora",
+        "slug": "mount-dora-fl"
+      }
+    ],
+    "city_type": "lake-county-hub",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "central-florida-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Tavares",
+    "slug": "tavares-fl",
+    "county": "Lake County",
+    "population": 24000,
+    "zip_codes": [
+      "32778"
+    ],
+    "landmarks": [
+      "Wooton Park",
+      "Lake Dora",
+      "Seaplane Base",
+      "Downtown Tavares",
+      "Hickory Point Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Leesburg",
+        "slug": "leesburg-fl"
+      },
+      {
+        "name": "Mount Dora",
+        "slug": "mount-dora-fl"
+      },
+      {
+        "name": "Eustis",
+        "slug": "eustis-fl"
+      },
+      {
+        "name": "The Villages",
+        "slug": "the-villages-fl"
+      },
+      {
+        "name": "Lady Lake",
+        "slug": "lady-lake-fl"
+      }
+    ],
+    "city_type": "lakefront-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "lake-county-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Eustis",
+    "slug": "eustis-fl",
+    "county": "Lake County",
+    "population": 25000,
+    "zip_codes": [
+      "32726",
+      "32736"
+    ],
+    "landmarks": [
+      "Ferran Park",
+      "Lake Eustis",
+      "Historic Downtown",
+      "Trout Lake Nature Center",
+      "Eustis Lake Walk"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tavares",
+        "slug": "tavares-fl"
+      },
+      {
+        "name": "Mount Dora",
+        "slug": "mount-dora-fl"
+      },
+      {
+        "name": "Leesburg",
+        "slug": "leesburg-fl"
+      },
+      {
+        "name": "Umatilla",
+        "slug": "umatilla-fl"
+      },
+      {
+        "name": "The Villages",
+        "slug": "the-villages-fl"
+      }
+    ],
+    "city_type": "historic-lake-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "services-retail",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "lake-county-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Oviedo",
+    "slug": "oviedo-fl",
+    "county": "Seminole County",
+    "population": 42000,
+    "zip_codes": [
+      "32765",
+      "32766"
+    ],
+    "landmarks": [
+      "Oviedo on the Park",
+      "Center Lake Park",
+      "Black Hammock",
+      "Cross Seminole Trail",
+      "Historic Downtown Oviedo"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Orlando",
+        "slug": "orlando-fl"
+      },
+      {
+        "name": "Winter Springs",
+        "slug": "winter-springs-fl"
+      },
+      {
+        "name": "Casselberry",
+        "slug": "casselberry-fl"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-fl"
+      },
+      {
+        "name": "Maitland",
+        "slug": "maitland-fl"
+      }
+    ],
+    "city_type": "orlando-growth-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "education-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "high-growth",
+    "service_environment": "orlando-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Winter Springs",
+    "slug": "winter-springs-fl",
+    "county": "Seminole County",
+    "population": 39000,
+    "zip_codes": [
+      "32708"
+    ],
+    "landmarks": [
+      "Central Winds Park",
+      "Bear Creek Nature Trail",
+      "Trotwood Park",
+      "Winter Springs Town Center",
+      "Cross Seminole Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Oviedo",
+        "slug": "oviedo-fl"
+      },
+      {
+        "name": "Casselberry",
+        "slug": "casselberry-fl"
+      },
+      {
+        "name": "Longwood",
+        "slug": "longwood-fl"
+      },
+      {
+        "name": "Orlando",
+        "slug": "orlando-fl"
+      },
+      {
+        "name": "Sanford",
+        "slug": "sanford-fl"
+      }
+    ],
+    "city_type": "seminole-suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "services-retail",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "orlando-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  },
+  {
+    "city": "Casselberry",
+    "slug": "casselberry-fl",
+    "county": "Seminole County",
+    "population": 31000,
+    "zip_codes": [
+      "32707",
+      "32730"
+    ],
+    "landmarks": [
+      "Lake Concord Park",
+      "Secret Lake Park",
+      "Casselberry Golf Club",
+      "Art House",
+      "Downtown District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Winter Springs",
+        "slug": "winter-springs-fl"
+      },
+      {
+        "name": "Oviedo",
+        "slug": "oviedo-fl"
+      },
+      {
+        "name": "Altamonte Springs",
+        "slug": "altamonte-springs-fl"
+      },
+      {
+        "name": "Orlando",
+        "slug": "orlando-fl"
+      },
+      {
+        "name": "Maitland",
+        "slug": "maitland-fl"
+      }
+    ],
+    "city_type": "urban-suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "lake-region",
+    "economy_type": "retail-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "orlando-market",
+    "property_mix": "mixed-use",
+    "state": "FL"
+  }
+]

@@ -1,0 +1,1870 @@
+[
+  {
+    "city": "Providence",
+    "slug": "providence-ri",
+    "county": "Providence County",
+    "population": 190934,
+    "zip_codes": [
+      "02903",
+      "02904",
+      "02905",
+      "02906",
+      "02907",
+      "02908",
+      "02909"
+    ],
+    "landmarks": [
+      "Rhode Island State House",
+      "Waterplace Park",
+      "Roger Williams Park",
+      "Brown University",
+      "Providence Place"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cranston",
+        "slug": "cranston-ri"
+      },
+      {
+        "name": "East Providence",
+        "slug": "east-providence-ri"
+      },
+      {
+        "name": "Pawtucket",
+        "slug": "pawtucket-ri"
+      },
+      {
+        "name": "Johnston",
+        "slug": "johnston-ri"
+      },
+      {
+        "name": "Warwick",
+        "slug": "warwick-ri"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-plain",
+    "economy_type": "government-education",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "metro-providence",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Warwick",
+    "slug": "warwick-ri",
+    "county": "Kent County",
+    "population": 82823,
+    "zip_codes": [
+      "02886",
+      "02888",
+      "02889"
+    ],
+    "landmarks": [
+      "T.F. Green International Airport",
+      "Warwick City Park",
+      "Rocky Point State Park",
+      "Warwick Mall",
+      "Conimicut Point Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cranston",
+        "slug": "cranston-ri"
+      },
+      {
+        "name": "East Greenwich",
+        "slug": "east-greenwich-ri"
+      },
+      {
+        "name": "West Warwick",
+        "slug": "west-warwick-ri"
+      },
+      {
+        "name": "Providence",
+        "slug": "providence-ri"
+      },
+      {
+        "name": "North Kingstown",
+        "slug": "north-kingstown-ri"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-lowlands",
+    "economy_type": "services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-rhode-island",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Cranston",
+    "slug": "cranston-ri",
+    "county": "Providence County",
+    "population": 82934,
+    "zip_codes": [
+      "02910",
+      "02920",
+      "02921"
+    ],
+    "landmarks": [
+      "Garden City Center",
+      "Meshanticut State Park",
+      "Pawtuxet Village",
+      "Cranston Public Library",
+      "Roger Williams Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Providence",
+        "slug": "providence-ri"
+      },
+      {
+        "name": "Warwick",
+        "slug": "warwick-ri"
+      },
+      {
+        "name": "Johnston",
+        "slug": "johnston-ri"
+      },
+      {
+        "name": "West Warwick",
+        "slug": "west-warwick-ri"
+      },
+      {
+        "name": "East Providence",
+        "slug": "east-providence-ri"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "metro-providence",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Pawtucket",
+    "slug": "pawtucket-ri",
+    "county": "Providence County",
+    "population": 75955,
+    "zip_codes": [
+      "02860",
+      "02861"
+    ],
+    "landmarks": [
+      "Slater Mill",
+      "McCoy Stadium Site",
+      "Blackstone River",
+      "Pawtucket City Hall",
+      "Festival Pier"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Providence",
+        "slug": "providence-ri"
+      },
+      {
+        "name": "Central Falls",
+        "slug": "central-falls-ri"
+      },
+      {
+        "name": "East Providence",
+        "slug": "east-providence-ri"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ri"
+      },
+      {
+        "name": "Seekonk",
+        "slug": "seekonk-ma"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "blackstone-valley",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "East Providence",
+    "slug": "east-providence-ri",
+    "county": "Providence County",
+    "population": 47801,
+    "zip_codes": [
+      "02914",
+      "02915",
+      "02916"
+    ],
+    "landmarks": [
+      "Crescent Park",
+      "Bold Point Park",
+      "Pomham Rocks Lighthouse",
+      "East Bay Bike Path",
+      "Sabin Point Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Providence",
+        "slug": "providence-ri"
+      },
+      {
+        "name": "Pawtucket",
+        "slug": "pawtucket-ri"
+      },
+      {
+        "name": "Barrington",
+        "slug": "barrington-ri"
+      },
+      {
+        "name": "Riverside",
+        "slug": "riverside-ri"
+      },
+      {
+        "name": "Cranston",
+        "slug": "cranston-ri"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-plain",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-bay",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Woonsocket",
+    "slug": "woonsocket-ri",
+    "county": "Providence County",
+    "population": 43477,
+    "zip_codes": [
+      "02895"
+    ],
+    "landmarks": [
+      "Museum of Work and Culture",
+      "River Island Art Park",
+      "World War II Veterans Memorial State Park",
+      "St. Ann Arts and Cultural Center",
+      "Blackstone River Bikeway"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Smithfield",
+        "slug": "north-smithfield-ri"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ri"
+      },
+      {
+        "name": "Cumberland",
+        "slug": "cumberland-ri"
+      },
+      {
+        "name": "Burrillville",
+        "slug": "burrillville-ri"
+      },
+      {
+        "name": "Blackstone",
+        "slug": "blackstone-ma"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "healthcare-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "blackstone-valley",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Newport",
+    "slug": "newport-ri",
+    "county": "Newport County",
+    "population": 24672,
+    "zip_codes": [
+      "02840"
+    ],
+    "landmarks": [
+      "The Breakers",
+      "Cliff Walk",
+      "Fort Adams State Park",
+      "Bowen's Wharf",
+      "International Tennis Hall of Fame"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Middletown",
+        "slug": "middletown-ri"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-ri"
+      },
+      {
+        "name": "Jamestown",
+        "slug": "jamestown-ri"
+      },
+      {
+        "name": "Tiverton",
+        "slug": "tiverton-ri"
+      },
+      {
+        "name": "Bristol",
+        "slug": "bristol-ri"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-peninsula",
+    "economy_type": "tourism",
+    "housing_profile": "historic-coastal",
+    "growth_pattern": "seasonal-growth",
+    "service_environment": "aquidneck-island",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Central Falls",
+    "slug": "central-falls-ri",
+    "county": "Providence County",
+    "population": 22743,
+    "zip_codes": [
+      "02863"
+    ],
+    "landmarks": [
+      "Jenks Park",
+      "Central Falls City Hall",
+      "Blackstone River",
+      "Veterans Memorial Park",
+      "Central Falls Landing"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Pawtucket",
+        "slug": "pawtucket-ri"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ri"
+      },
+      {
+        "name": "Cumberland",
+        "slug": "cumberland-ri"
+      },
+      {
+        "name": "Providence",
+        "slug": "providence-ri"
+      },
+      {
+        "name": "Attleboro",
+        "slug": "attleboro-ma"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "urban-services",
+    "housing_profile": "high-density-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "metro-providence",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "North Providence",
+    "slug": "north-providence-ri",
+    "county": "Providence County",
+    "population": 34208,
+    "zip_codes": [
+      "02904",
+      "02911"
+    ],
+    "landmarks": [
+      "Governor Notte Park",
+      "Centredale Manor",
+      "Wanskuck Reservoir",
+      "Fruit Hill Park",
+      "North Providence Town Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Providence",
+        "slug": "providence-ri"
+      },
+      {
+        "name": "Johnston",
+        "slug": "johnston-ri"
+      },
+      {
+        "name": "Smithfield",
+        "slug": "smithfield-ri"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ri"
+      },
+      {
+        "name": "Pawtucket",
+        "slug": "pawtucket-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "metro-providence",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Cumberland",
+    "slug": "cumberland-ri",
+    "county": "Providence County",
+    "population": 36500,
+    "zip_codes": [
+      "02864"
+    ],
+    "landmarks": [
+      "Diamond Hill State Park",
+      "Monastery Grounds",
+      "Blackstone River",
+      "Cumberland Public Library",
+      "Arnold Mills Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ri"
+      },
+      {
+        "name": "Woonsocket",
+        "slug": "woonsocket-ri"
+      },
+      {
+        "name": "North Smithfield",
+        "slug": "north-smithfield-ri"
+      },
+      {
+        "name": "Pawtucket",
+        "slug": "pawtucket-ri"
+      },
+      {
+        "name": "Attleboro",
+        "slug": "attleboro-ma"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "residential-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "blackstone-valley",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Lincoln",
+    "slug": "lincoln-ri",
+    "county": "Providence County",
+    "population": 22995,
+    "zip_codes": [
+      "02802",
+      "02838",
+      "02865"
+    ],
+    "landmarks": [
+      "Lincoln Woods State Park",
+      "Twin River Casino Hotel",
+      "Blackstone River Bikeway",
+      "Chase Farm Park",
+      "Hearthside House Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cumberland",
+        "slug": "cumberland-ri"
+      },
+      {
+        "name": "North Providence",
+        "slug": "north-providence-ri"
+      },
+      {
+        "name": "Pawtucket",
+        "slug": "pawtucket-ri"
+      },
+      {
+        "name": "Smithfield",
+        "slug": "smithfield-ri"
+      },
+      {
+        "name": "Central Falls",
+        "slug": "central-falls-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "blackstone-valley",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Johnston",
+    "slug": "johnston-ri",
+    "county": "Providence County",
+    "population": 29746,
+    "zip_codes": [
+      "02919"
+    ],
+    "landmarks": [
+      "Snake Den State Park",
+      "Johnston Memorial Park",
+      "Johnston War Memorial",
+      "Clemence-Irons House",
+      "Johnston Town Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Providence",
+        "slug": "providence-ri"
+      },
+      {
+        "name": "Cranston",
+        "slug": "cranston-ri"
+      },
+      {
+        "name": "North Providence",
+        "slug": "north-providence-ri"
+      },
+      {
+        "name": "Smithfield",
+        "slug": "smithfield-ri"
+      },
+      {
+        "name": "Scituate",
+        "slug": "scituate-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "metro-providence",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "North Kingstown",
+    "slug": "north-kingstown-ri",
+    "county": "Washington County",
+    "population": 27200,
+    "zip_codes": [
+      "02852",
+      "02874"
+    ],
+    "landmarks": [
+      "Quonset Business Park",
+      "Wilson Park",
+      "Wickford Harbor",
+      "Casey Farm",
+      "North Kingstown Town Beach"
+    ],
+    "nearby_cities": [
+      {
+        "name": "East Greenwich",
+        "slug": "east-greenwich-ri"
+      },
+      {
+        "name": "Warwick",
+        "slug": "warwick-ri"
+      },
+      {
+        "name": "Jamestown",
+        "slug": "jamestown-ri"
+      },
+      {
+        "name": "Exeter",
+        "slug": "exeter-ri"
+      },
+      {
+        "name": "South Kingstown",
+        "slug": "south-kingstown-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-lowlands",
+    "economy_type": "marine-industry",
+    "housing_profile": "suburban-coastal",
+    "growth_pattern": "steady-growth",
+    "service_environment": "narragansett-bay",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "South Kingstown",
+    "slug": "south-kingstown-ri",
+    "county": "Washington County",
+    "population": 31685,
+    "zip_codes": [
+      "02879",
+      "02881",
+      "02883"
+    ],
+    "landmarks": [
+      "University of Rhode Island",
+      "East Matunuck State Beach",
+      "South County Museum",
+      "Kinney Azalea Gardens",
+      "Kingston Village"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Narragansett",
+        "slug": "narragansett-ri"
+      },
+      {
+        "name": "North Kingstown",
+        "slug": "north-kingstown-ri"
+      },
+      {
+        "name": "Charlestown",
+        "slug": "charlestown-ri"
+      },
+      {
+        "name": "Richmond",
+        "slug": "richmond-ri"
+      },
+      {
+        "name": "Exeter",
+        "slug": "exeter-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-plain",
+    "economy_type": "education-tourism",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-county",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "West Warwick",
+    "slug": "west-warwick-ri",
+    "county": "Kent County",
+    "population": 31300,
+    "zip_codes": [
+      "02893"
+    ],
+    "landmarks": [
+      "Riverpoint Park",
+      "Arctic Village Historic District",
+      "Pawtuxet River",
+      "West Warwick Civic Center",
+      "Veterans Memorial Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Warwick",
+        "slug": "warwick-ri"
+      },
+      {
+        "name": "Coventry",
+        "slug": "coventry-ri"
+      },
+      {
+        "name": "East Greenwich",
+        "slug": "east-greenwich-ri"
+      },
+      {
+        "name": "Cranston",
+        "slug": "cranston-ri"
+      },
+      {
+        "name": "West Greenwich",
+        "slug": "west-greenwich-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-rhode-island",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Narragansett",
+    "slug": "narragansett-ri",
+    "county": "Washington County",
+    "population": 14798,
+    "zip_codes": [
+      "02882"
+    ],
+    "landmarks": [
+      "Narragansett Town Beach",
+      "The Towers",
+      "Point Judith Lighthouse",
+      "Scarborough State Beach",
+      "Black Point Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "South Kingstown",
+        "slug": "south-kingstown-ri"
+      },
+      {
+        "name": "North Kingstown",
+        "slug": "north-kingstown-ri"
+      },
+      {
+        "name": "Jamestown",
+        "slug": "jamestown-ri"
+      },
+      {
+        "name": "Newport",
+        "slug": "newport-ri"
+      },
+      {
+        "name": "Charlestown",
+        "slug": "charlestown-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "seasonal-growth",
+    "service_environment": "south-county",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "East Greenwich",
+    "slug": "east-greenwich-ri",
+    "county": "Kent County",
+    "population": 14082,
+    "zip_codes": [
+      "02818"
+    ],
+    "landmarks": [
+      "Main Street Historic District",
+      "Goddard Memorial State Park",
+      "East Greenwich Marina",
+      "Academy Field",
+      "Scalloptown Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Warwick",
+        "slug": "warwick-ri"
+      },
+      {
+        "name": "North Kingstown",
+        "slug": "north-kingstown-ri"
+      },
+      {
+        "name": "West Warwick",
+        "slug": "west-warwick-ri"
+      },
+      {
+        "name": "Coventry",
+        "slug": "coventry-ri"
+      },
+      {
+        "name": "Cranston",
+        "slug": "cranston-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-lowlands",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-coastal",
+    "growth_pattern": "steady-growth",
+    "service_environment": "narragansett-bay",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Smithfield",
+    "slug": "smithfield-ri",
+    "county": "Providence County",
+    "population": 22050,
+    "zip_codes": [
+      "02828",
+      "02917"
+    ],
+    "landmarks": [
+      "Bryant University",
+      "Georgiaville Pond",
+      "Wolf Hill Forest Preserve",
+      "Deerfield Park",
+      "Smithfield Town Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Johnston",
+        "slug": "johnston-ri"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ri"
+      },
+      {
+        "name": "North Providence",
+        "slug": "north-providence-ri"
+      },
+      {
+        "name": "Glocester",
+        "slug": "glocester-ri"
+      },
+      {
+        "name": "Scituate",
+        "slug": "scituate-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "education-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "metro-providence",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Coventry",
+    "slug": "coventry-ri",
+    "county": "Kent County",
+    "population": 35410,
+    "zip_codes": [
+      "02816",
+      "02827"
+    ],
+    "landmarks": [
+      "Johnson's Pond",
+      "Washington Secondary Bike Path",
+      "Coventry Town Hall",
+      "Nathanael Greene Homestead",
+      "Carbuncle Pond"
+    ],
+    "nearby_cities": [
+      {
+        "name": "West Warwick",
+        "slug": "west-warwick-ri"
+      },
+      {
+        "name": "East Greenwich",
+        "slug": "east-greenwich-ri"
+      },
+      {
+        "name": "Warwick",
+        "slug": "warwick-ri"
+      },
+      {
+        "name": "West Greenwich",
+        "slug": "west-greenwich-ri"
+      },
+      {
+        "name": "Scituate",
+        "slug": "scituate-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-uplands",
+    "economy_type": "residential-services",
+    "housing_profile": "suburban-rural",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-rhode-island",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Portsmouth",
+    "slug": "portsmouth-ri",
+    "county": "Newport County",
+    "population": 17700,
+    "zip_codes": [
+      "02871"
+    ],
+    "landmarks": [
+      "Green Animals Topiary Garden",
+      "Prudence Island Ferry",
+      "Sakonnet River Bridge",
+      "Portsmouth Abbey",
+      "Melville Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Newport",
+        "slug": "newport-ri"
+      },
+      {
+        "name": "Middletown",
+        "slug": "middletown-ri"
+      },
+      {
+        "name": "Tiverton",
+        "slug": "tiverton-ri"
+      },
+      {
+        "name": "Bristol",
+        "slug": "bristol-ri"
+      },
+      {
+        "name": "Jamestown",
+        "slug": "jamestown-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-peninsula",
+    "economy_type": "marine-services",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "aquidneck-island",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Middletown",
+    "slug": "middletown-ri",
+    "county": "Newport County",
+    "population": 17075,
+    "zip_codes": [
+      "02842"
+    ],
+    "landmarks": [
+      "Sachuest Point National Wildlife Refuge",
+      "Second Beach",
+      "Paradise Valley Park",
+      "Newport Vineyards",
+      "Middletown Public Library"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Newport",
+        "slug": "newport-ri"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-ri"
+      },
+      {
+        "name": "Jamestown",
+        "slug": "jamestown-ri"
+      },
+      {
+        "name": "Tiverton",
+        "slug": "tiverton-ri"
+      },
+      {
+        "name": "Bristol",
+        "slug": "bristol-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "aquidneck-island",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Bristol",
+    "slug": "bristol-ri",
+    "county": "Bristol County",
+    "population": 22200,
+    "zip_codes": [
+      "02809"
+    ],
+    "landmarks": [
+      "Colt State Park",
+      "Blithewold Mansion",
+      "Bristol Harbor",
+      "Herreshoff Marine Museum",
+      "East Bay Bike Path"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Barrington",
+        "slug": "barrington-ri"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-ri"
+      },
+      {
+        "name": "Tiverton",
+        "slug": "tiverton-ri"
+      },
+      {
+        "name": "Warren",
+        "slug": "warren-ri"
+      },
+      {
+        "name": "Newport",
+        "slug": "newport-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-peninsula",
+    "economy_type": "tourism-maritime",
+    "housing_profile": "historic-coastal",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-bay",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Barrington",
+    "slug": "barrington-ri",
+    "county": "Bristol County",
+    "population": 17200,
+    "zip_codes": [
+      "02806"
+    ],
+    "landmarks": [
+      "Haines Memorial State Park",
+      "Barrington Beach",
+      "Nayatt Point",
+      "East Bay Bike Path",
+      "Barrington Town Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "East Providence",
+        "slug": "east-providence-ri"
+      },
+      {
+        "name": "Bristol",
+        "slug": "bristol-ri"
+      },
+      {
+        "name": "Warren",
+        "slug": "warren-ri"
+      },
+      {
+        "name": "Riverside",
+        "slug": "riverside-ri"
+      },
+      {
+        "name": "Providence",
+        "slug": "providence-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-lowlands",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-coastal",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-bay",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Tiverton",
+    "slug": "tiverton-ri",
+    "county": "Newport County",
+    "population": 16250,
+    "zip_codes": [
+      "02878"
+    ],
+    "landmarks": [
+      "Fort Barton",
+      "Fogland Beach",
+      "Grinnell's Beach",
+      "Tiverton Four Corners",
+      "Weetamoo Woods"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-ri"
+      },
+      {
+        "name": "Little Compton",
+        "slug": "little-compton-ri"
+      },
+      {
+        "name": "Middletown",
+        "slug": "middletown-ri"
+      },
+      {
+        "name": "Bristol",
+        "slug": "bristol-ri"
+      },
+      {
+        "name": "Fall River",
+        "slug": "fall-river-ma"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-highlands",
+    "economy_type": "agriculture-tourism",
+    "housing_profile": "rural-coastal",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-bay",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Jamestown",
+    "slug": "jamestown-ri",
+    "county": "Newport County",
+    "population": 5550,
+    "zip_codes": [
+      "02835"
+    ],
+    "landmarks": [
+      "Beavertail State Park",
+      "Fort Wetherill State Park",
+      "Jamestown Windmill",
+      "Conanicut Island",
+      "Jamestown Harbor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Newport",
+        "slug": "newport-ri"
+      },
+      {
+        "name": "Middletown",
+        "slug": "middletown-ri"
+      },
+      {
+        "name": "North Kingstown",
+        "slug": "north-kingstown-ri"
+      },
+      {
+        "name": "Narragansett",
+        "slug": "narragansett-ri"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "island-coastal",
+    "economy_type": "tourism",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "seasonal-growth",
+    "service_environment": "narragansett-bay",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Warren",
+    "slug": "warren-ri",
+    "county": "Bristol County",
+    "population": 10900,
+    "zip_codes": [
+      "02885"
+    ],
+    "landmarks": [
+      "Warren Town Beach",
+      "Touisset Point",
+      "East Bay Bike Path",
+      "Burr's Hill Park",
+      "Warren Waterfront"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bristol",
+        "slug": "bristol-ri"
+      },
+      {
+        "name": "Barrington",
+        "slug": "barrington-ri"
+      },
+      {
+        "name": "Swansea",
+        "slug": "swansea-ma"
+      },
+      {
+        "name": "East Providence",
+        "slug": "east-providence-ri"
+      },
+      {
+        "name": "Tiverton",
+        "slug": "tiverton-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-lowlands",
+    "economy_type": "maritime-services",
+    "housing_profile": "historic-coastal",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-bay",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Little Compton",
+    "slug": "little-compton-ri",
+    "county": "Newport County",
+    "population": 3590,
+    "zip_codes": [
+      "02837"
+    ],
+    "landmarks": [
+      "Goosewing Beach Preserve",
+      "Sakonnet Point",
+      "Wilbor House Museum",
+      "South Shore Beach",
+      "Little Compton Commons"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tiverton",
+        "slug": "tiverton-ri"
+      },
+      {
+        "name": "Portsmouth",
+        "slug": "portsmouth-ri"
+      },
+      {
+        "name": "Middletown",
+        "slug": "middletown-ri"
+      },
+      {
+        "name": "Westport",
+        "slug": "westport-ma"
+      },
+      {
+        "name": "Newport",
+        "slug": "newport-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-farmland",
+    "economy_type": "agriculture-tourism",
+    "housing_profile": "rural-coastal",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-bay",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Charlestown",
+    "slug": "charlestown-ri",
+    "county": "Washington County",
+    "population": 7890,
+    "zip_codes": [
+      "02813"
+    ],
+    "landmarks": [
+      "Charlestown Breachway",
+      "Ninigret National Wildlife Refuge",
+      "East Beach",
+      "Ninigret Park",
+      "Frosty Drew Observatory"
+    ],
+    "nearby_cities": [
+      {
+        "name": "South Kingstown",
+        "slug": "south-kingstown-ri"
+      },
+      {
+        "name": "Richmond",
+        "slug": "richmond-ri"
+      },
+      {
+        "name": "Westerly",
+        "slug": "westerly-ri"
+      },
+      {
+        "name": "Narragansett",
+        "slug": "narragansett-ri"
+      },
+      {
+        "name": "Hopkinton",
+        "slug": "hopkinton-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "seasonal-growth",
+    "service_environment": "south-county",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Richmond",
+    "slug": "richmond-ri",
+    "county": "Washington County",
+    "population": 8100,
+    "zip_codes": [
+      "02812",
+      "02832",
+      "02892",
+      "02898"
+    ],
+    "landmarks": [
+      "Arcadia Management Area",
+      "Richmond Country Club",
+      "Wood River",
+      "Richmond Town Hall",
+      "Meadowbrook Golf Course"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Charlestown",
+        "slug": "charlestown-ri"
+      },
+      {
+        "name": "Exeter",
+        "slug": "exeter-ri"
+      },
+      {
+        "name": "Hopkinton",
+        "slug": "hopkinton-ri"
+      },
+      {
+        "name": "South Kingstown",
+        "slug": "south-kingstown-ri"
+      },
+      {
+        "name": "West Greenwich",
+        "slug": "west-greenwich-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-uplands",
+    "economy_type": "residential-services",
+    "housing_profile": "rural-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "south-county",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Exeter",
+    "slug": "exeter-ri",
+    "county": "Washington County",
+    "population": 6700,
+    "zip_codes": [
+      "02822"
+    ],
+    "landmarks": [
+      "Arcadia Management Area",
+      "Fisherville Brook Wildlife Refuge",
+      "Yawgoo Valley",
+      "Exeter Town Hall",
+      "Queen's River Preserve"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Richmond",
+        "slug": "richmond-ri"
+      },
+      {
+        "name": "West Greenwich",
+        "slug": "west-greenwich-ri"
+      },
+      {
+        "name": "North Kingstown",
+        "slug": "north-kingstown-ri"
+      },
+      {
+        "name": "South Kingstown",
+        "slug": "south-kingstown-ri"
+      },
+      {
+        "name": "East Greenwich",
+        "slug": "east-greenwich-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-uplands",
+    "economy_type": "rural-services",
+    "housing_profile": "rural-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "south-county",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Westerly",
+    "slug": "westerly-ri",
+    "county": "Washington County",
+    "population": 23230,
+    "zip_codes": [
+      "02891"
+    ],
+    "landmarks": [
+      "Misquamicut State Beach",
+      "Watch Hill Lighthouse",
+      "Wilcox Park",
+      "Napatree Point Conservation Area",
+      "Westerly Library and Wilcox Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hopkinton",
+        "slug": "hopkinton-ri"
+      },
+      {
+        "name": "Charlestown",
+        "slug": "charlestown-ri"
+      },
+      {
+        "name": "Richmond",
+        "slug": "richmond-ri"
+      },
+      {
+        "name": "Stonington",
+        "slug": "stonington-ct"
+      },
+      {
+        "name": "Groton",
+        "slug": "groton-ct"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "coastal-plain",
+    "economy_type": "tourism",
+    "housing_profile": "coastal-residential",
+    "growth_pattern": "seasonal-growth",
+    "service_environment": "south-county",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Hopkinton",
+    "slug": "hopkinton-ri",
+    "county": "Washington County",
+    "population": 8600,
+    "zip_codes": [
+      "02804",
+      "02808",
+      "02833"
+    ],
+    "landmarks": [
+      "Arcadia Management Area",
+      "Canonchet Brook Preserve",
+      "Wood River",
+      "Hopkinton Town Hall",
+      "Carolina Management Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Richmond",
+        "slug": "richmond-ri"
+      },
+      {
+        "name": "Charlestown",
+        "slug": "charlestown-ri"
+      },
+      {
+        "name": "Westerly",
+        "slug": "westerly-ri"
+      },
+      {
+        "name": "Exeter",
+        "slug": "exeter-ri"
+      },
+      {
+        "name": "West Greenwich",
+        "slug": "west-greenwich-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-uplands",
+    "economy_type": "rural-services",
+    "housing_profile": "rural-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "south-county",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Scituate",
+    "slug": "scituate-ri",
+    "county": "Providence County",
+    "population": 10680,
+    "zip_codes": [
+      "02815",
+      "02825",
+      "02831",
+      "02857"
+    ],
+    "landmarks": [
+      "Scituate Reservoir",
+      "Scituate Town Hall",
+      "Hope Village Historic District",
+      "Ponaganset Falls",
+      "North Scituate Village"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Johnston",
+        "slug": "johnston-ri"
+      },
+      {
+        "name": "Smithfield",
+        "slug": "smithfield-ri"
+      },
+      {
+        "name": "Coventry",
+        "slug": "coventry-ri"
+      },
+      {
+        "name": "Glocester",
+        "slug": "glocester-ri"
+      },
+      {
+        "name": "Foster",
+        "slug": "foster-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "residential-services",
+    "housing_profile": "rural-suburban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northwest-rhode-island",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Glocester",
+    "slug": "glocester-ri",
+    "county": "Providence County",
+    "population": 10310,
+    "zip_codes": [
+      "02814",
+      "02829",
+      "02857"
+    ],
+    "landmarks": [
+      "Pulaski State Park",
+      "George Washington Management Area",
+      "Chepachet Village",
+      "Harmony Village",
+      "Hawkins Pond"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Scituate",
+        "slug": "scituate-ri"
+      },
+      {
+        "name": "Burrillville",
+        "slug": "burrillville-ri"
+      },
+      {
+        "name": "Smithfield",
+        "slug": "smithfield-ri"
+      },
+      {
+        "name": "Foster",
+        "slug": "foster-ri"
+      },
+      {
+        "name": "Johnston",
+        "slug": "johnston-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-highlands",
+    "economy_type": "rural-services",
+    "housing_profile": "rural-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northwest-rhode-island",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Burrillville",
+    "slug": "burrillville-ri",
+    "county": "Providence County",
+    "population": 17020,
+    "zip_codes": [
+      "02826",
+      "02830",
+      "02839",
+      "02858",
+      "02859"
+    ],
+    "landmarks": [
+      "Spring Lake Beach",
+      "Buck Hill Management Area",
+      "Branch River",
+      "Burrillville Town Hall",
+      "Oakland Village Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Glocester",
+        "slug": "glocester-ri"
+      },
+      {
+        "name": "North Smithfield",
+        "slug": "north-smithfield-ri"
+      },
+      {
+        "name": "Woonsocket",
+        "slug": "woonsocket-ri"
+      },
+      {
+        "name": "Foster",
+        "slug": "foster-ri"
+      },
+      {
+        "name": "Douglas",
+        "slug": "douglas-ma"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-highlands",
+    "economy_type": "light-industrial",
+    "housing_profile": "rural-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "blackstone-valley",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "North Smithfield",
+    "slug": "north-smithfield-ri",
+    "county": "Providence County",
+    "population": 12790,
+    "zip_codes": [
+      "02896"
+    ],
+    "landmarks": [
+      "Slatersville Historic District",
+      "Branch River Park",
+      "Stump Pond",
+      "North Smithfield Heritage Hall",
+      "World War II Veterans Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Woonsocket",
+        "slug": "woonsocket-ri"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ri"
+      },
+      {
+        "name": "Cumberland",
+        "slug": "cumberland-ri"
+      },
+      {
+        "name": "Burrillville",
+        "slug": "burrillville-ri"
+      },
+      {
+        "name": "Uxbridge",
+        "slug": "uxbridge-ma"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "light-industrial",
+    "housing_profile": "suburban-rural",
+    "growth_pattern": "stable-growth",
+    "service_environment": "blackstone-valley",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "Foster",
+    "slug": "foster-ri",
+    "county": "Providence County",
+    "population": 4860,
+    "zip_codes": [
+      "02825"
+    ],
+    "landmarks": [
+      "Swamp Meadow Covered Bridge",
+      "Jerimoth Hill",
+      "Nicholas Farm Management Area",
+      "Foster Town House",
+      "Ponaganset Reservoir"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Scituate",
+        "slug": "scituate-ri"
+      },
+      {
+        "name": "Glocester",
+        "slug": "glocester-ri"
+      },
+      {
+        "name": "Burrillville",
+        "slug": "burrillville-ri"
+      },
+      {
+        "name": "Coventry",
+        "slug": "coventry-ri"
+      },
+      {
+        "name": "West Greenwich",
+        "slug": "west-greenwich-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-highlands",
+    "economy_type": "agriculture",
+    "housing_profile": "rural-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northwest-rhode-island",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "West Greenwich",
+    "slug": "west-greenwich-ri",
+    "county": "Kent County",
+    "population": 6650,
+    "zip_codes": [
+      "02817"
+    ],
+    "landmarks": [
+      "Big River Management Area",
+      "Stepstone Falls",
+      "Nooseneck Hill Road",
+      "West Greenwich Town Hall",
+      "Carr Pond"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Coventry",
+        "slug": "coventry-ri"
+      },
+      {
+        "name": "Exeter",
+        "slug": "exeter-ri"
+      },
+      {
+        "name": "Richmond",
+        "slug": "richmond-ri"
+      },
+      {
+        "name": "Hopkinton",
+        "slug": "hopkinton-ri"
+      },
+      {
+        "name": "East Greenwich",
+        "slug": "east-greenwich-ri"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "wooded-uplands",
+    "economy_type": "rural-services",
+    "housing_profile": "rural-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-rhode-island",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  },
+  {
+    "city": "New Shoreham",
+    "slug": "new-shoreham-ri",
+    "county": "Washington County",
+    "population": 1410,
+    "zip_codes": [
+      "02807"
+    ],
+    "landmarks": [
+      "Mohegan Bluffs",
+      "Southeast Lighthouse",
+      "Block Island National Wildlife Refuge",
+      "Old Harbor",
+      "Crescent Beach"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Narragansett",
+        "slug": "narragansett-ri"
+      },
+      {
+        "name": "Charlestown",
+        "slug": "charlestown-ri"
+      },
+      {
+        "name": "Westerly",
+        "slug": "westerly-ri"
+      },
+      {
+        "name": "South Kingstown",
+        "slug": "south-kingstown-ri"
+      },
+      {
+        "name": "Montauk",
+        "slug": "montauk-ny"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-continental",
+    "terrain": "island-coastal",
+    "economy_type": "tourism",
+    "housing_profile": "island-residential",
+    "growth_pattern": "seasonal-growth",
+    "service_environment": "block-island",
+    "property_mix": "mixed-use",
+    "state": "RI"
+  }
+]

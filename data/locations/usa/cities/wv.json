@@ -1,0 +1,1427 @@
+[
+  {
+    "city": "Beckley",
+    "slug": "beckley-wv",
+    "county": "Raleigh County",
+    "population": 16700,
+    "zip_codes": [
+      "25801"
+    ],
+    "landmarks": [
+      "Beckley Exhibition Coal Mine",
+      "Tamarack Marketplace",
+      "New River Park",
+      "Youth Museum of Southern West Virginia",
+      "Raleigh County Veterans Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Oak Hill",
+        "slug": "oak-hill-wv"
+      },
+      {
+        "name": "Sophia",
+        "slug": "sophia-wv"
+      },
+      {
+        "name": "Crab Orchard",
+        "slug": "crab-orchard-wv"
+      },
+      {
+        "name": "Mabscott",
+        "slug": "mabscott-wv"
+      },
+      {
+        "name": "Fayetteville",
+        "slug": "fayetteville-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "appalachian-highlands",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southern-west-virginia",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Bluefield",
+    "slug": "bluefield-wv",
+    "county": "Mercer County",
+    "population": 9400,
+    "zip_codes": [
+      "24701"
+    ],
+    "landmarks": [
+      "East River Mountain Overlook",
+      "Bluefield City Park",
+      "Mitchell Stadium",
+      "Bluefield Arts Center",
+      "Lotito City Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Princeton",
+        "slug": "princeton-wv"
+      },
+      {
+        "name": "Bluefield",
+        "slug": "bluefield-va"
+      },
+      {
+        "name": "Athens",
+        "slug": "athens-wv"
+      },
+      {
+        "name": "Bramwell",
+        "slug": "bramwell-wv"
+      },
+      {
+        "name": "Welch",
+        "slug": "welch-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "appalachian-highlands",
+    "economy_type": "healthcare-education",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southern-west-virginia",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Bridgeport",
+    "slug": "bridgeport-wv",
+    "county": "Harrison County",
+    "population": 9100,
+    "zip_codes": [
+      "26330"
+    ],
+    "landmarks": [
+      "Bridgeport City Park",
+      "Meadowbrook Mall",
+      "Bridgeport Conference Center",
+      "Pete Dye Golf Club",
+      "Simpson Creek"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Clarksburg",
+        "slug": "clarksburg-wv"
+      },
+      {
+        "name": "Fairmont",
+        "slug": "fairmont-wv"
+      },
+      {
+        "name": "Anmoore",
+        "slug": "anmoore-wv"
+      },
+      {
+        "name": "Nutter Fort",
+        "slug": "nutter-fort-wv"
+      },
+      {
+        "name": "Morgantown",
+        "slug": "morgantown-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "appalachian-highlands",
+    "economy_type": "healthcare-technology",
+    "housing_profile": "regional-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-central-west-virginia",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Buckhannon",
+    "slug": "buckhannon-wv",
+    "county": "Upshur County",
+    "population": 5300,
+    "zip_codes": [
+      "26201"
+    ],
+    "landmarks": [
+      "West Virginia Wesleyan College",
+      "Jawbone Park",
+      "Buckhannon River Walk",
+      "Stockert Youth Center",
+      "Upshur County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Elkins",
+        "slug": "elkins-wv"
+      },
+      {
+        "name": "Weston",
+        "slug": "weston-wv"
+      },
+      {
+        "name": "Philippi",
+        "slug": "philippi-wv"
+      },
+      {
+        "name": "Bridgeport",
+        "slug": "bridgeport-wv"
+      },
+      {
+        "name": "Clarksburg",
+        "slug": "clarksburg-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "appalachian-highlands",
+    "economy_type": "education-services",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-central-west-virginia",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Charleston",
+    "slug": "charleston-wv",
+    "county": "Kanawha County",
+    "population": 46600,
+    "zip_codes": [
+      "25301",
+      "25302",
+      "25304",
+      "25311",
+      "25314"
+    ],
+    "landmarks": [
+      "West Virginia State Capitol",
+      "Capitol Market",
+      "Kanawha State Forest",
+      "Clay Center",
+      "Haddad Riverfront Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "South Charleston",
+        "slug": "south-charleston-wv"
+      },
+      {
+        "name": "Dunbar",
+        "slug": "dunbar-wv"
+      },
+      {
+        "name": "Nitro",
+        "slug": "nitro-wv"
+      },
+      {
+        "name": "Saint Albans",
+        "slug": "saint-albans-wv"
+      },
+      {
+        "name": "Cross Lanes",
+        "slug": "cross-lanes-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "government-healthcare",
+    "housing_profile": "major-urban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "kanawha-valley",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Charles Town",
+    "slug": "charles-town-wv",
+    "county": "Jefferson County",
+    "population": 6900,
+    "zip_codes": [
+      "25414"
+    ],
+    "landmarks": [
+      "Hollywood Casino at Charles Town Races",
+      "Jefferson County Courthouse",
+      "Zion Episcopal Church",
+      "Happy Retreat",
+      "Downtown Charles Town"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ranson",
+        "slug": "ranson-wv"
+      },
+      {
+        "name": "Harpers Ferry",
+        "slug": "harpers-ferry-wv"
+      },
+      {
+        "name": "Shepherdstown",
+        "slug": "shepherdstown-wv"
+      },
+      {
+        "name": "Martinsburg",
+        "slug": "martinsburg-wv"
+      },
+      {
+        "name": "Leesburg",
+        "slug": "leesburg-va"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-valley",
+    "economy_type": "gaming-tourism",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "eastern-panhandle",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Clarksburg",
+    "slug": "clarksburg-wv",
+    "county": "Harrison County",
+    "population": 15500,
+    "zip_codes": [
+      "26301"
+    ],
+    "landmarks": [
+      "Veterans Memorial Park",
+      "Waldomore Mansion",
+      "Clarksburg Amphitheater",
+      "Downtown Clarksburg",
+      "Harrison County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bridgeport",
+        "slug": "bridgeport-wv"
+      },
+      {
+        "name": "Fairmont",
+        "slug": "fairmont-wv"
+      },
+      {
+        "name": "Anmoore",
+        "slug": "anmoore-wv"
+      },
+      {
+        "name": "Nutter Fort",
+        "slug": "nutter-fort-wv"
+      },
+      {
+        "name": "Weston",
+        "slug": "weston-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "appalachian-highlands",
+    "economy_type": "healthcare-government",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-central-west-virginia",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Cross Lanes",
+    "slug": "cross-lanes-wv",
+    "county": "Kanawha County",
+    "population": 9800,
+    "zip_codes": [
+      "25313"
+    ],
+    "landmarks": [
+      "Tri-State Racetrack & Gaming Center",
+      "Shawnee Sports Complex",
+      "Mardi Gras Casino",
+      "Cross Lanes Library",
+      "Big Tyler Road Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Charleston",
+        "slug": "charleston-wv"
+      },
+      {
+        "name": "Nitro",
+        "slug": "nitro-wv"
+      },
+      {
+        "name": "Saint Albans",
+        "slug": "saint-albans-wv"
+      },
+      {
+        "name": "Dunbar",
+        "slug": "dunbar-wv"
+      },
+      {
+        "name": "South Charleston",
+        "slug": "south-charleston-wv"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "kanawha-valley",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Dunbar",
+    "slug": "dunbar-wv",
+    "county": "Kanawha County",
+    "population": 7300,
+    "zip_codes": [
+      "25064"
+    ],
+    "landmarks": [
+      "Wine Cellar Park",
+      "Shawnee Regional Park",
+      "Dunbar Toll Bridge",
+      "Kanawha River",
+      "Dunbar Public Library"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Charleston",
+        "slug": "charleston-wv"
+      },
+      {
+        "name": "South Charleston",
+        "slug": "south-charleston-wv"
+      },
+      {
+        "name": "Nitro",
+        "slug": "nitro-wv"
+      },
+      {
+        "name": "Cross Lanes",
+        "slug": "cross-lanes-wv"
+      },
+      {
+        "name": "Institute",
+        "slug": "institute-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "kanawha-valley",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Elkins",
+    "slug": "elkins-wv",
+    "county": "Randolph County",
+    "population": 6800,
+    "zip_codes": [
+      "26241"
+    ],
+    "landmarks": [
+      "Davis & Elkins College",
+      "Elkins Depot Welcome Center",
+      "Blackwater Falls Scenic Railroad",
+      "Downtown Elkins",
+      "Augusta Heritage Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Buckhannon",
+        "slug": "buckhannon-wv"
+      },
+      {
+        "name": "Philippi",
+        "slug": "philippi-wv"
+      },
+      {
+        "name": "Bridgeport",
+        "slug": "bridgeport-wv"
+      },
+      {
+        "name": "Parsons",
+        "slug": "parsons-wv"
+      },
+      {
+        "name": "Thomas",
+        "slug": "thomas-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "appalachian-highlands",
+    "economy_type": "tourism-education",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "potomac-highlands",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Fairmont",
+    "slug": "fairmont-wv",
+    "county": "Marion County",
+    "population": 18300,
+    "zip_codes": [
+      "26554"
+    ],
+    "landmarks": [
+      "Valley Falls State Park",
+      "Pricketts Fort State Park",
+      "Palatine Park",
+      "Marion County Courthouse",
+      "Fairmont State University"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bridgeport",
+        "slug": "bridgeport-wv"
+      },
+      {
+        "name": "Clarksburg",
+        "slug": "clarksburg-wv"
+      },
+      {
+        "name": "Morgantown",
+        "slug": "morgantown-wv"
+      },
+      {
+        "name": "Grafton",
+        "slug": "grafton-wv"
+      },
+      {
+        "name": "Westover",
+        "slug": "westover-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "appalachian-highlands",
+    "economy_type": "education-healthcare",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-central-west-virginia",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Huntington",
+    "slug": "huntington-wv",
+    "county": "Cabell County",
+    "population": 45900,
+    "zip_codes": [
+      "25701",
+      "25702",
+      "25703",
+      "25704",
+      "25705"
+    ],
+    "landmarks": [
+      "Marshall University",
+      "Pullman Square",
+      "Ritter Park",
+      "Heritage Farm Museum",
+      "Huntington Museum of Art"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Barboursville",
+        "slug": "barboursville-wv"
+      },
+      {
+        "name": "Milton",
+        "slug": "milton-wv"
+      },
+      {
+        "name": "Kenova",
+        "slug": "kenova-wv"
+      },
+      {
+        "name": "Ashland",
+        "slug": "ashland-ky"
+      },
+      {
+        "name": "Proctorville",
+        "slug": "proctorville-oh"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "education-healthcare",
+    "housing_profile": "major-urban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "tri-state-area",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Hurricane",
+    "slug": "hurricane-wv",
+    "county": "Putnam County",
+    "population": 6900,
+    "zip_codes": [
+      "25526"
+    ],
+    "landmarks": [
+      "Valley Park",
+      "Hurricane City Park",
+      "Putnam County Library",
+      "Hurricane Creek",
+      "Main Street District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Teays Valley",
+        "slug": "teays-valley-wv"
+      },
+      {
+        "name": "Winfield",
+        "slug": "winfield-wv"
+      },
+      {
+        "name": "Scott Depot",
+        "slug": "scott-depot-wv"
+      },
+      {
+        "name": "Nitro",
+        "slug": "nitro-wv"
+      },
+      {
+        "name": "Charleston",
+        "slug": "charleston-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "putnam-county",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Martinsburg",
+    "slug": "martinsburg-wv",
+    "county": "Berkeley County",
+    "population": 18800,
+    "zip_codes": [
+      "25401",
+      "25403",
+      "25404"
+    ],
+    "landmarks": [
+      "Martinsburg Roundhouse",
+      "Belle Boyd House",
+      "War Memorial Park",
+      "Adam Stephen House",
+      "Berkeley Plaza"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Charles Town",
+        "slug": "charles-town-wv"
+      },
+      {
+        "name": "Ranson",
+        "slug": "ranson-wv"
+      },
+      {
+        "name": "Hedgesville",
+        "slug": "hedgesville-wv"
+      },
+      {
+        "name": "Inwood",
+        "slug": "inwood-wv"
+      },
+      {
+        "name": "Winchester",
+        "slug": "winchester-va"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-valley",
+    "economy_type": "logistics-healthcare",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "eastern-panhandle",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Morgantown",
+    "slug": "morgantown-wv",
+    "county": "Monongalia County",
+    "population": 30900,
+    "zip_codes": [
+      "26501",
+      "26505",
+      "26508"
+    ],
+    "landmarks": [
+      "West Virginia University",
+      "Milan Puskar Stadium",
+      "Core Arboretum",
+      "Mon River Rail-Trail",
+      "Downtown Morgantown"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Star City",
+        "slug": "star-city-wv"
+      },
+      {
+        "name": "Westover",
+        "slug": "westover-wv"
+      },
+      {
+        "name": "Fairmont",
+        "slug": "fairmont-wv"
+      },
+      {
+        "name": "Bridgeport",
+        "slug": "bridgeport-wv"
+      },
+      {
+        "name": "Kingwood",
+        "slug": "kingwood-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "appalachian-highlands",
+    "economy_type": "education-healthcare",
+    "housing_profile": "major-urban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-central-west-virginia",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Moundsville",
+    "slug": "moundsville-wv",
+    "county": "Marshall County",
+    "population": 8100,
+    "zip_codes": [
+      "26041"
+    ],
+    "landmarks": [
+      "Grave Creek Mound",
+      "West Virginia Penitentiary",
+      "Grand Vue Park",
+      "Rosby's Rock",
+      "Moundsville Riverfront"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wheeling",
+        "slug": "wheeling-wv"
+      },
+      {
+        "name": "Glen Dale",
+        "slug": "glen-dale-wv"
+      },
+      {
+        "name": "McMechen",
+        "slug": "mcmechen-wv"
+      },
+      {
+        "name": "St. Clairsville",
+        "slug": "saint-clairsville-oh"
+      },
+      {
+        "name": "Bellaire",
+        "slug": "bellaire-oh"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "ohio-river-valley",
+    "economy_type": "tourism-services",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northern-panhandle",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Nitro",
+    "slug": "nitro-wv",
+    "county": "Kanawha County",
+    "population": 6900,
+    "zip_codes": [
+      "25143"
+    ],
+    "landmarks": [
+      "Ridenour Memorial Park",
+      "Nitro Living Memorial Park",
+      "Nitro War Museum",
+      "Kanawha River",
+      "Main Avenue"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cross Lanes",
+        "slug": "cross-lanes-wv"
+      },
+      {
+        "name": "Saint Albans",
+        "slug": "saint-albans-wv"
+      },
+      {
+        "name": "Charleston",
+        "slug": "charleston-wv"
+      },
+      {
+        "name": "Hurricane",
+        "slug": "hurricane-wv"
+      },
+      {
+        "name": "Dunbar",
+        "slug": "dunbar-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "kanawha-valley",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Parkersburg",
+    "slug": "parkersburg-wv",
+    "county": "Wood County",
+    "population": 29300,
+    "zip_codes": [
+      "26101",
+      "26104"
+    ],
+    "landmarks": [
+      "Blennerhassett Island",
+      "Point Park",
+      "Fort Boreman Park",
+      "Smoot Theatre",
+      "Oil and Gas Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Vienna",
+        "slug": "vienna-wv"
+      },
+      {
+        "name": "Williamstown",
+        "slug": "williamstown-wv"
+      },
+      {
+        "name": "Belpre",
+        "slug": "belpre-oh"
+      },
+      {
+        "name": "Mineral Wells",
+        "slug": "mineral-wells-wv"
+      },
+      {
+        "name": "Marietta",
+        "slug": "marietta-oh"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "ohio-river-valley",
+    "economy_type": "manufacturing-healthcare",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "mid-ohio-valley",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Princeton",
+    "slug": "princeton-wv",
+    "county": "Mercer County",
+    "population": 5900,
+    "zip_codes": [
+      "24740"
+    ],
+    "landmarks": [
+      "Mercer County Courthouse",
+      "Princeton Railroad Museum",
+      "Glenwood Park",
+      "Chuck Mathena Center",
+      "Downtown Princeton"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bluefield",
+        "slug": "bluefield-wv"
+      },
+      {
+        "name": "Athens",
+        "slug": "athens-wv"
+      },
+      {
+        "name": "Bluefield",
+        "slug": "bluefield-va"
+      },
+      {
+        "name": "Beckley",
+        "slug": "beckley-wv"
+      },
+      {
+        "name": "Welch",
+        "slug": "welch-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "appalachian-highlands",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "regional-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southern-west-virginia",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Ranson",
+    "slug": "ranson-wv",
+    "county": "Jefferson County",
+    "population": 6200,
+    "zip_codes": [
+      "25438"
+    ],
+    "landmarks": [
+      "Ranson Civic Center",
+      "Potomac Marketplace",
+      "Jefferson Memorial Park",
+      "Flowing Springs Park",
+      "Evitts Run"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Charles Town",
+        "slug": "charles-town-wv"
+      },
+      {
+        "name": "Martinsburg",
+        "slug": "martinsburg-wv"
+      },
+      {
+        "name": "Harpers Ferry",
+        "slug": "harpers-ferry-wv"
+      },
+      {
+        "name": "Shepherdstown",
+        "slug": "shepherdstown-wv"
+      },
+      {
+        "name": "Leesburg",
+        "slug": "leesburg-va"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-valley",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "eastern-panhandle",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "South Charleston",
+    "slug": "south-charleston-wv",
+    "county": "Kanawha County",
+    "population": 12900,
+    "zip_codes": [
+      "25303",
+      "25309"
+    ],
+    "landmarks": [
+      "Criel Mound",
+      "Little Creek Park",
+      "South Charleston Memorial Ice Arena",
+      "Mound Historic District",
+      "Kanawha River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Charleston",
+        "slug": "charleston-wv"
+      },
+      {
+        "name": "Dunbar",
+        "slug": "dunbar-wv"
+      },
+      {
+        "name": "Saint Albans",
+        "slug": "saint-albans-wv"
+      },
+      {
+        "name": "Cross Lanes",
+        "slug": "cross-lanes-wv"
+      },
+      {
+        "name": "Nitro",
+        "slug": "nitro-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "healthcare-services",
+    "housing_profile": "suburban-urban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "kanawha-valley",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "St. Albans",
+    "slug": "saint-albans-wv",
+    "county": "Kanawha County",
+    "population": 10100,
+    "zip_codes": [
+      "25177"
+    ],
+    "landmarks": [
+      "Roadside Park",
+      "Saint Albans Museum",
+      "Coal River",
+      "Ordnance Park",
+      "Loop Creek Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "South Charleston",
+        "slug": "south-charleston-wv"
+      },
+      {
+        "name": "Nitro",
+        "slug": "nitro-wv"
+      },
+      {
+        "name": "Charleston",
+        "slug": "charleston-wv"
+      },
+      {
+        "name": "Cross Lanes",
+        "slug": "cross-lanes-wv"
+      },
+      {
+        "name": "Hurricane",
+        "slug": "hurricane-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "kanawha-valley",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Teays Valley",
+    "slug": "teays-valley-wv",
+    "county": "Putnam County",
+    "population": 13800,
+    "zip_codes": [
+      "25526",
+      "25560"
+    ],
+    "landmarks": [
+      "Liberty Square",
+      "Valley Park",
+      "Putnam Village",
+      "Teays Valley Center",
+      "Hurricane Creek"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hurricane",
+        "slug": "hurricane-wv"
+      },
+      {
+        "name": "Scott Depot",
+        "slug": "scott-depot-wv"
+      },
+      {
+        "name": "Winfield",
+        "slug": "winfield-wv"
+      },
+      {
+        "name": "Nitro",
+        "slug": "nitro-wv"
+      },
+      {
+        "name": "Charleston",
+        "slug": "charleston-wv"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "retail-services",
+    "housing_profile": "major-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "putnam-county",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Vienna",
+    "slug": "vienna-wv",
+    "county": "Wood County",
+    "population": 10200,
+    "zip_codes": [
+      "26105"
+    ],
+    "landmarks": [
+      "Grand Central Mall",
+      "Jackson Memorial Park",
+      "McDonough Wildlife Refuge",
+      "Ohio River",
+      "Spencer's Landing"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Parkersburg",
+        "slug": "parkersburg-wv"
+      },
+      {
+        "name": "Williamstown",
+        "slug": "williamstown-wv"
+      },
+      {
+        "name": "Belpre",
+        "slug": "belpre-oh"
+      },
+      {
+        "name": "Mineral Wells",
+        "slug": "mineral-wells-wv"
+      },
+      {
+        "name": "Marietta",
+        "slug": "marietta-oh"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "ohio-river-valley",
+    "economy_type": "retail-healthcare",
+    "housing_profile": "regional-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "mid-ohio-valley",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Weirton",
+    "slug": "weirton-wv",
+    "county": "Hancock County",
+    "population": 18400,
+    "zip_codes": [
+      "26062"
+    ],
+    "landmarks": [
+      "Weirton Event Center",
+      "Marland Heights Park",
+      "Starvaggi Memorial Park",
+      "Panhandle Trail",
+      "Weirton Steel Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Steubenville",
+        "slug": "steubenville-oh"
+      },
+      {
+        "name": "Follansbee",
+        "slug": "follansbee-wv"
+      },
+      {
+        "name": "Wellsburg",
+        "slug": "wellsburg-wv"
+      },
+      {
+        "name": "Toronto",
+        "slug": "toronto-oh"
+      },
+      {
+        "name": "Chester",
+        "slug": "chester-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "ohio-river-valley",
+    "economy_type": "manufacturing-healthcare",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northern-panhandle",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Westover",
+    "slug": "westover-wv",
+    "county": "Monongalia County",
+    "population": 5300,
+    "zip_codes": [
+      "26501"
+    ],
+    "landmarks": [
+      "Westover Park",
+      "Monongahela River",
+      "Westover Bridge",
+      "Riverfront Trail",
+      "City Hall Plaza"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Morgantown",
+        "slug": "morgantown-wv"
+      },
+      {
+        "name": "Star City",
+        "slug": "star-city-wv"
+      },
+      {
+        "name": "Fairmont",
+        "slug": "fairmont-wv"
+      },
+      {
+        "name": "Kingwood",
+        "slug": "kingwood-wv"
+      },
+      {
+        "name": "Bridgeport",
+        "slug": "bridgeport-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "appalachian-highlands",
+    "economy_type": "services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-central-west-virginia",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Wheeling",
+    "slug": "wheeling-wv",
+    "county": "Ohio County",
+    "population": 26700,
+    "zip_codes": [
+      "26003"
+    ],
+    "landmarks": [
+      "Wheeling Suspension Bridge",
+      "Oglebay Park",
+      "Capitol Theatre",
+      "Heritage Port",
+      "WesBanco Arena"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Moundsville",
+        "slug": "moundsville-wv"
+      },
+      {
+        "name": "Glen Dale",
+        "slug": "glen-dale-wv"
+      },
+      {
+        "name": "Triadelphia",
+        "slug": "triadelphia-wv"
+      },
+      {
+        "name": "Bethlehem",
+        "slug": "bethlehem-wv"
+      },
+      {
+        "name": "Saint Clairsville",
+        "slug": "saint-clairsville-oh"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-continental",
+    "terrain": "ohio-river-valley",
+    "economy_type": "healthcare-education",
+    "housing_profile": "regional-urban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northern-panhandle",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Williamstown",
+    "slug": "williamstown-wv",
+    "county": "Wood County",
+    "population": 2900,
+    "zip_codes": [
+      "26187"
+    ],
+    "landmarks": [
+      "Tomlinson Park",
+      "Ohio River",
+      "Fenton Art Glass Memorial",
+      "Williamstown Marina",
+      "Downtown Williamstown"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Vienna",
+        "slug": "vienna-wv"
+      },
+      {
+        "name": "Parkersburg",
+        "slug": "parkersburg-wv"
+      },
+      {
+        "name": "Belpre",
+        "slug": "belpre-oh"
+      },
+      {
+        "name": "Marietta",
+        "slug": "marietta-oh"
+      },
+      {
+        "name": "Mineral Wells",
+        "slug": "mineral-wells-wv"
+      }
+    ],
+    "city_type": "city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "ohio-river-valley",
+    "economy_type": "services-tourism",
+    "housing_profile": "small-town",
+    "growth_pattern": "stable-growth",
+    "service_environment": "mid-ohio-valley",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Winfield",
+    "slug": "winfield-wv",
+    "county": "Putnam County",
+    "population": 2400,
+    "zip_codes": [
+      "25213"
+    ],
+    "landmarks": [
+      "Putnam County Courthouse",
+      "Winfield Lock and Dam",
+      "Eleanor Park",
+      "Kanawha River",
+      "Winfield City Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Teays Valley",
+        "slug": "teays-valley-wv"
+      },
+      {
+        "name": "Hurricane",
+        "slug": "hurricane-wv"
+      },
+      {
+        "name": "Scott Depot",
+        "slug": "scott-depot-wv"
+      },
+      {
+        "name": "Nitro",
+        "slug": "nitro-wv"
+      },
+      {
+        "name": "Charleston",
+        "slug": "charleston-wv"
+      }
+    ],
+    "city_type": "town",
+    "climate_zone": "humid-subtropical",
+    "terrain": "appalachian-highlands",
+    "economy_type": "government-services",
+    "housing_profile": "small-town",
+    "growth_pattern": "stable-growth",
+    "service_environment": "putnam-county",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  },
+  {
+    "city": "Wheeling Heights",
+    "slug": "wheeling-heights-wv",
+    "county": "Ohio County",
+    "population": 5200,
+    "zip_codes": [
+      "26003"
+    ],
+    "landmarks": [
+      "Wheeling Park",
+      "Mount Wood Overlook",
+      "Ohio River Valley",
+      "Elm Grove Area",
+      "Neighborhood Greenway"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wheeling",
+        "slug": "wheeling-wv"
+      },
+      {
+        "name": "Bethlehem",
+        "slug": "bethlehem-wv"
+      },
+      {
+        "name": "Triadelphia",
+        "slug": "triadelphia-wv"
+      },
+      {
+        "name": "Moundsville",
+        "slug": "moundsville-wv"
+      },
+      {
+        "name": "Saint Clairsville",
+        "slug": "saint-clairsville-oh"
+      }
+    ],
+    "city_type": "census-designated-place",
+    "climate_zone": "humid-continental",
+    "terrain": "ohio-river-valley",
+    "economy_type": "services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northern-panhandle",
+    "property_mix": "mixed-use",
+    "state": "WV"
+  }
+]

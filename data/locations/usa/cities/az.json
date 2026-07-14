@@ -1,0 +1,1952 @@
+[
+  {
+    "city": "Phoenix",
+    "slug": "phoenix-az",
+    "county": "Maricopa County",
+    "population": 1650000,
+    "zip_codes": [
+      "85003",
+      "85004",
+      "85008",
+      "85016",
+      "85032"
+    ],
+    "landmarks": [
+      "Camelback Mountain",
+      "Papago Park",
+      "Desert Botanical Garden",
+      "Phoenix Convention Center",
+      "South Mountain Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tempe",
+        "slug": "tempe-az"
+      },
+      {
+        "name": "Scottsdale",
+        "slug": "scottsdale-az"
+      },
+      {
+        "name": "Glendale",
+        "slug": "glendale-az"
+      },
+      {
+        "name": "Mesa",
+        "slug": "mesa-az"
+      },
+      {
+        "name": "Peoria",
+        "slug": "peoria-az"
+      }
+    ],
+    "city_type": "major-metro",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-basin",
+    "economy_type": "finance-technology",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "major-expansion",
+    "service_environment": "dense-urban",
+    "property_mix": "mixed-use",
+    "state": "AZ"
+  },
+  {
+    "city": "Tucson",
+    "slug": "tucson-az",
+    "county": "Pima County",
+    "population": 550000,
+    "zip_codes": [
+      "85701",
+      "85705",
+      "85710",
+      "85711",
+      "85718"
+    ],
+    "landmarks": [
+      "Saguaro National Park",
+      "University of Arizona",
+      "Sabino Canyon",
+      "Reid Park",
+      "Arizona-Sonora Desert Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Oro Valley",
+        "slug": "oro-valley-az"
+      },
+      {
+        "name": "Marana",
+        "slug": "marana-az"
+      },
+      {
+        "name": "Sahuarita",
+        "slug": "sahuarita-az"
+      },
+      {
+        "name": "Green Valley",
+        "slug": "green-valley-az"
+      },
+      {
+        "name": "South Tucson",
+        "slug": "south-tucson-az"
+      }
+    ],
+    "city_type": "regional-metro",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-valley",
+    "economy_type": "education-aerospace",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "urban-core",
+    "property_mix": "mixed-use",
+    "state": "AZ"
+  },
+  {
+    "city": "Mesa",
+    "slug": "mesa-az",
+    "county": "Maricopa County",
+    "population": 510000,
+    "zip_codes": [
+      "85201",
+      "85202",
+      "85204",
+      "85205",
+      "85206"
+    ],
+    "landmarks": [
+      "Mesa Arts Center",
+      "Arizona Museum of Natural History",
+      "Riverview Park",
+      "Usery Mountain Regional Park",
+      "Golfland Sunsplash"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tempe",
+        "slug": "tempe-az"
+      },
+      {
+        "name": "Gilbert",
+        "slug": "gilbert-az"
+      },
+      {
+        "name": "Chandler",
+        "slug": "chandler-az"
+      },
+      {
+        "name": "Apache Junction",
+        "slug": "apache-junction-az"
+      },
+      {
+        "name": "Scottsdale",
+        "slug": "scottsdale-az"
+      }
+    ],
+    "city_type": "major-suburb",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-plain",
+    "economy_type": "healthcare-manufacturing",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "suburban-urban",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Chandler",
+    "slug": "chandler-az",
+    "county": "Maricopa County",
+    "population": 285000,
+    "zip_codes": [
+      "85224",
+      "85225",
+      "85226",
+      "85248",
+      "85249"
+    ],
+    "landmarks": [
+      "Downtown Chandler",
+      "Tumbleweed Park",
+      "Veterans Oasis Park",
+      "Chandler Fashion Center",
+      "Arizona Railway Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gilbert",
+        "slug": "gilbert-az"
+      },
+      {
+        "name": "Mesa",
+        "slug": "mesa-az"
+      },
+      {
+        "name": "Tempe",
+        "slug": "tempe-az"
+      },
+      {
+        "name": "Phoenix",
+        "slug": "phoenix-az"
+      },
+      {
+        "name": "Queen Creek",
+        "slug": "queen-creek-az"
+      }
+    ],
+    "city_type": "technology-hub",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-basin",
+    "economy_type": "semiconductor-technology",
+    "housing_profile": "professional-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "business-corridor",
+    "property_mix": "mixed-residential",
+    "state": "AZ"
+  },
+  {
+    "city": "Gilbert",
+    "slug": "gilbert-az",
+    "county": "Maricopa County",
+    "population": 285000,
+    "zip_codes": [
+      "85233",
+      "85234",
+      "85295",
+      "85296",
+      "85297"
+    ],
+    "landmarks": [
+      "Riparian Preserve",
+      "Downtown Gilbert",
+      "Freestone Park",
+      "Gilbert Regional Park",
+      "Hale Centre Theatre"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mesa",
+        "slug": "mesa-az"
+      },
+      {
+        "name": "Chandler",
+        "slug": "chandler-az"
+      },
+      {
+        "name": "Queen Creek",
+        "slug": "queen-creek-az"
+      },
+      {
+        "name": "Tempe",
+        "slug": "tempe-az"
+      },
+      {
+        "name": "Apache Junction",
+        "slug": "apache-junction-az"
+      }
+    ],
+    "city_type": "master-planned-suburb",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-plain",
+    "economy_type": "healthcare-professional-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "planned-community",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Glendale",
+    "slug": "glendale-az",
+    "county": "Maricopa County",
+    "population": 252000,
+    "zip_codes": [
+      "85301",
+      "85302",
+      "85303",
+      "85305",
+      "85308"
+    ],
+    "landmarks": [
+      "State Farm Stadium",
+      "Westgate Entertainment District",
+      "Desert Diamond Arena",
+      "Sahuaro Ranch Park",
+      "Historic Downtown Glendale"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Phoenix",
+        "slug": "phoenix-az"
+      },
+      {
+        "name": "Peoria",
+        "slug": "peoria-az"
+      },
+      {
+        "name": "Surprise",
+        "slug": "surprise-az"
+      },
+      {
+        "name": "Avondale",
+        "slug": "avondale-az"
+      },
+      {
+        "name": "Goodyear",
+        "slug": "goodyear-az"
+      }
+    ],
+    "city_type": "entertainment-hub",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-basin",
+    "economy_type": "sports-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "mature-growth",
+    "service_environment": "urban-commercial",
+    "property_mix": "mixed-use",
+    "state": "AZ"
+  },
+  {
+    "city": "Scottsdale",
+    "slug": "scottsdale-az",
+    "county": "Maricopa County",
+    "population": 244000,
+    "zip_codes": [
+      "85250",
+      "85251",
+      "85254",
+      "85255",
+      "85260"
+    ],
+    "landmarks": [
+      "Old Town Scottsdale",
+      "Scottsdale Fashion Square",
+      "Taliesin West",
+      "TPC Scottsdale",
+      "McDowell Sonoran Preserve"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Phoenix",
+        "slug": "phoenix-az"
+      },
+      {
+        "name": "Tempe",
+        "slug": "tempe-az"
+      },
+      {
+        "name": "Mesa",
+        "slug": "mesa-az"
+      },
+      {
+        "name": "Paradise Valley",
+        "slug": "paradise-valley-az"
+      },
+      {
+        "name": "Fountain Hills",
+        "slug": "fountain-hills-az"
+      }
+    ],
+    "city_type": "luxury-destination-city",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-foothills",
+    "economy_type": "tourism-professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "resort-corridor",
+    "property_mix": "luxury-residential",
+    "state": "AZ"
+  },
+  {
+    "city": "Tempe",
+    "slug": "tempe-az",
+    "county": "Maricopa County",
+    "population": 188000,
+    "zip_codes": [
+      "85281",
+      "85282",
+      "85283",
+      "85284",
+      "85287"
+    ],
+    "landmarks": [
+      "Arizona State University",
+      "Tempe Town Lake",
+      "Tempe Beach Park",
+      "Mill Avenue",
+      "Sun Devil Stadium"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Phoenix",
+        "slug": "phoenix-az"
+      },
+      {
+        "name": "Mesa",
+        "slug": "mesa-az"
+      },
+      {
+        "name": "Chandler",
+        "slug": "chandler-az"
+      },
+      {
+        "name": "Scottsdale",
+        "slug": "scottsdale-az"
+      },
+      {
+        "name": "Gilbert",
+        "slug": "gilbert-az"
+      }
+    ],
+    "city_type": "university-city",
+    "climate_zone": "hot-desert",
+    "terrain": "urban-desert",
+    "economy_type": "education-technology",
+    "housing_profile": "student-residential",
+    "growth_pattern": "innovation-growth",
+    "service_environment": "mixed-urban",
+    "property_mix": "multi-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Peoria",
+    "slug": "peoria-az",
+    "county": "Maricopa County",
+    "population": 198000,
+    "zip_codes": [
+      "85345",
+      "85381",
+      "85382",
+      "85383"
+    ],
+    "landmarks": [
+      "Peoria Sports Complex",
+      "Lake Pleasant Regional Park",
+      "Rio Vista Recreation Center",
+      "Pioneer Community Park",
+      "Old Town Peoria"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Glendale",
+        "slug": "glendale-az"
+      },
+      {
+        "name": "Phoenix",
+        "slug": "phoenix-az"
+      },
+      {
+        "name": "Surprise",
+        "slug": "surprise-az"
+      },
+      {
+        "name": "Sun City",
+        "slug": "sun-city-az"
+      },
+      {
+        "name": "Avondale",
+        "slug": "avondale-az"
+      }
+    ],
+    "city_type": "recreation-suburb",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-plain",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "high-growth",
+    "service_environment": "suburban-commercial",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Surprise",
+    "slug": "surprise-az",
+    "county": "Maricopa County",
+    "population": 165000,
+    "zip_codes": [
+      "85374",
+      "85378",
+      "85379",
+      "85387",
+      "85388"
+    ],
+    "landmarks": [
+      "Surprise Stadium",
+      "White Tank Mountain Regional Park",
+      "Surprise Community Park",
+      "Northwest Regional Library",
+      "City Center Campus"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Peoria",
+        "slug": "peoria-az"
+      },
+      {
+        "name": "Glendale",
+        "slug": "glendale-az"
+      },
+      {
+        "name": "Goodyear",
+        "slug": "goodyear-az"
+      },
+      {
+        "name": "Buckeye",
+        "slug": "buckeye-az"
+      },
+      {
+        "name": "Sun City West",
+        "slug": "sun-city-west-az"
+      }
+    ],
+    "city_type": "growth-corridor-city",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-valley",
+    "economy_type": "healthcare-logistics",
+    "housing_profile": "master-planned-residential",
+    "growth_pattern": "rapid-expansion",
+    "service_environment": "emerging-suburban",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Goodyear",
+    "slug": "goodyear-az",
+    "county": "Maricopa County",
+    "population": 111000,
+    "zip_codes": [
+      "85338",
+      "85395"
+    ],
+    "landmarks": [
+      "Goodyear Ballpark",
+      "Estrella Mountain Regional Park",
+      "Goodyear Recreation Campus",
+      "North Lake",
+      "Goodyear Civic Square"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Avondale",
+        "slug": "avondale-az"
+      },
+      {
+        "name": "Buckeye",
+        "slug": "buckeye-az"
+      },
+      {
+        "name": "Litchfield Park",
+        "slug": "litchfield-park-az"
+      },
+      {
+        "name": "Glendale",
+        "slug": "glendale-az"
+      },
+      {
+        "name": "Phoenix",
+        "slug": "phoenix-az"
+      }
+    ],
+    "city_type": "west-valley-growth-city",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-foothills",
+    "economy_type": "healthcare-logistics",
+    "housing_profile": "master-planned-residential",
+    "growth_pattern": "rapid-expansion",
+    "service_environment": "suburban-growth-corridor",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Avondale",
+    "slug": "avondale-az",
+    "county": "Maricopa County",
+    "population": 95000,
+    "zip_codes": [
+      "85323",
+      "85392"
+    ],
+    "landmarks": [
+      "Phoenix Raceway",
+      "Friendship Park",
+      "Festival Fields Park",
+      "Avondale Civic Center",
+      "Coldwater Golf Club"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Goodyear",
+        "slug": "goodyear-az"
+      },
+      {
+        "name": "Glendale",
+        "slug": "glendale-az"
+      },
+      {
+        "name": "Phoenix",
+        "slug": "phoenix-az"
+      },
+      {
+        "name": "Tolleson",
+        "slug": "tolleson-az"
+      },
+      {
+        "name": "Buckeye",
+        "slug": "buckeye-az"
+      }
+    ],
+    "city_type": "transportation-hub",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-plain",
+    "economy_type": "distribution-retail",
+    "housing_profile": "working-family-suburban",
+    "growth_pattern": "high-growth",
+    "service_environment": "commercial-corridor",
+    "property_mix": "mixed-residential",
+    "state": "AZ"
+  },
+  {
+    "city": "Buckeye",
+    "slug": "buckeye-az",
+    "county": "Maricopa County",
+    "population": 118000,
+    "zip_codes": [
+      "85326",
+      "85396"
+    ],
+    "landmarks": [
+      "Skyline Regional Park",
+      "Buckeye Hills Recreation Area",
+      "Verrado",
+      "Sundance Park",
+      "Buckeye Aquatics Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Goodyear",
+        "slug": "goodyear-az"
+      },
+      {
+        "name": "Avondale",
+        "slug": "avondale-az"
+      },
+      {
+        "name": "Surprise",
+        "slug": "surprise-az"
+      },
+      {
+        "name": "Tonopah",
+        "slug": "tonopah-az"
+      },
+      {
+        "name": "Litchfield Park",
+        "slug": "litchfield-park-az"
+      }
+    ],
+    "city_type": "frontier-growth-city",
+    "climate_zone": "hot-desert",
+    "terrain": "open-desert",
+    "economy_type": "construction-logistics",
+    "housing_profile": "new-development-residential",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "expanding-service-area",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Yuma",
+    "slug": "yuma-az",
+    "county": "Yuma County",
+    "population": 101000,
+    "zip_codes": [
+      "85364",
+      "85365",
+      "85367"
+    ],
+    "landmarks": [
+      "Yuma Territorial Prison",
+      "Colorado River State Historic Park",
+      "West Wetlands Park",
+      "Gateway Park",
+      "Historic Downtown Yuma"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Somerton",
+        "slug": "somerton-az"
+      },
+      {
+        "name": "San Luis",
+        "slug": "san-luis-az"
+      },
+      {
+        "name": "Fortuna Foothills",
+        "slug": "fortuna-foothills-az"
+      },
+      {
+        "name": "Wellton",
+        "slug": "wellton-az"
+      },
+      {
+        "name": "Winterhaven",
+        "slug": "winterhaven-ca"
+      }
+    ],
+    "city_type": "border-agriculture-center",
+    "climate_zone": "arid-desert",
+    "terrain": "river-desert",
+    "economy_type": "agriculture-military",
+    "housing_profile": "family-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "cross-border-market",
+    "property_mix": "mixed-use",
+    "state": "AZ"
+  },
+  {
+    "city": "Flagstaff",
+    "slug": "flagstaff-az",
+    "county": "Coconino County",
+    "population": 79000,
+    "zip_codes": [
+      "86001",
+      "86004",
+      "86005"
+    ],
+    "landmarks": [
+      "Northern Arizona University",
+      "Lowell Observatory",
+      "Walnut Canyon National Monument",
+      "Buffalo Park",
+      "Historic Downtown Flagstaff"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sedona",
+        "slug": "sedona-az"
+      },
+      {
+        "name": "Williams",
+        "slug": "williams-az"
+      },
+      {
+        "name": "Bellemont",
+        "slug": "bellemont-az"
+      },
+      {
+        "name": "Parks",
+        "slug": "parks-az"
+      },
+      {
+        "name": "Munds Park",
+        "slug": "munds-park-az"
+      }
+    ],
+    "city_type": "mountain-university-city",
+    "climate_zone": "cool-highland",
+    "terrain": "pine-forest-highlands",
+    "economy_type": "education-tourism",
+    "housing_profile": "single-family-dominant",
+    "growth_pattern": "steady-expansion",
+    "service_environment": "mountain-community",
+    "property_mix": "residential-commercial",
+    "state": "AZ"
+  },
+  {
+    "city": "Casa Grande",
+    "slug": "casa-grande-az",
+    "county": "Pinal County",
+    "population": 62000,
+    "zip_codes": [
+      "85122",
+      "85193",
+      "85194"
+    ],
+    "landmarks": [
+      "Casa Grande Ruins",
+      "Palm Island Aquatic Park",
+      "Dave White Regional Park",
+      "Historic Downtown Casa Grande",
+      "Promenade at Casa Grande"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Maricopa",
+        "slug": "maricopa-az"
+      },
+      {
+        "name": "Coolidge",
+        "slug": "coolidge-az"
+      },
+      {
+        "name": "Eloy",
+        "slug": "eloy-az"
+      },
+      {
+        "name": "Chandler",
+        "slug": "chandler-az"
+      },
+      {
+        "name": "Florence",
+        "slug": "florence-az"
+      }
+    ],
+    "city_type": "interstate-corridor-city",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-basin",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "family-residential",
+    "growth_pattern": "industrial-growth",
+    "service_environment": "regional-service-center",
+    "property_mix": "mixed-use",
+    "state": "AZ"
+  },
+  {
+    "city": "Maricopa",
+    "slug": "maricopa-az",
+    "county": "Pinal County",
+    "population": 69000,
+    "zip_codes": [
+      "85138",
+      "85139"
+    ],
+    "landmarks": [
+      "Copper Sky Recreation Complex",
+      "Pacana Park",
+      "UltraStar Multi-tainment Center",
+      "Maricopa Trail",
+      "Heritage District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Casa Grande",
+        "slug": "casa-grande-az"
+      },
+      {
+        "name": "Chandler",
+        "slug": "chandler-az"
+      },
+      {
+        "name": "Phoenix",
+        "slug": "phoenix-az"
+      },
+      {
+        "name": "Coolidge",
+        "slug": "coolidge-az"
+      },
+      {
+        "name": "Ak-Chin Village",
+        "slug": "ak-chin-village-az"
+      }
+    ],
+    "city_type": "commuter-growth-city",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-plains",
+    "economy_type": "residential-services",
+    "housing_profile": "master-planned-community",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "commuter-market",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Sierra Vista",
+    "slug": "sierra-vista-az",
+    "county": "Cochise County",
+    "population": 45000,
+    "zip_codes": [
+      "85635",
+      "85650"
+    ],
+    "landmarks": [
+      "Fort Huachuca",
+      "Veterans Memorial Park",
+      "San Pedro Riparian Area",
+      "Brown Canyon Ranch",
+      "The Cove Aquatic Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Huachuca City",
+        "slug": "huachuca-city-az"
+      },
+      {
+        "name": "Bisbee",
+        "slug": "bisbee-az"
+      },
+      {
+        "name": "Tombstone",
+        "slug": "tombstone-az"
+      },
+      {
+        "name": "Douglas",
+        "slug": "douglas-az"
+      },
+      {
+        "name": "Hereford",
+        "slug": "hereford-az"
+      }
+    ],
+    "city_type": "military-technology-center",
+    "climate_zone": "semi-arid",
+    "terrain": "mountain-valley",
+    "economy_type": "defense-government",
+    "housing_profile": "military-family",
+    "growth_pattern": "stable-growth",
+    "service_environment": "regional-hub",
+    "property_mix": "residential-commercial",
+    "state": "AZ"
+  },
+  {
+    "city": "Prescott Valley",
+    "slug": "prescott-valley-az",
+    "county": "Yavapai County",
+    "population": 50000,
+    "zip_codes": [
+      "86314",
+      "86315"
+    ],
+    "landmarks": [
+      "Findlay Toyota Center",
+      "Fain Park",
+      "Glassford Hill",
+      "Mountain Valley Park",
+      "Entertainment District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Prescott",
+        "slug": "prescott-az"
+      },
+      {
+        "name": "Chino Valley",
+        "slug": "chino-valley-az"
+      },
+      {
+        "name": "Dewey-Humboldt",
+        "slug": "dewey-humboldt-az"
+      },
+      {
+        "name": "Camp Verde",
+        "slug": "camp-verde-az"
+      },
+      {
+        "name": "Sedona",
+        "slug": "sedona-az"
+      }
+    ],
+    "city_type": "high-country-growth-city",
+    "climate_zone": "high-desert",
+    "terrain": "granite-highlands",
+    "economy_type": "healthcare-retail",
+    "housing_profile": "retiree-family-mix",
+    "growth_pattern": "high-growth",
+    "service_environment": "regional-commercial",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Queen Creek",
+    "slug": "queen-creek-az",
+    "county": "Maricopa County",
+    "population": 82000,
+    "zip_codes": [
+      "85140",
+      "85142",
+      "85143"
+    ],
+    "landmarks": [
+      "Schnepf Farms",
+      "Queen Creek Marketplace",
+      "Mansel Carter Oasis Park",
+      "Horseshoe Park",
+      "Founders Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gilbert",
+        "slug": "gilbert-az"
+      },
+      {
+        "name": "Chandler",
+        "slug": "chandler-az"
+      },
+      {
+        "name": "Mesa",
+        "slug": "mesa-az"
+      },
+      {
+        "name": "Apache Junction",
+        "slug": "apache-junction-az"
+      },
+      {
+        "name": "San Tan Valley",
+        "slug": "san-tan-valley-az"
+      }
+    ],
+    "city_type": "master-planned-growth-suburb",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-foothills",
+    "economy_type": "residential-retail",
+    "housing_profile": "new-family-development",
+    "growth_pattern": "explosive-growth",
+    "service_environment": "expanding-suburban",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Prescott",
+    "slug": "prescott-az",
+    "county": "Yavapai County",
+    "population": 48500,
+    "zip_codes": [
+      "86301",
+      "86303",
+      "86305"
+    ],
+    "landmarks": [
+      "Whiskey Row",
+      "Courthouse Plaza",
+      "Watson Lake",
+      "Sharlot Hall Museum",
+      "Thumb Butte"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Prescott Valley",
+        "slug": "prescott-valley-az"
+      },
+      {
+        "name": "Chino Valley",
+        "slug": "chino-valley-az"
+      },
+      {
+        "name": "Dewey-Humboldt",
+        "slug": "dewey-humboldt-az"
+      },
+      {
+        "name": "Camp Verde",
+        "slug": "camp-verde-az"
+      },
+      {
+        "name": "Sedona",
+        "slug": "sedona-az"
+      }
+    ],
+    "city_type": "historic-mountain-city",
+    "climate_zone": "high-desert",
+    "terrain": "granite-highlands",
+    "economy_type": "tourism-healthcare",
+    "housing_profile": "retiree-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "regional-center",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Apache Junction",
+    "slug": "apache-junction-az",
+    "county": "Pinal County",
+    "population": 43000,
+    "zip_codes": [
+      "85119",
+      "85120"
+    ],
+    "landmarks": [
+      "Superstition Mountains",
+      "Lost Dutchman State Park",
+      "Apache Trail",
+      "Flatiron Trailhead",
+      "Prospector Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mesa",
+        "slug": "mesa-az"
+      },
+      {
+        "name": "Gilbert",
+        "slug": "gilbert-az"
+      },
+      {
+        "name": "Queen Creek",
+        "slug": "queen-creek-az"
+      },
+      {
+        "name": "Gold Canyon",
+        "slug": "gold-canyon-az"
+      },
+      {
+        "name": "Florence",
+        "slug": "florence-az"
+      }
+    ],
+    "city_type": "desert-gateway-city",
+    "climate_zone": "sonoran-desert",
+    "terrain": "mountain-desert",
+    "economy_type": "tourism-services",
+    "housing_profile": "retiree-residential",
+    "growth_pattern": "expanding-growth",
+    "service_environment": "outdoor-recreation-market",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Oro Valley",
+    "slug": "oro-valley-az",
+    "county": "Pima County",
+    "population": 50000,
+    "zip_codes": [
+      "85737",
+      "85742",
+      "85755"
+    ],
+    "landmarks": [
+      "Catalina State Park",
+      "Steam Pump Ranch",
+      "Naranja Park",
+      "Honeybee Canyon",
+      "Oro Valley Marketplace"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tucson",
+        "slug": "tucson-az"
+      },
+      {
+        "name": "Marana",
+        "slug": "marana-az"
+      },
+      {
+        "name": "Catalina",
+        "slug": "catalina-az"
+      },
+      {
+        "name": "Sahuarita",
+        "slug": "sahuarita-az"
+      },
+      {
+        "name": "South Tucson",
+        "slug": "south-tucson-az"
+      }
+    ],
+    "city_type": "affluent-desert-suburb",
+    "climate_zone": "sonoran-desert",
+    "terrain": "foothill-desert",
+    "economy_type": "healthcare-professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "mature-growth",
+    "service_environment": "planned-suburban",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Marana",
+    "slug": "marana-az",
+    "county": "Pima County",
+    "population": 58000,
+    "zip_codes": [
+      "85653",
+      "85658"
+    ],
+    "landmarks": [
+      "Tucson Premium Outlets",
+      "Ritz-Carlton Dove Mountain",
+      "Tortolita Preserve",
+      "Marana Heritage River Park",
+      "Dove Mountain"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tucson",
+        "slug": "tucson-az"
+      },
+      {
+        "name": "Oro Valley",
+        "slug": "oro-valley-az"
+      },
+      {
+        "name": "Sahuarita",
+        "slug": "sahuarita-az"
+      },
+      {
+        "name": "Casa Grande",
+        "slug": "casa-grande-az"
+      },
+      {
+        "name": "Eloy",
+        "slug": "eloy-az"
+      }
+    ],
+    "city_type": "master-planned-suburb",
+    "climate_zone": "sonoran-desert",
+    "terrain": "desert-valley",
+    "economy_type": "logistics-tourism",
+    "housing_profile": "new-development-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "expanding-suburban",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "San Luis",
+    "slug": "san-luis-az",
+    "county": "Yuma County",
+    "population": 38000,
+    "zip_codes": [
+      "85349"
+    ],
+    "landmarks": [
+      "San Luis Port of Entry",
+      "Friendship Park",
+      "Joe Orduño Park",
+      "Cesar Chavez Cultural Center",
+      "Main Street District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Yuma",
+        "slug": "yuma-az"
+      },
+      {
+        "name": "Somerton",
+        "slug": "somerton-az"
+      },
+      {
+        "name": "Gadsden",
+        "slug": "gadsden-az"
+      },
+      {
+        "name": "Winterhaven",
+        "slug": "winterhaven-ca"
+      },
+      {
+        "name": "Fortuna Foothills",
+        "slug": "fortuna-foothills-az"
+      }
+    ],
+    "city_type": "international-border-city",
+    "climate_zone": "arid-desert",
+    "terrain": "desert-plains",
+    "economy_type": "cross-border-commerce",
+    "housing_profile": "family-residential",
+    "growth_pattern": "high-growth",
+    "service_environment": "border-trade-corridor",
+    "property_mix": "mixed-use",
+    "state": "AZ"
+  },
+  {
+    "city": "Sahuarita",
+    "slug": "sahuarita-az",
+    "county": "Pima County",
+    "population": 36000,
+    "zip_codes": [
+      "85629"
+    ],
+    "landmarks": [
+      "Sahuarita Lake Park",
+      "Anamax Park",
+      "Titan Missile Museum",
+      "Quail Creek",
+      "Historic Rancho Sahuarita"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tucson",
+        "slug": "tucson-az"
+      },
+      {
+        "name": "Green Valley",
+        "slug": "green-valley-az"
+      },
+      {
+        "name": "Marana",
+        "slug": "marana-az"
+      },
+      {
+        "name": "Oro Valley",
+        "slug": "oro-valley-az"
+      },
+      {
+        "name": "Nogales",
+        "slug": "nogales-az"
+      }
+    ],
+    "city_type": "planned-growth-community",
+    "climate_zone": "sonoran-desert",
+    "terrain": "desert-basin",
+    "economy_type": "residential-services",
+    "housing_profile": "master-planned-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "commuter-market",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Fountain Hills",
+    "slug": "fountain-hills-az",
+    "county": "Maricopa County",
+    "population": 25000,
+    "zip_codes": [
+      "85268"
+    ],
+    "landmarks": [
+      "Fountain Park",
+      "Fountain Hills Fountain",
+      "McDowell Mountain Preserve",
+      "Desert Canyon Golf Club",
+      "Overlook Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Scottsdale",
+        "slug": "scottsdale-az"
+      },
+      {
+        "name": "Mesa",
+        "slug": "mesa-az"
+      },
+      {
+        "name": "Phoenix",
+        "slug": "phoenix-az"
+      },
+      {
+        "name": "Rio Verde",
+        "slug": "rio-verde-az"
+      },
+      {
+        "name": "Paradise Valley",
+        "slug": "paradise-valley-az"
+      }
+    ],
+    "city_type": "desert-resort-community",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-hills",
+    "economy_type": "tourism-retirement",
+    "housing_profile": "retiree-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "resort-residential",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "El Mirage",
+    "slug": "el-mirage-az",
+    "county": "Maricopa County",
+    "population": 36000,
+    "zip_codes": [
+      "85335"
+    ],
+    "landmarks": [
+      "Gateway Park",
+      "El Mirage Dry Lake",
+      "Bill Gentry Park",
+      "Thompson Ranch",
+      "El Mirage Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Surprise",
+        "slug": "surprise-az"
+      },
+      {
+        "name": "Peoria",
+        "slug": "peoria-az"
+      },
+      {
+        "name": "Glendale",
+        "slug": "glendale-az"
+      },
+      {
+        "name": "Sun City",
+        "slug": "sun-city-az"
+      },
+      {
+        "name": "Youngtown",
+        "slug": "youngtown-az"
+      }
+    ],
+    "city_type": "west-valley-community",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-plains",
+    "economy_type": "construction-services",
+    "housing_profile": "working-family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "suburban-market",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Bullhead City",
+    "slug": "bullhead-city-az",
+    "county": "Mohave County",
+    "population": 43000,
+    "zip_codes": [
+      "86429",
+      "86442"
+    ],
+    "landmarks": [
+      "Colorado River",
+      "Rotary Park",
+      "Laughlin Bridge",
+      "Bullhead Community Park",
+      "Riverwalk"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Laughlin",
+        "slug": "laughlin-nv"
+      },
+      {
+        "name": "Fort Mohave",
+        "slug": "fort-mohave-az"
+      },
+      {
+        "name": "Kingman",
+        "slug": "kingman-az"
+      },
+      {
+        "name": "Needles",
+        "slug": "needles-ca"
+      },
+      {
+        "name": "Mohave Valley",
+        "slug": "mohave-valley-az"
+      }
+    ],
+    "city_type": "riverfront-city",
+    "climate_zone": "arid-desert",
+    "terrain": "river-valley",
+    "economy_type": "tourism-gaming-support",
+    "housing_profile": "retiree-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "river-corridor",
+    "property_mix": "mixed-residential",
+    "state": "AZ"
+  },
+  {
+    "city": "Lake Havasu City",
+    "slug": "lake-havasu-city-az",
+    "county": "Mohave County",
+    "population": 58000,
+    "zip_codes": [
+      "86403",
+      "86404",
+      "86406"
+    ],
+    "landmarks": [
+      "London Bridge",
+      "Lake Havasu",
+      "Bridgewater Channel",
+      "Rotary Community Park",
+      "Lake Havasu State Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Parker",
+        "slug": "parker-az"
+      },
+      {
+        "name": "Kingman",
+        "slug": "kingman-az"
+      },
+      {
+        "name": "Bullhead City",
+        "slug": "bullhead-city-az"
+      },
+      {
+        "name": "Needles",
+        "slug": "needles-ca"
+      },
+      {
+        "name": "Topock",
+        "slug": "topock-az"
+      }
+    ],
+    "city_type": "lake-destination-city",
+    "climate_zone": "arid-desert",
+    "terrain": "lake-desert",
+    "economy_type": "tourism-recreation",
+    "housing_profile": "vacation-residential",
+    "growth_pattern": "destination-growth",
+    "service_environment": "tourism-market",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Casas Adobes",
+    "slug": "casas-adobes-az",
+    "county": "Pima County",
+    "population": 70000,
+    "zip_codes": [
+      "85704",
+      "85718",
+      "85737",
+      "85741"
+    ],
+    "landmarks": [
+      "Tohono Chul Park",
+      "Rillito River Park",
+      "Oracle Road Corridor",
+      "Casas Adobes Plaza",
+      "Pima Canyon Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tucson",
+        "slug": "tucson-az"
+      },
+      {
+        "name": "Oro Valley",
+        "slug": "oro-valley-az"
+      },
+      {
+        "name": "Marana",
+        "slug": "marana-az"
+      },
+      {
+        "name": "Catalina Foothills",
+        "slug": "catalina-foothills-az"
+      },
+      {
+        "name": "South Tucson",
+        "slug": "south-tucson-az"
+      }
+    ],
+    "city_type": "suburban-community",
+    "climate_zone": "sonoran-desert",
+    "terrain": "desert-foothills",
+    "economy_type": "retail-services",
+    "housing_profile": "established-residential",
+    "growth_pattern": "mature-growth",
+    "service_environment": "suburban-market",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Sun City",
+    "slug": "sun-city-az",
+    "county": "Maricopa County",
+    "population": 39000,
+    "zip_codes": [
+      "85351",
+      "85373"
+    ],
+    "landmarks": [
+      "Sun Bowl Amphitheatre",
+      "Lakeview Recreation Center",
+      "Bell Recreation Center",
+      "Sun City Country Club",
+      "Duffeeland Dog Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Peoria",
+        "slug": "peoria-az"
+      },
+      {
+        "name": "El Mirage",
+        "slug": "el-mirage-az"
+      },
+      {
+        "name": "Surprise",
+        "slug": "surprise-az"
+      },
+      {
+        "name": "Glendale",
+        "slug": "glendale-az"
+      },
+      {
+        "name": "Youngtown",
+        "slug": "youngtown-az"
+      }
+    ],
+    "city_type": "retirement-community",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-plains",
+    "economy_type": "healthcare-services",
+    "housing_profile": "senior-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "retirement-market",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Paradise Valley",
+    "slug": "paradise-valley-az",
+    "county": "Maricopa County",
+    "population": 13000,
+    "zip_codes": [
+      "85253"
+    ],
+    "landmarks": [
+      "Camelback Mountain",
+      "Mummy Mountain",
+      "Paradise Valley Country Club",
+      "Mountain Shadows Resort",
+      "Barry Goldwater Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Scottsdale",
+        "slug": "scottsdale-az"
+      },
+      {
+        "name": "Phoenix",
+        "slug": "phoenix-az"
+      },
+      {
+        "name": "Tempe",
+        "slug": "tempe-az"
+      },
+      {
+        "name": "Fountain Hills",
+        "slug": "fountain-hills-az"
+      },
+      {
+        "name": "Mesa",
+        "slug": "mesa-az"
+      }
+    ],
+    "city_type": "luxury-residential-community",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-hills",
+    "economy_type": "hospitality-real-estate",
+    "housing_profile": "luxury-estates",
+    "growth_pattern": "limited-growth",
+    "service_environment": "high-end-residential",
+    "property_mix": "estate-properties",
+    "state": "AZ"
+  },
+  {
+    "city": "San Tan Valley",
+    "slug": "san-tan-valley-az",
+    "county": "Pinal County",
+    "population": 105000,
+    "zip_codes": [
+      "85140",
+      "85142",
+      "85143"
+    ],
+    "landmarks": [
+      "San Tan Mountain Regional Park",
+      "Magma Ranch",
+      "Copper Basin",
+      "Skyline Ranch",
+      "Rancho Bella Vista"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Queen Creek",
+        "slug": "queen-creek-az"
+      },
+      {
+        "name": "Florence",
+        "slug": "florence-az"
+      },
+      {
+        "name": "Mesa",
+        "slug": "mesa-az"
+      },
+      {
+        "name": "Gilbert",
+        "slug": "gilbert-az"
+      },
+      {
+        "name": "Apache Junction",
+        "slug": "apache-junction-az"
+      }
+    ],
+    "city_type": "master-planned-growth-area",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-foothills",
+    "economy_type": "residential-services",
+    "housing_profile": "new-development-residential",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "expanding-suburban",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Florence",
+    "slug": "florence-az",
+    "county": "Pinal County",
+    "population": 31000,
+    "zip_codes": [
+      "85132"
+    ],
+    "landmarks": [
+      "Historic Downtown Florence",
+      "McFarland State Historic Park",
+      "Pinal County Courthouse",
+      "Poston Butte",
+      "Florence Aquatic Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "San Tan Valley",
+        "slug": "san-tan-valley-az"
+      },
+      {
+        "name": "Casa Grande",
+        "slug": "casa-grande-az"
+      },
+      {
+        "name": "Coolidge",
+        "slug": "coolidge-az"
+      },
+      {
+        "name": "Queen Creek",
+        "slug": "queen-creek-az"
+      },
+      {
+        "name": "Eloy",
+        "slug": "eloy-az"
+      }
+    ],
+    "city_type": "historic-county-seat",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-valley",
+    "economy_type": "government-corrections",
+    "housing_profile": "small-city-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "regional-service-center",
+    "property_mix": "mixed-use",
+    "state": "AZ"
+  },
+  {
+    "city": "Kingman",
+    "slug": "kingman-az",
+    "county": "Mohave County",
+    "population": 36000,
+    "zip_codes": [
+      "86401",
+      "86409"
+    ],
+    "landmarks": [
+      "Route 66 Museum",
+      "Hualapai Mountain Park",
+      "Locomotive Park",
+      "Kingman Railroad Museum",
+      "Metcalfe Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bullhead City",
+        "slug": "bullhead-city-az"
+      },
+      {
+        "name": "Lake Havasu City",
+        "slug": "lake-havasu-city-az"
+      },
+      {
+        "name": "Golden Valley",
+        "slug": "golden-valley-az"
+      },
+      {
+        "name": "Needles",
+        "slug": "needles-ca"
+      },
+      {
+        "name": "Hackberry",
+        "slug": "hackberry-az"
+      }
+    ],
+    "city_type": "route-66-city",
+    "climate_zone": "high-desert",
+    "terrain": "mountain-desert",
+    "economy_type": "transportation-tourism",
+    "housing_profile": "family-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "highway-corridor",
+    "property_mix": "mixed-use",
+    "state": "AZ"
+  },
+  {
+    "city": "Coolidge",
+    "slug": "coolidge-az",
+    "county": "Pinal County",
+    "population": 18000,
+    "zip_codes": [
+      "85128"
+    ],
+    "landmarks": [
+      "Casa Grande Ruins",
+      "Coolidge Performing Arts Center",
+      "Central Avenue District",
+      "Pinal Fairgrounds",
+      "Mountain View Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Florence",
+        "slug": "florence-az"
+      },
+      {
+        "name": "Casa Grande",
+        "slug": "casa-grande-az"
+      },
+      {
+        "name": "Eloy",
+        "slug": "eloy-az"
+      },
+      {
+        "name": "San Tan Valley",
+        "slug": "san-tan-valley-az"
+      },
+      {
+        "name": "Chandler",
+        "slug": "chandler-az"
+      }
+    ],
+    "city_type": "agricultural-service-city",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-plains",
+    "economy_type": "agriculture-manufacturing",
+    "housing_profile": "working-family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "agricultural-market",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Nogales",
+    "slug": "nogales-az",
+    "county": "Santa Cruz County",
+    "population": 19000,
+    "zip_codes": [
+      "85621"
+    ],
+    "landmarks": [
+      "Mariposa Port of Entry",
+      "Historic Morley Avenue",
+      "Santa Cruz County Courthouse",
+      "Patagonia Lake Access",
+      "Nogales Border Crossing"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Rio Rico",
+        "slug": "rio-rico-az"
+      },
+      {
+        "name": "Tubac",
+        "slug": "tubac-az"
+      },
+      {
+        "name": "Sahuarita",
+        "slug": "sahuarita-az"
+      },
+      {
+        "name": "Green Valley",
+        "slug": "green-valley-az"
+      },
+      {
+        "name": "Patagonia",
+        "slug": "patagonia-az"
+      }
+    ],
+    "city_type": "international-border-city",
+    "climate_zone": "semi-arid",
+    "terrain": "mountain-valley",
+    "economy_type": "international-trade",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "border-commerce",
+    "property_mix": "mixed-use",
+    "state": "AZ"
+  },
+  {
+    "city": "Green Valley",
+    "slug": "green-valley-az",
+    "county": "Pima County",
+    "population": 22000,
+    "zip_codes": [
+      "85614",
+      "85622"
+    ],
+    "landmarks": [
+      "Desert Hills Golf Club",
+      "Green Valley Recreation",
+      "Titan Missile Museum",
+      "Madera Canyon",
+      "Historic Canoa Ranch"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sahuarita",
+        "slug": "sahuarita-az"
+      },
+      {
+        "name": "Nogales",
+        "slug": "nogales-az"
+      },
+      {
+        "name": "Tucson",
+        "slug": "tucson-az"
+      },
+      {
+        "name": "Tubac",
+        "slug": "tubac-az"
+      },
+      {
+        "name": "Amado",
+        "slug": "amado-az"
+      }
+    ],
+    "city_type": "retirement-community",
+    "climate_zone": "sonoran-desert",
+    "terrain": "desert-foothills",
+    "economy_type": "healthcare-retirement-services",
+    "housing_profile": "senior-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "retirement-market",
+    "property_mix": "single-family-dominant",
+    "state": "AZ"
+  },
+  {
+    "city": "Eloy",
+    "slug": "eloy-az",
+    "county": "Pinal County",
+    "population": 17000,
+    "zip_codes": [
+      "85131"
+    ],
+    "landmarks": [
+      "Skydive Arizona",
+      "Eloy Municipal Airport",
+      "Santa Cruz Valley Historic Museum",
+      "Main Street District",
+      "Toltec Road Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Casa Grande",
+        "slug": "casa-grande-az"
+      },
+      {
+        "name": "Coolidge",
+        "slug": "coolidge-az"
+      },
+      {
+        "name": "Florence",
+        "slug": "florence-az"
+      },
+      {
+        "name": "Maricopa",
+        "slug": "maricopa-az"
+      },
+      {
+        "name": "Picacho",
+        "slug": "picacho-az"
+      }
+    ],
+    "city_type": "transportation-corridor-city",
+    "climate_zone": "hot-desert",
+    "terrain": "desert-plains",
+    "economy_type": "logistics-agriculture",
+    "housing_profile": "small-city-residential",
+    "growth_pattern": "industrial-growth",
+    "service_environment": "interstate-corridor",
+    "property_mix": "mixed-use",
+    "state": "AZ"
+  }
+]

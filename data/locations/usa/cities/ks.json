@@ -1,0 +1,1263 @@
+[
+  {
+    "city": "Derby",
+    "slug": "derby-ks",
+    "county": "Sedgwick County",
+    "population": 26000,
+    "zip_codes": [
+      "67037"
+    ],
+    "landmarks": [
+      "Rock River Rapids",
+      "Madison Avenue Central Park",
+      "High Park",
+      "Derby Historical Museum",
+      "Warren Riverview Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wichita",
+        "slug": "wichita-ks"
+      },
+      {
+        "name": "Haysville",
+        "slug": "haysville-ks"
+      },
+      {
+        "name": "Andover",
+        "slug": "andover-ks"
+      },
+      {
+        "name": "Mulvane",
+        "slug": "mulvane-ks"
+      },
+      {
+        "name": "Augusta",
+        "slug": "augusta-ks"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "great-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "wichita-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Gardner",
+    "slug": "gardner-ks",
+    "county": "Johnson County",
+    "population": 24000,
+    "zip_codes": [
+      "66030"
+    ],
+    "landmarks": [
+      "Celebration Park",
+      "Gardner Lake",
+      "Cornerstone Park",
+      "Historic Main Street",
+      "Gardner Aquatic Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Olathe",
+        "slug": "olathe-ks"
+      },
+      {
+        "name": "Lenexa",
+        "slug": "lenexa-ks"
+      },
+      {
+        "name": "Overland Park",
+        "slug": "overland-park-ks"
+      },
+      {
+        "name": "Spring Hill",
+        "slug": "spring-hill-ks"
+      },
+      {
+        "name": "Edgerton",
+        "slug": "edgerton-ks"
+      }
+    ],
+    "city_type": "growth-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "logistics-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "kansas-city-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Hays",
+    "slug": "hays-ks",
+    "county": "Ellis County",
+    "population": 21000,
+    "zip_codes": [
+      "67601"
+    ],
+    "landmarks": [
+      "Fort Hays State University",
+      "Frontier Park",
+      "Sternberg Museum",
+      "Downtown Hays",
+      "Big Creek Crossing"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Salina",
+        "slug": "salina-ks"
+      },
+      {
+        "name": "Russell",
+        "slug": "russell-ks"
+      },
+      {
+        "name": "Ellis",
+        "slug": "ellis-ks"
+      },
+      {
+        "name": "WaKeeney",
+        "slug": "wakeeney-ks"
+      },
+      {
+        "name": "Victoria",
+        "slug": "victoria-ks"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "semi-arid",
+    "terrain": "great-plains",
+    "economy_type": "education-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "western-kansas-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Hutchinson",
+    "slug": "hutchinson-ks",
+    "county": "Reno County",
+    "population": 40000,
+    "zip_codes": [
+      "67501",
+      "67502"
+    ],
+    "landmarks": [
+      "Kansas Cosmosphere",
+      "Strataca Salt Mine",
+      "Carey Park",
+      "Downtown Hutchinson",
+      "Kansas State Fairgrounds"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wichita",
+        "slug": "wichita-ks"
+      },
+      {
+        "name": "McPherson",
+        "slug": "mcpherson-ks"
+      },
+      {
+        "name": "Newton",
+        "slug": "newton-ks"
+      },
+      {
+        "name": "Buhler",
+        "slug": "buhler-ks"
+      },
+      {
+        "name": "South Hutchinson",
+        "slug": "south-hutchinson-ks"
+      }
+    ],
+    "city_type": "regional-hub-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "great-plains",
+    "economy_type": "manufacturing-agriculture",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "south-central-kansas-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Junction City",
+    "slug": "junction-city-ks",
+    "county": "Geary County",
+    "population": 22000,
+    "zip_codes": [
+      "66441"
+    ],
+    "landmarks": [
+      "Milford Lake",
+      "Heritage Park",
+      "C.L. Hoover Opera House",
+      "Geary County Historical Museum",
+      "Downtown Junction City"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Manhattan",
+        "slug": "manhattan-ks"
+      },
+      {
+        "name": "Fort Riley",
+        "slug": "fort-riley-ks"
+      },
+      {
+        "name": "Abilene",
+        "slug": "abilene-ks"
+      },
+      {
+        "name": "Salina",
+        "slug": "salina-ks"
+      },
+      {
+        "name": "Chapman",
+        "slug": "chapman-ks"
+      }
+    ],
+    "city_type": "military-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "military-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-kansas-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Kansas City",
+    "slug": "kansas-city-ks",
+    "county": "Wyandotte County",
+    "population": 153000,
+    "zip_codes": [
+      "66101",
+      "66102",
+      "66103",
+      "66104",
+      "66106"
+    ],
+    "landmarks": [
+      "Kansas Speedway",
+      "Children's Mercy Park",
+      "Legends Outlets",
+      "Wyandotte County Lake Park",
+      "Strawberry Hill Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Overland Park",
+        "slug": "overland-park-ks"
+      },
+      {
+        "name": "Shawnee",
+        "slug": "shawnee-ks"
+      },
+      {
+        "name": "Lenexa",
+        "slug": "lenexa-ks"
+      },
+      {
+        "name": "Leavenworth",
+        "slug": "leavenworth-ks"
+      },
+      {
+        "name": "Kansas City",
+        "slug": "kansas-city-mo"
+      }
+    ],
+    "city_type": "major-metro-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "logistics-manufacturing",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "kansas-city-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Lawrence",
+    "slug": "lawrence-ks",
+    "county": "Douglas County",
+    "population": 98000,
+    "zip_codes": [
+      "66044",
+      "66045",
+      "66046",
+      "66047",
+      "66049"
+    ],
+    "landmarks": [
+      "University of Kansas",
+      "Massachusetts Street",
+      "David Booth Kansas Memorial Stadium",
+      "Clinton Lake",
+      "Spencer Museum of Art"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Olathe",
+        "slug": "olathe-ks"
+      },
+      {
+        "name": "Lenexa",
+        "slug": "lenexa-ks"
+      },
+      {
+        "name": "Leavenworth",
+        "slug": "leavenworth-ks"
+      },
+      {
+        "name": "Topeka",
+        "slug": "topeka-ks"
+      },
+      {
+        "name": "Eudora",
+        "slug": "eudora-ks"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "education-healthcare",
+    "housing_profile": "student-professional-mix",
+    "growth_pattern": "institutional-growth",
+    "service_environment": "northeast-kansas-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Leavenworth",
+    "slug": "leavenworth-ks",
+    "county": "Leavenworth County",
+    "population": 38000,
+    "zip_codes": [
+      "66048"
+    ],
+    "landmarks": [
+      "Fort Leavenworth",
+      "Frontier Army Museum",
+      "Leavenworth Landing Park",
+      "Riverfront Community Center",
+      "Downtown Leavenworth"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kansas City",
+        "slug": "kansas-city-ks"
+      },
+      {
+        "name": "Lawrence",
+        "slug": "lawrence-ks"
+      },
+      {
+        "name": "Lansing",
+        "slug": "lansing-ks"
+      },
+      {
+        "name": "Olathe",
+        "slug": "olathe-ks"
+      },
+      {
+        "name": "Platte City",
+        "slug": "platte-city-mo"
+      }
+    ],
+    "city_type": "military-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "kansas-city-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Leawood",
+    "slug": "leawood-ks",
+    "county": "Johnson County",
+    "population": 34000,
+    "zip_codes": [
+      "66206",
+      "66209",
+      "66211",
+      "66224"
+    ],
+    "landmarks": [
+      "Town Center Plaza",
+      "Park Place",
+      "Ironwoods Park",
+      "Leawood City Park",
+      "Tomahawk Creek Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Overland Park",
+        "slug": "overland-park-ks"
+      },
+      {
+        "name": "Lenexa",
+        "slug": "lenexa-ks"
+      },
+      {
+        "name": "Shawnee",
+        "slug": "shawnee-ks"
+      },
+      {
+        "name": "Prairie Village",
+        "slug": "prairie-village-ks"
+      },
+      {
+        "name": "Kansas City",
+        "slug": "kansas-city-mo"
+      }
+    ],
+    "city_type": "affluent-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "finance-professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "kansas-city-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Lenexa",
+    "slug": "lenexa-ks",
+    "county": "Johnson County",
+    "population": 59000,
+    "zip_codes": [
+      "66215",
+      "66216",
+      "66219",
+      "66220",
+      "66227"
+    ],
+    "landmarks": [
+      "Lenexa City Center",
+      "Black Hoof Park",
+      "Sar-Ko-Par Trails Park",
+      "Lake Lenexa",
+      "Legler Barn Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Overland Park",
+        "slug": "overland-park-ks"
+      },
+      {
+        "name": "Olathe",
+        "slug": "olathe-ks"
+      },
+      {
+        "name": "Shawnee",
+        "slug": "shawnee-ks"
+      },
+      {
+        "name": "Leawood",
+        "slug": "leawood-ks"
+      },
+      {
+        "name": "Kansas City",
+        "slug": "kansas-city-ks"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "technology-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "high-growth",
+    "service_environment": "kansas-city-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Andover",
+    "slug": "andover-ks",
+    "county": "Butler County",
+    "population": 17000,
+    "zip_codes": [
+      "67002"
+    ],
+    "landmarks": [
+      "Andover Central Park",
+      "Capitol Federal Amphitheater",
+      "Andover YMCA",
+      "Heritage Park",
+      "Andover Public Library"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wichita",
+        "slug": "wichita-ks"
+      },
+      {
+        "name": "Derby",
+        "slug": "derby-ks"
+      },
+      {
+        "name": "Augusta",
+        "slug": "augusta-ks"
+      },
+      {
+        "name": "Bel Aire",
+        "slug": "bel-aire-ks"
+      },
+      {
+        "name": "Park City",
+        "slug": "park-city-ks"
+      }
+    ],
+    "city_type": "growth-suburban-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "great-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "wichita-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Lansing",
+    "slug": "lansing-ks",
+    "county": "Leavenworth County",
+    "population": 12000,
+    "zip_codes": [
+      "66043"
+    ],
+    "landmarks": [
+      "Lansing Historical Museum",
+      "Kenneth W. Bernard Community Park",
+      "Angel Falls Trail",
+      "Lansing City Hall",
+      "Lansing Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Leavenworth",
+        "slug": "leavenworth-ks"
+      },
+      {
+        "name": "Kansas City",
+        "slug": "kansas-city-ks"
+      },
+      {
+        "name": "Bonner Springs",
+        "slug": "bonner-springs-ks"
+      },
+      {
+        "name": "Basehor",
+        "slug": "basehor-ks"
+      },
+      {
+        "name": "Platte City",
+        "slug": "platte-city-mo"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "services-government",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "kansas-city-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Manhattan",
+    "slug": "manhattan-ks",
+    "county": "Riley County",
+    "population": 55000,
+    "zip_codes": [
+      "66502",
+      "66503"
+    ],
+    "landmarks": [
+      "Kansas State University",
+      "Bill Snyder Family Stadium",
+      "Flint Hills Discovery Center",
+      "City Park",
+      "Tuttle Creek State Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Junction City",
+        "slug": "junction-city-ks"
+      },
+      {
+        "name": "Topeka",
+        "slug": "topeka-ks"
+      },
+      {
+        "name": "Wamego",
+        "slug": "wamego-ks"
+      },
+      {
+        "name": "Fort Riley",
+        "slug": "fort-riley-ks"
+      },
+      {
+        "name": "Abilene",
+        "slug": "abilene-ks"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-continental",
+    "terrain": "flint-hills",
+    "economy_type": "education-military",
+    "housing_profile": "student-professional-mix",
+    "growth_pattern": "institutional-growth",
+    "service_environment": "central-kansas-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Olathe",
+    "slug": "olathe-ks",
+    "county": "Johnson County",
+    "population": 145000,
+    "zip_codes": [
+      "66061",
+      "66062",
+      "66063"
+    ],
+    "landmarks": [
+      "Mahaffie Stagecoach Stop",
+      "Lake Olathe Park",
+      "Ernie Miller Nature Center",
+      "Downtown Olathe",
+      "Olathe Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Overland Park",
+        "slug": "overland-park-ks"
+      },
+      {
+        "name": "Lenexa",
+        "slug": "lenexa-ks"
+      },
+      {
+        "name": "Gardner",
+        "slug": "gardner-ks"
+      },
+      {
+        "name": "Leawood",
+        "slug": "leawood-ks"
+      },
+      {
+        "name": "Kansas City",
+        "slug": "kansas-city-ks"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "healthcare-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "high-growth",
+    "service_environment": "kansas-city-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Overland Park",
+    "slug": "overland-park-ks",
+    "county": "Johnson County",
+    "population": 200000,
+    "zip_codes": [
+      "66204",
+      "66207",
+      "66210",
+      "66212",
+      "66213"
+    ],
+    "landmarks": [
+      "Overland Park Arboretum",
+      "Oak Park Mall",
+      "Deanna Rose Children's Farmstead",
+      "Corporate Woods",
+      "Museum at Prairiefire"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Olathe",
+        "slug": "olathe-ks"
+      },
+      {
+        "name": "Lenexa",
+        "slug": "lenexa-ks"
+      },
+      {
+        "name": "Leawood",
+        "slug": "leawood-ks"
+      },
+      {
+        "name": "Shawnee",
+        "slug": "shawnee-ks"
+      },
+      {
+        "name": "Kansas City",
+        "slug": "kansas-city-ks"
+      }
+    ],
+    "city_type": "major-metro-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "technology-finance",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "kansas-city-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Dodge City",
+    "slug": "dodge-city-ks",
+    "county": "Ford County",
+    "population": 27000,
+    "zip_codes": [
+      "67801"
+    ],
+    "landmarks": [
+      "Boot Hill Museum",
+      "Boot Hill Casino",
+      "United Wireless Arena",
+      "Long Branch Lagoon",
+      "Historic Downtown Dodge City"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Garden City",
+        "slug": "garden-city-ks"
+      },
+      {
+        "name": "Liberal",
+        "slug": "liberal-ks"
+      },
+      {
+        "name": "Hays",
+        "slug": "hays-ks"
+      },
+      {
+        "name": "Pratt",
+        "slug": "pratt-ks"
+      },
+      {
+        "name": "Jetmore",
+        "slug": "jetmore-ks"
+      }
+    ],
+    "city_type": "historic-western-city",
+    "climate_zone": "semi-arid",
+    "terrain": "great-plains",
+    "economy_type": "agriculture-manufacturing",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "southwest-kansas-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Emporia",
+    "slug": "emporia-ks",
+    "county": "Lyon County",
+    "population": 24000,
+    "zip_codes": [
+      "66801"
+    ],
+    "landmarks": [
+      "Emporia State University",
+      "David Traylor Zoo",
+      "Jones Park",
+      "Downtown Emporia",
+      "Peter Pan Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Topeka",
+        "slug": "topeka-ks"
+      },
+      {
+        "name": "Lawrence",
+        "slug": "lawrence-ks"
+      },
+      {
+        "name": "Ottawa",
+        "slug": "ottawa-ks"
+      },
+      {
+        "name": "Council Grove",
+        "slug": "council-grove-ks"
+      },
+      {
+        "name": "Burlington",
+        "slug": "burlington-ks"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-central-kansas-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Garden City",
+    "slug": "garden-city-ks",
+    "county": "Finney County",
+    "population": 29000,
+    "zip_codes": [
+      "67846"
+    ],
+    "landmarks": [
+      "Lee Richardson Zoo",
+      "Finnup Park",
+      "Garden City Community College",
+      "The Big Pool",
+      "Downtown Garden City"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Dodge City",
+        "slug": "dodge-city-ks"
+      },
+      {
+        "name": "Liberal",
+        "slug": "liberal-ks"
+      },
+      {
+        "name": "Scott City",
+        "slug": "scott-city-ks"
+      },
+      {
+        "name": "Holcomb",
+        "slug": "holcomb-ks"
+      },
+      {
+        "name": "Ulysses",
+        "slug": "ulysses-ks"
+      }
+    ],
+    "city_type": "regional-hub-city",
+    "climate_zone": "semi-arid",
+    "terrain": "great-plains",
+    "economy_type": "agriculture-processing",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "southwest-kansas-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Liberal",
+    "slug": "liberal-ks",
+    "county": "Seward County",
+    "population": 20000,
+    "zip_codes": [
+      "67901"
+    ],
+    "landmarks": [
+      "Mid-America Air Museum",
+      "Adventure Bay Water Park",
+      "Dorothy's House",
+      "Light Park",
+      "Downtown Liberal"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Garden City",
+        "slug": "garden-city-ks"
+      },
+      {
+        "name": "Dodge City",
+        "slug": "dodge-city-ks"
+      },
+      {
+        "name": "Guymon",
+        "slug": "guymon-ok"
+      },
+      {
+        "name": "Hugoton",
+        "slug": "hugoton-ks"
+      },
+      {
+        "name": "Ulysses",
+        "slug": "ulysses-ks"
+      }
+    ],
+    "city_type": "regional-service-city",
+    "climate_zone": "semi-arid",
+    "terrain": "high-plains",
+    "economy_type": "agriculture-energy",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southwest-kansas-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Newton",
+    "slug": "newton-ks",
+    "county": "Harvey County",
+    "population": 19000,
+    "zip_codes": [
+      "67114"
+    ],
+    "landmarks": [
+      "Sand Creek Station Golf Course",
+      "Harvey County Historical Museum",
+      "Athletic Park",
+      "Downtown Newton",
+      "Centennial Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wichita",
+        "slug": "wichita-ks"
+      },
+      {
+        "name": "Hutchinson",
+        "slug": "hutchinson-ks"
+      },
+      {
+        "name": "McPherson",
+        "slug": "mcpherson-ks"
+      },
+      {
+        "name": "Park City",
+        "slug": "park-city-ks"
+      },
+      {
+        "name": "Valley Center",
+        "slug": "valley-center-ks"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "great-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "wichita-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "McPherson",
+    "slug": "mcpherson-ks",
+    "county": "McPherson County",
+    "population": 30000,
+    "zip_codes": [
+      "67460"
+    ],
+    "landmarks": [
+      "Lakeside Park",
+      "McPherson Museum",
+      "Turkey Creek Golf Course",
+      "Downtown McPherson",
+      "McPherson Opera House"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hutchinson",
+        "slug": "hutchinson-ks"
+      },
+      {
+        "name": "Salina",
+        "slug": "salina-ks"
+      },
+      {
+        "name": "Newton",
+        "slug": "newton-ks"
+      },
+      {
+        "name": "Lindsborg",
+        "slug": "lindsborg-ks"
+      },
+      {
+        "name": "Moundridge",
+        "slug": "moundridge-ks"
+      }
+    ],
+    "city_type": "regional-service-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "great-plains",
+    "economy_type": "manufacturing-agriculture",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-kansas-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Prairie Village",
+    "slug": "prairie-village-ks",
+    "county": "Johnson County",
+    "population": 23000,
+    "zip_codes": [
+      "66206",
+      "66207",
+      "66208"
+    ],
+    "landmarks": [
+      "Prairie Village Shops",
+      "Harmon Park",
+      "Franklin Park",
+      "Prairie Village Municipal Complex",
+      "Indian Creek Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Leawood",
+        "slug": "leawood-ks"
+      },
+      {
+        "name": "Overland Park",
+        "slug": "overland-park-ks"
+      },
+      {
+        "name": "Lenexa",
+        "slug": "lenexa-ks"
+      },
+      {
+        "name": "Shawnee",
+        "slug": "shawnee-ks"
+      },
+      {
+        "name": "Kansas City",
+        "slug": "kansas-city-mo"
+      }
+    ],
+    "city_type": "affluent-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "kansas-city-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Salina",
+    "slug": "salina-ks",
+    "county": "Saline County",
+    "population": 46000,
+    "zip_codes": [
+      "67401",
+      "67402"
+    ],
+    "landmarks": [
+      "Rolling Hills Zoo",
+      "Oakdale Park",
+      "Stiefel Theatre",
+      "Smoky Hill Museum",
+      "Downtown Salina"
+    ],
+    "nearby_cities": [
+      {
+        "name": "McPherson",
+        "slug": "mcpherson-ks"
+      },
+      {
+        "name": "Hays",
+        "slug": "hays-ks"
+      },
+      {
+        "name": "Abilene",
+        "slug": "abilene-ks"
+      },
+      {
+        "name": "Junction City",
+        "slug": "junction-city-ks"
+      },
+      {
+        "name": "Lindsborg",
+        "slug": "lindsborg-ks"
+      }
+    ],
+    "city_type": "regional-hub-city",
+    "climate_zone": "humid-continental",
+    "terrain": "great-plains",
+    "economy_type": "logistics-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "central-kansas-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Shawnee",
+    "slug": "shawnee-ks",
+    "county": "Johnson County",
+    "population": 69000,
+    "zip_codes": [
+      "66203",
+      "66216",
+      "66217",
+      "66218",
+      "66226"
+    ],
+    "landmarks": [
+      "Shawnee Mission Park",
+      "Wonderscope Children's Museum",
+      "Mid-America Sports Complex",
+      "Shawnee Town 1929",
+      "Mill Creek Streamway Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lenexa",
+        "slug": "lenexa-ks"
+      },
+      {
+        "name": "Overland Park",
+        "slug": "overland-park-ks"
+      },
+      {
+        "name": "Olathe",
+        "slug": "olathe-ks"
+      },
+      {
+        "name": "Kansas City",
+        "slug": "kansas-city-ks"
+      },
+      {
+        "name": "Prairie Village",
+        "slug": "prairie-village-ks"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "high-growth",
+    "service_environment": "kansas-city-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Topeka",
+    "slug": "topeka-ks",
+    "county": "Shawnee County",
+    "population": 126000,
+    "zip_codes": [
+      "66603",
+      "66604",
+      "66605",
+      "66606",
+      "66614"
+    ],
+    "landmarks": [
+      "Kansas State Capitol",
+      "Topeka Zoo",
+      "Gage Park",
+      "Brown v. Board National Historical Park",
+      "Lake Shawnee"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lawrence",
+        "slug": "lawrence-ks"
+      },
+      {
+        "name": "Manhattan",
+        "slug": "manhattan-ks"
+      },
+      {
+        "name": "Emporia",
+        "slug": "emporia-ks"
+      },
+      {
+        "name": "Eudora",
+        "slug": "eudora-ks"
+      },
+      {
+        "name": "Auburn",
+        "slug": "auburn-ks"
+      }
+    ],
+    "city_type": "state-capital-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "government-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-kansas-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  },
+  {
+    "city": "Wichita",
+    "slug": "wichita-ks",
+    "county": "Sedgwick County",
+    "population": 397000,
+    "zip_codes": [
+      "67202",
+      "67203",
+      "67204",
+      "67205",
+      "67206",
+      "67207"
+    ],
+    "landmarks": [
+      "Sedgwick County Zoo",
+      "Old Cowtown Museum",
+      "Exploration Place",
+      "Keeper of the Plains",
+      "Botanica Wichita"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Derby",
+        "slug": "derby-ks"
+      },
+      {
+        "name": "Andover",
+        "slug": "andover-ks"
+      },
+      {
+        "name": "Haysville",
+        "slug": "haysville-ks"
+      },
+      {
+        "name": "Park City",
+        "slug": "park-city-ks"
+      },
+      {
+        "name": "Bel Aire",
+        "slug": "bel-aire-ks"
+      }
+    ],
+    "city_type": "major-metro-city",
+    "climate_zone": "humid-subtropical",
+    "terrain": "great-plains",
+    "economy_type": "aviation-manufacturing",
+    "housing_profile": "urban-high-density",
+    "growth_pattern": "metro-growth",
+    "service_environment": "wichita-market",
+    "property_mix": "mixed-use",
+    "state": "KS"
+  }
+]

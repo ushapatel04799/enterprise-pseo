@@ -1,0 +1,3777 @@
+[
+  {
+    "city": "Omaha",
+    "slug": "omaha-ne",
+    "county": "Douglas County",
+    "population": 490000,
+    "zip_codes": [
+      "68102",
+      "68104",
+      "68106",
+      "68114",
+      "68116"
+    ],
+    "landmarks": [
+      "Henry Doorly Zoo",
+      "Old Market",
+      "CHI Health Center",
+      "Gene Leahy Mall",
+      "Bob Kerrey Pedestrian Bridge"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-ne"
+      },
+      {
+        "name": "Papillion",
+        "slug": "papillion-ne"
+      },
+      {
+        "name": "La Vista",
+        "slug": "la-vista-ne"
+      },
+      {
+        "name": "Ralston",
+        "slug": "ralston-ne"
+      },
+      {
+        "name": "Council Bluffs",
+        "slug": "council-bluffs-ia"
+      }
+    ],
+    "city_type": "major-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "finance-healthcare",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "omaha-metro-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Lincoln",
+    "slug": "lincoln-ne",
+    "county": "Lancaster County",
+    "population": 295000,
+    "zip_codes": [
+      "68502",
+      "68504",
+      "68506",
+      "68510",
+      "68516"
+    ],
+    "landmarks": [
+      "Nebraska State Capitol",
+      "University of Nebraska",
+      "Haymarket District",
+      "Memorial Stadium",
+      "Sunken Gardens"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Seward",
+        "slug": "seward-ne"
+      },
+      {
+        "name": "Waverly",
+        "slug": "waverly-ne"
+      },
+      {
+        "name": "Hickman",
+        "slug": "hickman-ne"
+      },
+      {
+        "name": "Crete",
+        "slug": "crete-ne"
+      },
+      {
+        "name": "Milford",
+        "slug": "milford-ne"
+      }
+    ],
+    "city_type": "capital-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "government-education",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "lincoln-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Bellevue",
+    "slug": "bellevue-ne",
+    "county": "Sarpy County",
+    "population": 65000,
+    "zip_codes": [
+      "68005",
+      "68123",
+      "68147"
+    ],
+    "landmarks": [
+      "Offutt Air Force Base",
+      "Fontenelle Forest",
+      "Haworth Park",
+      "Old Towne Bellevue",
+      "Bellevue University"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      },
+      {
+        "name": "Papillion",
+        "slug": "papillion-ne"
+      },
+      {
+        "name": "La Vista",
+        "slug": "la-vista-ne"
+      },
+      {
+        "name": "Ralston",
+        "slug": "ralston-ne"
+      },
+      {
+        "name": "Council Bluffs",
+        "slug": "council-bluffs-ia"
+      }
+    ],
+    "city_type": "major-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "military-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "omaha-metro-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Grand Island",
+    "slug": "grand-island-ne",
+    "county": "Hall County",
+    "population": 54000,
+    "zip_codes": [
+      "68801",
+      "68803"
+    ],
+    "landmarks": [
+      "Stuhr Museum",
+      "Fonner Park",
+      "Heartland Events Center",
+      "Island Oasis",
+      "Downtown Grand Island"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wood River",
+        "slug": "wood-river-ne"
+      },
+      {
+        "name": "Alda",
+        "slug": "alda-ne"
+      },
+      {
+        "name": "Doniphan",
+        "slug": "doniphan-ne"
+      },
+      {
+        "name": "Hastings",
+        "slug": "hastings-ne"
+      },
+      {
+        "name": "Kearney",
+        "slug": "kearney-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Kearney",
+    "slug": "kearney-ne",
+    "county": "Buffalo County",
+    "population": 34000,
+    "zip_codes": [
+      "68845",
+      "68847",
+      "68848"
+    ],
+    "landmarks": [
+      "University of Nebraska Kearney",
+      "Great Platte River Road Archway",
+      "Yanney Park",
+      "Museum of Nebraska Art",
+      "Downtown Kearney"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Grand Island",
+        "slug": "grand-island-ne"
+      },
+      {
+        "name": "Gibbon",
+        "slug": "gibbon-ne"
+      },
+      {
+        "name": "Minden",
+        "slug": "minden-ne"
+      },
+      {
+        "name": "Shelton",
+        "slug": "shelton-ne"
+      },
+      {
+        "name": "Hastings",
+        "slug": "hastings-ne"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Fremont",
+    "slug": "fremont-ne",
+    "county": "Dodge County",
+    "population": 28000,
+    "zip_codes": [
+      "68025"
+    ],
+    "landmarks": [
+      "Louis E. May Museum",
+      "Fremont Lakes",
+      "Midland University",
+      "Pathfinder Campground",
+      "Downtown Fremont"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      },
+      {
+        "name": "Blair",
+        "slug": "blair-ne"
+      },
+      {
+        "name": "Valley",
+        "slug": "valley-ne"
+      },
+      {
+        "name": "North Bend",
+        "slug": "north-bend-ne"
+      },
+      {
+        "name": "Wahoo",
+        "slug": "wahoo-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastern-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Norfolk",
+    "slug": "norfolk-ne",
+    "county": "Madison County",
+    "population": 25000,
+    "zip_codes": [
+      "68701"
+    ],
+    "landmarks": [
+      "Skyview Lake",
+      "Ta-Ha-Zouka Park",
+      "Norfolk Arts Center",
+      "River Point Square",
+      "Downtown Norfolk"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Madison",
+        "slug": "madison-ne"
+      },
+      {
+        "name": "Pierce",
+        "slug": "pierce-ne"
+      },
+      {
+        "name": "Battle Creek",
+        "slug": "battle-creek-ne"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-ne"
+      },
+      {
+        "name": "Wayne",
+        "slug": "wayne-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Columbus",
+    "slug": "columbus-ne",
+    "county": "Platte County",
+    "population": 25000,
+    "zip_codes": [
+      "68601",
+      "68602"
+    ],
+    "landmarks": [
+      "Pawnee Park",
+      "Andrew Jackson Higgins Memorial",
+      "Platte County Courthouse",
+      "Van Berg Golf Course",
+      "Downtown Columbus"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-ne"
+      },
+      {
+        "name": "Schuyler",
+        "slug": "schuyler-ne"
+      },
+      {
+        "name": "David City",
+        "slug": "david-city-ne"
+      },
+      {
+        "name": "Fremont",
+        "slug": "fremont-ne"
+      },
+      {
+        "name": "Genoa",
+        "slug": "genoa-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastern-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Papillion",
+    "slug": "papillion-ne",
+    "county": "Sarpy County",
+    "population": 24000,
+    "zip_codes": [
+      "68046"
+    ],
+    "landmarks": [
+      "Shadow Lake Towne Center",
+      "Halleck Park",
+      "Papio Bay",
+      "Downtown Papillion",
+      "Sarpy County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-ne"
+      },
+      {
+        "name": "La Vista",
+        "slug": "la-vista-ne"
+      },
+      {
+        "name": "Ralston",
+        "slug": "ralston-ne"
+      },
+      {
+        "name": "Gretna",
+        "slug": "gretna-ne"
+      }
+    ],
+    "city_type": "growth-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "omaha-metro-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "La Vista",
+    "slug": "la-vista-ne",
+    "county": "Sarpy County",
+    "population": 17000,
+    "zip_codes": [
+      "68128"
+    ],
+    "landmarks": [
+      "Central Park",
+      "La Vista City Centre",
+      "Tara Hills Golf Course",
+      "Community Center",
+      "Downtown District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      },
+      {
+        "name": "Papillion",
+        "slug": "papillion-ne"
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-ne"
+      },
+      {
+        "name": "Ralston",
+        "slug": "ralston-ne"
+      },
+      {
+        "name": "Gretna",
+        "slug": "gretna-ne"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "omaha-metro-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Hastings",
+    "slug": "hastings-ne",
+    "county": "Adams County",
+    "population": 25000,
+    "zip_codes": [
+      "68901",
+      "68902"
+    ],
+    "landmarks": [
+      "Hastings Museum",
+      "Fisher Rainbow Fountain",
+      "Brickyard Park",
+      "Central Community College",
+      "Downtown Hastings"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Grand Island",
+        "slug": "grand-island-ne"
+      },
+      {
+        "name": "Kearney",
+        "slug": "kearney-ne"
+      },
+      {
+        "name": "Doniphan",
+        "slug": "doniphan-ne"
+      },
+      {
+        "name": "Sutton",
+        "slug": "sutton-ne"
+      },
+      {
+        "name": "Clay Center",
+        "slug": "clay-center-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "North Platte",
+    "slug": "north-platte-ne",
+    "county": "Lincoln County",
+    "population": 23500,
+    "zip_codes": [
+      "69101"
+    ],
+    "landmarks": [
+      "Golden Spike Tower",
+      "Buffalo Bill Ranch",
+      "Cody Park",
+      "Union Pacific Bailey Yard",
+      "Downtown North Platte"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ogallala",
+        "slug": "ogallala-ne"
+      },
+      {
+        "name": "Cozad",
+        "slug": "cozad-ne"
+      },
+      {
+        "name": "Lexington",
+        "slug": "lexington-ne"
+      },
+      {
+        "name": "Sutherland",
+        "slug": "sutherland-ne"
+      },
+      {
+        "name": "Hershey",
+        "slug": "hershey-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "semi-arid",
+    "terrain": "river-valley",
+    "economy_type": "transport-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "western-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Scottsbluff",
+    "slug": "scottsbluff-ne",
+    "county": "Scotts Bluff County",
+    "population": 14500,
+    "zip_codes": [
+      "69361"
+    ],
+    "landmarks": [
+      "Scotts Bluff National Monument",
+      "Riverside Discovery Center",
+      "West Nebraska Arts Center",
+      "North Platte River",
+      "Downtown Scottsbluff"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gering",
+        "slug": "gering-ne"
+      },
+      {
+        "name": "Terrytown",
+        "slug": "terrytown-ne"
+      },
+      {
+        "name": "Mitchell",
+        "slug": "mitchell-ne"
+      },
+      {
+        "name": "Bridgeport",
+        "slug": "bridgeport-ne"
+      },
+      {
+        "name": "Morrill",
+        "slug": "morrill-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "semi-arid",
+    "terrain": "river-valley",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "panhandle-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Beatrice",
+    "slug": "beatrice-ne",
+    "county": "Gage County",
+    "population": 12000,
+    "zip_codes": [
+      "68310"
+    ],
+    "landmarks": [
+      "Homestead National Historical Park",
+      "Chautauqua Park",
+      "Gage County Museum",
+      "Big Blue River",
+      "Downtown Beatrice"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ne"
+      },
+      {
+        "name": "Crete",
+        "slug": "crete-ne"
+      },
+      {
+        "name": "Fairbury",
+        "slug": "fairbury-ne"
+      },
+      {
+        "name": "Seward",
+        "slug": "seward-ne"
+      },
+      {
+        "name": "Wymore",
+        "slug": "wymore-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Lexington",
+    "slug": "lexington-ne",
+    "county": "Dawson County",
+    "population": 10500,
+    "zip_codes": [
+      "68850"
+    ],
+    "landmarks": [
+      "Heartland Museum",
+      "Johnson Lake Gateway",
+      "Platte River",
+      "Dawson County Fairgrounds",
+      "Downtown Lexington"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Platte",
+        "slug": "north-platte-ne"
+      },
+      {
+        "name": "Cozad",
+        "slug": "cozad-ne"
+      },
+      {
+        "name": "Kearney",
+        "slug": "kearney-ne"
+      },
+      {
+        "name": "Gothenburg",
+        "slug": "gothenburg-ne"
+      },
+      {
+        "name": "Holdrege",
+        "slug": "holdrege-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "semi-arid",
+    "terrain": "river-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Gering",
+    "slug": "gering-ne",
+    "county": "Scotts Bluff County",
+    "population": 8500,
+    "zip_codes": [
+      "69341"
+    ],
+    "landmarks": [
+      "Legacy of the Plains Museum",
+      "Scotts Bluff Monument",
+      "Five Rocks Amphitheater",
+      "North Platte River",
+      "Downtown Gering"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Scottsbluff",
+        "slug": "scottsbluff-ne"
+      },
+      {
+        "name": "Terrytown",
+        "slug": "terrytown-ne"
+      },
+      {
+        "name": "Mitchell",
+        "slug": "mitchell-ne"
+      },
+      {
+        "name": "Bridgeport",
+        "slug": "bridgeport-ne"
+      },
+      {
+        "name": "Morrill",
+        "slug": "morrill-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "semi-arid",
+    "terrain": "river-valley",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "panhandle-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Alliance",
+    "slug": "alliance-ne",
+    "county": "Box Butte County",
+    "population": 8200,
+    "zip_codes": [
+      "69301"
+    ],
+    "landmarks": [
+      "Carhenge",
+      "Knight Museum",
+      "Central Park Fountain",
+      "Burlington Railroad District",
+      "Downtown Alliance"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Chadron",
+        "slug": "chadron-ne"
+      },
+      {
+        "name": "Hemingford",
+        "slug": "hemingford-ne"
+      },
+      {
+        "name": "Scottsbluff",
+        "slug": "scottsbluff-ne"
+      },
+      {
+        "name": "Gering",
+        "slug": "gering-ne"
+      },
+      {
+        "name": "Bridgeport",
+        "slug": "bridgeport-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "semi-arid",
+    "terrain": "high-plains",
+    "economy_type": "transport-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "western-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Blair",
+    "slug": "blair-ne",
+    "county": "Washington County",
+    "population": 8000,
+    "zip_codes": [
+      "68008"
+    ],
+    "landmarks": [
+      "Black Elk-Neihardt Park",
+      "Washington County Museum",
+      "Missouri River Valley",
+      "Dana College Site",
+      "Downtown Blair"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      },
+      {
+        "name": "Fremont",
+        "slug": "fremont-ne"
+      },
+      {
+        "name": "Valley",
+        "slug": "valley-ne"
+      },
+      {
+        "name": "Arlington",
+        "slug": "arlington-ne"
+      },
+      {
+        "name": "Fort Calhoun",
+        "slug": "fort-calhoun-ne"
+      }
+    ],
+    "city_type": "growth-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "omaha-metro-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Gretna",
+    "slug": "gretna-ne",
+    "county": "Sarpy County",
+    "population": 7200,
+    "zip_codes": [
+      "68028"
+    ],
+    "landmarks": [
+      "Nebraska Crossing",
+      "Holy Family Shrine",
+      "Schramm Park",
+      "Downtown Gretna",
+      "Gretna Crossing Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      },
+      {
+        "name": "Papillion",
+        "slug": "papillion-ne"
+      },
+      {
+        "name": "La Vista",
+        "slug": "la-vista-ne"
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-ne"
+      },
+      {
+        "name": "Elkhorn",
+        "slug": "elkhorn-ne"
+      }
+    ],
+    "city_type": "high-growth-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "omaha-metro-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Seward",
+    "slug": "seward-ne",
+    "county": "Seward County",
+    "population": 7400,
+    "zip_codes": [
+      "68434"
+    ],
+    "landmarks": [
+      "Concordia University",
+      "Seward Fourth of July Celebration",
+      "Plum Creek Park",
+      "Seward County Courthouse",
+      "Downtown Seward"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ne"
+      },
+      {
+        "name": "York",
+        "slug": "york-ne"
+      },
+      {
+        "name": "Crete",
+        "slug": "crete-ne"
+      },
+      {
+        "name": "Milford",
+        "slug": "milford-ne"
+      },
+      {
+        "name": "Waverly",
+        "slug": "waverly-ne"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "lincoln-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "York",
+    "slug": "york-ne",
+    "county": "York County",
+    "population": 8000,
+    "zip_codes": [
+      "68467"
+    ],
+    "landmarks": [
+      "Wessels Living History Farm",
+      "York Country Club",
+      "Anna Palmer Museum",
+      "Foster Park",
+      "Downtown York"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Seward",
+        "slug": "seward-ne"
+      },
+      {
+        "name": "Aurora",
+        "slug": "aurora-ne"
+      },
+      {
+        "name": "Henderson",
+        "slug": "henderson-ne"
+      },
+      {
+        "name": "Geneva",
+        "slug": "geneva-ne"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "south-central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Crete",
+    "slug": "crete-ne",
+    "county": "Saline County",
+    "population": 7200,
+    "zip_codes": [
+      "68333"
+    ],
+    "landmarks": [
+      "Doane University",
+      "Tuxedo Park",
+      "Saline County Courthouse",
+      "Crete City Park",
+      "Downtown Crete"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ne"
+      },
+      {
+        "name": "Seward",
+        "slug": "seward-ne"
+      },
+      {
+        "name": "Beatrice",
+        "slug": "beatrice-ne"
+      },
+      {
+        "name": "Hickman",
+        "slug": "hickman-ne"
+      },
+      {
+        "name": "Milford",
+        "slug": "milford-ne"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "lincoln-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Waverly",
+    "slug": "waverly-ne",
+    "county": "Lancaster County",
+    "population": 4300,
+    "zip_codes": [
+      "68462"
+    ],
+    "landmarks": [
+      "Wayne Park",
+      "Waverly Community Center",
+      "Veterans Memorial",
+      "Prairie Creek",
+      "Downtown Waverly"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ne"
+      },
+      {
+        "name": "Seward",
+        "slug": "seward-ne"
+      },
+      {
+        "name": "Hickman",
+        "slug": "hickman-ne"
+      },
+      {
+        "name": "Milford",
+        "slug": "milford-ne"
+      },
+      {
+        "name": "Ashland",
+        "slug": "ashland-ne"
+      }
+    ],
+    "city_type": "growth-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "lincoln-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Hickman",
+    "slug": "hickman-ne",
+    "county": "Lancaster County",
+    "population": 2600,
+    "zip_codes": [
+      "68372"
+    ],
+    "landmarks": [
+      "Hickman City Park",
+      "Veterans Memorial",
+      "Community Center",
+      "Prairie View Area",
+      "Downtown Hickman"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ne"
+      },
+      {
+        "name": "Waverly",
+        "slug": "waverly-ne"
+      },
+      {
+        "name": "Crete",
+        "slug": "crete-ne"
+      },
+      {
+        "name": "Seward",
+        "slug": "seward-ne"
+      },
+      {
+        "name": "Beatrice",
+        "slug": "beatrice-ne"
+      }
+    ],
+    "city_type": "growth-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "lincoln-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Milford",
+    "slug": "milford-ne",
+    "county": "Seward County",
+    "population": 2400,
+    "zip_codes": [
+      "68405"
+    ],
+    "landmarks": [
+      "Southeast Community College",
+      "Welch Park",
+      "Oak Creek",
+      "Community Center",
+      "Downtown Milford"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ne"
+      },
+      {
+        "name": "Seward",
+        "slug": "seward-ne"
+      },
+      {
+        "name": "Crete",
+        "slug": "crete-ne"
+      },
+      {
+        "name": "Waverly",
+        "slug": "waverly-ne"
+      },
+      {
+        "name": "York",
+        "slug": "york-ne"
+      }
+    ],
+    "city_type": "college-town",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "lincoln-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Valley",
+    "slug": "valley-ne",
+    "county": "Douglas County",
+    "population": 3400,
+    "zip_codes": [
+      "68064"
+    ],
+    "landmarks": [
+      "Valley City Park",
+      "West Shores Lake",
+      "Veterans Memorial",
+      "Community Center",
+      "Downtown Valley"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      },
+      {
+        "name": "Fremont",
+        "slug": "fremont-ne"
+      },
+      {
+        "name": "Blair",
+        "slug": "blair-ne"
+      },
+      {
+        "name": "Gretna",
+        "slug": "gretna-ne"
+      },
+      {
+        "name": "Elkhorn",
+        "slug": "elkhorn-ne"
+      }
+    ],
+    "city_type": "growth-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "omaha-metro-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Fort Calhoun",
+    "slug": "fort-calhoun-ne",
+    "county": "Washington County",
+    "population": 1100,
+    "zip_codes": [
+      "68023"
+    ],
+    "landmarks": [
+      "Fort Atkinson State Historical Park",
+      "Washington County Museum",
+      "Community Center",
+      "Veterans Memorial",
+      "Downtown Fort Calhoun"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Blair",
+        "slug": "blair-ne"
+      },
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      },
+      {
+        "name": "Valley",
+        "slug": "valley-ne"
+      },
+      {
+        "name": "Arlington",
+        "slug": "arlington-ne"
+      },
+      {
+        "name": "Fremont",
+        "slug": "fremont-ne"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "omaha-metro-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Chadron",
+    "slug": "chadron-ne",
+    "county": "Dawes County",
+    "population": 5200,
+    "zip_codes": [
+      "69337"
+    ],
+    "landmarks": [
+      "Chadron State College",
+      "Museum of the Fur Trade",
+      "Chadron State Park",
+      "Mari Sandoz High Plains Heritage Center",
+      "Downtown Chadron"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Alliance",
+        "slug": "alliance-ne"
+      },
+      {
+        "name": "Crawford",
+        "slug": "crawford-ne"
+      },
+      {
+        "name": "Gordon",
+        "slug": "gordon-ne"
+      },
+      {
+        "name": "Hay Springs",
+        "slug": "hay-springs-ne"
+      },
+      {
+        "name": "Rushville",
+        "slug": "rushville-ne"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "semi-arid",
+    "terrain": "high-plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "panhandle-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Schuyler",
+    "slug": "schuyler-ne",
+    "county": "Colfax County",
+    "population": 6800,
+    "zip_codes": [
+      "68661"
+    ],
+    "landmarks": [
+      "Colfax County Courthouse",
+      "Schuyler Central Park",
+      "Oak Ballroom",
+      "Community Center",
+      "Downtown Schuyler"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Columbus",
+        "slug": "columbus-ne"
+      },
+      {
+        "name": "David City",
+        "slug": "david-city-ne"
+      },
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-ne"
+      },
+      {
+        "name": "Fremont",
+        "slug": "fremont-ne"
+      },
+      {
+        "name": "Genoa",
+        "slug": "genoa-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "eastern-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "David City",
+    "slug": "david-city-ne",
+    "county": "Butler County",
+    "population": 2900,
+    "zip_codes": [
+      "68632"
+    ],
+    "landmarks": [
+      "Butler County Courthouse",
+      "David City Aquatic Center",
+      "Community Center",
+      "Veterans Memorial",
+      "Downtown David City"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Schuyler",
+        "slug": "schuyler-ne"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-ne"
+      },
+      {
+        "name": "York",
+        "slug": "york-ne"
+      },
+      {
+        "name": "Seward",
+        "slug": "seward-ne"
+      },
+      {
+        "name": "Fremont",
+        "slug": "fremont-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "eastern-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Aurora",
+    "slug": "aurora-ne",
+    "county": "Hamilton County",
+    "population": 4900,
+    "zip_codes": [
+      "68818"
+    ],
+    "landmarks": [
+      "Hamilton County Courthouse",
+      "Streeter Park",
+      "Platte River Corridor",
+      "Aurora Aquatic Center",
+      "Downtown Aurora"
+    ],
+    "nearby_cities": [
+      {
+        "name": "York",
+        "slug": "york-ne"
+      },
+      {
+        "name": "Grand Island",
+        "slug": "grand-island-ne"
+      },
+      {
+        "name": "Hastings",
+        "slug": "hastings-ne"
+      },
+      {
+        "name": "Henderson",
+        "slug": "henderson-ne"
+      },
+      {
+        "name": "Geneva",
+        "slug": "geneva-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Geneva",
+    "slug": "geneva-ne",
+    "county": "Fillmore County",
+    "population": 2200,
+    "zip_codes": [
+      "68361"
+    ],
+    "landmarks": [
+      "Fillmore County Courthouse",
+      "Geneva City Park",
+      "Veterans Memorial",
+      "Community Center",
+      "Downtown Geneva"
+    ],
+    "nearby_cities": [
+      {
+        "name": "York",
+        "slug": "york-ne"
+      },
+      {
+        "name": "Aurora",
+        "slug": "aurora-ne"
+      },
+      {
+        "name": "Hastings",
+        "slug": "hastings-ne"
+      },
+      {
+        "name": "Fairmont",
+        "slug": "fairmont-ne"
+      },
+      {
+        "name": "Hebron",
+        "slug": "hebron-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "south-central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Holdrege",
+    "slug": "holdrege-ne",
+    "county": "Phelps County",
+    "population": 5500,
+    "zip_codes": [
+      "68949"
+    ],
+    "landmarks": [
+      "Phelps County Courthouse",
+      "North Park",
+      "Holdrege Country Club",
+      "Community Center",
+      "Downtown Holdrege"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lexington",
+        "slug": "lexington-ne"
+      },
+      {
+        "name": "Kearney",
+        "slug": "kearney-ne"
+      },
+      {
+        "name": "Minden",
+        "slug": "minden-ne"
+      },
+      {
+        "name": "Hastings",
+        "slug": "hastings-ne"
+      },
+      {
+        "name": "Cozad",
+        "slug": "cozad-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "semi-arid",
+    "terrain": "plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Minden",
+    "slug": "minden-ne",
+    "county": "Kearney County",
+    "population": 3000,
+    "zip_codes": [
+      "68959"
+    ],
+    "landmarks": [
+      "Pioneer Village",
+      "Kearney County Courthouse",
+      "Christmas City District",
+      "Community Center",
+      "Downtown Minden"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kearney",
+        "slug": "kearney-ne"
+      },
+      {
+        "name": "Holdrege",
+        "slug": "holdrege-ne"
+      },
+      {
+        "name": "Hastings",
+        "slug": "hastings-ne"
+      },
+      {
+        "name": "Lexington",
+        "slug": "lexington-ne"
+      },
+      {
+        "name": "Aurora",
+        "slug": "aurora-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Cozad",
+    "slug": "cozad-ne",
+    "county": "Dawson County",
+    "population": 3900,
+    "zip_codes": [
+      "69130"
+    ],
+    "landmarks": [
+      "100th Meridian Museum",
+      "Cozad City Park",
+      "Platte River",
+      "Community Center",
+      "Downtown Cozad"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lexington",
+        "slug": "lexington-ne"
+      },
+      {
+        "name": "North Platte",
+        "slug": "north-platte-ne"
+      },
+      {
+        "name": "Holdrege",
+        "slug": "holdrege-ne"
+      },
+      {
+        "name": "Gothenburg",
+        "slug": "gothenburg-ne"
+      },
+      {
+        "name": "Kearney",
+        "slug": "kearney-ne"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "semi-arid",
+    "terrain": "river-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Gothenburg",
+    "slug": "gothenburg-ne",
+    "county": "Dawson County",
+    "population": 3600,
+    "zip_codes": [
+      "69138"
+    ],
+    "landmarks": [
+      "Pony Express Station",
+      "Ehmen Park",
+      "Lake Helen Recreation Area",
+      "Community Center",
+      "Downtown Gothenburg"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cozad",
+        "slug": "cozad-ne"
+      },
+      {
+        "name": "Lexington",
+        "slug": "lexington-ne"
+      },
+      {
+        "name": "North Platte",
+        "slug": "north-platte-ne"
+      },
+      {
+        "name": "Holdrege",
+        "slug": "holdrege-ne"
+      },
+      {
+        "name": "Kearney",
+        "slug": "kearney-ne"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "semi-arid",
+    "terrain": "plains",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Ogallala",
+    "slug": "ogallala-ne",
+    "county": "Keith County",
+    "population": 4600,
+    "zip_codes": [
+      "69153"
+    ],
+    "landmarks": [
+      "Lake McConaughy",
+      "Boot Hill Cemetery",
+      "Front Street",
+      "Mansion on the Hill",
+      "Downtown Ogallala"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Platte",
+        "slug": "north-platte-ne"
+      },
+      {
+        "name": "Sidney",
+        "slug": "sidney-ne"
+      },
+      {
+        "name": "Gothenburg",
+        "slug": "gothenburg-ne"
+      },
+      {
+        "name": "Cozad",
+        "slug": "cozad-ne"
+      },
+      {
+        "name": "Grant",
+        "slug": "grant-ne"
+      }
+    ],
+    "city_type": "tourism-city",
+    "climate_zone": "semi-arid",
+    "terrain": "lake-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "western-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Sidney",
+    "slug": "sidney-ne",
+    "county": "Cheyenne County",
+    "population": 6200,
+    "zip_codes": [
+      "69162"
+    ],
+    "landmarks": [
+      "Fort Sidney Museum",
+      "Living Memorial Gardens",
+      "Cheyenne County Courthouse",
+      "Hickory Square",
+      "Downtown Sidney"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ogallala",
+        "slug": "ogallala-ne"
+      },
+      {
+        "name": "Scottsbluff",
+        "slug": "scottsbluff-ne"
+      },
+      {
+        "name": "Alliance",
+        "slug": "alliance-ne"
+      },
+      {
+        "name": "Kimball",
+        "slug": "kimball-ne"
+      },
+      {
+        "name": "Bridgeport",
+        "slug": "bridgeport-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "semi-arid",
+    "terrain": "high-plains",
+    "economy_type": "transport-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "panhandle-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Wayne",
+    "slug": "wayne-ne",
+    "county": "Wayne County",
+    "population": 5800,
+    "zip_codes": [
+      "68787"
+    ],
+    "landmarks": [
+      "Wayne State College",
+      "Bressler Park",
+      "Wayne County Courthouse",
+      "Community Activity Center",
+      "Downtown Wayne"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-ne"
+      },
+      {
+        "name": "Pierce",
+        "slug": "pierce-ne"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-ne"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-ne"
+      },
+      {
+        "name": "Wakefield",
+        "slug": "wakefield-ne"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Ashland",
+    "slug": "ashland-ne",
+    "county": "Saunders County",
+    "population": 3200,
+    "zip_codes": [
+      "68003"
+    ],
+    "landmarks": [
+      "Strategic Air Command Museum",
+      "Mahoney State Park",
+      "Platte River",
+      "Downtown Ashland",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ne"
+      },
+      {
+        "name": "Gretna",
+        "slug": "gretna-ne"
+      },
+      {
+        "name": "Waverly",
+        "slug": "waverly-ne"
+      },
+      {
+        "name": "Valley",
+        "slug": "valley-ne"
+      }
+    ],
+    "city_type": "growth-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "tourism-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "omaha-lincoln-corridor",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Pierce",
+    "slug": "pierce-ne",
+    "county": "Pierce County",
+    "population": 1800,
+    "zip_codes": [
+      "68767"
+    ],
+    "landmarks": [
+      "Pierce County Courthouse",
+      "Gilman Park",
+      "Veterans Memorial",
+      "Community Center",
+      "Downtown Pierce"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-ne"
+      },
+      {
+        "name": "Wayne",
+        "slug": "wayne-ne"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-ne"
+      },
+      {
+        "name": "Plainview",
+        "slug": "plainview-ne"
+      },
+      {
+        "name": "Battle Creek",
+        "slug": "battle-creek-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Madison",
+    "slug": "madison-ne",
+    "county": "Madison County",
+    "population": 2300,
+    "zip_codes": [
+      "68748"
+    ],
+    "landmarks": [
+      "Madison County Courthouse",
+      "Madison City Park",
+      "Veterans Memorial",
+      "Community Center",
+      "Downtown Madison"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-ne"
+      },
+      {
+        "name": "Pierce",
+        "slug": "pierce-ne"
+      },
+      {
+        "name": "Wayne",
+        "slug": "wayne-ne"
+      },
+      {
+        "name": "Battle Creek",
+        "slug": "battle-creek-ne"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Battle Creek",
+    "slug": "battle-creek-ne",
+    "county": "Madison County",
+    "population": 1300,
+    "zip_codes": [
+      "68715"
+    ],
+    "landmarks": [
+      "Battle Creek Park",
+      "Veterans Memorial",
+      "Community Center",
+      "Historic Main Street",
+      "Battle Creek Recreation Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-ne"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-ne"
+      },
+      {
+        "name": "Pierce",
+        "slug": "pierce-ne"
+      },
+      {
+        "name": "Wayne",
+        "slug": "wayne-ne"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-ne"
+      }
+    ],
+    "city_type": "small-town",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Laurel",
+    "slug": "laurel-ne",
+    "county": "Cedar County",
+    "population": 1000,
+    "zip_codes": [
+      "68745"
+    ],
+    "landmarks": [
+      "Laurel City Park",
+      "Community Center",
+      "Veterans Memorial",
+      "Historic Downtown",
+      "Main Street District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wayne",
+        "slug": "wayne-ne"
+      },
+      {
+        "name": "Hartington",
+        "slug": "hartington-ne"
+      },
+      {
+        "name": "Randolph",
+        "slug": "randolph-ne"
+      },
+      {
+        "name": "Wakefield",
+        "slug": "wakefield-ne"
+      },
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-ne"
+      }
+    ],
+    "city_type": "small-town",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Wakefield",
+    "slug": "wakefield-ne",
+    "county": "Dixon County",
+    "population": 1400,
+    "zip_codes": [
+      "68784"
+    ],
+    "landmarks": [
+      "Wakefield City Park",
+      "Community Center",
+      "Veterans Memorial",
+      "Historic Downtown",
+      "Wakefield Sports Complex"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wayne",
+        "slug": "wayne-ne"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-ne"
+      },
+      {
+        "name": "Ponca",
+        "slug": "ponca-ne"
+      },
+      {
+        "name": "Hartington",
+        "slug": "hartington-ne"
+      },
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-ne"
+      }
+    ],
+    "city_type": "small-town",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Fairbury",
+    "slug": "fairbury-ne",
+    "county": "Jefferson County",
+    "population": 3800,
+    "zip_codes": [
+      "68352"
+    ],
+    "landmarks": [
+      "Jefferson County Courthouse",
+      "Rock Creek Station",
+      "City Park",
+      "Community Center",
+      "Downtown Fairbury"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Beatrice",
+        "slug": "beatrice-ne"
+      },
+      {
+        "name": "Hebron",
+        "slug": "hebron-ne"
+      },
+      {
+        "name": "Crete",
+        "slug": "crete-ne"
+      },
+      {
+        "name": "Geneva",
+        "slug": "geneva-ne"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Hebron",
+    "slug": "hebron-ne",
+    "county": "Thayer County",
+    "population": 1500,
+    "zip_codes": [
+      "68370"
+    ],
+    "landmarks": [
+      "Thayer County Courthouse",
+      "Riverside Park",
+      "Community Center",
+      "Veterans Memorial",
+      "Downtown Hebron"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fairbury",
+        "slug": "fairbury-ne"
+      },
+      {
+        "name": "Geneva",
+        "slug": "geneva-ne"
+      },
+      {
+        "name": "Beatrice",
+        "slug": "beatrice-ne"
+      },
+      {
+        "name": "York",
+        "slug": "york-ne"
+      },
+      {
+        "name": "Hastings",
+        "slug": "hastings-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "south-central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Kimball",
+    "slug": "kimball-ne",
+    "county": "Kimball County",
+    "population": 2200,
+    "zip_codes": [
+      "69145"
+    ],
+    "landmarks": [
+      "Kimball County Courthouse",
+      "Gotte Park",
+      "Veterans Memorial",
+      "Community Center",
+      "Downtown Kimball"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sidney",
+        "slug": "sidney-ne"
+      },
+      {
+        "name": "Scottsbluff",
+        "slug": "scottsbluff-ne"
+      },
+      {
+        "name": "Alliance",
+        "slug": "alliance-ne"
+      },
+      {
+        "name": "Bridgeport",
+        "slug": "bridgeport-ne"
+      },
+      {
+        "name": "Ogallala",
+        "slug": "ogallala-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "semi-arid",
+    "terrain": "high-plains",
+    "economy_type": "transport-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "panhandle-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Bridgeport",
+    "slug": "bridgeport-ne",
+    "county": "Morrill County",
+    "population": 1500,
+    "zip_codes": [
+      "69336"
+    ],
+    "landmarks": [
+      "Courthouse and Jail Rocks",
+      "North Platte River",
+      "Morrill County Courthouse",
+      "Community Center",
+      "Downtown Bridgeport"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Scottsbluff",
+        "slug": "scottsbluff-ne"
+      },
+      {
+        "name": "Gering",
+        "slug": "gering-ne"
+      },
+      {
+        "name": "Kimball",
+        "slug": "kimball-ne"
+      },
+      {
+        "name": "Alliance",
+        "slug": "alliance-ne"
+      },
+      {
+        "name": "Sidney",
+        "slug": "sidney-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "semi-arid",
+    "terrain": "river-valley",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "panhandle-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Ponca",
+    "slug": "ponca-ne",
+    "county": "Dixon County",
+    "population": 950,
+    "zip_codes": [
+      "68770"
+    ],
+    "landmarks": [
+      "Ponca State Park",
+      "Missouri River",
+      "Historic Downtown",
+      "Community Center",
+      "Veterans Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wakefield",
+        "slug": "wakefield-ne"
+      },
+      {
+        "name": "Hartington",
+        "slug": "hartington-ne"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-ne"
+      },
+      {
+        "name": "Wayne",
+        "slug": "wayne-ne"
+      },
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-ne"
+      }
+    ],
+    "city_type": "tourism-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "South Sioux City",
+    "slug": "south-sioux-city-ne",
+    "county": "Dakota County",
+    "population": 14000,
+    "zip_codes": [
+      "68776"
+    ],
+    "landmarks": [
+      "Missouri River",
+      "Siouxland Freedom Park",
+      "South Ridge Golf Course",
+      "Riverfront District",
+      "Downtown South Sioux City"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sioux City",
+        "slug": "sioux-city-ia"
+      },
+      {
+        "name": "North Sioux City",
+        "slug": "north-sioux-city-sd"
+      },
+      {
+        "name": "Dakota City",
+        "slug": "dakota-city-ne"
+      },
+      {
+        "name": "Wakefield",
+        "slug": "wakefield-ne"
+      },
+      {
+        "name": "Ponca",
+        "slug": "ponca-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "siouxland-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Nebraska City",
+    "slug": "nebraska-city-ne",
+    "county": "Otoe County",
+    "population": 7200,
+    "zip_codes": [
+      "68410"
+    ],
+    "landmarks": [
+      "Arbor Lodge State Historical Park",
+      "Arbor Day Farm",
+      "Missouri River",
+      "Wildwood Historic Center",
+      "Downtown Nebraska City"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Plattsmouth",
+        "slug": "plattsmouth-ne"
+      },
+      {
+        "name": "Auburn",
+        "slug": "auburn-ne"
+      },
+      {
+        "name": "Syracuse",
+        "slug": "syracuse-ne"
+      },
+      {
+        "name": "Louisville",
+        "slug": "louisville-ne"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ne"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "McCook",
+    "slug": "mccook-ne",
+    "county": "Red Willow County",
+    "population": 7600,
+    "zip_codes": [
+      "69001"
+    ],
+    "landmarks": [
+      "Red Willow Reservoir",
+      "George Norris Park",
+      "Museum of the High Plains",
+      "Community Hospital",
+      "Downtown McCook"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Platte",
+        "slug": "north-platte-ne"
+      },
+      {
+        "name": "Holdrege",
+        "slug": "holdrege-ne"
+      },
+      {
+        "name": "Imperial",
+        "slug": "imperial-ne"
+      },
+      {
+        "name": "Cambridge",
+        "slug": "cambridge-ne"
+      },
+      {
+        "name": "Curtis",
+        "slug": "curtis-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "semi-arid",
+    "terrain": "plains",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southwest-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Plattsmouth",
+    "slug": "plattsmouth-ne",
+    "county": "Cass County",
+    "population": 6500,
+    "zip_codes": [
+      "68048"
+    ],
+    "landmarks": [
+      "Cass County Courthouse",
+      "Missouri River",
+      "Rhylander Park",
+      "Historic Main Street",
+      "Downtown Plattsmouth"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-ne"
+      },
+      {
+        "name": "Nebraska City",
+        "slug": "nebraska-city-ne"
+      },
+      {
+        "name": "Louisville",
+        "slug": "louisville-ne"
+      },
+      {
+        "name": "Papillion",
+        "slug": "papillion-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "omaha-metro-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Ralston",
+    "slug": "ralston-ne",
+    "county": "Douglas County",
+    "population": 7400,
+    "zip_codes": [
+      "68127"
+    ],
+    "landmarks": [
+      "Liberty First Credit Union Arena",
+      "Ralston Park",
+      "Granary District",
+      "Community Center",
+      "Downtown Ralston"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      },
+      {
+        "name": "La Vista",
+        "slug": "la-vista-ne"
+      },
+      {
+        "name": "Papillion",
+        "slug": "papillion-ne"
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-ne"
+      },
+      {
+        "name": "Gretna",
+        "slug": "gretna-ne"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "omaha-metro-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Elkhorn",
+    "slug": "elkhorn-ne",
+    "county": "Douglas County",
+    "population": 10000,
+    "zip_codes": [
+      "68022"
+    ],
+    "landmarks": [
+      "Village Pointe Area",
+      "Ta-Ha-Zouka Park",
+      "Elkhorn River Corridor",
+      "Historic Downtown Elkhorn",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      },
+      {
+        "name": "Gretna",
+        "slug": "gretna-ne"
+      },
+      {
+        "name": "Valley",
+        "slug": "valley-ne"
+      },
+      {
+        "name": "Bennington",
+        "slug": "bennington-ne"
+      },
+      {
+        "name": "Waterloo",
+        "slug": "waterloo-ne"
+      }
+    ],
+    "city_type": "high-growth-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "omaha-metro-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Bennington",
+    "slug": "bennington-ne",
+    "county": "Douglas County",
+    "population": 9500,
+    "zip_codes": [
+      "68007"
+    ],
+    "landmarks": [
+      "Bennington Lake",
+      "Bennington Downtown District",
+      "Community Center",
+      "Veterans Memorial",
+      "City Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      },
+      {
+        "name": "Elkhorn",
+        "slug": "elkhorn-ne"
+      },
+      {
+        "name": "Valley",
+        "slug": "valley-ne"
+      },
+      {
+        "name": "Blair",
+        "slug": "blair-ne"
+      },
+      {
+        "name": "Waterloo",
+        "slug": "waterloo-ne"
+      }
+    ],
+    "city_type": "growth-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "omaha-metro-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Auburn",
+    "slug": "auburn-ne",
+    "county": "Nemaha County",
+    "population": 3300,
+    "zip_codes": [
+      "68305"
+    ],
+    "landmarks": [
+      "Nemaha County Courthouse",
+      "Legion Memorial Park",
+      "Auburn State Theater",
+      "Community Center",
+      "Downtown Auburn"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Nebraska City",
+        "slug": "nebraska-city-ne"
+      },
+      {
+        "name": "Falls City",
+        "slug": "falls-city-ne"
+      },
+      {
+        "name": "Syracuse",
+        "slug": "syracuse-ne"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ne"
+      },
+      {
+        "name": "Beatrice",
+        "slug": "beatrice-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Falls City",
+    "slug": "falls-city-ne",
+    "county": "Richardson County",
+    "population": 4300,
+    "zip_codes": [
+      "68355"
+    ],
+    "landmarks": [
+      "Richardson County Courthouse",
+      "Falls City Library",
+      "Community Medical Center",
+      "Veterans Park",
+      "Downtown Falls City"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Auburn",
+        "slug": "auburn-ne"
+      },
+      {
+        "name": "Nebraska City",
+        "slug": "nebraska-city-ne"
+      },
+      {
+        "name": "Beatrice",
+        "slug": "beatrice-ne"
+      },
+      {
+        "name": "Fairbury",
+        "slug": "fairbury-ne"
+      },
+      {
+        "name": "Hebron",
+        "slug": "hebron-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Imperial",
+    "slug": "imperial-ne",
+    "county": "Chase County",
+    "population": 2100,
+    "zip_codes": [
+      "69033"
+    ],
+    "landmarks": [
+      "Enders Reservoir",
+      "Chase County Courthouse",
+      "Community Center",
+      "Veterans Memorial",
+      "Downtown Imperial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "McCook",
+        "slug": "mccook-ne"
+      },
+      {
+        "name": "Ogallala",
+        "slug": "ogallala-ne"
+      },
+      {
+        "name": "North Platte",
+        "slug": "north-platte-ne"
+      },
+      {
+        "name": "Grant",
+        "slug": "grant-ne"
+      },
+      {
+        "name": "Curtis",
+        "slug": "curtis-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "semi-arid",
+    "terrain": "plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southwest-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Waterloo",
+    "slug": "waterloo-ne",
+    "county": "Douglas County",
+    "population": 1500,
+    "zip_codes": [
+      "68069"
+    ],
+    "landmarks": [
+      "Waterloo City Park",
+      "Elkhorn River",
+      "Community Center",
+      "Veterans Memorial",
+      "Historic Downtown"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      },
+      {
+        "name": "Elkhorn",
+        "slug": "elkhorn-ne"
+      },
+      {
+        "name": "Bennington",
+        "slug": "bennington-ne"
+      },
+      {
+        "name": "Valley",
+        "slug": "valley-ne"
+      },
+      {
+        "name": "Fremont",
+        "slug": "fremont-ne"
+      }
+    ],
+    "city_type": "growth-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "omaha-metro-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Arlington",
+    "slug": "arlington-ne",
+    "county": "Washington County",
+    "population": 1400,
+    "zip_codes": [
+      "68002"
+    ],
+    "landmarks": [
+      "Arlington Ball Fields",
+      "Community Center",
+      "Veterans Memorial",
+      "Historic Main Street",
+      "City Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Blair",
+        "slug": "blair-ne"
+      },
+      {
+        "name": "Fremont",
+        "slug": "fremont-ne"
+      },
+      {
+        "name": "Valley",
+        "slug": "valley-ne"
+      },
+      {
+        "name": "Fort Calhoun",
+        "slug": "fort-calhoun-ne"
+      },
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      }
+    ],
+    "city_type": "small-town",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "eastern-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Hartington",
+    "slug": "hartington-ne",
+    "county": "Cedar County",
+    "population": 1600,
+    "zip_codes": [
+      "68739"
+    ],
+    "landmarks": [
+      "Cedar County Courthouse",
+      "Hartington Golf Club",
+      "Community Center",
+      "Veterans Memorial",
+      "Downtown Hartington"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Laurel",
+        "slug": "laurel-ne"
+      },
+      {
+        "name": "Ponca",
+        "slug": "ponca-ne"
+      },
+      {
+        "name": "Wakefield",
+        "slug": "wakefield-ne"
+      },
+      {
+        "name": "Wayne",
+        "slug": "wayne-ne"
+      },
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Randolph",
+    "slug": "randolph-ne",
+    "county": "Cedar County",
+    "population": 900,
+    "zip_codes": [
+      "68771"
+    ],
+    "landmarks": [
+      "Randolph City Park",
+      "Community Center",
+      "Historic Downtown",
+      "Veterans Memorial",
+      "Main Street"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hartington",
+        "slug": "hartington-ne"
+      },
+      {
+        "name": "Laurel",
+        "slug": "laurel-ne"
+      },
+      {
+        "name": "Wayne",
+        "slug": "wayne-ne"
+      },
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-ne"
+      },
+      {
+        "name": "Pierce",
+        "slug": "pierce-ne"
+      }
+    ],
+    "city_type": "small-town",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Cambridge",
+    "slug": "cambridge-ne",
+    "county": "Furnas County",
+    "population": 1000,
+    "zip_codes": [
+      "69022"
+    ],
+    "landmarks": [
+      "Furnas County Museum",
+      "City Park",
+      "Community Center",
+      "Veterans Memorial",
+      "Downtown Cambridge"
+    ],
+    "nearby_cities": [
+      {
+        "name": "McCook",
+        "slug": "mccook-ne"
+      },
+      {
+        "name": "Holdrege",
+        "slug": "holdrege-ne"
+      },
+      {
+        "name": "Imperial",
+        "slug": "imperial-ne"
+      },
+      {
+        "name": "Curtis",
+        "slug": "curtis-ne"
+      },
+      {
+        "name": "North Platte",
+        "slug": "north-platte-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "semi-arid",
+    "terrain": "plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southwest-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Curtis",
+    "slug": "curtis-ne",
+    "county": "Frontier County",
+    "population": 900,
+    "zip_codes": [
+      "69025"
+    ],
+    "landmarks": [
+      "Nebraska College of Technical Agriculture",
+      "Community Center",
+      "Veterans Memorial",
+      "City Park",
+      "Downtown Curtis"
+    ],
+    "nearby_cities": [
+      {
+        "name": "McCook",
+        "slug": "mccook-ne"
+      },
+      {
+        "name": "Imperial",
+        "slug": "imperial-ne"
+      },
+      {
+        "name": "Cambridge",
+        "slug": "cambridge-ne"
+      },
+      {
+        "name": "North Platte",
+        "slug": "north-platte-ne"
+      },
+      {
+        "name": "Holdrege",
+        "slug": "holdrege-ne"
+      }
+    ],
+    "city_type": "college-town",
+    "climate_zone": "semi-arid",
+    "terrain": "plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southwest-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Grant",
+    "slug": "grant-ne",
+    "county": "Perkins County",
+    "population": 1100,
+    "zip_codes": [
+      "69140"
+    ],
+    "landmarks": [
+      "Perkins County Courthouse",
+      "Grant City Park",
+      "Community Center",
+      "Veterans Memorial",
+      "Downtown Grant"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Imperial",
+        "slug": "imperial-ne"
+      },
+      {
+        "name": "Ogallala",
+        "slug": "ogallala-ne"
+      },
+      {
+        "name": "North Platte",
+        "slug": "north-platte-ne"
+      },
+      {
+        "name": "McCook",
+        "slug": "mccook-ne"
+      },
+      {
+        "name": "Sidney",
+        "slug": "sidney-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "semi-arid",
+    "terrain": "high-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "western-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Hemingford",
+    "slug": "hemingford-ne",
+    "county": "Box Butte County",
+    "population": 800,
+    "zip_codes": [
+      "69348"
+    ],
+    "landmarks": [
+      "Hemingford Community Center",
+      "Veterans Memorial",
+      "City Park",
+      "Historic Main Street",
+      "Downtown Hemingford"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Alliance",
+        "slug": "alliance-ne"
+      },
+      {
+        "name": "Chadron",
+        "slug": "chadron-ne"
+      },
+      {
+        "name": "Bridgeport",
+        "slug": "bridgeport-ne"
+      },
+      {
+        "name": "Scottsbluff",
+        "slug": "scottsbluff-ne"
+      },
+      {
+        "name": "Kimball",
+        "slug": "kimball-ne"
+      }
+    ],
+    "city_type": "small-town",
+    "climate_zone": "semi-arid",
+    "terrain": "high-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "panhandle-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Hay Springs",
+    "slug": "hay-springs-ne",
+    "county": "Sheridan County",
+    "population": 600,
+    "zip_codes": [
+      "69347"
+    ],
+    "landmarks": [
+      "Sheridan County Fairgrounds",
+      "Community Center",
+      "Veterans Memorial",
+      "City Park",
+      "Downtown Hay Springs"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Chadron",
+        "slug": "chadron-ne"
+      },
+      {
+        "name": "Alliance",
+        "slug": "alliance-ne"
+      },
+      {
+        "name": "Gordon",
+        "slug": "gordon-ne"
+      },
+      {
+        "name": "Rushville",
+        "slug": "rushville-ne"
+      },
+      {
+        "name": "Bridgeport",
+        "slug": "bridgeport-ne"
+      }
+    ],
+    "city_type": "small-town",
+    "climate_zone": "semi-arid",
+    "terrain": "high-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "panhandle-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Rushville",
+    "slug": "rushville-ne",
+    "county": "Sheridan County",
+    "population": 900,
+    "zip_codes": [
+      "69360"
+    ],
+    "landmarks": [
+      "Sheridan County Courthouse",
+      "Rushville City Park",
+      "Community Center",
+      "Veterans Memorial",
+      "Downtown Rushville"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Chadron",
+        "slug": "chadron-ne"
+      },
+      {
+        "name": "Hay Springs",
+        "slug": "hay-springs-ne"
+      },
+      {
+        "name": "Alliance",
+        "slug": "alliance-ne"
+      },
+      {
+        "name": "Gordon",
+        "slug": "gordon-ne"
+      },
+      {
+        "name": "Bridgeport",
+        "slug": "bridgeport-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "semi-arid",
+    "terrain": "high-plains",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "panhandle-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Gordon",
+    "slug": "gordon-ne",
+    "county": "Sheridan County",
+    "population": 1600,
+    "zip_codes": [
+      "69343"
+    ],
+    "landmarks": [
+      "Gordon City Park",
+      "Community Center",
+      "Veterans Memorial",
+      "Historic Downtown",
+      "Sheridan County Fairgrounds"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Rushville",
+        "slug": "rushville-ne"
+      },
+      {
+        "name": "Hay Springs",
+        "slug": "hay-springs-ne"
+      },
+      {
+        "name": "Chadron",
+        "slug": "chadron-ne"
+      },
+      {
+        "name": "Alliance",
+        "slug": "alliance-ne"
+      },
+      {
+        "name": "Valentine",
+        "slug": "valentine-ne"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "semi-arid",
+    "terrain": "high-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northwest-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Valentine",
+    "slug": "valentine-ne",
+    "county": "Cherry County",
+    "population": 2700,
+    "zip_codes": [
+      "69201"
+    ],
+    "landmarks": [
+      "Niobrara River",
+      "Smith Falls State Park",
+      "Valentine City Park",
+      "Cherry County Courthouse",
+      "Downtown Valentine"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gordon",
+        "slug": "gordon-ne"
+      },
+      {
+        "name": "Ainsworth",
+        "slug": "ainsworth-ne"
+      },
+      {
+        "name": "O'Neill",
+        "slug": "oneill-ne"
+      },
+      {
+        "name": "Chadron",
+        "slug": "chadron-ne"
+      },
+      {
+        "name": "Alliance",
+        "slug": "alliance-ne"
+      }
+    ],
+    "city_type": "tourism-city",
+    "climate_zone": "semi-arid",
+    "terrain": "sandhills",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "sandhills-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Ainsworth",
+    "slug": "ainsworth-ne",
+    "county": "Brown County",
+    "population": 1700,
+    "zip_codes": [
+      "69210"
+    ],
+    "landmarks": [
+      "Brown County Courthouse",
+      "Ainsworth Municipal Golf Course",
+      "Community Center",
+      "Veterans Memorial",
+      "Downtown Ainsworth"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Valentine",
+        "slug": "valentine-ne"
+      },
+      {
+        "name": "O'Neill",
+        "slug": "oneill-ne"
+      },
+      {
+        "name": "Broken Bow",
+        "slug": "broken-bow-ne"
+      },
+      {
+        "name": "Ord",
+        "slug": "ord-ne"
+      },
+      {
+        "name": "Burwell",
+        "slug": "burwell-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "semi-arid",
+    "terrain": "sandhills",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "O'Neill",
+    "slug": "oneill-ne",
+    "county": "Holt County",
+    "population": 3600,
+    "zip_codes": [
+      "68763"
+    ],
+    "landmarks": [
+      "World's Largest Shamrock",
+      "Holt County Courthouse",
+      "Ford Park",
+      "Community Center",
+      "Downtown O'Neill"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ainsworth",
+        "slug": "ainsworth-ne"
+      },
+      {
+        "name": "Valentine",
+        "slug": "valentine-ne"
+      },
+      {
+        "name": "Ord",
+        "slug": "ord-ne"
+      },
+      {
+        "name": "Burwell",
+        "slug": "burwell-ne"
+      },
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-ne"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "sandhills",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Broken Bow",
+    "slug": "broken-bow-ne",
+    "county": "Custer County",
+    "population": 3500,
+    "zip_codes": [
+      "68822"
+    ],
+    "landmarks": [
+      "Custer County Courthouse",
+      "Melham Park",
+      "Community Center",
+      "Veterans Memorial",
+      "Downtown Broken Bow"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ord",
+        "slug": "ord-ne"
+      },
+      {
+        "name": "Burwell",
+        "slug": "burwell-ne"
+      },
+      {
+        "name": "Ainsworth",
+        "slug": "ainsworth-ne"
+      },
+      {
+        "name": "Kearney",
+        "slug": "kearney-ne"
+      },
+      {
+        "name": "North Platte",
+        "slug": "north-platte-ne"
+      }
+    ],
+    "city_type": "regional-town",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Ord",
+    "slug": "ord-ne",
+    "county": "Valley County",
+    "population": 2200,
+    "zip_codes": [
+      "68862"
+    ],
+    "landmarks": [
+      "Valley County Courthouse",
+      "Bussell Park",
+      "Community Center",
+      "Veterans Memorial",
+      "Downtown Ord"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Broken Bow",
+        "slug": "broken-bow-ne"
+      },
+      {
+        "name": "Burwell",
+        "slug": "burwell-ne"
+      },
+      {
+        "name": "O'Neill",
+        "slug": "oneill-ne"
+      },
+      {
+        "name": "Kearney",
+        "slug": "kearney-ne"
+      },
+      {
+        "name": "Ainsworth",
+        "slug": "ainsworth-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Burwell",
+    "slug": "burwell-ne",
+    "county": "Garfield County",
+    "population": 1200,
+    "zip_codes": [
+      "68823"
+    ],
+    "landmarks": [
+      "Calamus Reservoir",
+      "Garfield County Courthouse",
+      "Nebraska's Big Rodeo",
+      "Community Center",
+      "Downtown Burwell"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ord",
+        "slug": "ord-ne"
+      },
+      {
+        "name": "Broken Bow",
+        "slug": "broken-bow-ne"
+      },
+      {
+        "name": "O'Neill",
+        "slug": "oneill-ne"
+      },
+      {
+        "name": "Ainsworth",
+        "slug": "ainsworth-ne"
+      },
+      {
+        "name": "Kearney",
+        "slug": "kearney-ne"
+      }
+    ],
+    "city_type": "tourism-town",
+    "climate_zone": "humid-continental",
+    "terrain": "sandhills",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "sandhills-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Louisville",
+    "slug": "louisville-ne",
+    "county": "Cass County",
+    "population": 1300,
+    "zip_codes": [
+      "68037"
+    ],
+    "landmarks": [
+      "Louisville State Recreation Area",
+      "Platte River",
+      "Community Center",
+      "Veterans Memorial",
+      "Historic Downtown"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Plattsmouth",
+        "slug": "plattsmouth-ne"
+      },
+      {
+        "name": "Nebraska City",
+        "slug": "nebraska-city-ne"
+      },
+      {
+        "name": "Ashland",
+        "slug": "ashland-ne"
+      },
+      {
+        "name": "Omaha",
+        "slug": "omaha-ne"
+      },
+      {
+        "name": "Bellevue",
+        "slug": "bellevue-ne"
+      }
+    ],
+    "city_type": "river-town",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "omaha-corridor-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Syracuse",
+    "slug": "syracuse-ne",
+    "county": "Otoe County",
+    "population": 2000,
+    "zip_codes": [
+      "68446"
+    ],
+    "landmarks": [
+      "Syracuse City Park",
+      "Community Center",
+      "Veterans Memorial",
+      "Historic Main Street",
+      "Downtown Syracuse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Nebraska City",
+        "slug": "nebraska-city-ne"
+      },
+      {
+        "name": "Auburn",
+        "slug": "auburn-ne"
+      },
+      {
+        "name": "Lincoln",
+        "slug": "lincoln-ne"
+      },
+      {
+        "name": "Louisville",
+        "slug": "louisville-ne"
+      },
+      {
+        "name": "Plattsmouth",
+        "slug": "plattsmouth-ne"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southeast-nebraska-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  },
+  {
+    "city": "Dakota City",
+    "slug": "dakota-city-ne",
+    "county": "Dakota County",
+    "population": 2100,
+    "zip_codes": [
+      "68731"
+    ],
+    "landmarks": [
+      "Dakota County Courthouse",
+      "Missouri River Corridor",
+      "Community Center",
+      "Veterans Memorial",
+      "Historic Downtown"
+    ],
+    "nearby_cities": [
+      {
+        "name": "South Sioux City",
+        "slug": "south-sioux-city-ne"
+      },
+      {
+        "name": "Ponca",
+        "slug": "ponca-ne"
+      },
+      {
+        "name": "Wakefield",
+        "slug": "wakefield-ne"
+      },
+      {
+        "name": "Norfolk",
+        "slug": "norfolk-ne"
+      },
+      {
+        "name": "Wayne",
+        "slug": "wayne-ne"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "siouxland-market",
+    "property_mix": "mixed-use",
+    "state": "NE"
+  }
+]

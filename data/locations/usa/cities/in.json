@@ -1,0 +1,2646 @@
+[
+  {
+    "city": "Indianapolis",
+    "slug": "indianapolis-in",
+    "county": "Marion County",
+    "population": 890000,
+    "zip_codes": [
+      "46201",
+      "46202",
+      "46203",
+      "46204",
+      "46205",
+      "46208"
+    ],
+    "landmarks": [
+      "Indianapolis Motor Speedway",
+      "Monument Circle",
+      "Lucas Oil Stadium",
+      "White River State Park",
+      "Indianapolis Zoo"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Carmel",
+        "slug": "carmel-in"
+      },
+      {
+        "name": "Fishers",
+        "slug": "fishers-in"
+      },
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-in"
+      },
+      {
+        "name": "Lawrence",
+        "slug": "lawrence-in"
+      },
+      {
+        "name": "Plainfield",
+        "slug": "plainfield-in"
+      }
+    ],
+    "city_type": "major-metro-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "healthcare-logistics",
+    "housing_profile": "urban-high-density",
+    "growth_pattern": "metro-growth",
+    "service_environment": "indianapolis-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Fort Wayne",
+    "slug": "fort-wayne-in",
+    "county": "Allen County",
+    "population": 270000,
+    "zip_codes": [
+      "46802",
+      "46804",
+      "46805",
+      "46807",
+      "46815"
+    ],
+    "landmarks": [
+      "Foellinger-Freimann Botanical Conservatory",
+      "Parkview Field",
+      "Fort Wayne Children's Zoo",
+      "Headwaters Park",
+      "Embassy Theatre"
+    ],
+    "nearby_cities": [
+      {
+        "name": "New Haven",
+        "slug": "new-haven-in"
+      },
+      {
+        "name": "Huntertown",
+        "slug": "huntertown-in"
+      },
+      {
+        "name": "Leo-Cedarville",
+        "slug": "leo-cedarville-in"
+      },
+      {
+        "name": "Auburn",
+        "slug": "auburn-in"
+      },
+      {
+        "name": "Decatur",
+        "slug": "decatur-in"
+      }
+    ],
+    "city_type": "regional-hub-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "manufacturing-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "northeast-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Evansville",
+    "slug": "evansville-in",
+    "county": "Vanderburgh County",
+    "population": 117000,
+    "zip_codes": [
+      "47708",
+      "47710",
+      "47711",
+      "47712",
+      "47715"
+    ],
+    "landmarks": [
+      "Mesker Park Zoo",
+      "Ford Center",
+      "Riverfront District",
+      "Burdette Park",
+      "Evansville Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Newburgh",
+        "slug": "newburgh-in"
+      },
+      {
+        "name": "Boonville",
+        "slug": "boonville-in"
+      },
+      {
+        "name": "Princeton",
+        "slug": "princeton-in"
+      },
+      {
+        "name": "Henderson",
+        "slug": "henderson-ky"
+      },
+      {
+        "name": "Mount Vernon",
+        "slug": "mount-vernon-in"
+      }
+    ],
+    "city_type": "riverfront-city",
+    "climate_zone": "humid-subtropical-transition",
+    "terrain": "river-valley",
+    "economy_type": "healthcare-manufacturing",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "southwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "South Bend",
+    "slug": "south-bend-in",
+    "county": "St. Joseph County",
+    "population": 103000,
+    "zip_codes": [
+      "46601",
+      "46614",
+      "46615",
+      "46617",
+      "46628"
+    ],
+    "landmarks": [
+      "University of Notre Dame",
+      "Studebaker Museum",
+      "Potawatomi Zoo",
+      "Four Winds Field",
+      "East Race Waterway"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mishawaka",
+        "slug": "mishawaka-in"
+      },
+      {
+        "name": "Granger",
+        "slug": "granger-in"
+      },
+      {
+        "name": "Elkhart",
+        "slug": "elkhart-in"
+      },
+      {
+        "name": "Niles",
+        "slug": "niles-mi"
+      },
+      {
+        "name": "Goshen",
+        "slug": "goshen-in"
+      }
+    ],
+    "city_type": "university-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "education-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "institutional-growth",
+    "service_environment": "north-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Carmel",
+    "slug": "carmel-in",
+    "county": "Hamilton County",
+    "population": 103000,
+    "zip_codes": [
+      "46032",
+      "46033",
+      "46074"
+    ],
+    "landmarks": [
+      "The Center for the Performing Arts",
+      "Monon Trail",
+      "Carmel Arts & Design District",
+      "Midtown Plaza",
+      "Coxhall Gardens"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis-in"
+      },
+      {
+        "name": "Fishers",
+        "slug": "fishers-in"
+      },
+      {
+        "name": "Westfield",
+        "slug": "westfield-in"
+      },
+      {
+        "name": "Noblesville",
+        "slug": "noblesville-in"
+      },
+      {
+        "name": "Zionsville",
+        "slug": "zionsville-in"
+      }
+    ],
+    "city_type": "affluent-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "finance-professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "indianapolis-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Fishers",
+    "slug": "fishers-in",
+    "county": "Hamilton County",
+    "population": 104000,
+    "zip_codes": [
+      "46037",
+      "46038",
+      "46040"
+    ],
+    "landmarks": [
+      "Conner Prairie",
+      "Nickel Plate District",
+      "Geist Reservoir",
+      "Ritchey Woods Nature Preserve",
+      "Fishers District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Carmel",
+        "slug": "carmel-in"
+      },
+      {
+        "name": "Noblesville",
+        "slug": "noblesville-in"
+      },
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis-in"
+      },
+      {
+        "name": "Westfield",
+        "slug": "westfield-in"
+      },
+      {
+        "name": "Lawrence",
+        "slug": "lawrence-in"
+      }
+    ],
+    "city_type": "high-growth-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "technology-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "indianapolis-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Bloomington",
+    "slug": "bloomington-in",
+    "county": "Monroe County",
+    "population": 80000,
+    "zip_codes": [
+      "47401",
+      "47403",
+      "47404",
+      "47408"
+    ],
+    "landmarks": [
+      "Indiana University",
+      "Sample Gates",
+      "Monroe Lake",
+      "WonderLab Museum",
+      "Downtown Bloomington"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ellettsville",
+        "slug": "ellettsville-in"
+      },
+      {
+        "name": "Martinsville",
+        "slug": "martinsville-in"
+      },
+      {
+        "name": "Bedford",
+        "slug": "bedford-in"
+      },
+      {
+        "name": "Spencer",
+        "slug": "spencer-in"
+      },
+      {
+        "name": "Nashville",
+        "slug": "nashville-in"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "education-healthcare",
+    "housing_profile": "student-professional-mix",
+    "growth_pattern": "institutional-growth",
+    "service_environment": "south-central-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Hammond",
+    "slug": "hammond-in",
+    "county": "Lake County",
+    "population": 76000,
+    "zip_codes": [
+      "46320",
+      "46323",
+      "46324",
+      "46327"
+    ],
+    "landmarks": [
+      "Wolf Lake",
+      "Horseshoe Hammond",
+      "Hammond Sportsplex",
+      "Downtown Hammond",
+      "Purdue Northwest"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gary",
+        "slug": "gary-in"
+      },
+      {
+        "name": "East Chicago",
+        "slug": "east-chicago-in"
+      },
+      {
+        "name": "Munster",
+        "slug": "munster-in"
+      },
+      {
+        "name": "Highland",
+        "slug": "highland-in"
+      },
+      {
+        "name": "Chicago",
+        "slug": "chicago-il"
+      }
+    ],
+    "city_type": "lakefront-industrial-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront-plains",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "urban-redevelopment",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Lafayette",
+    "slug": "lafayette-in",
+    "county": "Tippecanoe County",
+    "population": 71000,
+    "zip_codes": [
+      "47901",
+      "47904",
+      "47905",
+      "47909"
+    ],
+    "landmarks": [
+      "Columbian Park",
+      "Downtown Lafayette",
+      "Tippecanoe Battlefield",
+      "Wabash River",
+      "Long Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "West Lafayette",
+        "slug": "west-lafayette-in"
+      },
+      {
+        "name": "Battle Ground",
+        "slug": "battle-ground-in"
+      },
+      {
+        "name": "Dayton",
+        "slug": "dayton-in"
+      },
+      {
+        "name": "Delphi",
+        "slug": "delphi-in"
+      },
+      {
+        "name": "Frankfort",
+        "slug": "frankfort-in"
+      }
+    ],
+    "city_type": "regional-service-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "education-manufacturing",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "west-central-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Noblesville",
+    "slug": "noblesville-in",
+    "county": "Hamilton County",
+    "population": 72000,
+    "zip_codes": [
+      "46060",
+      "46062"
+    ],
+    "landmarks": [
+      "Ruoff Music Center",
+      "Downtown Noblesville",
+      "Morse Reservoir",
+      "Forest Park",
+      "Hamilton County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fishers",
+        "slug": "fishers-in"
+      },
+      {
+        "name": "Carmel",
+        "slug": "carmel-in"
+      },
+      {
+        "name": "Westfield",
+        "slug": "westfield-in"
+      },
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis-in"
+      },
+      {
+        "name": "Anderson",
+        "slug": "anderson-in"
+      }
+    ],
+    "city_type": "suburban-growth-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "services-healthcare",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "indianapolis-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Gary",
+    "slug": "gary-in",
+    "county": "Lake County",
+    "population": 68000,
+    "zip_codes": [
+      "46402",
+      "46403",
+      "46404",
+      "46408",
+      "46409"
+    ],
+    "landmarks": [
+      "Indiana Dunes Area",
+      "Marquette Park",
+      "Gary Metro Center",
+      "U.S. Steel Yard",
+      "Lake Michigan Shoreline"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hammond",
+        "slug": "hammond-in"
+      },
+      {
+        "name": "Merrillville",
+        "slug": "merrillville-in"
+      },
+      {
+        "name": "Portage",
+        "slug": "portage-in"
+      },
+      {
+        "name": "East Chicago",
+        "slug": "east-chicago-in"
+      },
+      {
+        "name": "Crown Point",
+        "slug": "crown-point-in"
+      }
+    ],
+    "city_type": "industrial-lakefront-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront-plains",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "urban-redevelopment",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Greenwood",
+    "slug": "greenwood-in",
+    "county": "Johnson County",
+    "population": 66000,
+    "zip_codes": [
+      "46142",
+      "46143"
+    ],
+    "landmarks": [
+      "Greenwood Park Mall",
+      "Craig Park",
+      "Freedom Springs",
+      "Old City Park",
+      "Greenwood Amphitheater"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis-in"
+      },
+      {
+        "name": "Franklin",
+        "slug": "franklin-in"
+      },
+      {
+        "name": "Whiteland",
+        "slug": "whiteland-in"
+      },
+      {
+        "name": "Bargersville",
+        "slug": "bargersville-in"
+      },
+      {
+        "name": "Southport",
+        "slug": "southport-in"
+      }
+    ],
+    "city_type": "south-metro-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "high-growth",
+    "service_environment": "indianapolis-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Kokomo",
+    "slug": "kokomo-in",
+    "county": "Howard County",
+    "population": 59000,
+    "zip_codes": [
+      "46901",
+      "46902"
+    ],
+    "landmarks": [
+      "Downtown Kokomo",
+      "Highland Park",
+      "Seiberling Mansion",
+      "Kokomo Beach",
+      "Automotive Heritage Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Tipton",
+        "slug": "tipton-in"
+      },
+      {
+        "name": "Peru",
+        "slug": "peru-in"
+      },
+      {
+        "name": "Logansport",
+        "slug": "logansport-in"
+      },
+      {
+        "name": "Noblesville",
+        "slug": "noblesville-in"
+      },
+      {
+        "name": "Marion",
+        "slug": "marion-in"
+      }
+    ],
+    "city_type": "manufacturing-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "automotive-manufacturing",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "industrial-growth",
+    "service_environment": "central-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Muncie",
+    "slug": "muncie-in",
+    "county": "Delaware County",
+    "population": 65000,
+    "zip_codes": [
+      "47302",
+      "47303",
+      "47304",
+      "47305"
+    ],
+    "landmarks": [
+      "Ball State University",
+      "Minnetrista Museum",
+      "White River Greenway",
+      "Downtown Muncie",
+      "Prairie Creek Reservoir"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Anderson",
+        "slug": "anderson-in"
+      },
+      {
+        "name": "Yorktown",
+        "slug": "yorktown-in"
+      },
+      {
+        "name": "New Castle",
+        "slug": "new-castle-in"
+      },
+      {
+        "name": "Marion",
+        "slug": "marion-in"
+      },
+      {
+        "name": "Noblesville",
+        "slug": "noblesville-in"
+      }
+    ],
+    "city_type": "university-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "education-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "institutional-growth",
+    "service_environment": "east-central-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Terre Haute",
+    "slug": "terre-haute-in",
+    "county": "Vigo County",
+    "population": 58000,
+    "zip_codes": [
+      "47802",
+      "47803",
+      "47804",
+      "47805",
+      "47807"
+    ],
+    "landmarks": [
+      "Indiana State University",
+      "Deming Park",
+      "Swope Art Museum",
+      "Downtown Terre Haute",
+      "Wabash River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Brazil",
+        "slug": "brazil-in"
+      },
+      {
+        "name": "Clinton",
+        "slug": "clinton-in"
+      },
+      {
+        "name": "Sullivan",
+        "slug": "sullivan-in"
+      },
+      {
+        "name": "Marshall",
+        "slug": "marshall-il"
+      },
+      {
+        "name": "Greencastle",
+        "slug": "greencastle-in"
+      }
+    ],
+    "city_type": "regional-hub-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "education-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "west-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Anderson",
+    "slug": "anderson-in",
+    "county": "Madison County",
+    "population": 54000,
+    "zip_codes": [
+      "46011",
+      "46012",
+      "46013",
+      "46016",
+      "46017"
+    ],
+    "landmarks": [
+      "Hoosier Park Racing & Casino",
+      "Mounds State Park",
+      "Paramount Theatre",
+      "Downtown Anderson",
+      "Anderson Museum of Art"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Noblesville",
+        "slug": "noblesville-in"
+      },
+      {
+        "name": "Fishers",
+        "slug": "fishers-in"
+      },
+      {
+        "name": "Muncie",
+        "slug": "muncie-in"
+      },
+      {
+        "name": "Pendleton",
+        "slug": "pendleton-in"
+      },
+      {
+        "name": "Elwood",
+        "slug": "elwood-in"
+      }
+    ],
+    "city_type": "regional-service-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "manufacturing-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "central-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Elkhart",
+    "slug": "elkhart-in",
+    "county": "Elkhart County",
+    "population": 53000,
+    "zip_codes": [
+      "46514",
+      "46516",
+      "46517"
+    ],
+    "landmarks": [
+      "Wellfield Botanic Gardens",
+      "Riverwalk",
+      "National New York Central Railroad Museum",
+      "Downtown Elkhart",
+      "NIBCO Water and Ice Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mishawaka",
+        "slug": "mishawaka-in"
+      },
+      {
+        "name": "South Bend",
+        "slug": "south-bend-in"
+      },
+      {
+        "name": "Goshen",
+        "slug": "goshen-in"
+      },
+      {
+        "name": "Bristol",
+        "slug": "bristol-in"
+      },
+      {
+        "name": "Niles",
+        "slug": "niles-mi"
+      }
+    ],
+    "city_type": "manufacturing-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "rv-manufacturing",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "industrial-growth",
+    "service_environment": "north-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Mishawaka",
+    "slug": "mishawaka-in",
+    "county": "St. Joseph County",
+    "population": 52000,
+    "zip_codes": [
+      "46544",
+      "46545"
+    ],
+    "landmarks": [
+      "University Park Mall",
+      "Battell Park",
+      "Mishawaka Riverwalk",
+      "Central Park",
+      "Merrifield Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "South Bend",
+        "slug": "south-bend-in"
+      },
+      {
+        "name": "Elkhart",
+        "slug": "elkhart-in"
+      },
+      {
+        "name": "Granger",
+        "slug": "granger-in"
+      },
+      {
+        "name": "Goshen",
+        "slug": "goshen-in"
+      },
+      {
+        "name": "Niles",
+        "slug": "niles-mi"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Lawrence",
+    "slug": "lawrence-in",
+    "county": "Marion County",
+    "population": 51000,
+    "zip_codes": [
+      "46216",
+      "46226",
+      "46235",
+      "46236"
+    ],
+    "landmarks": [
+      "Fort Harrison State Park",
+      "Fort Benjamin Harrison",
+      "Lawrence Community Park",
+      "Fall Creek Corridor",
+      "The Fort Golf Resort"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis-in"
+      },
+      {
+        "name": "Fishers",
+        "slug": "fishers-in"
+      },
+      {
+        "name": "Carmel",
+        "slug": "carmel-in"
+      },
+      {
+        "name": "Noblesville",
+        "slug": "noblesville-in"
+      },
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-in"
+      }
+    ],
+    "city_type": "metro-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "services-government",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "indianapolis-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Jeffersonville",
+    "slug": "jeffersonville-in",
+    "county": "Clark County",
+    "population": 51000,
+    "zip_codes": [
+      "47130"
+    ],
+    "landmarks": [
+      "Big Four Bridge",
+      "RiverStage",
+      "Downtown Jeffersonville",
+      "Howard Steamboat Museum",
+      "Ohio River Greenway"
+    ],
+    "nearby_cities": [
+      {
+        "name": "New Albany",
+        "slug": "new-albany-in"
+      },
+      {
+        "name": "Clarksville",
+        "slug": "clarksville-in"
+      },
+      {
+        "name": "Louisville",
+        "slug": "louisville-ky"
+      },
+      {
+        "name": "Sellersburg",
+        "slug": "sellersburg-in"
+      },
+      {
+        "name": "Charlestown",
+        "slug": "charlestown-in"
+      }
+    ],
+    "city_type": "riverfront-city",
+    "climate_zone": "humid-subtropical-transition",
+    "terrain": "river-valley",
+    "economy_type": "logistics-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "louisville-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Columbus",
+    "slug": "columbus-in",
+    "county": "Bartholomew County",
+    "population": 51000,
+    "zip_codes": [
+      "47201",
+      "47203"
+    ],
+    "landmarks": [
+      "Mill Race Park",
+      "The Commons",
+      "Cummins Headquarters",
+      "Zaharakos",
+      "Downtown Columbus"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-in"
+      },
+      {
+        "name": "Franklin",
+        "slug": "franklin-in"
+      },
+      {
+        "name": "Seymour",
+        "slug": "seymour-in"
+      },
+      {
+        "name": "Shelbyville",
+        "slug": "shelbyville-in"
+      },
+      {
+        "name": "North Vernon",
+        "slug": "north-vernon-in"
+      }
+    ],
+    "city_type": "manufacturing-design-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "manufacturing-engineering",
+    "housing_profile": "family-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "south-central-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Westfield",
+    "slug": "westfield-in",
+    "county": "Hamilton County",
+    "population": 58000,
+    "zip_codes": [
+      "46074"
+    ],
+    "landmarks": [
+      "Grand Park Sports Campus",
+      "Monon Trail",
+      "Downtown Westfield",
+      "Cool Creek Park",
+      "Urban Vines"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Carmel",
+        "slug": "carmel-in"
+      },
+      {
+        "name": "Fishers",
+        "slug": "fishers-in"
+      },
+      {
+        "name": "Noblesville",
+        "slug": "noblesville-in"
+      },
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis-in"
+      },
+      {
+        "name": "Zionsville",
+        "slug": "zionsville-in"
+      }
+    ],
+    "city_type": "sports-growth-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "services-tourism",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "indianapolis-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Portage",
+    "slug": "portage-in",
+    "county": "Porter County",
+    "population": 37000,
+    "zip_codes": [
+      "46368"
+    ],
+    "landmarks": [
+      "Indiana Dunes National Park",
+      "Portage Lakefront",
+      "Founders Square",
+      "Imagination Glen Park",
+      "Portage Marina"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gary",
+        "slug": "gary-in"
+      },
+      {
+        "name": "Valparaiso",
+        "slug": "valparaiso-in"
+      },
+      {
+        "name": "Chesterton",
+        "slug": "chesterton-in"
+      },
+      {
+        "name": "Hobart",
+        "slug": "hobart-in"
+      },
+      {
+        "name": "Michigan City",
+        "slug": "michigan-city-in"
+      }
+    ],
+    "city_type": "lakefront-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront-plains",
+    "economy_type": "logistics-manufacturing",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "New Albany",
+    "slug": "new-albany-in",
+    "county": "Floyd County",
+    "population": 37000,
+    "zip_codes": [
+      "47150"
+    ],
+    "landmarks": [
+      "Culbertson Mansion",
+      "Ohio River Greenway",
+      "Downtown New Albany",
+      "Riverfront Amphitheater",
+      "Carnegie Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jeffersonville",
+        "slug": "jeffersonville-in"
+      },
+      {
+        "name": "Clarksville",
+        "slug": "clarksville-in"
+      },
+      {
+        "name": "Louisville",
+        "slug": "louisville-ky"
+      },
+      {
+        "name": "Georgetown",
+        "slug": "georgetown-in"
+      },
+      {
+        "name": "Floyds Knobs",
+        "slug": "floyds-knobs-in"
+      }
+    ],
+    "city_type": "riverfront-city",
+    "climate_zone": "humid-subtropical-transition",
+    "terrain": "river-valley",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "louisville-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Richmond",
+    "slug": "richmond-in",
+    "county": "Wayne County",
+    "population": 35000,
+    "zip_codes": [
+      "47374"
+    ],
+    "landmarks": [
+      "Glen Miller Park",
+      "Richmond Art Museum",
+      "Historic Depot District",
+      "Middlefork Reservoir",
+      "Wayne County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Centerville",
+        "slug": "centerville-in"
+      },
+      {
+        "name": "New Castle",
+        "slug": "new-castle-in"
+      },
+      {
+        "name": "Connersville",
+        "slug": "connersville-in"
+      },
+      {
+        "name": "Eaton",
+        "slug": "eaton-oh"
+      },
+      {
+        "name": "Oxford",
+        "slug": "oxford-oh"
+      }
+    ],
+    "city_type": "regional-service-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "manufacturing-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Michigan City",
+    "slug": "michigan-city-in",
+    "county": "LaPorte County",
+    "population": 31000,
+    "zip_codes": [
+      "46360",
+      "46361"
+    ],
+    "landmarks": [
+      "Washington Park",
+      "Indiana Dunes National Park",
+      "Old Lighthouse Museum",
+      "Blue Chip Casino",
+      "Lake Michigan Shoreline"
+    ],
+    "nearby_cities": [
+      {
+        "name": "La Porte",
+        "slug": "la-porte-in"
+      },
+      {
+        "name": "Portage",
+        "slug": "portage-in"
+      },
+      {
+        "name": "Valparaiso",
+        "slug": "valparaiso-in"
+      },
+      {
+        "name": "Chesterton",
+        "slug": "chesterton-in"
+      },
+      {
+        "name": "New Buffalo",
+        "slug": "new-buffalo-mi"
+      }
+    ],
+    "city_type": "lakefront-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront-plains",
+    "economy_type": "tourism-logistics",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Valparaiso",
+    "slug": "valparaiso-in",
+    "county": "Porter County",
+    "population": 35000,
+    "zip_codes": [
+      "46383",
+      "46385"
+    ],
+    "landmarks": [
+      "Valparaiso University",
+      "Central Park Plaza",
+      "Memorial Opera House",
+      "Taltree Arboretum",
+      "Downtown Valparaiso"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Portage",
+        "slug": "portage-in"
+      },
+      {
+        "name": "Chesterton",
+        "slug": "chesterton-in"
+      },
+      {
+        "name": "Hobart",
+        "slug": "hobart-in"
+      },
+      {
+        "name": "Crown Point",
+        "slug": "crown-point-in"
+      },
+      {
+        "name": "Michigan City",
+        "slug": "michigan-city-in"
+      }
+    ],
+    "city_type": "university-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "education-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Hobart",
+    "slug": "hobart-in",
+    "county": "Lake County",
+    "population": 43000,
+    "zip_codes": [
+      "46342"
+    ],
+    "landmarks": [
+      "Lake George",
+      "Festival Park",
+      "Deep River County Park",
+      "Downtown Hobart",
+      "Veterans Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Merrillville",
+        "slug": "merrillville-in"
+      },
+      {
+        "name": "Portage",
+        "slug": "portage-in"
+      },
+      {
+        "name": "Gary",
+        "slug": "gary-in"
+      },
+      {
+        "name": "Valparaiso",
+        "slug": "valparaiso-in"
+      },
+      {
+        "name": "Crown Point",
+        "slug": "crown-point-in"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Crown Point",
+    "slug": "crown-point-in",
+    "county": "Lake County",
+    "population": 36000,
+    "zip_codes": [
+      "46307"
+    ],
+    "landmarks": [
+      "Lake County Courthouse",
+      "Bulldog Park",
+      "Downtown Crown Point",
+      "Lemon Lake County Park",
+      "Crown Point Sportsplex"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Merrillville",
+        "slug": "merrillville-in"
+      },
+      {
+        "name": "Hobart",
+        "slug": "hobart-in"
+      },
+      {
+        "name": "Gary",
+        "slug": "gary-in"
+      },
+      {
+        "name": "Schererville",
+        "slug": "schererville-in"
+      },
+      {
+        "name": "Valparaiso",
+        "slug": "valparaiso-in"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "government-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "high-growth",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Merrillville",
+    "slug": "merrillville-in",
+    "county": "Lake County",
+    "population": 36000,
+    "zip_codes": [
+      "46410"
+    ],
+    "landmarks": [
+      "Southlake Mall",
+      "Albanese Candy Factory",
+      "Hidden Lake Park",
+      "Merrillville Plaza",
+      "Broadway Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hobart",
+        "slug": "hobart-in"
+      },
+      {
+        "name": "Crown Point",
+        "slug": "crown-point-in"
+      },
+      {
+        "name": "Gary",
+        "slug": "gary-in"
+      },
+      {
+        "name": "Schererville",
+        "slug": "schererville-in"
+      },
+      {
+        "name": "Highland",
+        "slug": "highland-in"
+      }
+    ],
+    "city_type": "commercial-center-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "commercial-growth",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "East Chicago",
+    "slug": "east-chicago-in",
+    "county": "Lake County",
+    "population": 26000,
+    "zip_codes": [
+      "46312"
+    ],
+    "landmarks": [
+      "Indiana Harbor",
+      "Jeorse Park Beach",
+      "Ameristar Casino",
+      "Washington Park",
+      "Lake Michigan Waterfront"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Gary",
+        "slug": "gary-in"
+      },
+      {
+        "name": "Hammond",
+        "slug": "hammond-in"
+      },
+      {
+        "name": "Whiting",
+        "slug": "whiting-in"
+      },
+      {
+        "name": "Chicago",
+        "slug": "chicago-il"
+      },
+      {
+        "name": "Highland",
+        "slug": "highland-in"
+      }
+    ],
+    "city_type": "industrial-port-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront-industrial",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "urban-redevelopment",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Franklin",
+    "slug": "franklin-in",
+    "county": "Johnson County",
+    "population": 27000,
+    "zip_codes": [
+      "46131"
+    ],
+    "landmarks": [
+      "Franklin College",
+      "Downtown Franklin",
+      "Province Park",
+      "Historic Artcraft Theatre",
+      "Blue Heron Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-in"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-in"
+      },
+      {
+        "name": "Whiteland",
+        "slug": "whiteland-in"
+      },
+      {
+        "name": "Shelbyville",
+        "slug": "shelbyville-in"
+      },
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis-in"
+      }
+    ],
+    "city_type": "college-town-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "education-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "indianapolis-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Shelbyville",
+    "slug": "shelbyville-in",
+    "county": "Shelby County",
+    "population": 21000,
+    "zip_codes": [
+      "46176"
+    ],
+    "landmarks": [
+      "Indiana Grand Racing",
+      "Blue River Memorial Park",
+      "Grover Museum",
+      "Downtown Shelbyville",
+      "Shelby County Fairgrounds"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Franklin",
+        "slug": "franklin-in"
+      },
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-in"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-in"
+      },
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis-in"
+      },
+      {
+        "name": "Rushville",
+        "slug": "rushville-in"
+      }
+    ],
+    "city_type": "regional-service-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Seymour",
+    "slug": "seymour-in",
+    "county": "Jackson County",
+    "population": 22000,
+    "zip_codes": [
+      "47274"
+    ],
+    "landmarks": [
+      "Muscatatuck National Wildlife Refuge",
+      "Downtown Seymour",
+      "Freeman Army Airfield Museum",
+      "Shields Park",
+      "Jackson County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Columbus",
+        "slug": "columbus-in"
+      },
+      {
+        "name": "North Vernon",
+        "slug": "north-vernon-in"
+      },
+      {
+        "name": "Scottsburg",
+        "slug": "scottsburg-in"
+      },
+      {
+        "name": "Brownstown",
+        "slug": "brownstown-in"
+      },
+      {
+        "name": "Madison",
+        "slug": "madison-in"
+      }
+    ],
+    "city_type": "regional-hub-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "manufacturing-logistics",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "south-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Clarksville",
+    "slug": "clarksville-in",
+    "county": "Clark County",
+    "population": 22000,
+    "zip_codes": [
+      "47129"
+    ],
+    "landmarks": [
+      "Falls of the Ohio State Park",
+      "Green Tree Mall",
+      "Lewis and Clark Trail",
+      "Clarksville Riverfront",
+      "George Rogers Clark Home Site"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jeffersonville",
+        "slug": "jeffersonville-in"
+      },
+      {
+        "name": "New Albany",
+        "slug": "new-albany-in"
+      },
+      {
+        "name": "Louisville",
+        "slug": "louisville-ky"
+      },
+      {
+        "name": "Sellersburg",
+        "slug": "sellersburg-in"
+      },
+      {
+        "name": "Charlestown",
+        "slug": "charlestown-in"
+      }
+    ],
+    "city_type": "riverfront-suburban-city",
+    "climate_zone": "humid-subtropical-transition",
+    "terrain": "river-valley",
+    "economy_type": "retail-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "metro-growth",
+    "service_environment": "louisville-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Schererville",
+    "slug": "schererville-in",
+    "county": "Lake County",
+    "population": 30000,
+    "zip_codes": [
+      "46375"
+    ],
+    "landmarks": [
+      "Redar Park",
+      "Rohrman Park",
+      "Downtown Schererville",
+      "Prairie Duneland Trail",
+      "Joliet Street Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Munster",
+        "slug": "munster-in"
+      },
+      {
+        "name": "Highland",
+        "slug": "highland-in"
+      },
+      {
+        "name": "Crown Point",
+        "slug": "crown-point-in"
+      },
+      {
+        "name": "Merrillville",
+        "slug": "merrillville-in"
+      },
+      {
+        "name": "Dyer",
+        "slug": "dyer-in"
+      }
+    ],
+    "city_type": "northwest-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Highland",
+    "slug": "highland-in",
+    "county": "Lake County",
+    "population": 23000,
+    "zip_codes": [
+      "46322"
+    ],
+    "landmarks": [
+      "Wicker Memorial Park",
+      "Main Square Park",
+      "Ernie Pyle Memorial",
+      "Highland Grove",
+      "Downtown Highland"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Munster",
+        "slug": "munster-in"
+      },
+      {
+        "name": "Schererville",
+        "slug": "schererville-in"
+      },
+      {
+        "name": "Hammond",
+        "slug": "hammond-in"
+      },
+      {
+        "name": "Merrillville",
+        "slug": "merrillville-in"
+      },
+      {
+        "name": "East Chicago",
+        "slug": "east-chicago-in"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "family-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Munster",
+    "slug": "munster-in",
+    "county": "Lake County",
+    "population": 24000,
+    "zip_codes": [
+      "46321"
+    ],
+    "landmarks": [
+      "Centennial Park",
+      "Community Veterans Memorial",
+      "Munster Performing Arts Center",
+      "Monon Trail Connection",
+      "Downtown Munster"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Highland",
+        "slug": "highland-in"
+      },
+      {
+        "name": "Schererville",
+        "slug": "schererville-in"
+      },
+      {
+        "name": "Hammond",
+        "slug": "hammond-in"
+      },
+      {
+        "name": "Dyer",
+        "slug": "dyer-in"
+      },
+      {
+        "name": "Chicago",
+        "slug": "chicago-il"
+      }
+    ],
+    "city_type": "affluent-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront-plains",
+    "economy_type": "healthcare-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Plainfield",
+    "slug": "plainfield-in",
+    "county": "Hendricks County",
+    "population": 37000,
+    "zip_codes": [
+      "46168"
+    ],
+    "landmarks": [
+      "The Shops at Perry Crossing",
+      "Splash Island",
+      "Hummel Park",
+      "Vandalia Trail",
+      "Downtown Plainfield"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis-in"
+      },
+      {
+        "name": "Avon",
+        "slug": "avon-in"
+      },
+      {
+        "name": "Brownsburg",
+        "slug": "brownsburg-in"
+      },
+      {
+        "name": "Greenwood",
+        "slug": "greenwood-in"
+      },
+      {
+        "name": "Mooresville",
+        "slug": "mooresville-in"
+      }
+    ],
+    "city_type": "west-metro-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "logistics-retail",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "indianapolis-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Brownsburg",
+    "slug": "brownsburg-in",
+    "county": "Hendricks County",
+    "population": 32000,
+    "zip_codes": [
+      "46112"
+    ],
+    "landmarks": [
+      "Williams Park",
+      "Arbuckle Acres Park",
+      "Lucas Oil Raceway",
+      "Downtown Brownsburg",
+      "Eagle Creek Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Avon",
+        "slug": "avon-in"
+      },
+      {
+        "name": "Plainfield",
+        "slug": "plainfield-in"
+      },
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis-in"
+      },
+      {
+        "name": "Zionsville",
+        "slug": "zionsville-in"
+      },
+      {
+        "name": "Whitestown",
+        "slug": "whitestown-in"
+      }
+    ],
+    "city_type": "growth-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "services-logistics",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "rapid-growth",
+    "service_environment": "indianapolis-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Avon",
+    "slug": "avon-in",
+    "county": "Hendricks County",
+    "population": 25000,
+    "zip_codes": [
+      "46123"
+    ],
+    "landmarks": [
+      "Washington Township Park",
+      "Avon Town Hall Park",
+      "Prestwick Country Club",
+      "Rockville Road Corridor",
+      "Avon Gardens"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Plainfield",
+        "slug": "plainfield-in"
+      },
+      {
+        "name": "Brownsburg",
+        "slug": "brownsburg-in"
+      },
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis-in"
+      },
+      {
+        "name": "Danville",
+        "slug": "danville-in"
+      },
+      {
+        "name": "Speedway",
+        "slug": "speedway-in"
+      }
+    ],
+    "city_type": "west-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "high-growth",
+    "service_environment": "indianapolis-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Zionsville",
+    "slug": "zionsville-in",
+    "county": "Boone County",
+    "population": 32000,
+    "zip_codes": [
+      "46077"
+    ],
+    "landmarks": [
+      "Brick Street District",
+      "Zionsville Rail Trail",
+      "Mulberry Fields",
+      "Hussey-Mayfield Library",
+      "Lions Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Whitestown",
+        "slug": "whitestown-in"
+      },
+      {
+        "name": "Carmel",
+        "slug": "carmel-in"
+      },
+      {
+        "name": "Westfield",
+        "slug": "westfield-in"
+      },
+      {
+        "name": "Brownsburg",
+        "slug": "brownsburg-in"
+      },
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis-in"
+      }
+    ],
+    "city_type": "affluent-growth-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "premium-growth",
+    "service_environment": "indianapolis-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Whitestown",
+    "slug": "whitestown-in",
+    "county": "Boone County",
+    "population": 42000,
+    "zip_codes": [
+      "46075"
+    ],
+    "landmarks": [
+      "Main Street Park",
+      "Big 4 Rail Trail",
+      "Anson Development",
+      "Panther Park",
+      "Whitestown Municipal Complex"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Zionsville",
+        "slug": "zionsville-in"
+      },
+      {
+        "name": "Lebanon",
+        "slug": "lebanon-in"
+      },
+      {
+        "name": "Westfield",
+        "slug": "westfield-in"
+      },
+      {
+        "name": "Brownsburg",
+        "slug": "brownsburg-in"
+      },
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis-in"
+      }
+    ],
+    "city_type": "logistics-growth-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "logistics-distribution",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "hyper-growth",
+    "service_environment": "indianapolis-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Lebanon",
+    "slug": "lebanon-in",
+    "county": "Boone County",
+    "population": 21000,
+    "zip_codes": [
+      "46052"
+    ],
+    "landmarks": [
+      "Boone County Courthouse",
+      "Memorial Park",
+      "Downtown Lebanon",
+      "Abner Longley Park",
+      "Witham Health Services"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Whitestown",
+        "slug": "whitestown-in"
+      },
+      {
+        "name": "Zionsville",
+        "slug": "zionsville-in"
+      },
+      {
+        "name": "Westfield",
+        "slug": "westfield-in"
+      },
+      {
+        "name": "Crawfordsville",
+        "slug": "crawfordsville-in"
+      },
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis-in"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-plains",
+    "economy_type": "healthcare-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Goshen",
+    "slug": "goshen-in",
+    "county": "Elkhart County",
+    "population": 34000,
+    "zip_codes": [
+      "46526",
+      "46528"
+    ],
+    "landmarks": [
+      "Fidler Pond Park",
+      "Downtown Goshen",
+      "Elkhart County Fairgrounds",
+      "Pumpkinvine Nature Trail",
+      "Goshen College"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Elkhart",
+        "slug": "elkhart-in"
+      },
+      {
+        "name": "Mishawaka",
+        "slug": "mishawaka-in"
+      },
+      {
+        "name": "South Bend",
+        "slug": "south-bend-in"
+      },
+      {
+        "name": "Nappanee",
+        "slug": "nappanee-in"
+      },
+      {
+        "name": "Middlebury",
+        "slug": "middlebury-in"
+      }
+    ],
+    "city_type": "college-regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "manufacturing-education",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "north-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "La Porte",
+    "slug": "la-porte-in",
+    "county": "LaPorte County",
+    "population": 22000,
+    "zip_codes": [
+      "46350"
+    ],
+    "landmarks": [
+      "Pine Lake",
+      "Stone Lake",
+      "Soldiers Memorial Park",
+      "La Porte Civic Auditorium",
+      "Downtown La Porte"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Michigan City",
+        "slug": "michigan-city-in"
+      },
+      {
+        "name": "Valparaiso",
+        "slug": "valparaiso-in"
+      },
+      {
+        "name": "Chesterton",
+        "slug": "chesterton-in"
+      },
+      {
+        "name": "Portage",
+        "slug": "portage-in"
+      },
+      {
+        "name": "New Buffalo",
+        "slug": "new-buffalo-mi"
+      }
+    ],
+    "city_type": "lake-region-city",
+    "climate_zone": "humid-continental",
+    "terrain": "glacial-lakes",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Chesterton",
+    "slug": "chesterton-in",
+    "county": "Porter County",
+    "population": 21000,
+    "zip_codes": [
+      "46304"
+    ],
+    "landmarks": [
+      "Indiana Dunes National Park",
+      "Coffee Creek Preserve",
+      "Dogwood Park",
+      "European Market",
+      "Downtown Chesterton"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Valparaiso",
+        "slug": "valparaiso-in"
+      },
+      {
+        "name": "Portage",
+        "slug": "portage-in"
+      },
+      {
+        "name": "Michigan City",
+        "slug": "michigan-city-in"
+      },
+      {
+        "name": "La Porte",
+        "slug": "la-porte-in"
+      },
+      {
+        "name": "Hobart",
+        "slug": "hobart-in"
+      }
+    ],
+    "city_type": "dunes-community-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront-dunes",
+    "economy_type": "tourism-services",
+    "housing_profile": "family-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Dyer",
+    "slug": "dyer-in",
+    "county": "Lake County",
+    "population": 17000,
+    "zip_codes": [
+      "46311"
+    ],
+    "landmarks": [
+      "Central Park",
+      "Pheasant Hills Park",
+      "Pennsy Greenway",
+      "Downtown Dyer",
+      "Meyer's Castle Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Schererville",
+        "slug": "schererville-in"
+      },
+      {
+        "name": "Munster",
+        "slug": "munster-in"
+      },
+      {
+        "name": "Highland",
+        "slug": "highland-in"
+      },
+      {
+        "name": "Crown Point",
+        "slug": "crown-point-in"
+      },
+      {
+        "name": "Chicago Heights",
+        "slug": "chicago-heights-il"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "family-suburban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Whiting",
+    "slug": "whiting-in",
+    "county": "Lake County",
+    "population": 22000,
+    "zip_codes": [
+      "46394"
+    ],
+    "landmarks": [
+      "Whihala Beach",
+      "Wolf Lake",
+      "Oil Heritage District",
+      "Downtown Whiting",
+      "Mascot Hall of Fame"
+    ],
+    "nearby_cities": [
+      {
+        "name": "East Chicago",
+        "slug": "east-chicago-in"
+      },
+      {
+        "name": "Hammond",
+        "slug": "hammond-in"
+      },
+      {
+        "name": "Gary",
+        "slug": "gary-in"
+      },
+      {
+        "name": "Chicago",
+        "slug": "chicago-il"
+      },
+      {
+        "name": "Highland",
+        "slug": "highland-in"
+      }
+    ],
+    "city_type": "lakefront-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront-industrial",
+    "economy_type": "energy-manufacturing",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "redevelopment-growth",
+    "service_environment": "northwest-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "New Castle",
+    "slug": "new-castle-in",
+    "county": "Henry County",
+    "population": 18000,
+    "zip_codes": [
+      "47362"
+    ],
+    "landmarks": [
+      "Baker Park",
+      "Arts Park",
+      "Henry County Courthouse",
+      "Downtown New Castle",
+      "Westwood Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Muncie",
+        "slug": "muncie-in"
+      },
+      {
+        "name": "Anderson",
+        "slug": "anderson-in"
+      },
+      {
+        "name": "Richmond",
+        "slug": "richmond-in"
+      },
+      {
+        "name": "Knightstown",
+        "slug": "knightstown-in"
+      },
+      {
+        "name": "Rushville",
+        "slug": "rushville-in"
+      }
+    ],
+    "city_type": "regional-service-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Marion",
+    "slug": "marion-in",
+    "county": "Grant County",
+    "population": 28000,
+    "zip_codes": [
+      "46952",
+      "46953"
+    ],
+    "landmarks": [
+      "Matter Park",
+      "James Dean Gallery",
+      "Mississinewa Riverwalk",
+      "Indiana Wesleyan University",
+      "Downtown Marion"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Muncie",
+        "slug": "muncie-in"
+      },
+      {
+        "name": "Kokomo",
+        "slug": "kokomo-in"
+      },
+      {
+        "name": "Peru",
+        "slug": "peru-in"
+      },
+      {
+        "name": "Wabash",
+        "slug": "wabash-in"
+      },
+      {
+        "name": "Gas City",
+        "slug": "gas-city-in"
+      }
+    ],
+    "city_type": "university-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "education-manufacturing",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "regional-growth",
+    "service_environment": "north-central-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Logansport",
+    "slug": "logansport-in",
+    "county": "Cass County",
+    "population": 18000,
+    "zip_codes": [
+      "46947"
+    ],
+    "landmarks": [
+      "Riverside Park",
+      "Cass County Historical Museum",
+      "Dentzel Carousel",
+      "Eel River Corridor",
+      "Downtown Logansport"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kokomo",
+        "slug": "kokomo-in"
+      },
+      {
+        "name": "Peru",
+        "slug": "peru-in"
+      },
+      {
+        "name": "Lafayette",
+        "slug": "lafayette-in"
+      },
+      {
+        "name": "Monticello",
+        "slug": "monticello-in"
+      },
+      {
+        "name": "Rochester",
+        "slug": "rochester-in"
+      }
+    ],
+    "city_type": "river-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-central-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Peru",
+    "slug": "peru-in",
+    "county": "Miami County",
+    "population": 18000,
+    "zip_codes": [
+      "46970"
+    ],
+    "landmarks": [
+      "Circus Hall of Fame",
+      "Riverside Park",
+      "Mississinewa River",
+      "Downtown Peru",
+      "Maconaquah Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Kokomo",
+        "slug": "kokomo-in"
+      },
+      {
+        "name": "Marion",
+        "slug": "marion-in"
+      },
+      {
+        "name": "Logansport",
+        "slug": "logansport-in"
+      },
+      {
+        "name": "Wabash",
+        "slug": "wabash-in"
+      },
+      {
+        "name": "Rochester",
+        "slug": "rochester-in"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-central-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Madison",
+    "slug": "madison-in",
+    "county": "Jefferson County",
+    "population": 21000,
+    "zip_codes": [
+      "47250"
+    ],
+    "landmarks": [
+      "Historic Downtown Madison",
+      "Clifty Falls State Park",
+      "Ohio Riverfront",
+      "Lanier Mansion",
+      "Madison Regatta Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Seymour",
+        "slug": "seymour-in"
+      },
+      {
+        "name": "Jeffersonville",
+        "slug": "jeffersonville-in"
+      },
+      {
+        "name": "New Albany",
+        "slug": "new-albany-in"
+      },
+      {
+        "name": "Scottsburg",
+        "slug": "scottsburg-in"
+      },
+      {
+        "name": "North Vernon",
+        "slug": "north-vernon-in"
+      }
+    ],
+    "city_type": "historic-river-city",
+    "climate_zone": "humid-subtropical-transition",
+    "terrain": "river-bluffs",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "heritage-growth",
+    "service_environment": "south-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  },
+  {
+    "city": "Crawfordsville",
+    "slug": "crawfordsville-in",
+    "county": "Montgomery County",
+    "population": 21000,
+    "zip_codes": [
+      "47933"
+    ],
+    "landmarks": [
+      "Wabash College",
+      "Rotary Jail Museum",
+      "Milligan Park",
+      "Sugar Creek Trail",
+      "Downtown Crawfordsville"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lebanon",
+        "slug": "lebanon-in"
+      },
+      {
+        "name": "Lafayette",
+        "slug": "lafayette-in"
+      },
+      {
+        "name": "Indianapolis",
+        "slug": "indianapolis-in"
+      },
+      {
+        "name": "Frankfort",
+        "slug": "frankfort-in"
+      },
+      {
+        "name": "Greencastle",
+        "slug": "greencastle-in"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "west-indiana-market",
+    "property_mix": "mixed-use",
+    "state": "IN"
+  }
+]
