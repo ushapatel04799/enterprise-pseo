@@ -78,7 +78,7 @@ export async function loadCountyBySlug(dataLoader, stateCode, countySlug, option
   }
 
   const code = normalizeStateCode(stateCode);
-  const target = normalizeCountySluge(countySlug);
+  const target = normalizeCountySlug(countySlug);
   const targetName = String(countySlug).trim().toLowerCase();
 
   return counties.find(
@@ -162,7 +162,7 @@ function normalizeStateCode(stateCode) {
  * @returns {string} Normalized county slug.
  * @private
  */
-function normalizeCountySluge(countySlug) {
+function normalizeCountySlug(countySlug) {
   if (typeof countySlug !== 'string' || countySlug.trim() === '') {
     throw new TypeError('countySlug must be a non-empty string.');
   }
