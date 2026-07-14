@@ -1,0 +1,7622 @@
+[
+  {
+    "city": "Albert Lea",
+    "slug": "albert-lea-mn",
+    "county": "Freeborn County",
+    "population": 18300,
+    "zip_codes": [
+      "56007"
+    ],
+    "landmarks": [
+      "Fountain Lake",
+      "Albert Lea City Arena",
+      "Downtown Albert Lea",
+      "Edgewater Park",
+      "Freeborn County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Austin",
+        "slug": "austin-mn"
+      },
+      {
+        "name": "Owatonna",
+        "slug": "owatonna-mn"
+      },
+      {
+        "name": "Faribault",
+        "slug": "faribault-mn"
+      },
+      {
+        "name": "Mankato",
+        "slug": "mankato-mn"
+      },
+      {
+        "name": "Northfield",
+        "slug": "northfield-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southern-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Alexandria",
+    "slug": "alexandria-mn",
+    "county": "Douglas County",
+    "population": 14500,
+    "zip_codes": [
+      "56308"
+    ],
+    "landmarks": [
+      "Lake Agnes",
+      "Big Ole Statue",
+      "Runestone Museum",
+      "Downtown Alexandria",
+      "Carlos Creek Winery"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Saint Cloud",
+        "slug": "saint-cloud-mn"
+      },
+      {
+        "name": "Willmar",
+        "slug": "willmar-mn"
+      },
+      {
+        "name": "Moorhead",
+        "slug": "moorhead-mn"
+      },
+      {
+        "name": "Brainerd",
+        "slug": "brainerd-mn"
+      },
+      {
+        "name": "Sartell",
+        "slug": "sartell-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Andover",
+    "slug": "andover-mn",
+    "county": "Anoka County",
+    "population": 33000,
+    "zip_codes": [
+      "55304"
+    ],
+    "landmarks": [
+      "Bunker Hills Regional Park",
+      "Andover Community Center",
+      "Round Lake",
+      "Prairie Knoll Park",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Anoka",
+        "slug": "anoka-mn"
+      },
+      {
+        "name": "Ramsey",
+        "slug": "ramsey-mn"
+      },
+      {
+        "name": "Coon Rapids",
+        "slug": "coon-rapids-mn"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-mn"
+      },
+      {
+        "name": "Ham Lake",
+        "slug": "ham-lake-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Anoka",
+    "slug": "anoka-mn",
+    "county": "Anoka County",
+    "population": 18000,
+    "zip_codes": [
+      "55303"
+    ],
+    "landmarks": [
+      "Historic Downtown Anoka",
+      "Rum River",
+      "Anoka County Courthouse",
+      "Riverfront Memorial Park",
+      "Main Street District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Andover",
+        "slug": "andover-mn"
+      },
+      {
+        "name": "Ramsey",
+        "slug": "ramsey-mn"
+      },
+      {
+        "name": "Coon Rapids",
+        "slug": "coon-rapids-mn"
+      },
+      {
+        "name": "Champlin",
+        "slug": "champlin-mn"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-mn"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "riverfront",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Apple Valley",
+    "slug": "apple-valley-mn",
+    "county": "Dakota County",
+    "population": 56000,
+    "zip_codes": [
+      "55124"
+    ],
+    "landmarks": [
+      "Minnesota Zoo",
+      "Lebanon Hills Regional Park",
+      "Apple Valley Transit Station",
+      "Kelley Park",
+      "Galaxie Avenue Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Burnsville",
+        "slug": "burnsville-mn"
+      },
+      {
+        "name": "Lakeville",
+        "slug": "lakeville-mn"
+      },
+      {
+        "name": "Eagan",
+        "slug": "eagan-mn"
+      },
+      {
+        "name": "Rosemount",
+        "slug": "rosemount-mn"
+      },
+      {
+        "name": "Farmington",
+        "slug": "farmington-mn"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Arden Hills",
+    "slug": "arden-hills-mn",
+    "county": "Ramsey County",
+    "population": 10500,
+    "zip_codes": [
+      "55112"
+    ],
+    "landmarks": [
+      "Tony Schmidt Regional Park",
+      "Lake Johanna",
+      "Bethel University",
+      "Rice Creek Trail",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Shoreview",
+        "slug": "shoreview-mn"
+      },
+      {
+        "name": "Roseville",
+        "slug": "roseville-mn"
+      },
+      {
+        "name": "New Brighton",
+        "slug": "new-brighton-mn"
+      },
+      {
+        "name": "Mounds View",
+        "slug": "mounds-view-mn"
+      },
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "education-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Austin",
+    "slug": "austin-mn",
+    "county": "Mower County",
+    "population": 25000,
+    "zip_codes": [
+      "55912"
+    ],
+    "landmarks": [
+      "SPAM Museum",
+      "Hormel Foods Headquarters",
+      "East Side Lake",
+      "Downtown Austin",
+      "Mower County Fairgrounds"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Albert Lea",
+        "slug": "albert-lea-mn"
+      },
+      {
+        "name": "Owatonna",
+        "slug": "owatonna-mn"
+      },
+      {
+        "name": "Faribault",
+        "slug": "faribault-mn"
+      },
+      {
+        "name": "Northfield",
+        "slug": "northfield-mn"
+      },
+      {
+        "name": "Rochester",
+        "slug": "rochester-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southern-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Baxter",
+    "slug": "baxter-mn",
+    "county": "Crow Wing County",
+    "population": 9000,
+    "zip_codes": [
+      "56425"
+    ],
+    "landmarks": [
+      "Whipple Beach",
+      "Highway 371 Corridor",
+      "Baxter City Hall",
+      "Northland Arboretum",
+      "Retail District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Brainerd",
+        "slug": "brainerd-mn"
+      },
+      {
+        "name": "Sartell",
+        "slug": "sartell-mn"
+      },
+      {
+        "name": "Saint Cloud",
+        "slug": "saint-cloud-mn"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-mn"
+      },
+      {
+        "name": "Moorhead",
+        "slug": "moorhead-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-region",
+    "economy_type": "retail-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Bemidji",
+    "slug": "bemidji-mn",
+    "county": "Beltrami County",
+    "population": 15500,
+    "zip_codes": [
+      "56601"
+    ],
+    "landmarks": [
+      "Lake Bemidji",
+      "Paul Bunyan Statue",
+      "Bemidji State University",
+      "Downtown Bemidji",
+      "Waterfront Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Virginia",
+        "slug": "virginia-mn"
+      },
+      {
+        "name": "Moorhead",
+        "slug": "moorhead-mn"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-mn"
+      },
+      {
+        "name": "Saint Cloud",
+        "slug": "saint-cloud-mn"
+      },
+      {
+        "name": "Brainerd",
+        "slug": "brainerd-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-forests",
+    "economy_type": "education-tourism",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northern-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Blaine",
+    "slug": "blaine-mn",
+    "county": "Anoka County",
+    "population": 73000,
+    "zip_codes": [
+      "55434",
+      "55449"
+    ],
+    "landmarks": [
+      "National Sports Center",
+      "TPC Twin Cities",
+      "Bunker Hills Regional Park",
+      "City Hall",
+      "Main Street Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Andover",
+        "slug": "andover-mn"
+      },
+      {
+        "name": "Coon Rapids",
+        "slug": "coon-rapids-mn"
+      },
+      {
+        "name": "Ham Lake",
+        "slug": "ham-lake-mn"
+      },
+      {
+        "name": "Lino Lakes",
+        "slug": "lino-lakes-mn"
+      },
+      {
+        "name": "Fridley",
+        "slug": "fridley-mn"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Bloomington",
+    "slug": "bloomington-mn",
+    "county": "Hennepin County",
+    "population": 89500,
+    "zip_codes": [
+      "55420",
+      "55425",
+      "55431",
+      "55435",
+      "55437",
+      "55438"
+    ],
+    "landmarks": [
+      "Mall of America",
+      "Minnesota Valley National Wildlife Refuge",
+      "Normandale Lake",
+      "Hyland Lake Park Reserve",
+      "Bloomington Civic Plaza"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Richfield",
+        "slug": "richfield-mn"
+      },
+      {
+        "name": "Burnsville",
+        "slug": "burnsville-mn"
+      },
+      {
+        "name": "Eagan",
+        "slug": "eagan-mn"
+      },
+      {
+        "name": "Edina",
+        "slug": "edina-mn"
+      },
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      }
+    ],
+    "city_type": "major-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-suburban",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Brooklyn Center",
+    "slug": "brooklyn-center-mn",
+    "county": "Hennepin County",
+    "population": 31500,
+    "zip_codes": [
+      "55429",
+      "55430"
+    ],
+    "landmarks": [
+      "Centennial Park",
+      "Earle Brown Heritage Center",
+      "Shingle Creek",
+      "Brooklyn Boulevard",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Brooklyn Park",
+        "slug": "brooklyn-park-mn"
+      },
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      },
+      {
+        "name": "Crystal",
+        "slug": "crystal-mn"
+      },
+      {
+        "name": "New Hope",
+        "slug": "new-hope-mn"
+      },
+      {
+        "name": "Robbinsdale",
+        "slug": "robbinsdale-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Brooklyn Park",
+    "slug": "brooklyn-park-mn",
+    "county": "Hennepin County",
+    "population": 86500,
+    "zip_codes": [
+      "55428",
+      "55429",
+      "55443",
+      "55444",
+      "55445"
+    ],
+    "landmarks": [
+      "Mississippi Gateway Regional Park",
+      "Edinburgh USA Golf Course",
+      "North Hennepin Community College",
+      "Central Park",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Brooklyn Center",
+        "slug": "brooklyn-center-mn"
+      },
+      {
+        "name": "Maple Grove",
+        "slug": "maple-grove-mn"
+      },
+      {
+        "name": "Champlin",
+        "slug": "champlin-mn"
+      },
+      {
+        "name": "Osseo",
+        "slug": "osseo-mn"
+      },
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Buffalo",
+    "slug": "buffalo-mn",
+    "county": "Wright County",
+    "population": 17000,
+    "zip_codes": [
+      "55313"
+    ],
+    "landmarks": [
+      "Buffalo Lake",
+      "Sturges Park",
+      "Downtown Buffalo",
+      "Wright County Courthouse",
+      "Buffalo Civic Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Monticello",
+        "slug": "monticello-mn"
+      },
+      {
+        "name": "Saint Michael",
+        "slug": "saint-michael-mn"
+      },
+      {
+        "name": "Albertville",
+        "slug": "albertville-mn"
+      },
+      {
+        "name": "Maple Lake",
+        "slug": "maple-lake-mn"
+      },
+      {
+        "name": "Delano",
+        "slug": "delano-mn"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Burnsville",
+    "slug": "burnsville-mn",
+    "county": "Dakota County",
+    "population": 64500,
+    "zip_codes": [
+      "55306",
+      "55337"
+    ],
+    "landmarks": [
+      "Buck Hill",
+      "Burnsville Center",
+      "Nicollet Commons Park",
+      "Crystal Lake",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Apple Valley",
+        "slug": "apple-valley-mn"
+      },
+      {
+        "name": "Lakeville",
+        "slug": "lakeville-mn"
+      },
+      {
+        "name": "Eagan",
+        "slug": "eagan-mn"
+      },
+      {
+        "name": "Savage",
+        "slug": "savage-mn"
+      },
+      {
+        "name": "Bloomington",
+        "slug": "bloomington-mn"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Cambridge",
+    "slug": "cambridge-mn",
+    "county": "Isanti County",
+    "population": 9500,
+    "zip_codes": [
+      "55008"
+    ],
+    "landmarks": [
+      "Rum River",
+      "Downtown Cambridge",
+      "Cambridge City Park",
+      "Isanti County Government Center",
+      "Main Street District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Isanti",
+        "slug": "isanti-mn"
+      },
+      {
+        "name": "North Branch",
+        "slug": "north-branch-mn"
+      },
+      {
+        "name": "Andover",
+        "slug": "andover-mn"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-mn"
+      },
+      {
+        "name": "Saint Francis",
+        "slug": "saint-francis-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "east-central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Champlin",
+    "slug": "champlin-mn",
+    "county": "Hennepin County",
+    "population": 24000,
+    "zip_codes": [
+      "55316"
+    ],
+    "landmarks": [
+      "Mississippi Point Park",
+      "Andrews Park",
+      "Elm Creek Park Reserve",
+      "City Hall",
+      "Riverfront Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Brooklyn Park",
+        "slug": "brooklyn-park-mn"
+      },
+      {
+        "name": "Anoka",
+        "slug": "anoka-mn"
+      },
+      {
+        "name": "Ramsey",
+        "slug": "ramsey-mn"
+      },
+      {
+        "name": "Maple Grove",
+        "slug": "maple-grove-mn"
+      },
+      {
+        "name": "Andover",
+        "slug": "andover-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "riverfront",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Chanhassen",
+    "slug": "chanhassen-mn",
+    "county": "Carver County",
+    "population": 26500,
+    "zip_codes": [
+      "55317"
+    ],
+    "landmarks": [
+      "Paisley Park",
+      "Lake Ann",
+      "Minnesota Landscape Arboretum",
+      "Chanhassen Dinner Theatres",
+      "City Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Eden Prairie",
+        "slug": "eden-prairie-mn"
+      },
+      {
+        "name": "Chaska",
+        "slug": "chaska-mn"
+      },
+      {
+        "name": "Victoria",
+        "slug": "victoria-mn"
+      },
+      {
+        "name": "Shakopee",
+        "slug": "shakopee-mn"
+      },
+      {
+        "name": "Minnetonka",
+        "slug": "minnetonka-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-hills",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Chaska",
+    "slug": "chaska-mn",
+    "county": "Carver County",
+    "population": 28500,
+    "zip_codes": [
+      "55318"
+    ],
+    "landmarks": [
+      "Minnesota River",
+      "Downtown Chaska",
+      "Firemen's Park",
+      "Chaska Community Center",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Chanhassen",
+        "slug": "chanhassen-mn"
+      },
+      {
+        "name": "Shakopee",
+        "slug": "shakopee-mn"
+      },
+      {
+        "name": "Victoria",
+        "slug": "victoria-mn"
+      },
+      {
+        "name": "Eden Prairie",
+        "slug": "eden-prairie-mn"
+      },
+      {
+        "name": "Waconia",
+        "slug": "waconia-mn"
+      }
+    ],
+    "city_type": "county-seat-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Cloquet",
+    "slug": "cloquet-mn",
+    "county": "Carlton County",
+    "population": 13000,
+    "zip_codes": [
+      "55720"
+    ],
+    "landmarks": [
+      "Saint Louis River",
+      "Pinehurst Park",
+      "Downtown Cloquet",
+      "Jahnsen Road Corridor",
+      "Carlton County Market Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Duluth",
+        "slug": "duluth-mn"
+      },
+      {
+        "name": "Hermantown",
+        "slug": "hermantown-mn"
+      },
+      {
+        "name": "Superior",
+        "slug": "superior-wi"
+      },
+      {
+        "name": "Proctor",
+        "slug": "proctor-mn"
+      },
+      {
+        "name": "Two Harbors",
+        "slug": "two-harbors-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "forests-and-rivers",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "arrowhead-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Columbia Heights",
+    "slug": "columbia-heights-mn",
+    "county": "Anoka County",
+    "population": 22500,
+    "zip_codes": [
+      "55421"
+    ],
+    "landmarks": [
+      "Sullivan Lake Park",
+      "Huset Park",
+      "Central Avenue Corridor",
+      "Murzyn Hall",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fridley",
+        "slug": "fridley-mn"
+      },
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      },
+      {
+        "name": "New Brighton",
+        "slug": "new-brighton-mn"
+      },
+      {
+        "name": "Hilltop",
+        "slug": "hilltop-mn"
+      },
+      {
+        "name": "Saint Anthony",
+        "slug": "saint-anthony-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Coon Rapids",
+    "slug": "coon-rapids-mn",
+    "county": "Anoka County",
+    "population": 64000,
+    "zip_codes": [
+      "55433",
+      "55448"
+    ],
+    "landmarks": [
+      "Bunker Hills Regional Park",
+      "Coon Rapids Dam",
+      "Riverdale Village",
+      "Mercy Hospital",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Blaine",
+        "slug": "blaine-mn"
+      },
+      {
+        "name": "Andover",
+        "slug": "andover-mn"
+      },
+      {
+        "name": "Anoka",
+        "slug": "anoka-mn"
+      },
+      {
+        "name": "Champlin",
+        "slug": "champlin-mn"
+      },
+      {
+        "name": "Fridley",
+        "slug": "fridley-mn"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Cottage Grove",
+    "slug": "cottage-grove-mn",
+    "county": "Washington County",
+    "population": 40000,
+    "zip_codes": [
+      "55016"
+    ],
+    "landmarks": [
+      "Mississippi River",
+      "Cottage Grove Ravine Park",
+      "Kingston Park",
+      "City Hall",
+      "80th Street Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Woodbury",
+        "slug": "woodbury-mn"
+      },
+      {
+        "name": "Hastings",
+        "slug": "hastings-mn"
+      },
+      {
+        "name": "South Saint Paul",
+        "slug": "south-saint-paul-mn"
+      },
+      {
+        "name": "Newport",
+        "slug": "newport-mn"
+      },
+      {
+        "name": "Saint Paul Park",
+        "slug": "saint-paul-park-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "industrial-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Crystal",
+    "slug": "crystal-mn",
+    "county": "Hennepin County",
+    "population": 23000,
+    "zip_codes": [
+      "55422",
+      "55427",
+      "55428",
+      "55429"
+    ],
+    "landmarks": [
+      "Becker Park",
+      "Crystal Community Center",
+      "Welcome Park",
+      "Bassett Creek",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "New Hope",
+        "slug": "new-hope-mn"
+      },
+      {
+        "name": "Golden Valley",
+        "slug": "golden-valley-mn"
+      },
+      {
+        "name": "Brooklyn Center",
+        "slug": "brooklyn-center-mn"
+      },
+      {
+        "name": "Robbinsdale",
+        "slug": "robbinsdale-mn"
+      },
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Detroit Lakes",
+    "slug": "detroit-lakes-mn",
+    "county": "Becker County",
+    "population": 9800,
+    "zip_codes": [
+      "56501"
+    ],
+    "landmarks": [
+      "Detroit Lake",
+      "City Beach",
+      "Washington Park",
+      "Downtown Detroit Lakes",
+      "Becker County Museum"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Moorhead",
+        "slug": "moorhead-mn"
+      },
+      {
+        "name": "Bemidji",
+        "slug": "bemidji-mn"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-mn"
+      },
+      {
+        "name": "Fergus Falls",
+        "slug": "fergus-falls-mn"
+      },
+      {
+        "name": "Perham",
+        "slug": "perham-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northwest-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Duluth",
+    "slug": "duluth-mn",
+    "county": "Saint Louis County",
+    "population": 86500,
+    "zip_codes": [
+      "55802",
+      "55803",
+      "55804",
+      "55805",
+      "55806",
+      "55807",
+      "55811",
+      "55812"
+    ],
+    "landmarks": [
+      "Canal Park",
+      "Aerial Lift Bridge",
+      "Lake Superior",
+      "Enger Tower",
+      "University of Minnesota Duluth"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hermantown",
+        "slug": "hermantown-mn"
+      },
+      {
+        "name": "Cloquet",
+        "slug": "cloquet-mn"
+      },
+      {
+        "name": "Proctor",
+        "slug": "proctor-mn"
+      },
+      {
+        "name": "Superior",
+        "slug": "superior-wi"
+      },
+      {
+        "name": "Two Harbors",
+        "slug": "two-harbors-mn"
+      }
+    ],
+    "city_type": "major-city",
+    "climate_zone": "humid-continental",
+    "terrain": "great-lakes-shoreline",
+    "economy_type": "healthcare-education",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "arrowhead-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Eagan",
+    "slug": "eagan-mn",
+    "county": "Dakota County",
+    "population": 69000,
+    "zip_codes": [
+      "55121",
+      "55122",
+      "55123"
+    ],
+    "landmarks": [
+      "Minnesota Vikings Museum",
+      "Lebanon Hills Regional Park",
+      "Caponi Art Park",
+      "Central Park Commons",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Apple Valley",
+        "slug": "apple-valley-mn"
+      },
+      {
+        "name": "Burnsville",
+        "slug": "burnsville-mn"
+      },
+      {
+        "name": "Bloomington",
+        "slug": "bloomington-mn"
+      },
+      {
+        "name": "Mendota Heights",
+        "slug": "mendota-heights-mn"
+      },
+      {
+        "name": "Rosemount",
+        "slug": "rosemount-mn"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "East Bethel",
+    "slug": "east-bethel-mn",
+    "county": "Anoka County",
+    "population": 12500,
+    "zip_codes": [
+      "55011"
+    ],
+    "landmarks": [
+      "Cedar Creek Ecosystem Reserve",
+      "Booster Park",
+      "East Bethel City Hall",
+      "Andover Boulevard",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Andover",
+        "slug": "andover-mn"
+      },
+      {
+        "name": "Ham Lake",
+        "slug": "ham-lake-mn"
+      },
+      {
+        "name": "Saint Francis",
+        "slug": "saint-francis-mn"
+      },
+      {
+        "name": "Ramsey",
+        "slug": "ramsey-mn"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "woodlands-and-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "low-density-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Eden Prairie",
+    "slug": "eden-prairie-mn",
+    "county": "Hennepin County",
+    "population": 65000,
+    "zip_codes": [
+      "55344",
+      "55346",
+      "55347"
+    ],
+    "landmarks": [
+      "Purgatory Creek",
+      "Round Lake Park",
+      "Eden Prairie Center",
+      "Flying Cloud Airport",
+      "City Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Minnetonka",
+        "slug": "minnetonka-mn"
+      },
+      {
+        "name": "Chanhassen",
+        "slug": "chanhassen-mn"
+      },
+      {
+        "name": "Shakopee",
+        "slug": "shakopee-mn"
+      },
+      {
+        "name": "Bloomington",
+        "slug": "bloomington-mn"
+      },
+      {
+        "name": "Edina",
+        "slug": "edina-mn"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-hills",
+    "economy_type": "corporate-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Edina",
+    "slug": "edina-mn",
+    "county": "Hennepin County",
+    "population": 53500,
+    "zip_codes": [
+      "55410",
+      "55424",
+      "55435",
+      "55436",
+      "55439"
+    ],
+    "landmarks": [
+      "Southdale Center",
+      "Centennial Lakes Park",
+      "50th and France",
+      "Braemar Arena",
+      "Edina City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bloomington",
+        "slug": "bloomington-mn"
+      },
+      {
+        "name": "Eden Prairie",
+        "slug": "eden-prairie-mn"
+      },
+      {
+        "name": "Richfield",
+        "slug": "richfield-mn"
+      },
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      },
+      {
+        "name": "Minnetonka",
+        "slug": "minnetonka-mn"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Elk River",
+    "slug": "elk-river-mn",
+    "county": "Sherburne County",
+    "population": 27000,
+    "zip_codes": [
+      "55330"
+    ],
+    "landmarks": [
+      "Mississippi River",
+      "Lake Orono",
+      "Elk River YMCA",
+      "Downtown Elk River",
+      "Furniture and Things Community Event Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ramsey",
+        "slug": "ramsey-mn"
+      },
+      {
+        "name": "Otsego",
+        "slug": "otsego-mn"
+      },
+      {
+        "name": "Saint Michael",
+        "slug": "saint-michael-mn"
+      },
+      {
+        "name": "Monticello",
+        "slug": "monticello-mn"
+      },
+      {
+        "name": "Andover",
+        "slug": "andover-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "riverfront",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "northwest-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Fairmont",
+    "slug": "fairmont-mn",
+    "county": "Martin County",
+    "population": 10500,
+    "zip_codes": [
+      "56031"
+    ],
+    "landmarks": [
+      "Sisseton Lake",
+      "Fairmont Opera House",
+      "Downtown Fairmont",
+      "Gomsrud Park",
+      "Martin County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mankato",
+        "slug": "mankato-mn"
+      },
+      {
+        "name": "Albert Lea",
+        "slug": "albert-lea-mn"
+      },
+      {
+        "name": "Worthington",
+        "slug": "worthington-mn"
+      },
+      {
+        "name": "Austin",
+        "slug": "austin-mn"
+      },
+      {
+        "name": "Jackson",
+        "slug": "jackson-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southern-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Falcon Heights",
+    "slug": "falcon-heights-mn",
+    "county": "Ramsey County",
+    "population": 5600,
+    "zip_codes": [
+      "55108"
+    ],
+    "landmarks": [
+      "Minnesota State Fairgrounds",
+      "University of Minnesota St Paul Campus",
+      "Curtiss Field",
+      "Larpenteur Avenue",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Roseville",
+        "slug": "roseville-mn"
+      },
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      },
+      {
+        "name": "Lauderdale",
+        "slug": "lauderdale-mn"
+      },
+      {
+        "name": "Arden Hills",
+        "slug": "arden-hills-mn"
+      },
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "education-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Faribault",
+    "slug": "faribault-mn",
+    "county": "Rice County",
+    "population": 24500,
+    "zip_codes": [
+      "55021"
+    ],
+    "landmarks": [
+      "Rice County Courthouse",
+      "Cannon River",
+      "Shattuck-St Mary's School",
+      "Downtown Faribault",
+      "River Bend Nature Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Northfield",
+        "slug": "northfield-mn"
+      },
+      {
+        "name": "Owatonna",
+        "slug": "owatonna-mn"
+      },
+      {
+        "name": "Lakeville",
+        "slug": "lakeville-mn"
+      },
+      {
+        "name": "Albert Lea",
+        "slug": "albert-lea-mn"
+      },
+      {
+        "name": "Austin",
+        "slug": "austin-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Farmington",
+    "slug": "farmington-mn",
+    "county": "Dakota County",
+    "population": 24000,
+    "zip_codes": [
+      "55024"
+    ],
+    "landmarks": [
+      "Rambling River Park",
+      "Downtown Farmington",
+      "Schmitz-Maki Arena",
+      "City Hall",
+      "Heritage District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lakeville",
+        "slug": "lakeville-mn"
+      },
+      {
+        "name": "Rosemount",
+        "slug": "rosemount-mn"
+      },
+      {
+        "name": "Apple Valley",
+        "slug": "apple-valley-mn"
+      },
+      {
+        "name": "Northfield",
+        "slug": "northfield-mn"
+      },
+      {
+        "name": "Burnsville",
+        "slug": "burnsville-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Forest Lake",
+    "slug": "forest-lake-mn",
+    "county": "Washington County",
+    "population": 21000,
+    "zip_codes": [
+      "55025"
+    ],
+    "landmarks": [
+      "Forest Lake",
+      "Lakeside Memorial Park",
+      "Downtown Forest Lake",
+      "Ranger Memorial",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hugo",
+        "slug": "hugo-mn"
+      },
+      {
+        "name": "Lino Lakes",
+        "slug": "lino-lakes-mn"
+      },
+      {
+        "name": "Wyoming",
+        "slug": "wyoming-mn"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-mn"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-mn"
+      }
+    ],
+    "city_type": "lake-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-region",
+    "economy_type": "retail-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northeast-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Fridley",
+    "slug": "fridley-mn",
+    "county": "Anoka County",
+    "population": 28500,
+    "zip_codes": [
+      "55421",
+      "55432"
+    ],
+    "landmarks": [
+      "Mississippi River",
+      "Moore Lake Park",
+      "Springbrook Nature Center",
+      "Fridley Civic Campus",
+      "University Avenue Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Columbia Heights",
+        "slug": "columbia-heights-mn"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-mn"
+      },
+      {
+        "name": "Coon Rapids",
+        "slug": "coon-rapids-mn"
+      },
+      {
+        "name": "New Brighton",
+        "slug": "new-brighton-mn"
+      },
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "riverfront",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Golden Valley",
+    "slug": "golden-valley-mn",
+    "county": "Hennepin County",
+    "population": 22500,
+    "zip_codes": [
+      "55416",
+      "55422",
+      "55426",
+      "55427"
+    ],
+    "landmarks": [
+      "Theodore Wirth Park",
+      "Brookview Golf Course",
+      "Bassett Creek",
+      "Golden Valley City Hall",
+      "General Mills Headquarters"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      },
+      {
+        "name": "Crystal",
+        "slug": "crystal-mn"
+      },
+      {
+        "name": "New Hope",
+        "slug": "new-hope-mn"
+      },
+      {
+        "name": "St Louis Park",
+        "slug": "saint-louis-park-mn"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "corporate-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Ham Lake",
+    "slug": "ham-lake-mn",
+    "county": "Anoka County",
+    "population": 17000,
+    "zip_codes": [
+      "55304"
+    ],
+    "landmarks": [
+      "Ham Lake Park",
+      "Andover Boulevard Corridor",
+      "Ham Lake City Hall",
+      "Cedar Creek Area",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Andover",
+        "slug": "andover-mn"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-mn"
+      },
+      {
+        "name": "East Bethel",
+        "slug": "east-bethel-mn"
+      },
+      {
+        "name": "Lino Lakes",
+        "slug": "lino-lakes-mn"
+      },
+      {
+        "name": "Forest Lake",
+        "slug": "forest-lake-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "woodlands-and-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "low-density-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Hastings",
+    "slug": "hastings-mn",
+    "county": "Dakota County",
+    "population": 23500,
+    "zip_codes": [
+      "55033"
+    ],
+    "landmarks": [
+      "Mississippi River",
+      "Vermillion Falls",
+      "Levee Park",
+      "Historic Downtown Hastings",
+      "Dakota County Government Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cottage Grove",
+        "slug": "cottage-grove-mn"
+      },
+      {
+        "name": "Rosemount",
+        "slug": "rosemount-mn"
+      },
+      {
+        "name": "Red Wing",
+        "slug": "red-wing-mn"
+      },
+      {
+        "name": "Woodbury",
+        "slug": "woodbury-mn"
+      },
+      {
+        "name": "South Saint Paul",
+        "slug": "south-saint-paul-mn"
+      }
+    ],
+    "city_type": "river-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "government-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southeast-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Hermantown",
+    "slug": "hermantown-mn",
+    "county": "Saint Louis County",
+    "population": 10500,
+    "zip_codes": [
+      "55811"
+    ],
+    "landmarks": [
+      "Miller Hill Mall Area",
+      "Hermantown City Hall",
+      "Fichtner Park",
+      "Maple Grove Road Corridor",
+      "Community Recreation Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Duluth",
+        "slug": "duluth-mn"
+      },
+      {
+        "name": "Cloquet",
+        "slug": "cloquet-mn"
+      },
+      {
+        "name": "Proctor",
+        "slug": "proctor-mn"
+      },
+      {
+        "name": "Superior",
+        "slug": "superior-wi"
+      },
+      {
+        "name": "Two Harbors",
+        "slug": "two-harbors-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "forests-and-hills",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "arrowhead-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Hibbing",
+    "slug": "hibbing-mn",
+    "county": "Saint Louis County",
+    "population": 16000,
+    "zip_codes": [
+      "55746"
+    ],
+    "landmarks": [
+      "Hull Rust Mine View",
+      "Hibbing Memorial Building",
+      "Downtown Hibbing",
+      "Bennett Park",
+      "Iron Range Region"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Virginia",
+        "slug": "virginia-mn"
+      },
+      {
+        "name": "Duluth",
+        "slug": "duluth-mn"
+      },
+      {
+        "name": "Grand Rapids",
+        "slug": "grand-rapids-mn"
+      },
+      {
+        "name": "Eveleth",
+        "slug": "eveleth-mn"
+      },
+      {
+        "name": "Chisholm",
+        "slug": "chisholm-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "mining-region",
+    "economy_type": "mining-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "iron-range-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Hopkins",
+    "slug": "hopkins-mn",
+    "county": "Hennepin County",
+    "population": 19000,
+    "zip_codes": [
+      "55343",
+      "55305"
+    ],
+    "landmarks": [
+      "Downtown Hopkins",
+      "Shady Oak Lake",
+      "Central Park",
+      "Mainstreet District",
+      "Hopkins Center for the Arts"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Minnetonka",
+        "slug": "minnetonka-mn"
+      },
+      {
+        "name": "Saint Louis Park",
+        "slug": "saint-louis-park-mn"
+      },
+      {
+        "name": "Eden Prairie",
+        "slug": "eden-prairie-mn"
+      },
+      {
+        "name": "Edina",
+        "slug": "edina-mn"
+      },
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Hugo",
+    "slug": "hugo-mn",
+    "county": "Washington County",
+    "population": 16000,
+    "zip_codes": [
+      "55038"
+    ],
+    "landmarks": [
+      "Oneka Ridge Golf Course",
+      "Rice Lake",
+      "Hugo City Hall",
+      "Lions Volunteer Park",
+      "Frenchman Road Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Forest Lake",
+        "slug": "forest-lake-mn"
+      },
+      {
+        "name": "Lino Lakes",
+        "slug": "lino-lakes-mn"
+      },
+      {
+        "name": "White Bear Lake",
+        "slug": "white-bear-lake-mn"
+      },
+      {
+        "name": "Centerville",
+        "slug": "centerville-mn"
+      },
+      {
+        "name": "Vadnais Heights",
+        "slug": "vadnais-heights-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "low-density-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "northeast-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Hutchinson",
+    "slug": "hutchinson-mn",
+    "county": "McLeod County",
+    "population": 14500,
+    "zip_codes": [
+      "55350"
+    ],
+    "landmarks": [
+      "Crow River",
+      "Downtown Hutchinson",
+      "Riverside Park",
+      "McLeod County Fairgrounds",
+      "Hutchinson Center for the Arts"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Buffalo",
+        "slug": "buffalo-mn"
+      },
+      {
+        "name": "Willmar",
+        "slug": "willmar-mn"
+      },
+      {
+        "name": "Saint Michael",
+        "slug": "saint-michael-mn"
+      },
+      {
+        "name": "Delano",
+        "slug": "delano-mn"
+      },
+      {
+        "name": "Mankato",
+        "slug": "mankato-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Inver Grove Heights",
+    "slug": "inver-grove-heights-mn",
+    "county": "Dakota County",
+    "population": 36500,
+    "zip_codes": [
+      "55076",
+      "55077"
+    ],
+    "landmarks": [
+      "Mississippi River",
+      "Rock Island Swing Bridge",
+      "Salem Hills Park",
+      "Arbor Pointe Golf Club",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "South Saint Paul",
+        "slug": "south-saint-paul-mn"
+      },
+      {
+        "name": "Eagan",
+        "slug": "eagan-mn"
+      },
+      {
+        "name": "Rosemount",
+        "slug": "rosemount-mn"
+      },
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      },
+      {
+        "name": "Cottage Grove",
+        "slug": "cottage-grove-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "industrial-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Lakeville",
+    "slug": "lakeville-mn",
+    "county": "Dakota County",
+    "population": 78000,
+    "zip_codes": [
+      "55044"
+    ],
+    "landmarks": [
+      "Lake Marion",
+      "Antlers Park",
+      "Downtown Lakeville",
+      "Casperson Park",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Burnsville",
+        "slug": "burnsville-mn"
+      },
+      {
+        "name": "Apple Valley",
+        "slug": "apple-valley-mn"
+      },
+      {
+        "name": "Farmington",
+        "slug": "farmington-mn"
+      },
+      {
+        "name": "Rosemount",
+        "slug": "rosemount-mn"
+      },
+      {
+        "name": "Prior Lake",
+        "slug": "prior-lake-mn"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Lino Lakes",
+    "slug": "lino-lakes-mn",
+    "county": "Anoka County",
+    "population": 22500,
+    "zip_codes": [
+      "55014",
+      "55038"
+    ],
+    "landmarks": [
+      "Rice Creek Chain of Lakes Park",
+      "Reshanau Lake",
+      "Lino Lakes City Hall",
+      "Rice Creek Trails",
+      "Community Recreation Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hugo",
+        "slug": "hugo-mn"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-mn"
+      },
+      {
+        "name": "Ham Lake",
+        "slug": "ham-lake-mn"
+      },
+      {
+        "name": "Centerville",
+        "slug": "centerville-mn"
+      },
+      {
+        "name": "Forest Lake",
+        "slug": "forest-lake-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-woodlands",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Little Canada",
+    "slug": "little-canada-mn",
+    "county": "Ramsey County",
+    "population": 11000,
+    "zip_codes": [
+      "55117"
+    ],
+    "landmarks": [
+      "Spooner Park",
+      "Gervais Lake",
+      "Little Canada City Hall",
+      "Rice Street Corridor",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Roseville",
+        "slug": "roseville-mn"
+      },
+      {
+        "name": "Vadnais Heights",
+        "slug": "vadnais-heights-mn"
+      },
+      {
+        "name": "Maplewood",
+        "slug": "maplewood-mn"
+      },
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      },
+      {
+        "name": "Shoreview",
+        "slug": "shoreview-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Mankato",
+    "slug": "mankato-mn",
+    "county": "Blue Earth County",
+    "population": 45500,
+    "zip_codes": [
+      "56001",
+      "56003"
+    ],
+    "landmarks": [
+      "Minnesota State University",
+      "Riverfront Park",
+      "Sibley Park",
+      "Downtown Mankato",
+      "Minnesota River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "North Mankato",
+        "slug": "north-mankato-mn"
+      },
+      {
+        "name": "Saint Peter",
+        "slug": "saint-peter-mn"
+      },
+      {
+        "name": "Faribault",
+        "slug": "faribault-mn"
+      },
+      {
+        "name": "Owatonna",
+        "slug": "owatonna-mn"
+      },
+      {
+        "name": "Fairmont",
+        "slug": "fairmont-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "southern-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Maple Grove",
+    "slug": "maple-grove-mn",
+    "county": "Hennepin County",
+    "population": 71000,
+    "zip_codes": [
+      "55311",
+      "55369"
+    ],
+    "landmarks": [
+      "Arbor Lakes",
+      "Elm Creek Park Reserve",
+      "Maple Grove Community Center",
+      "Fish Lake",
+      "Town Green"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Brooklyn Park",
+        "slug": "brooklyn-park-mn"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-mn"
+      },
+      {
+        "name": "Champlin",
+        "slug": "champlin-mn"
+      },
+      {
+        "name": "Osseo",
+        "slug": "osseo-mn"
+      },
+      {
+        "name": "Rogers",
+        "slug": "rogers-mn"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Maplewood",
+    "slug": "maplewood-mn",
+    "county": "Ramsey County",
+    "population": 42000,
+    "zip_codes": [
+      "55109",
+      "55117",
+      "55119"
+    ],
+    "landmarks": [
+      "Maplewood Mall",
+      "Battle Creek Regional Park",
+      "Keller Lake",
+      "Maplewood Nature Center",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      },
+      {
+        "name": "Woodbury",
+        "slug": "woodbury-mn"
+      },
+      {
+        "name": "Little Canada",
+        "slug": "little-canada-mn"
+      },
+      {
+        "name": "North Saint Paul",
+        "slug": "north-saint-paul-mn"
+      },
+      {
+        "name": "Oakdale",
+        "slug": "oakdale-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Marshall",
+    "slug": "marshall-mn",
+    "county": "Lyon County",
+    "population": 14000,
+    "zip_codes": [
+      "56258"
+    ],
+    "landmarks": [
+      "Southwest Minnesota State University",
+      "Independence Park",
+      "Downtown Marshall",
+      "Red Baron Arena",
+      "Lyon County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Willmar",
+        "slug": "willmar-mn"
+      },
+      {
+        "name": "Mankato",
+        "slug": "mankato-mn"
+      },
+      {
+        "name": "Worthington",
+        "slug": "worthington-mn"
+      },
+      {
+        "name": "Fairmont",
+        "slug": "fairmont-mn"
+      },
+      {
+        "name": "New Ulm",
+        "slug": "new-ulm-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "prairie-plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southwest-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Mendota Heights",
+    "slug": "mendota-heights-mn",
+    "county": "Dakota County",
+    "population": 12500,
+    "zip_codes": [
+      "55118",
+      "55120"
+    ],
+    "landmarks": [
+      "Fort Snelling State Park",
+      "Mendota Bridge",
+      "Mississippi River",
+      "Friendly Hills Park",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Eagan",
+        "slug": "eagan-mn"
+      },
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      },
+      {
+        "name": "West Saint Paul",
+        "slug": "west-saint-paul-mn"
+      },
+      {
+        "name": "Inver Grove Heights",
+        "slug": "inver-grove-heights-mn"
+      },
+      {
+        "name": "Bloomington",
+        "slug": "bloomington-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Minneapolis",
+    "slug": "minneapolis-mn",
+    "county": "Hennepin County",
+    "population": 430000,
+    "zip_codes": [
+      "55401",
+      "55402",
+      "55403",
+      "55404",
+      "55405",
+      "55406",
+      "55407",
+      "55408",
+      "55409",
+      "55410"
+    ],
+    "landmarks": [
+      "Target Field",
+      "US Bank Stadium",
+      "Minnehaha Falls",
+      "Chain of Lakes",
+      "Nicollet Mall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      },
+      {
+        "name": "Bloomington",
+        "slug": "bloomington-mn"
+      },
+      {
+        "name": "Edina",
+        "slug": "edina-mn"
+      },
+      {
+        "name": "Golden Valley",
+        "slug": "golden-valley-mn"
+      },
+      {
+        "name": "Richfield",
+        "slug": "richfield-mn"
+      }
+    ],
+    "city_type": "major-city",
+    "climate_zone": "humid-continental",
+    "terrain": "riverfront",
+    "economy_type": "finance-technology",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Minnetonka",
+    "slug": "minnetonka-mn",
+    "county": "Hennepin County",
+    "population": 54000,
+    "zip_codes": [
+      "55305",
+      "55343",
+      "55345"
+    ],
+    "landmarks": [
+      "Lake Minnetonka",
+      "Ridgedale Center",
+      "Minnetonka Civic Center",
+      "Purgatory Park",
+      "Shady Oak Lake"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hopkins",
+        "slug": "hopkins-mn"
+      },
+      {
+        "name": "Eden Prairie",
+        "slug": "eden-prairie-mn"
+      },
+      {
+        "name": "Edina",
+        "slug": "edina-mn"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-mn"
+      },
+      {
+        "name": "Wayzata",
+        "slug": "wayzata-mn"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-hills",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Moorhead",
+    "slug": "moorhead-mn",
+    "county": "Clay County",
+    "population": 45000,
+    "zip_codes": [
+      "56560"
+    ],
+    "landmarks": [
+      "Minnesota State University Moorhead",
+      "Red River",
+      "Bluestem Amphitheater",
+      "Downtown Moorhead",
+      "Hjemkomst Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fargo",
+        "slug": "fargo-nd"
+      },
+      {
+        "name": "West Fargo",
+        "slug": "west-fargo-nd"
+      },
+      {
+        "name": "Dilworth",
+        "slug": "dilworth-mn"
+      },
+      {
+        "name": "Detroit Lakes",
+        "slug": "detroit-lakes-mn"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "red-river-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "New Brighton",
+    "slug": "new-brighton-mn",
+    "county": "Ramsey County",
+    "population": 23500,
+    "zip_codes": [
+      "55112"
+    ],
+    "landmarks": [
+      "Long Lake Regional Park",
+      "Silver Lake Village",
+      "Freedom Park",
+      "New Brighton Community Center",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Arden Hills",
+        "slug": "arden-hills-mn"
+      },
+      {
+        "name": "Roseville",
+        "slug": "roseville-mn"
+      },
+      {
+        "name": "Fridley",
+        "slug": "fridley-mn"
+      },
+      {
+        "name": "Shoreview",
+        "slug": "shoreview-mn"
+      },
+      {
+        "name": "Columbia Heights",
+        "slug": "columbia-heights-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "New Hope",
+    "slug": "new-hope-mn",
+    "county": "Hennepin County",
+    "population": 21500,
+    "zip_codes": [
+      "55427",
+      "55428"
+    ],
+    "landmarks": [
+      "Civic Center Park",
+      "New Hope Aquatic Park",
+      "Northwood Park",
+      "Bass Lake Road Corridor",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Crystal",
+        "slug": "crystal-mn"
+      },
+      {
+        "name": "Golden Valley",
+        "slug": "golden-valley-mn"
+      },
+      {
+        "name": "Brooklyn Center",
+        "slug": "brooklyn-center-mn"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-mn"
+      },
+      {
+        "name": "Robbinsdale",
+        "slug": "robbinsdale-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Northfield",
+    "slug": "northfield-mn",
+    "county": "Rice County",
+    "population": 21000,
+    "zip_codes": [
+      "55057"
+    ],
+    "landmarks": [
+      "Carleton College",
+      "St Olaf College",
+      "Cannon River",
+      "Historic Downtown Northfield",
+      "Bridge Square"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Faribault",
+        "slug": "faribault-mn"
+      },
+      {
+        "name": "Lakeville",
+        "slug": "lakeville-mn"
+      },
+      {
+        "name": "Farmington",
+        "slug": "farmington-mn"
+      },
+      {
+        "name": "Owatonna",
+        "slug": "owatonna-mn"
+      },
+      {
+        "name": "Mankato",
+        "slug": "mankato-mn"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Oakdale",
+    "slug": "oakdale-mn",
+    "county": "Washington County",
+    "population": 29000,
+    "zip_codes": [
+      "55128"
+    ],
+    "landmarks": [
+      "Oak Marsh Golf Course",
+      "Tanners Lake",
+      "Oakdale Nature Preserve",
+      "City Hall",
+      "Hadley Avenue Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Woodbury",
+        "slug": "woodbury-mn"
+      },
+      {
+        "name": "Maplewood",
+        "slug": "maplewood-mn"
+      },
+      {
+        "name": "North Saint Paul",
+        "slug": "north-saint-paul-mn"
+      },
+      {
+        "name": "Lake Elmo",
+        "slug": "lake-elmo-mn"
+      },
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "east-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Owatonna",
+    "slug": "owatonna-mn",
+    "county": "Steele County",
+    "population": 27000,
+    "zip_codes": [
+      "55060"
+    ],
+    "landmarks": [
+      "Mineral Springs Park",
+      "Steele County Courthouse",
+      "Downtown Owatonna",
+      "Kaplan's Woods",
+      "Cabela's Retail Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Faribault",
+        "slug": "faribault-mn"
+      },
+      {
+        "name": "Northfield",
+        "slug": "northfield-mn"
+      },
+      {
+        "name": "Albert Lea",
+        "slug": "albert-lea-mn"
+      },
+      {
+        "name": "Austin",
+        "slug": "austin-mn"
+      },
+      {
+        "name": "Mankato",
+        "slug": "mankato-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Plymouth",
+    "slug": "plymouth-mn",
+    "county": "Hennepin County",
+    "population": 82000,
+    "zip_codes": [
+      "55441",
+      "55442",
+      "55446",
+      "55447"
+    ],
+    "landmarks": [
+      "French Regional Park",
+      "Medicine Lake",
+      "Plymouth Creek Center",
+      "Clifton E French Regional Park",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Maple Grove",
+        "slug": "maple-grove-mn"
+      },
+      {
+        "name": "Minnetonka",
+        "slug": "minnetonka-mn"
+      },
+      {
+        "name": "New Hope",
+        "slug": "new-hope-mn"
+      },
+      {
+        "name": "Golden Valley",
+        "slug": "golden-valley-mn"
+      },
+      {
+        "name": "Wayzata",
+        "slug": "wayzata-mn"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-hills",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Prior Lake",
+    "slug": "prior-lake-mn",
+    "county": "Scott County",
+    "population": 29000,
+    "zip_codes": [
+      "55372"
+    ],
+    "landmarks": [
+      "Prior Lake",
+      "Mystic Lake Casino",
+      "Spring Lake Park",
+      "Downtown Prior Lake",
+      "Lakefront Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Savage",
+        "slug": "savage-mn"
+      },
+      {
+        "name": "Shakopee",
+        "slug": "shakopee-mn"
+      },
+      {
+        "name": "Lakeville",
+        "slug": "lakeville-mn"
+      },
+      {
+        "name": "Burnsville",
+        "slug": "burnsville-mn"
+      },
+      {
+        "name": "Chaska",
+        "slug": "chaska-mn"
+      }
+    ],
+    "city_type": "lake-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "southwest-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Ramsey",
+    "slug": "ramsey-mn",
+    "county": "Anoka County",
+    "population": 28000,
+    "zip_codes": [
+      "55303"
+    ],
+    "landmarks": [
+      "Rum River",
+      "Ramsey Municipal Center",
+      "The Draw Park",
+      "Ramsey Town Center",
+      "Riverfront Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Anoka",
+        "slug": "anoka-mn"
+      },
+      {
+        "name": "Andover",
+        "slug": "andover-mn"
+      },
+      {
+        "name": "Elk River",
+        "slug": "elk-river-mn"
+      },
+      {
+        "name": "Champlin",
+        "slug": "champlin-mn"
+      },
+      {
+        "name": "Coon Rapids",
+        "slug": "coon-rapids-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "riverfront",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "northwest-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Red Wing",
+    "slug": "red-wing-mn",
+    "county": "Goodhue County",
+    "population": 16500,
+    "zip_codes": [
+      "55066"
+    ],
+    "landmarks": [
+      "Barn Bluff",
+      "Mississippi River",
+      "Red Wing Shoe Museum",
+      "Downtown Red Wing",
+      "Colvill Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hastings",
+        "slug": "hastings-mn"
+      },
+      {
+        "name": "Winona",
+        "slug": "winona-mn"
+      },
+      {
+        "name": "Lake City",
+        "slug": "lake-city-mn"
+      },
+      {
+        "name": "Cottage Grove",
+        "slug": "cottage-grove-mn"
+      },
+      {
+        "name": "Northfield",
+        "slug": "northfield-mn"
+      }
+    ],
+    "city_type": "river-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "manufacturing-tourism",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southeast-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Richfield",
+    "slug": "richfield-mn",
+    "county": "Hennepin County",
+    "population": 37000,
+    "zip_codes": [
+      "55423"
+    ],
+    "landmarks": [
+      "Wood Lake Nature Center",
+      "Veterans Park",
+      "Richfield Lake",
+      "City Hall",
+      "66th Street Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bloomington",
+        "slug": "bloomington-mn"
+      },
+      {
+        "name": "Edina",
+        "slug": "edina-mn"
+      },
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      },
+      {
+        "name": "Saint Louis Park",
+        "slug": "saint-louis-park-mn"
+      },
+      {
+        "name": "Eagan",
+        "slug": "eagan-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Rochester",
+    "slug": "rochester-mn",
+    "county": "Olmsted County",
+    "population": 123000,
+    "zip_codes": [
+      "55901",
+      "55902",
+      "55904",
+      "55906"
+    ],
+    "landmarks": [
+      "Mayo Clinic",
+      "Soldiers Field",
+      "Silver Lake Park",
+      "Downtown Rochester",
+      "Apache Mall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Owatonna",
+        "slug": "owatonna-mn"
+      },
+      {
+        "name": "Winona",
+        "slug": "winona-mn"
+      },
+      {
+        "name": "Austin",
+        "slug": "austin-mn"
+      },
+      {
+        "name": "Faribault",
+        "slug": "faribault-mn"
+      },
+      {
+        "name": "Red Wing",
+        "slug": "red-wing-mn"
+      }
+    ],
+    "city_type": "major-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "southeast-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Rosemount",
+    "slug": "rosemount-mn",
+    "county": "Dakota County",
+    "population": 28000,
+    "zip_codes": [
+      "55068"
+    ],
+    "landmarks": [
+      "UMore Park",
+      "Central Park",
+      "Rosemount Community Center",
+      "Leprechaun Days Grounds",
+      "Downtown Rosemount"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Apple Valley",
+        "slug": "apple-valley-mn"
+      },
+      {
+        "name": "Lakeville",
+        "slug": "lakeville-mn"
+      },
+      {
+        "name": "Farmington",
+        "slug": "farmington-mn"
+      },
+      {
+        "name": "Eagan",
+        "slug": "eagan-mn"
+      },
+      {
+        "name": "Inver Grove Heights",
+        "slug": "inver-grove-heights-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "south-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Roseville",
+    "slug": "roseville-mn",
+    "county": "Ramsey County",
+    "population": 36000,
+    "zip_codes": [
+      "55113"
+    ],
+    "landmarks": [
+      "Rosedale Center",
+      "Central Park",
+      "Harriet Alexander Nature Center",
+      "Roseville Oval",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      },
+      {
+        "name": "New Brighton",
+        "slug": "new-brighton-mn"
+      },
+      {
+        "name": "Arden Hills",
+        "slug": "arden-hills-mn"
+      },
+      {
+        "name": "Little Canada",
+        "slug": "little-canada-mn"
+      },
+      {
+        "name": "Falcon Heights",
+        "slug": "falcon-heights-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Saint Cloud",
+    "slug": "saint-cloud-mn",
+    "county": "Stearns County",
+    "population": 71000,
+    "zip_codes": [
+      "56301",
+      "56303",
+      "56304"
+    ],
+    "landmarks": [
+      "St. Cloud State University",
+      "Munsinger Gardens",
+      "Mississippi River",
+      "Lake George",
+      "Crossroads Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sartell",
+        "slug": "sartell-mn"
+      },
+      {
+        "name": "Waite Park",
+        "slug": "waite-park-mn"
+      },
+      {
+        "name": "Saint Joseph",
+        "slug": "saint-joseph-mn"
+      },
+      {
+        "name": "Monticello",
+        "slug": "monticello-mn"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "riverfront",
+    "economy_type": "education-healthcare",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Saint Louis Park",
+    "slug": "saint-louis-park-mn",
+    "county": "Hennepin County",
+    "population": 51000,
+    "zip_codes": [
+      "55416",
+      "55426"
+    ],
+    "landmarks": [
+      "West End",
+      "Bde Maka Ska Area",
+      "Aquila Park",
+      "Louisiana Oaks Park",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      },
+      {
+        "name": "Golden Valley",
+        "slug": "golden-valley-mn"
+      },
+      {
+        "name": "Hopkins",
+        "slug": "hopkins-mn"
+      },
+      {
+        "name": "Edina",
+        "slug": "edina-mn"
+      },
+      {
+        "name": "Minnetonka",
+        "slug": "minnetonka-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "professional-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Saint Michael",
+    "slug": "saint-michael-mn",
+    "county": "Wright County",
+    "population": 21000,
+    "zip_codes": [
+      "55376"
+    ],
+    "landmarks": [
+      "Crow-Hassan Park Reserve",
+      "Town Center Park",
+      "St Michael City Center",
+      "Beebe Lake",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Albertville",
+        "slug": "albertville-mn"
+      },
+      {
+        "name": "Otsego",
+        "slug": "otsego-mn"
+      },
+      {
+        "name": "Elk River",
+        "slug": "elk-river-mn"
+      },
+      {
+        "name": "Buffalo",
+        "slug": "buffalo-mn"
+      },
+      {
+        "name": "Monticello",
+        "slug": "monticello-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "northwest-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Saint Paul",
+    "slug": "saint-paul-mn",
+    "county": "Ramsey County",
+    "population": 310000,
+    "zip_codes": [
+      "55101",
+      "55102",
+      "55104",
+      "55105",
+      "55106",
+      "55107",
+      "55116"
+    ],
+    "landmarks": [
+      "Minnesota State Capitol",
+      "Xcel Energy Center",
+      "Como Park Zoo",
+      "Science Museum of Minnesota",
+      "Mississippi River"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      },
+      {
+        "name": "Roseville",
+        "slug": "roseville-mn"
+      },
+      {
+        "name": "Maplewood",
+        "slug": "maplewood-mn"
+      },
+      {
+        "name": "West Saint Paul",
+        "slug": "west-saint-paul-mn"
+      },
+      {
+        "name": "Mendota Heights",
+        "slug": "mendota-heights-mn"
+      }
+    ],
+    "city_type": "major-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "government-finance",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Sartell",
+    "slug": "sartell-mn",
+    "county": "Stearns County",
+    "population": 21000,
+    "zip_codes": [
+      "56377"
+    ],
+    "landmarks": [
+      "Mississippi River",
+      "Pinecone Regional Park",
+      "Sartell Community Center",
+      "Watab Park",
+      "Downtown Sartell"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Saint Cloud",
+        "slug": "saint-cloud-mn"
+      },
+      {
+        "name": "Waite Park",
+        "slug": "waite-park-mn"
+      },
+      {
+        "name": "Saint Joseph",
+        "slug": "saint-joseph-mn"
+      },
+      {
+        "name": "Rice",
+        "slug": "rice-mn"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "riverfront",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Savage",
+    "slug": "savage-mn",
+    "county": "Scott County",
+    "population": 33000,
+    "zip_codes": [
+      "55378"
+    ],
+    "landmarks": [
+      "Murphy-Hanrehan Park",
+      "Savage Sports Center",
+      "Community Park",
+      "Downtown Savage",
+      "Credit River Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Prior Lake",
+        "slug": "prior-lake-mn"
+      },
+      {
+        "name": "Burnsville",
+        "slug": "burnsville-mn"
+      },
+      {
+        "name": "Shakopee",
+        "slug": "shakopee-mn"
+      },
+      {
+        "name": "Lakeville",
+        "slug": "lakeville-mn"
+      },
+      {
+        "name": "Bloomington",
+        "slug": "bloomington-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "southwest-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Shakopee",
+    "slug": "shakopee-mn",
+    "county": "Scott County",
+    "population": 46000,
+    "zip_codes": [
+      "55379"
+    ],
+    "landmarks": [
+      "Valleyfair",
+      "Canterbury Park",
+      "Mystic Lake Area",
+      "Minnesota River",
+      "Downtown Shakopee"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Prior Lake",
+        "slug": "prior-lake-mn"
+      },
+      {
+        "name": "Savage",
+        "slug": "savage-mn"
+      },
+      {
+        "name": "Chaska",
+        "slug": "chaska-mn"
+      },
+      {
+        "name": "Chanhassen",
+        "slug": "chanhassen-mn"
+      },
+      {
+        "name": "Eden Prairie",
+        "slug": "eden-prairie-mn"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "tourism-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "southwest-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Shoreview",
+    "slug": "shoreview-mn",
+    "county": "Ramsey County",
+    "population": 28000,
+    "zip_codes": [
+      "55126"
+    ],
+    "landmarks": [
+      "Snail Lake Regional Park",
+      "Island Lake",
+      "Shoreview Community Center",
+      "Rice Creek Trail",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Arden Hills",
+        "slug": "arden-hills-mn"
+      },
+      {
+        "name": "New Brighton",
+        "slug": "new-brighton-mn"
+      },
+      {
+        "name": "Roseville",
+        "slug": "roseville-mn"
+      },
+      {
+        "name": "Little Canada",
+        "slug": "little-canada-mn"
+      },
+      {
+        "name": "Vadnais Heights",
+        "slug": "vadnais-heights-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "South Saint Paul",
+    "slug": "south-saint-paul-mn",
+    "county": "Dakota County",
+    "population": 21000,
+    "zip_codes": [
+      "55075"
+    ],
+    "landmarks": [
+      "Kaposia Landing",
+      "Mississippi River",
+      "Lorraine Park",
+      "Downtown South Saint Paul",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      },
+      {
+        "name": "Inver Grove Heights",
+        "slug": "inver-grove-heights-mn"
+      },
+      {
+        "name": "West Saint Paul",
+        "slug": "west-saint-paul-mn"
+      },
+      {
+        "name": "Cottage Grove",
+        "slug": "cottage-grove-mn"
+      },
+      {
+        "name": "Mendota Heights",
+        "slug": "mendota-heights-mn"
+      }
+    ],
+    "city_type": "river-city",
+    "climate_zone": "humid-continental",
+    "terrain": "riverfront",
+    "economy_type": "industrial-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Stillwater",
+    "slug": "stillwater-mn",
+    "county": "Washington County",
+    "population": 20000,
+    "zip_codes": [
+      "55082"
+    ],
+    "landmarks": [
+      "Historic Lift Bridge",
+      "Saint Croix River",
+      "Lowell Park",
+      "Downtown Stillwater",
+      "Brown's Creek Trail"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Oakdale",
+        "slug": "oakdale-mn"
+      },
+      {
+        "name": "Woodbury",
+        "slug": "woodbury-mn"
+      },
+      {
+        "name": "Lake Elmo",
+        "slug": "lake-elmo-mn"
+      },
+      {
+        "name": "Hudson",
+        "slug": "hudson-wi"
+      },
+      {
+        "name": "River Falls",
+        "slug": "river-falls-wi"
+      }
+    ],
+    "city_type": "historic-river-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "east-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Vadnais Heights",
+    "slug": "vadnais-heights-mn",
+    "county": "Ramsey County",
+    "population": 13500,
+    "zip_codes": [
+      "55127"
+    ],
+    "landmarks": [
+      "Vadnais-Snail Lakes Regional Park",
+      "Vadnais Lake",
+      "City Hall",
+      "Koehler Road Corridor",
+      "Community Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Shoreview",
+        "slug": "shoreview-mn"
+      },
+      {
+        "name": "Little Canada",
+        "slug": "little-canada-mn"
+      },
+      {
+        "name": "White Bear Lake",
+        "slug": "white-bear-lake-mn"
+      },
+      {
+        "name": "Hugo",
+        "slug": "hugo-mn"
+      },
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Virginia",
+    "slug": "virginia-mn",
+    "county": "Saint Louis County",
+    "population": 8500,
+    "zip_codes": [
+      "55792"
+    ],
+    "landmarks": [
+      "Olcott Park",
+      "Mesabi Trail",
+      "Downtown Virginia",
+      "Miner's Memorial",
+      "Iron Range Region"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hibbing",
+        "slug": "hibbing-mn"
+      },
+      {
+        "name": "Eveleth",
+        "slug": "eveleth-mn"
+      },
+      {
+        "name": "Mountain Iron",
+        "slug": "mountain-iron-mn"
+      },
+      {
+        "name": "Duluth",
+        "slug": "duluth-mn"
+      },
+      {
+        "name": "Grand Rapids",
+        "slug": "grand-rapids-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "mining-region",
+    "economy_type": "mining-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "iron-range-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Waite Park",
+    "slug": "waite-park-mn",
+    "county": "Stearns County",
+    "population": 8200,
+    "zip_codes": [
+      "56387"
+    ],
+    "landmarks": [
+      "Crossroads Center",
+      "Lions Park",
+      "Waite Park City Hall",
+      "Division Street Corridor",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Saint Cloud",
+        "slug": "saint-cloud-mn"
+      },
+      {
+        "name": "Sartell",
+        "slug": "sartell-mn"
+      },
+      {
+        "name": "Saint Joseph",
+        "slug": "saint-joseph-mn"
+      },
+      {
+        "name": "Rice",
+        "slug": "rice-mn"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "retail-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "West Saint Paul",
+    "slug": "west-saint-paul-mn",
+    "county": "Dakota County",
+    "population": 21000,
+    "zip_codes": [
+      "55118"
+    ],
+    "landmarks": [
+      "Thompson County Park",
+      "Dodge Nature Center",
+      "City Hall",
+      "Robert Street Corridor",
+      "Marthaler Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      },
+      {
+        "name": "South Saint Paul",
+        "slug": "south-saint-paul-mn"
+      },
+      {
+        "name": "Mendota Heights",
+        "slug": "mendota-heights-mn"
+      },
+      {
+        "name": "Inver Grove Heights",
+        "slug": "inver-grove-heights-mn"
+      },
+      {
+        "name": "Rosemount",
+        "slug": "rosemount-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-bluffs",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Willmar",
+    "slug": "willmar-mn",
+    "county": "Kandiyohi County",
+    "population": 21500,
+    "zip_codes": [
+      "56201"
+    ],
+    "landmarks": [
+      "Robbins Island Park",
+      "Willmar Civic Center",
+      "Downtown Willmar",
+      "Foot Lake",
+      "Kandiyohi County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Marshall",
+        "slug": "marshall-mn"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-mn"
+      },
+      {
+        "name": "Hutchinson",
+        "slug": "hutchinson-mn"
+      },
+      {
+        "name": "Saint Cloud",
+        "slug": "saint-cloud-mn"
+      },
+      {
+        "name": "Mankato",
+        "slug": "mankato-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "west-central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Winona",
+    "slug": "winona-mn",
+    "county": "Winona County",
+    "population": 25000,
+    "zip_codes": [
+      "55987"
+    ],
+    "landmarks": [
+      "Sugar Loaf Bluff",
+      "Mississippi River",
+      "Winona State University",
+      "Lake Winona",
+      "Downtown Winona"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Rochester",
+        "slug": "rochester-mn"
+      },
+      {
+        "name": "Red Wing",
+        "slug": "red-wing-mn"
+      },
+      {
+        "name": "La Crosse",
+        "slug": "la-crosse-wi"
+      },
+      {
+        "name": "Onalaska",
+        "slug": "onalaska-wi"
+      },
+      {
+        "name": "Austin",
+        "slug": "austin-mn"
+      }
+    ],
+    "city_type": "river-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southeast-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Woodbury",
+    "slug": "woodbury-mn",
+    "county": "Washington County",
+    "population": 80000,
+    "zip_codes": [
+      "55125",
+      "55129"
+    ],
+    "landmarks": [
+      "Woodbury Lakes",
+      "Bielenberg Sports Center",
+      "Central Park",
+      "Ojibway Park",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Oakdale",
+        "slug": "oakdale-mn"
+      },
+      {
+        "name": "Maplewood",
+        "slug": "maplewood-mn"
+      },
+      {
+        "name": "Cottage Grove",
+        "slug": "cottage-grove-mn"
+      },
+      {
+        "name": "Stillwater",
+        "slug": "stillwater-mn"
+      },
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      }
+    ],
+    "city_type": "major-suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "east-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Worthington",
+    "slug": "worthington-mn",
+    "county": "Nobles County",
+    "population": 14500,
+    "zip_codes": [
+      "56187"
+    ],
+    "landmarks": [
+      "Lake Okabena",
+      "Memorial Auditorium",
+      "Downtown Worthington",
+      "Chautauqua Park",
+      "Nobles County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Marshall",
+        "slug": "marshall-mn"
+      },
+      {
+        "name": "Fairmont",
+        "slug": "fairmont-mn"
+      },
+      {
+        "name": "Mankato",
+        "slug": "mankato-mn"
+      },
+      {
+        "name": "Sioux Falls",
+        "slug": "sioux-falls-sd"
+      },
+      {
+        "name": "Spirit Lake",
+        "slug": "spirit-lake-ia"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "prairie-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southwest-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Albertville",
+    "slug": "albertville-mn",
+    "county": "Wright County",
+    "population": 8500,
+    "zip_codes": [
+      "55301"
+    ],
+    "landmarks": [
+      "Albertville Premium Outlets",
+      "Central Park",
+      "City Hall",
+      "Main Avenue Corridor",
+      "Community Recreation Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Saint Michael",
+        "slug": "saint-michael-mn"
+      },
+      {
+        "name": "Otsego",
+        "slug": "otsego-mn"
+      },
+      {
+        "name": "Monticello",
+        "slug": "monticello-mn"
+      },
+      {
+        "name": "Buffalo",
+        "slug": "buffalo-mn"
+      },
+      {
+        "name": "Elk River",
+        "slug": "elk-river-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "northwest-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Becker",
+    "slug": "becker-mn",
+    "county": "Sherburne County",
+    "population": 5200,
+    "zip_codes": [
+      "55308"
+    ],
+    "landmarks": [
+      "Pebble Creek Golf Club",
+      "Becker City Park",
+      "Sherburne National Wildlife Refuge",
+      "Downtown Becker",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Monticello",
+        "slug": "monticello-mn"
+      },
+      {
+        "name": "Big Lake",
+        "slug": "big-lake-mn"
+      },
+      {
+        "name": "Elk River",
+        "slug": "elk-river-mn"
+      },
+      {
+        "name": "Saint Cloud",
+        "slug": "saint-cloud-mn"
+      },
+      {
+        "name": "Buffalo",
+        "slug": "buffalo-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains-and-woodlands",
+    "economy_type": "energy-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Big Lake",
+    "slug": "big-lake-mn",
+    "county": "Sherburne County",
+    "population": 11500,
+    "zip_codes": [
+      "55309"
+    ],
+    "landmarks": [
+      "Big Lake",
+      "Lakeside Park",
+      "Big Lake Station",
+      "Downtown Big Lake",
+      "Eagle Lake Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Becker",
+        "slug": "becker-mn"
+      },
+      {
+        "name": "Elk River",
+        "slug": "elk-river-mn"
+      },
+      {
+        "name": "Monticello",
+        "slug": "monticello-mn"
+      },
+      {
+        "name": "Otsego",
+        "slug": "otsego-mn"
+      },
+      {
+        "name": "Saint Michael",
+        "slug": "saint-michael-mn"
+      }
+    ],
+    "city_type": "lake-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Brainerd",
+    "slug": "brainerd-mn",
+    "county": "Crow Wing County",
+    "population": 14500,
+    "zip_codes": [
+      "56401"
+    ],
+    "landmarks": [
+      "Mississippi River",
+      "Paul Bunyan Trail",
+      "Downtown Brainerd",
+      "Gregory Park",
+      "Crow Wing County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Baxter",
+        "slug": "baxter-mn"
+      },
+      {
+        "name": "Little Falls",
+        "slug": "little-falls-mn"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-mn"
+      },
+      {
+        "name": "Saint Cloud",
+        "slug": "saint-cloud-mn"
+      },
+      {
+        "name": "Sartell",
+        "slug": "sartell-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Byron",
+    "slug": "byron-mn",
+    "county": "Olmsted County",
+    "population": 6500,
+    "zip_codes": [
+      "55920"
+    ],
+    "landmarks": [
+      "Byron Sports Complex",
+      "Downtown Byron",
+      "Bear Creek",
+      "Community Recreation Area",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Rochester",
+        "slug": "rochester-mn"
+      },
+      {
+        "name": "Stewartville",
+        "slug": "stewartville-mn"
+      },
+      {
+        "name": "Kasson",
+        "slug": "kasson-mn"
+      },
+      {
+        "name": "Owatonna",
+        "slug": "owatonna-mn"
+      },
+      {
+        "name": "Winona",
+        "slug": "winona-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southeast-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Delano",
+    "slug": "delano-mn",
+    "county": "Wright County",
+    "population": 7200,
+    "zip_codes": [
+      "55328"
+    ],
+    "landmarks": [
+      "Crow River",
+      "Central Park",
+      "Downtown Delano",
+      "Riverwalk Area",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Buffalo",
+        "slug": "buffalo-mn"
+      },
+      {
+        "name": "Saint Michael",
+        "slug": "saint-michael-mn"
+      },
+      {
+        "name": "Maple Grove",
+        "slug": "maple-grove-mn"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-mn"
+      },
+      {
+        "name": "Monticello",
+        "slug": "monticello-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "west-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Dilworth",
+    "slug": "dilworth-mn",
+    "county": "Clay County",
+    "population": 4800,
+    "zip_codes": [
+      "56529"
+    ],
+    "landmarks": [
+      "Dilworth Rail District",
+      "Downtown Dilworth",
+      "Whistle Stop Park",
+      "Community Center",
+      "Rail Heritage Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Moorhead",
+        "slug": "moorhead-mn"
+      },
+      {
+        "name": "Fargo",
+        "slug": "fargo-nd"
+      },
+      {
+        "name": "West Fargo",
+        "slug": "west-fargo-nd"
+      },
+      {
+        "name": "Detroit Lakes",
+        "slug": "detroit-lakes-mn"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "transportation-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "red-river-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "East Grand Forks",
+    "slug": "east-grand-forks-mn",
+    "county": "Polk County",
+    "population": 9200,
+    "zip_codes": [
+      "56721"
+    ],
+    "landmarks": [
+      "Red River",
+      "VFW Arena",
+      "Downtown East Grand Forks",
+      "Heritage Village",
+      "Riverwalk"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Grand Forks",
+        "slug": "grand-forks-nd"
+      },
+      {
+        "name": "Crookston",
+        "slug": "crookston-mn"
+      },
+      {
+        "name": "Thief River Falls",
+        "slug": "thief-river-falls-mn"
+      },
+      {
+        "name": "Bemidji",
+        "slug": "bemidji-mn"
+      },
+      {
+        "name": "Moorhead",
+        "slug": "moorhead-mn"
+      }
+    ],
+    "city_type": "border-city",
+    "climate_zone": "humid-continental",
+    "terrain": "riverfront",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northwest-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Fergus Falls",
+    "slug": "fergus-falls-mn",
+    "county": "Otter Tail County",
+    "population": 14500,
+    "zip_codes": [
+      "56537"
+    ],
+    "landmarks": [
+      "Otter Tail River",
+      "Kirkbride Building",
+      "Downtown Fergus Falls",
+      "DeLagoon Park",
+      "Otter Tail County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-mn"
+      },
+      {
+        "name": "Detroit Lakes",
+        "slug": "detroit-lakes-mn"
+      },
+      {
+        "name": "Moorhead",
+        "slug": "moorhead-mn"
+      },
+      {
+        "name": "Brainerd",
+        "slug": "brainerd-mn"
+      },
+      {
+        "name": "Bemidji",
+        "slug": "bemidji-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-region",
+    "economy_type": "healthcare-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "west-central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Grand Rapids",
+    "slug": "grand-rapids-mn",
+    "county": "Itasca County",
+    "population": 11500,
+    "zip_codes": [
+      "55744"
+    ],
+    "landmarks": [
+      "Pokegama Lake",
+      "Judy Garland Museum",
+      "Downtown Grand Rapids",
+      "Blandin Foundation Area",
+      "Forest History Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hibbing",
+        "slug": "hibbing-mn"
+      },
+      {
+        "name": "Virginia",
+        "slug": "virginia-mn"
+      },
+      {
+        "name": "Bemidji",
+        "slug": "bemidji-mn"
+      },
+      {
+        "name": "Duluth",
+        "slug": "duluth-mn"
+      },
+      {
+        "name": "Brainerd",
+        "slug": "brainerd-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "forests-and-lakes",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Monticello",
+    "slug": "monticello-mn",
+    "county": "Wright County",
+    "population": 15000,
+    "zip_codes": [
+      "55362"
+    ],
+    "landmarks": [
+      "Mississippi River",
+      "Montissippi Park",
+      "Downtown Monticello",
+      "Bertram Chain of Lakes",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Big Lake",
+        "slug": "big-lake-mn"
+      },
+      {
+        "name": "Becker",
+        "slug": "becker-mn"
+      },
+      {
+        "name": "Saint Michael",
+        "slug": "saint-michael-mn"
+      },
+      {
+        "name": "Buffalo",
+        "slug": "buffalo-mn"
+      },
+      {
+        "name": "Elk River",
+        "slug": "elk-river-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "riverfront",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Otsego",
+    "slug": "otsego-mn",
+    "county": "Wright County",
+    "population": 22000,
+    "zip_codes": [
+      "55330",
+      "55374"
+    ],
+    "landmarks": [
+      "Mississippi River",
+      "Otsego Prairie Park",
+      "Community Center",
+      "MacIver Avenue Corridor",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Elk River",
+        "slug": "elk-river-mn"
+      },
+      {
+        "name": "Saint Michael",
+        "slug": "saint-michael-mn"
+      },
+      {
+        "name": "Monticello",
+        "slug": "monticello-mn"
+      },
+      {
+        "name": "Albertville",
+        "slug": "albertville-mn"
+      },
+      {
+        "name": "Big Lake",
+        "slug": "big-lake-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "northwest-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "North Saint Paul",
+    "slug": "north-saint-paul-mn",
+    "county": "Ramsey County",
+    "population": 12500,
+    "zip_codes": [
+      "55109"
+    ],
+    "landmarks": [
+      "Casey Lake Park",
+      "Downtown North Saint Paul",
+      "Snowman Landmark",
+      "Community Center",
+      "7th Avenue Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Maplewood",
+        "slug": "maplewood-mn"
+      },
+      {
+        "name": "Oakdale",
+        "slug": "oakdale-mn"
+      },
+      {
+        "name": "Lake Elmo",
+        "slug": "lake-elmo-mn"
+      },
+      {
+        "name": "Woodbury",
+        "slug": "woodbury-mn"
+      },
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "White Bear Lake",
+    "slug": "white-bear-lake-mn",
+    "county": "Ramsey County",
+    "population": 24500,
+    "zip_codes": [
+      "55110"
+    ],
+    "landmarks": [
+      "White Bear Lake",
+      "Downtown White Bear Lake",
+      "Memorial Beach",
+      "Lakeshore District",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Vadnais Heights",
+        "slug": "vadnais-heights-mn"
+      },
+      {
+        "name": "Hugo",
+        "slug": "hugo-mn"
+      },
+      {
+        "name": "Mahtomedi",
+        "slug": "mahtomedi-mn"
+      },
+      {
+        "name": "Little Canada",
+        "slug": "little-canada-mn"
+      },
+      {
+        "name": "Maplewood",
+        "slug": "maplewood-mn"
+      }
+    ],
+    "city_type": "lake-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "northeast-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Lake Elmo",
+    "slug": "lake-elmo-mn",
+    "county": "Washington County",
+    "population": 11000,
+    "zip_codes": [
+      "55042"
+    ],
+    "landmarks": [
+      "Lake Elmo Park Reserve",
+      "Downtown Lake Elmo",
+      "Sunfish Lake Area",
+      "Community Center",
+      "Historic Village District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Woodbury",
+        "slug": "woodbury-mn"
+      },
+      {
+        "name": "Oakdale",
+        "slug": "oakdale-mn"
+      },
+      {
+        "name": "Stillwater",
+        "slug": "stillwater-mn"
+      },
+      {
+        "name": "North Saint Paul",
+        "slug": "north-saint-paul-mn"
+      },
+      {
+        "name": "Afton",
+        "slug": "afton-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "low-density-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "east-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "New Ulm",
+    "slug": "new-ulm-mn",
+    "county": "Brown County",
+    "population": 14500,
+    "zip_codes": [
+      "56073"
+    ],
+    "landmarks": [
+      "Hermann Monument",
+      "Flandrau State Park",
+      "Downtown New Ulm",
+      "Minnesota River",
+      "Brown County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mankato",
+        "slug": "mankato-mn"
+      },
+      {
+        "name": "Saint Peter",
+        "slug": "saint-peter-mn"
+      },
+      {
+        "name": "Marshall",
+        "slug": "marshall-mn"
+      },
+      {
+        "name": "Fairmont",
+        "slug": "fairmont-mn"
+      },
+      {
+        "name": "Willmar",
+        "slug": "willmar-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southern-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Saint Peter",
+    "slug": "saint-peter-mn",
+    "county": "Nicollet County",
+    "population": 12500,
+    "zip_codes": [
+      "56082"
+    ],
+    "landmarks": [
+      "Gustavus Adolphus College",
+      "Minnesota River",
+      "Downtown Saint Peter",
+      "Traverse des Sioux",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mankato",
+        "slug": "mankato-mn"
+      },
+      {
+        "name": "New Ulm",
+        "slug": "new-ulm-mn"
+      },
+      {
+        "name": "North Mankato",
+        "slug": "north-mankato-mn"
+      },
+      {
+        "name": "Fairmont",
+        "slug": "fairmont-mn"
+      },
+      {
+        "name": "Owatonna",
+        "slug": "owatonna-mn"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Stewartville",
+    "slug": "stewartville-mn",
+    "county": "Olmsted County",
+    "population": 6500,
+    "zip_codes": [
+      "55976"
+    ],
+    "landmarks": [
+      "Bear Cave Park",
+      "Downtown Stewartville",
+      "Rochester Area Corridor",
+      "Community Center",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Rochester",
+        "slug": "rochester-mn"
+      },
+      {
+        "name": "Byron",
+        "slug": "byron-mn"
+      },
+      {
+        "name": "Winona",
+        "slug": "winona-mn"
+      },
+      {
+        "name": "Owatonna",
+        "slug": "owatonna-mn"
+      },
+      {
+        "name": "Austin",
+        "slug": "austin-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southeast-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Thief River Falls",
+    "slug": "thief-river-falls-mn",
+    "county": "Pennington County",
+    "population": 9000,
+    "zip_codes": [
+      "56701"
+    ],
+    "landmarks": [
+      "Red Lake River",
+      "Seven Clans Casino",
+      "Downtown Thief River Falls",
+      "Ralph Engelstad Arena",
+      "Pennington County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "East Grand Forks",
+        "slug": "east-grand-forks-mn"
+      },
+      {
+        "name": "Bemidji",
+        "slug": "bemidji-mn"
+      },
+      {
+        "name": "Crookston",
+        "slug": "crookston-mn"
+      },
+      {
+        "name": "Moorhead",
+        "slug": "moorhead-mn"
+      },
+      {
+        "name": "Grand Forks",
+        "slug": "grand-forks-nd"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northwest-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Waconia",
+    "slug": "waconia-mn",
+    "county": "Carver County",
+    "population": 14500,
+    "zip_codes": [
+      "55387"
+    ],
+    "landmarks": [
+      "Lake Waconia",
+      "Downtown Waconia",
+      "City Square Park",
+      "Waconia Brewing Area",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Chaska",
+        "slug": "chaska-mn"
+      },
+      {
+        "name": "Chanhassen",
+        "slug": "chanhassen-mn"
+      },
+      {
+        "name": "Victoria",
+        "slug": "victoria-mn"
+      },
+      {
+        "name": "Shakopee",
+        "slug": "shakopee-mn"
+      },
+      {
+        "name": "Delano",
+        "slug": "delano-mn"
+      }
+    ],
+    "city_type": "lake-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "west-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Wayzata",
+    "slug": "wayzata-mn",
+    "county": "Hennepin County",
+    "population": 4700,
+    "zip_codes": [
+      "55391"
+    ],
+    "landmarks": [
+      "Lake Minnetonka",
+      "Wayzata Beach",
+      "Panoway on Wayzata Bay",
+      "Downtown Wayzata",
+      "Depot Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Minnetonka",
+        "slug": "minnetonka-mn"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-mn"
+      },
+      {
+        "name": "Orono",
+        "slug": "orono-mn"
+      },
+      {
+        "name": "Excelsior",
+        "slug": "excelsior-mn"
+      },
+      {
+        "name": "Eden Prairie",
+        "slug": "eden-prairie-mn"
+      }
+    ],
+    "city_type": "lakefront-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront",
+    "economy_type": "professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "west-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Wyoming",
+    "slug": "wyoming-mn",
+    "county": "Chisago County",
+    "population": 8500,
+    "zip_codes": [
+      "55092"
+    ],
+    "landmarks": [
+      "Comfort Lake",
+      "Downtown Wyoming",
+      "Goodview Park",
+      "Community Recreation Area",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Forest Lake",
+        "slug": "forest-lake-mn"
+      },
+      {
+        "name": "North Branch",
+        "slug": "north-branch-mn"
+      },
+      {
+        "name": "Columbus",
+        "slug": "columbus-mn"
+      },
+      {
+        "name": "Hugo",
+        "slug": "hugo-mn"
+      },
+      {
+        "name": "Lino Lakes",
+        "slug": "lino-lakes-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "North Branch",
+    "slug": "north-branch-mn",
+    "county": "Chisago County",
+    "population": 11000,
+    "zip_codes": [
+      "55056"
+    ],
+    "landmarks": [
+      "Central Park",
+      "Downtown North Branch",
+      "Sunrise River",
+      "North Branch Outlets Area",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wyoming",
+        "slug": "wyoming-mn"
+      },
+      {
+        "name": "Forest Lake",
+        "slug": "forest-lake-mn"
+      },
+      {
+        "name": "Cambridge",
+        "slug": "cambridge-mn"
+      },
+      {
+        "name": "Hugo",
+        "slug": "hugo-mn"
+      },
+      {
+        "name": "Isanti",
+        "slug": "isanti-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "woodlands-and-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Mahtomedi",
+    "slug": "mahtomedi-mn",
+    "county": "Washington County",
+    "population": 8400,
+    "zip_codes": [
+      "55115"
+    ],
+    "landmarks": [
+      "White Bear Lake",
+      "Katherine Abbott Park",
+      "Downtown Mahtomedi",
+      "Hall Avenue District",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "White Bear Lake",
+        "slug": "white-bear-lake-mn"
+      },
+      {
+        "name": "Stillwater",
+        "slug": "stillwater-mn"
+      },
+      {
+        "name": "Lake Elmo",
+        "slug": "lake-elmo-mn"
+      },
+      {
+        "name": "Oakdale",
+        "slug": "oakdale-mn"
+      },
+      {
+        "name": "Woodbury",
+        "slug": "woodbury-mn"
+      }
+    ],
+    "city_type": "lake-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront",
+    "economy_type": "services-retail",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Crookston",
+    "slug": "crookston-mn",
+    "county": "Polk County",
+    "population": 7700,
+    "zip_codes": [
+      "56716"
+    ],
+    "landmarks": [
+      "University of Minnesota Crookston",
+      "Red Lake River",
+      "Downtown Crookston",
+      "Central Park",
+      "Polk County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "East Grand Forks",
+        "slug": "east-grand-forks-mn"
+      },
+      {
+        "name": "Thief River Falls",
+        "slug": "thief-river-falls-mn"
+      },
+      {
+        "name": "Grand Forks",
+        "slug": "grand-forks-nd"
+      },
+      {
+        "name": "Bemidji",
+        "slug": "bemidji-mn"
+      },
+      {
+        "name": "Moorhead",
+        "slug": "moorhead-mn"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northwest-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "North Mankato",
+    "slug": "north-mankato-mn",
+    "county": "Nicollet County",
+    "population": 14500,
+    "zip_codes": [
+      "56003"
+    ],
+    "landmarks": [
+      "Minnesota River",
+      "Spring Lake Park",
+      "Downtown North Mankato",
+      "Caswell Park",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mankato",
+        "slug": "mankato-mn"
+      },
+      {
+        "name": "Saint Peter",
+        "slug": "saint-peter-mn"
+      },
+      {
+        "name": "New Ulm",
+        "slug": "new-ulm-mn"
+      },
+      {
+        "name": "Owatonna",
+        "slug": "owatonna-mn"
+      },
+      {
+        "name": "Fairmont",
+        "slug": "fairmont-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southern-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Rogers",
+    "slug": "rogers-mn",
+    "county": "Hennepin County",
+    "population": 14000,
+    "zip_codes": [
+      "55374"
+    ],
+    "landmarks": [
+      "Rogers Activity Center",
+      "Downtown Rogers",
+      "North Community Park",
+      "Main Street District",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Maple Grove",
+        "slug": "maple-grove-mn"
+      },
+      {
+        "name": "Otsego",
+        "slug": "otsego-mn"
+      },
+      {
+        "name": "Saint Michael",
+        "slug": "saint-michael-mn"
+      },
+      {
+        "name": "Albertville",
+        "slug": "albertville-mn"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "retail-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "northwest-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Victoria",
+    "slug": "victoria-mn",
+    "county": "Carver County",
+    "population": 11000,
+    "zip_codes": [
+      "55386"
+    ],
+    "landmarks": [
+      "Lake Bavaria",
+      "Downtown Victoria",
+      "Carver Park Reserve",
+      "Community Park",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Waconia",
+        "slug": "waconia-mn"
+      },
+      {
+        "name": "Chaska",
+        "slug": "chaska-mn"
+      },
+      {
+        "name": "Chanhassen",
+        "slug": "chanhassen-mn"
+      },
+      {
+        "name": "Shakopee",
+        "slug": "shakopee-mn"
+      },
+      {
+        "name": "Eden Prairie",
+        "slug": "eden-prairie-mn"
+      }
+    ],
+    "city_type": "lake-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-hills",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "west-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Isanti",
+    "slug": "isanti-mn",
+    "county": "Isanti County",
+    "population": 7000,
+    "zip_codes": [
+      "55040"
+    ],
+    "landmarks": [
+      "Downtown Isanti",
+      "Bluebird Park",
+      "Isanti County Fairgrounds",
+      "Rum River Area",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cambridge",
+        "slug": "cambridge-mn"
+      },
+      {
+        "name": "North Branch",
+        "slug": "north-branch-mn"
+      },
+      {
+        "name": "Andover",
+        "slug": "andover-mn"
+      },
+      {
+        "name": "Saint Francis",
+        "slug": "saint-francis-mn"
+      },
+      {
+        "name": "East Bethel",
+        "slug": "east-bethel-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains-and-woodlands",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "east-central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Saint Francis",
+    "slug": "saint-francis-mn",
+    "county": "Anoka County",
+    "population": 8500,
+    "zip_codes": [
+      "55070"
+    ],
+    "landmarks": [
+      "Rum River",
+      "Community Park",
+      "Downtown Saint Francis",
+      "City Hall",
+      "Pioneer Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "East Bethel",
+        "slug": "east-bethel-mn"
+      },
+      {
+        "name": "Andover",
+        "slug": "andover-mn"
+      },
+      {
+        "name": "Isanti",
+        "slug": "isanti-mn"
+      },
+      {
+        "name": "Cambridge",
+        "slug": "cambridge-mn"
+      },
+      {
+        "name": "Ramsey",
+        "slug": "ramsey-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "woodlands-and-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Kasson",
+    "slug": "kasson-mn",
+    "county": "Dodge County",
+    "population": 7000,
+    "zip_codes": [
+      "55944"
+    ],
+    "landmarks": [
+      "Downtown Kasson",
+      "North Park",
+      "Community Center",
+      "Mantorville Historic Area",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Byron",
+        "slug": "byron-mn"
+      },
+      {
+        "name": "Rochester",
+        "slug": "rochester-mn"
+      },
+      {
+        "name": "Owatonna",
+        "slug": "owatonna-mn"
+      },
+      {
+        "name": "Stewartville",
+        "slug": "stewartville-mn"
+      },
+      {
+        "name": "Austin",
+        "slug": "austin-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southeast-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Mountain Iron",
+    "slug": "mountain-iron-mn",
+    "county": "Saint Louis County",
+    "population": 2900,
+    "zip_codes": [
+      "55768"
+    ],
+    "landmarks": [
+      "Mountain Iron Mine View",
+      "West Two Rivers Campground",
+      "Downtown Mountain Iron",
+      "Community Center",
+      "Mining Heritage Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Virginia",
+        "slug": "virginia-mn"
+      },
+      {
+        "name": "Hibbing",
+        "slug": "hibbing-mn"
+      },
+      {
+        "name": "Eveleth",
+        "slug": "eveleth-mn"
+      },
+      {
+        "name": "Grand Rapids",
+        "slug": "grand-rapids-mn"
+      },
+      {
+        "name": "Duluth",
+        "slug": "duluth-mn"
+      }
+    ],
+    "city_type": "mining-city",
+    "climate_zone": "humid-continental",
+    "terrain": "mining-region",
+    "economy_type": "mining-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "iron-range-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Eveleth",
+    "slug": "eveleth-mn",
+    "county": "Saint Louis County",
+    "population": 5200,
+    "zip_codes": [
+      "55734"
+    ],
+    "landmarks": [
+      "United States Hockey Hall of Fame",
+      "Leonidas Overlook",
+      "Downtown Eveleth",
+      "Mesabi Trail",
+      "Veterans Park"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Virginia",
+        "slug": "virginia-mn"
+      },
+      {
+        "name": "Hibbing",
+        "slug": "hibbing-mn"
+      },
+      {
+        "name": "Mountain Iron",
+        "slug": "mountain-iron-mn"
+      },
+      {
+        "name": "Duluth",
+        "slug": "duluth-mn"
+      },
+      {
+        "name": "Grand Rapids",
+        "slug": "grand-rapids-mn"
+      }
+    ],
+    "city_type": "mining-city",
+    "climate_zone": "humid-continental",
+    "terrain": "iron-range",
+    "economy_type": "mining-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "iron-range-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Grand Meadow",
+    "slug": "grand-meadow-mn",
+    "county": "Mower County",
+    "population": 1100,
+    "zip_codes": [
+      "55936"
+    ],
+    "landmarks": [
+      "Downtown Grand Meadow",
+      "Veterans Memorial Park",
+      "Community Center",
+      "Grand Meadow School",
+      "Main Street District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Austin",
+        "slug": "austin-mn"
+      },
+      {
+        "name": "Rochester",
+        "slug": "rochester-mn"
+      },
+      {
+        "name": "Stewartville",
+        "slug": "stewartville-mn"
+      },
+      {
+        "name": "Byron",
+        "slug": "byron-mn"
+      },
+      {
+        "name": "Owatonna",
+        "slug": "owatonna-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southeast-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Jordan",
+    "slug": "jordan-mn",
+    "county": "Scott County",
+    "population": 7200,
+    "zip_codes": [
+      "55352"
+    ],
+    "landmarks": [
+      "Minnesota River Valley",
+      "Downtown Jordan",
+      "Lagoon Park",
+      "Community Center",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Shakopee",
+        "slug": "shakopee-mn"
+      },
+      {
+        "name": "Belle Plaine",
+        "slug": "belle-plaine-mn"
+      },
+      {
+        "name": "Prior Lake",
+        "slug": "prior-lake-mn"
+      },
+      {
+        "name": "Chaska",
+        "slug": "chaska-mn"
+      },
+      {
+        "name": "Savage",
+        "slug": "savage-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southwest-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Little Falls",
+    "slug": "little-falls-mn",
+    "county": "Morrison County",
+    "population": 9300,
+    "zip_codes": [
+      "56345"
+    ],
+    "landmarks": [
+      "Mississippi River",
+      "Charles Lindbergh House",
+      "Downtown Little Falls",
+      "Maple Island Park",
+      "Morrison County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Brainerd",
+        "slug": "brainerd-mn"
+      },
+      {
+        "name": "Saint Cloud",
+        "slug": "saint-cloud-mn"
+      },
+      {
+        "name": "Sartell",
+        "slug": "sartell-mn"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-mn"
+      },
+      {
+        "name": "Waite Park",
+        "slug": "waite-park-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "riverfront",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Mound",
+    "slug": "mound-mn",
+    "county": "Hennepin County",
+    "population": 9800,
+    "zip_codes": [
+      "55364"
+    ],
+    "landmarks": [
+      "Lake Minnetonka",
+      "Surfside Park",
+      "Downtown Mound",
+      "Commons Park",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wayzata",
+        "slug": "wayzata-mn"
+      },
+      {
+        "name": "Minnetonka",
+        "slug": "minnetonka-mn"
+      },
+      {
+        "name": "Orono",
+        "slug": "orono-mn"
+      },
+      {
+        "name": "Excelsior",
+        "slug": "excelsior-mn"
+      },
+      {
+        "name": "Victoria",
+        "slug": "victoria-mn"
+      }
+    ],
+    "city_type": "lake-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "west-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Orono",
+    "slug": "orono-mn",
+    "county": "Hennepin County",
+    "population": 8700,
+    "zip_codes": [
+      "55356",
+      "55391"
+    ],
+    "landmarks": [
+      "Lake Minnetonka",
+      "Big Island Area",
+      "Orono City Hall",
+      "Noerenberg Gardens",
+      "Lakeshore District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Wayzata",
+        "slug": "wayzata-mn"
+      },
+      {
+        "name": "Mound",
+        "slug": "mound-mn"
+      },
+      {
+        "name": "Minnetonka",
+        "slug": "minnetonka-mn"
+      },
+      {
+        "name": "Excelsior",
+        "slug": "excelsior-mn"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-mn"
+      }
+    ],
+    "city_type": "lake-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront",
+    "economy_type": "professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "west-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Princeton",
+    "slug": "princeton-mn",
+    "county": "Mille Lacs County",
+    "population": 5000,
+    "zip_codes": [
+      "55371"
+    ],
+    "landmarks": [
+      "Rum River",
+      "Downtown Princeton",
+      "Riverside Park",
+      "Princeton Speedway Area",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Cambridge",
+        "slug": "cambridge-mn"
+      },
+      {
+        "name": "Isanti",
+        "slug": "isanti-mn"
+      },
+      {
+        "name": "Big Lake",
+        "slug": "big-lake-mn"
+      },
+      {
+        "name": "Elk River",
+        "slug": "elk-river-mn"
+      },
+      {
+        "name": "Saint Cloud",
+        "slug": "saint-cloud-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Zimmerman",
+    "slug": "zimmerman-mn",
+    "county": "Sherburne County",
+    "population": 6500,
+    "zip_codes": [
+      "55398"
+    ],
+    "landmarks": [
+      "Fremont Lake",
+      "Downtown Zimmerman",
+      "Sherburne National Wildlife Refuge",
+      "Community Park",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Elk River",
+        "slug": "elk-river-mn"
+      },
+      {
+        "name": "Princeton",
+        "slug": "princeton-mn"
+      },
+      {
+        "name": "Big Lake",
+        "slug": "big-lake-mn"
+      },
+      {
+        "name": "Becker",
+        "slug": "becker-mn"
+      },
+      {
+        "name": "Saint Cloud",
+        "slug": "saint-cloud-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "woodlands-and-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Belle Plaine",
+    "slug": "belle-plaine-mn",
+    "county": "Scott County",
+    "population": 7600,
+    "zip_codes": [
+      "56011"
+    ],
+    "landmarks": [
+      "Minnesota River Valley",
+      "Downtown Belle Plaine",
+      "Veterans Memorial Park",
+      "Historic Main Street",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Jordan",
+        "slug": "jordan-mn"
+      },
+      {
+        "name": "Shakopee",
+        "slug": "shakopee-mn"
+      },
+      {
+        "name": "New Prague",
+        "slug": "new-prague-mn"
+      },
+      {
+        "name": "Prior Lake",
+        "slug": "prior-lake-mn"
+      },
+      {
+        "name": "Chaska",
+        "slug": "chaska-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-valley",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "southwest-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "New Prague",
+    "slug": "new-prague-mn",
+    "county": "Scott County",
+    "population": 8300,
+    "zip_codes": [
+      "56071"
+    ],
+    "landmarks": [
+      "Memorial Park",
+      "Downtown New Prague",
+      "Czech Village District",
+      "Community Center",
+      "Main Street Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Belle Plaine",
+        "slug": "belle-plaine-mn"
+      },
+      {
+        "name": "Jordan",
+        "slug": "jordan-mn"
+      },
+      {
+        "name": "Prior Lake",
+        "slug": "prior-lake-mn"
+      },
+      {
+        "name": "Shakopee",
+        "slug": "shakopee-mn"
+      },
+      {
+        "name": "Northfield",
+        "slug": "northfield-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "rolling-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "south-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Newport",
+    "slug": "newport-mn",
+    "county": "Washington County",
+    "population": 7800,
+    "zip_codes": [
+      "55055"
+    ],
+    "landmarks": [
+      "Mississippi River",
+      "Newport Transit Area",
+      "Downtown Newport",
+      "Community Park",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Saint Paul Park",
+        "slug": "saint-paul-park-mn"
+      },
+      {
+        "name": "Cottage Grove",
+        "slug": "cottage-grove-mn"
+      },
+      {
+        "name": "Woodbury",
+        "slug": "woodbury-mn"
+      },
+      {
+        "name": "South Saint Paul",
+        "slug": "south-saint-paul-mn"
+      },
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      }
+    ],
+    "city_type": "river-city",
+    "climate_zone": "humid-continental",
+    "terrain": "riverfront",
+    "economy_type": "industrial-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Saint Paul Park",
+    "slug": "saint-paul-park-mn",
+    "county": "Washington County",
+    "population": 5600,
+    "zip_codes": [
+      "55071"
+    ],
+    "landmarks": [
+      "Heritage Park",
+      "Mississippi River",
+      "Downtown Saint Paul Park",
+      "Community Center",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Newport",
+        "slug": "newport-mn"
+      },
+      {
+        "name": "Cottage Grove",
+        "slug": "cottage-grove-mn"
+      },
+      {
+        "name": "South Saint Paul",
+        "slug": "south-saint-paul-mn"
+      },
+      {
+        "name": "Woodbury",
+        "slug": "woodbury-mn"
+      },
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "riverfront",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "east-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Columbus",
+    "slug": "columbus-mn",
+    "county": "Anoka County",
+    "population": 5200,
+    "zip_codes": [
+      "55025"
+    ],
+    "landmarks": [
+      "Running Aces",
+      "Forest Lake Area",
+      "Community Park",
+      "Broadway Avenue Corridor",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Forest Lake",
+        "slug": "forest-lake-mn"
+      },
+      {
+        "name": "Wyoming",
+        "slug": "wyoming-mn"
+      },
+      {
+        "name": "Lino Lakes",
+        "slug": "lino-lakes-mn"
+      },
+      {
+        "name": "Hugo",
+        "slug": "hugo-mn"
+      },
+      {
+        "name": "North Branch",
+        "slug": "north-branch-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "woodlands-and-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "low-density-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Rice",
+    "slug": "rice-mn",
+    "county": "Benton County",
+    "population": 5200,
+    "zip_codes": [
+      "56367"
+    ],
+    "landmarks": [
+      "Mississippi River",
+      "Downtown Rice",
+      "Veterans Park",
+      "Community Center",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Sartell",
+        "slug": "sartell-mn"
+      },
+      {
+        "name": "Saint Cloud",
+        "slug": "saint-cloud-mn"
+      },
+      {
+        "name": "Waite Park",
+        "slug": "waite-park-mn"
+      },
+      {
+        "name": "Little Falls",
+        "slug": "little-falls-mn"
+      },
+      {
+        "name": "Brainerd",
+        "slug": "brainerd-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "riverfront",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "North Oaks",
+    "slug": "north-oaks-mn",
+    "county": "Ramsey County",
+    "population": 5400,
+    "zip_codes": [
+      "55127"
+    ],
+    "landmarks": [
+      "Pleasant Lake",
+      "North Oaks Golf Club",
+      "Private Trail System",
+      "Community Center",
+      "Town Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Vadnais Heights",
+        "slug": "vadnais-heights-mn"
+      },
+      {
+        "name": "Shoreview",
+        "slug": "shoreview-mn"
+      },
+      {
+        "name": "Hugo",
+        "slug": "hugo-mn"
+      },
+      {
+        "name": "White Bear Lake",
+        "slug": "white-bear-lake-mn"
+      },
+      {
+        "name": "Arden Hills",
+        "slug": "arden-hills-mn"
+      }
+    ],
+    "city_type": "residential-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-woodlands",
+    "economy_type": "professional-services",
+    "housing_profile": "high-income-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northeast-metro-market",
+    "property_mix": "residential"
+  },
+  {
+    "city": "Montrose",
+    "slug": "montrose-mn",
+    "county": "Wright County",
+    "population": 4200,
+    "zip_codes": [
+      "55363"
+    ],
+    "landmarks": [
+      "Downtown Montrose",
+      "City Hall",
+      "Community Park",
+      "Main Street District",
+      "Recreation Fields"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Buffalo",
+        "slug": "buffalo-mn"
+      },
+      {
+        "name": "Delano",
+        "slug": "delano-mn"
+      },
+      {
+        "name": "Saint Michael",
+        "slug": "saint-michael-mn"
+      },
+      {
+        "name": "Monticello",
+        "slug": "monticello-mn"
+      },
+      {
+        "name": "Maple Grove",
+        "slug": "maple-grove-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "west-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Circle Pines",
+    "slug": "circle-pines-mn",
+    "county": "Anoka County",
+    "population": 5000,
+    "zip_codes": [
+      "55014"
+    ],
+    "landmarks": [
+      "Golden Lake Park",
+      "Circle Pines City Hall",
+      "Community Park",
+      "Civic Complex",
+      "Main Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lino Lakes",
+        "slug": "lino-lakes-mn"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-mn"
+      },
+      {
+        "name": "Lexington",
+        "slug": "lexington-mn"
+      },
+      {
+        "name": "Centerville",
+        "slug": "centerville-mn"
+      },
+      {
+        "name": "Ham Lake",
+        "slug": "ham-lake-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Lexington",
+    "slug": "lexington-mn",
+    "county": "Anoka County",
+    "population": 5200,
+    "zip_codes": [
+      "55014"
+    ],
+    "landmarks": [
+      "Lexington Memorial Park",
+      "Downtown Lexington",
+      "Community Center",
+      "Main Street Corridor",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Circle Pines",
+        "slug": "circle-pines-mn"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-mn"
+      },
+      {
+        "name": "Lino Lakes",
+        "slug": "lino-lakes-mn"
+      },
+      {
+        "name": "Ham Lake",
+        "slug": "ham-lake-mn"
+      },
+      {
+        "name": "Centerville",
+        "slug": "centerville-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Centerville",
+    "slug": "centerville-mn",
+    "county": "Anoka County",
+    "population": 5200,
+    "zip_codes": [
+      "55038"
+    ],
+    "landmarks": [
+      "Centerville Lake",
+      "Laurie LaMotte Memorial Park",
+      "Downtown Centerville",
+      "Community Center",
+      "Main Street District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lino Lakes",
+        "slug": "lino-lakes-mn"
+      },
+      {
+        "name": "Circle Pines",
+        "slug": "circle-pines-mn"
+      },
+      {
+        "name": "Hugo",
+        "slug": "hugo-mn"
+      },
+      {
+        "name": "White Bear Lake",
+        "slug": "white-bear-lake-mn"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Corcoran",
+    "slug": "corcoran-mn",
+    "county": "Hennepin County",
+    "population": 7000,
+    "zip_codes": [
+      "55340",
+      "55374"
+    ],
+    "landmarks": [
+      "Corcoran Lions Park",
+      "Rush Creek Area",
+      "Downtown Corcoran",
+      "Community Fields",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Maple Grove",
+        "slug": "maple-grove-mn"
+      },
+      {
+        "name": "Rogers",
+        "slug": "rogers-mn"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-mn"
+      },
+      {
+        "name": "Hanover",
+        "slug": "hanover-mn"
+      },
+      {
+        "name": "Saint Michael",
+        "slug": "saint-michael-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "services-retail",
+    "housing_profile": "low-density-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "west-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Hanover",
+    "slug": "hanover-mn",
+    "county": "Wright County",
+    "population": 6100,
+    "zip_codes": [
+      "55341"
+    ],
+    "landmarks": [
+      "Crow River",
+      "Hanover City Hall",
+      "Settlers Park",
+      "Historic Bridge Area",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Saint Michael",
+        "slug": "saint-michael-mn"
+      },
+      {
+        "name": "Rogers",
+        "slug": "rogers-mn"
+      },
+      {
+        "name": "Corcoran",
+        "slug": "corcoran-mn"
+      },
+      {
+        "name": "Buffalo",
+        "slug": "buffalo-mn"
+      },
+      {
+        "name": "Monticello",
+        "slug": "monticello-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "strong-growth",
+    "service_environment": "west-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Lake City",
+    "slug": "lake-city-mn",
+    "county": "Wabasha County",
+    "population": 5500,
+    "zip_codes": [
+      "55041"
+    ],
+    "landmarks": [
+      "Lake Pepin",
+      "Marina District",
+      "Downtown Lake City",
+      "Hok-Si-La Park",
+      "Riverwalk"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Red Wing",
+        "slug": "red-wing-mn"
+      },
+      {
+        "name": "Winona",
+        "slug": "winona-mn"
+      },
+      {
+        "name": "Rochester",
+        "slug": "rochester-mn"
+      },
+      {
+        "name": "Wabasha",
+        "slug": "wabasha-mn"
+      },
+      {
+        "name": "Hastings",
+        "slug": "hastings-mn"
+      }
+    ],
+    "city_type": "river-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southeast-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Morris",
+    "slug": "morris-mn",
+    "county": "Stevens County",
+    "population": 5400,
+    "zip_codes": [
+      "56267"
+    ],
+    "landmarks": [
+      "University of Minnesota Morris",
+      "Pomme de Terre River",
+      "Downtown Morris",
+      "East Side Park",
+      "Stevens County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-mn"
+      },
+      {
+        "name": "Willmar",
+        "slug": "willmar-mn"
+      },
+      {
+        "name": "Fergus Falls",
+        "slug": "fergus-falls-mn"
+      },
+      {
+        "name": "Moorhead",
+        "slug": "moorhead-mn"
+      },
+      {
+        "name": "Marshall",
+        "slug": "marshall-mn"
+      }
+    ],
+    "city_type": "college-city",
+    "climate_zone": "humid-continental",
+    "terrain": "prairie-plains",
+    "economy_type": "education-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "west-central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "New London",
+    "slug": "new-london-mn",
+    "county": "Kandiyohi County",
+    "population": 1400,
+    "zip_codes": [
+      "56273"
+    ],
+    "landmarks": [
+      "Nest Lake",
+      "Downtown New London",
+      "City Park",
+      "Community Center",
+      "Main Street District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Willmar",
+        "slug": "willmar-mn"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-mn"
+      },
+      {
+        "name": "Hutchinson",
+        "slug": "hutchinson-mn"
+      },
+      {
+        "name": "Marshall",
+        "slug": "marshall-mn"
+      },
+      {
+        "name": "Saint Cloud",
+        "slug": "saint-cloud-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "west-central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Oak Grove",
+    "slug": "oak-grove-mn",
+    "county": "Anoka County",
+    "population": 9000,
+    "zip_codes": [
+      "55011",
+      "55303"
+    ],
+    "landmarks": [
+      "Rum River Forest",
+      "Lions Park",
+      "Oak Grove City Hall",
+      "Community Center",
+      "Veterans Memorial"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Ramsey",
+        "slug": "ramsey-mn"
+      },
+      {
+        "name": "Andover",
+        "slug": "andover-mn"
+      },
+      {
+        "name": "East Bethel",
+        "slug": "east-bethel-mn"
+      },
+      {
+        "name": "Saint Francis",
+        "slug": "saint-francis-mn"
+      },
+      {
+        "name": "Anoka",
+        "slug": "anoka-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "woodlands-and-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "low-density-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Rockford",
+    "slug": "rockford-mn",
+    "county": "Hennepin County",
+    "population": 5000,
+    "zip_codes": [
+      "55373"
+    ],
+    "landmarks": [
+      "Crow River",
+      "Downtown Rockford",
+      "Veterans Park",
+      "Community Center",
+      "Main Street District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Delano",
+        "slug": "delano-mn"
+      },
+      {
+        "name": "Buffalo",
+        "slug": "buffalo-mn"
+      },
+      {
+        "name": "Plymouth",
+        "slug": "plymouth-mn"
+      },
+      {
+        "name": "Maple Grove",
+        "slug": "maple-grove-mn"
+      },
+      {
+        "name": "Montrose",
+        "slug": "montrose-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "west-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Wabasha",
+    "slug": "wabasha-mn",
+    "county": "Wabasha County",
+    "population": 5300,
+    "zip_codes": [
+      "55981"
+    ],
+    "landmarks": [
+      "National Eagle Center",
+      "Mississippi River",
+      "Downtown Wabasha",
+      "Riverfront Park",
+      "Wabasha County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lake City",
+        "slug": "lake-city-mn"
+      },
+      {
+        "name": "Winona",
+        "slug": "winona-mn"
+      },
+      {
+        "name": "Red Wing",
+        "slug": "red-wing-mn"
+      },
+      {
+        "name": "Rochester",
+        "slug": "rochester-mn"
+      },
+      {
+        "name": "Hastings",
+        "slug": "hastings-mn"
+      }
+    ],
+    "city_type": "river-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "southeast-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Lindstrom",
+    "slug": "lindstrom-mn",
+    "county": "Chisago County",
+    "population": 5300,
+    "zip_codes": [
+      "55045"
+    ],
+    "landmarks": [
+      "South Lindstrom Lake",
+      "Karl Oskar House",
+      "Downtown Lindstrom",
+      "Lakes Area District",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Chisago City",
+        "slug": "chisago-city-mn"
+      },
+      {
+        "name": "Wyoming",
+        "slug": "wyoming-mn"
+      },
+      {
+        "name": "Forest Lake",
+        "slug": "forest-lake-mn"
+      },
+      {
+        "name": "North Branch",
+        "slug": "north-branch-mn"
+      },
+      {
+        "name": "Hugo",
+        "slug": "hugo-mn"
+      }
+    ],
+    "city_type": "lake-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-region",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Chisago City",
+    "slug": "chisago-city-mn",
+    "county": "Chisago County",
+    "population": 5600,
+    "zip_codes": [
+      "55013"
+    ],
+    "landmarks": [
+      "Green Lake",
+      "Chisago Lake",
+      "Moberg Park",
+      "Downtown Chisago City",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Lindstrom",
+        "slug": "lindstrom-mn"
+      },
+      {
+        "name": "Wyoming",
+        "slug": "wyoming-mn"
+      },
+      {
+        "name": "North Branch",
+        "slug": "north-branch-mn"
+      },
+      {
+        "name": "Forest Lake",
+        "slug": "forest-lake-mn"
+      },
+      {
+        "name": "Hugo",
+        "slug": "hugo-mn"
+      }
+    ],
+    "city_type": "lake-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-region",
+    "economy_type": "services-retail",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "steady-growth",
+    "service_environment": "north-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Glencoe",
+    "slug": "glencoe-mn",
+    "county": "McLeod County",
+    "population": 5700,
+    "zip_codes": [
+      "55336"
+    ],
+    "landmarks": [
+      "Oak Leaf Park",
+      "Downtown Glencoe",
+      "McLeod County Fairgrounds",
+      "Community Center",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hutchinson",
+        "slug": "hutchinson-mn"
+      },
+      {
+        "name": "Waconia",
+        "slug": "waconia-mn"
+      },
+      {
+        "name": "Buffalo",
+        "slug": "buffalo-mn"
+      },
+      {
+        "name": "Delano",
+        "slug": "delano-mn"
+      },
+      {
+        "name": "Willmar",
+        "slug": "willmar-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Litchfield",
+    "slug": "litchfield-mn",
+    "county": "Meeker County",
+    "population": 6900,
+    "zip_codes": [
+      "55355"
+    ],
+    "landmarks": [
+      "Lake Ripley",
+      "Central Park",
+      "Downtown Litchfield",
+      "Meeker County Courthouse",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Hutchinson",
+        "slug": "hutchinson-mn"
+      },
+      {
+        "name": "Willmar",
+        "slug": "willmar-mn"
+      },
+      {
+        "name": "Saint Cloud",
+        "slug": "saint-cloud-mn"
+      },
+      {
+        "name": "Alexandria",
+        "slug": "alexandria-mn"
+      },
+      {
+        "name": "Buffalo",
+        "slug": "buffalo-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakes-and-plains",
+    "economy_type": "agriculture-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "central-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Proctor",
+    "slug": "proctor-mn",
+    "county": "Saint Louis County",
+    "population": 3200,
+    "zip_codes": [
+      "55810"
+    ],
+    "landmarks": [
+      "Spirit Mountain Area",
+      "Downtown Proctor",
+      "Railroad Museum",
+      "Community Center",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Duluth",
+        "slug": "duluth-mn"
+      },
+      {
+        "name": "Hermantown",
+        "slug": "hermantown-mn"
+      },
+      {
+        "name": "Cloquet",
+        "slug": "cloquet-mn"
+      },
+      {
+        "name": "Superior",
+        "slug": "superior-wi"
+      },
+      {
+        "name": "Two Harbors",
+        "slug": "two-harbors-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "hills-and-forests",
+    "economy_type": "transportation-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "arrowhead-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Robbinsdale",
+    "slug": "robbinsdale-mn",
+    "county": "Hennepin County",
+    "population": 15000,
+    "zip_codes": [
+      "55422"
+    ],
+    "landmarks": [
+      "Downtown Robbinsdale",
+      "Victory Memorial Parkway",
+      "Lakeview Terrace Park",
+      "North Memorial Campus",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Golden Valley",
+        "slug": "golden-valley-mn"
+      },
+      {
+        "name": "New Hope",
+        "slug": "new-hope-mn"
+      },
+      {
+        "name": "Crystal",
+        "slug": "crystal-mn"
+      },
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      },
+      {
+        "name": "Brooklyn Center",
+        "slug": "brooklyn-center-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "healthcare-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Saint Anthony",
+    "slug": "saint-anthony-mn",
+    "county": "Hennepin County",
+    "population": 9500,
+    "zip_codes": [
+      "55418",
+      "55421"
+    ],
+    "landmarks": [
+      "Silverwood Park",
+      "Central Park",
+      "Saint Anthony Village Center",
+      "Community Center",
+      "City Hall"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Columbia Heights",
+        "slug": "columbia-heights-mn"
+      },
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      },
+      {
+        "name": "Roseville",
+        "slug": "roseville-mn"
+      },
+      {
+        "name": "New Brighton",
+        "slug": "new-brighton-mn"
+      },
+      {
+        "name": "Falcon Heights",
+        "slug": "falcon-heights-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "professional-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Spring Lake Park",
+    "slug": "spring-lake-park-mn",
+    "county": "Anoka County",
+    "population": 6800,
+    "zip_codes": [
+      "55432"
+    ],
+    "landmarks": [
+      "Spring Lake Park Reserve",
+      "Terrace Park",
+      "Community Center",
+      "City Hall",
+      "Main Street Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Fridley",
+        "slug": "fridley-mn"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-mn"
+      },
+      {
+        "name": "Mounds View",
+        "slug": "mounds-view-mn"
+      },
+      {
+        "name": "New Brighton",
+        "slug": "new-brighton-mn"
+      },
+      {
+        "name": "Lino Lakes",
+        "slug": "lino-lakes-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Mounds View",
+    "slug": "mounds-view-mn",
+    "county": "Ramsey County",
+    "population": 14500,
+    "zip_codes": [
+      "55112"
+    ],
+    "landmarks": [
+      "City Hall",
+      "Silver View Park",
+      "Long Lake Regional Park",
+      "Community Center",
+      "County Road I Corridor"
+    ],
+    "nearby_cities": [
+      {
+        "name": "New Brighton",
+        "slug": "new-brighton-mn"
+      },
+      {
+        "name": "Shoreview",
+        "slug": "shoreview-mn"
+      },
+      {
+        "name": "Spring Lake Park",
+        "slug": "spring-lake-park-mn"
+      },
+      {
+        "name": "Arden Hills",
+        "slug": "arden-hills-mn"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-mn"
+      }
+    ],
+    "city_type": "suburban-city",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "professional-services",
+    "housing_profile": "suburban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Mendota",
+    "slug": "mendota-mn",
+    "county": "Dakota County",
+    "population": 6200,
+    "zip_codes": [
+      "55150"
+    ],
+    "landmarks": [
+      "Historic Fort Snelling Area",
+      "Mendota Bridge",
+      "Minnesota River",
+      "Saint Peter Church",
+      "Historic District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Mendota Heights",
+        "slug": "mendota-heights-mn"
+      },
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      },
+      {
+        "name": "Eagan",
+        "slug": "eagan-mn"
+      },
+      {
+        "name": "West Saint Paul",
+        "slug": "west-saint-paul-mn"
+      },
+      {
+        "name": "Bloomington",
+        "slug": "bloomington-mn"
+      }
+    ],
+    "city_type": "historic-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-bluffs",
+    "economy_type": "services-tourism",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Lauderdale",
+    "slug": "lauderdale-mn",
+    "county": "Ramsey County",
+    "population": 5400,
+    "zip_codes": [
+      "55113"
+    ],
+    "landmarks": [
+      "Larpenteur Avenue District",
+      "Community Park",
+      "Lauderdale City Hall",
+      "University Corridor",
+      "Veterans Memorial Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Falcon Heights",
+        "slug": "falcon-heights-mn"
+      },
+      {
+        "name": "Roseville",
+        "slug": "roseville-mn"
+      },
+      {
+        "name": "Saint Paul",
+        "slug": "saint-paul-mn"
+      },
+      {
+        "name": "Minneapolis",
+        "slug": "minneapolis-mn"
+      },
+      {
+        "name": "Saint Anthony",
+        "slug": "saint-anthony-mn"
+      }
+    ],
+    "city_type": "inner-ring-suburb",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "services-retail",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "twin-cities-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Two Harbors",
+    "slug": "two-harbors-mn",
+    "county": "Lake County",
+    "population": 3700,
+    "zip_codes": [
+      "55616"
+    ],
+    "landmarks": [
+      "Lake Superior Shoreline",
+      "Split Rock Lighthouse Area",
+      "Agate Bay",
+      "Downtown Two Harbors",
+      "Lake County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Duluth",
+        "slug": "duluth-mn"
+      },
+      {
+        "name": "Hermantown",
+        "slug": "hermantown-mn"
+      },
+      {
+        "name": "Cloquet",
+        "slug": "cloquet-mn"
+      },
+      {
+        "name": "Silver Bay",
+        "slug": "silver-bay-mn"
+      },
+      {
+        "name": "Superior",
+        "slug": "superior-wi"
+      }
+    ],
+    "city_type": "lakefront-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront-cliffs",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-shore-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Hilltop",
+    "slug": "hilltop-mn",
+    "county": "Anoka County",
+    "population": 5200,
+    "zip_codes": [
+      "55421"
+    ],
+    "landmarks": [
+      "Hilltop Community Center",
+      "Central Avenue Corridor",
+      "Hilltop Park",
+      "Municipal Center",
+      "Commercial District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Columbia Heights",
+        "slug": "columbia-heights-mn"
+      },
+      {
+        "name": "Fridley",
+        "slug": "fridley-mn"
+      },
+      {
+        "name": "Blaine",
+        "slug": "blaine-mn"
+      },
+      {
+        "name": "Spring Lake Park",
+        "slug": "spring-lake-park-mn"
+      },
+      {
+        "name": "New Brighton",
+        "slug": "new-brighton-mn"
+      }
+    ],
+    "city_type": "small-city",
+    "climate_zone": "humid-continental",
+    "terrain": "urban-plains",
+    "economy_type": "retail-services",
+    "housing_profile": "urban-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-metro-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Roseau",
+    "slug": "roseau-mn",
+    "county": "Roseau County",
+    "population": 2800,
+    "zip_codes": [
+      "56751"
+    ],
+    "landmarks": [
+      "Roseau River",
+      "Polaris Industries Campus",
+      "Downtown Roseau",
+      "City Center",
+      "County Courthouse"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Thief River Falls",
+        "slug": "thief-river-falls-mn"
+      },
+      {
+        "name": "Crookston",
+        "slug": "crookston-mn"
+      },
+      {
+        "name": "Bemidji",
+        "slug": "bemidji-mn"
+      },
+      {
+        "name": "East Grand Forks",
+        "slug": "east-grand-forks-mn"
+      },
+      {
+        "name": "Warroad",
+        "slug": "warroad-mn"
+      }
+    ],
+    "city_type": "regional-city",
+    "climate_zone": "humid-continental",
+    "terrain": "river-plains",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northwest-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Warroad",
+    "slug": "warroad-mn",
+    "county": "Roseau County",
+    "population": 1900,
+    "zip_codes": [
+      "56763"
+    ],
+    "landmarks": [
+      "Lake of the Woods",
+      "Warroad River",
+      "Marvin Windows Campus",
+      "Downtown Warroad",
+      "Harbor Area"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Roseau",
+        "slug": "roseau-mn"
+      },
+      {
+        "name": "Thief River Falls",
+        "slug": "thief-river-falls-mn"
+      },
+      {
+        "name": "Bemidji",
+        "slug": "bemidji-mn"
+      },
+      {
+        "name": "East Grand Forks",
+        "slug": "east-grand-forks-mn"
+      },
+      {
+        "name": "Crookston",
+        "slug": "crookston-mn"
+      }
+    ],
+    "city_type": "lakefront-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront",
+    "economy_type": "manufacturing-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "northwest-minnesota-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Silver Bay",
+    "slug": "silver-bay-mn",
+    "county": "Lake County",
+    "population": 1700,
+    "zip_codes": [
+      "55614"
+    ],
+    "landmarks": [
+      "Black Beach",
+      "Lake Superior Shore",
+      "Tettegouche State Park Area",
+      "Downtown Silver Bay",
+      "Marina District"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Two Harbors",
+        "slug": "two-harbors-mn"
+      },
+      {
+        "name": "Duluth",
+        "slug": "duluth-mn"
+      },
+      {
+        "name": "Cloquet",
+        "slug": "cloquet-mn"
+      },
+      {
+        "name": "Hermantown",
+        "slug": "hermantown-mn"
+      },
+      {
+        "name": "Superior",
+        "slug": "superior-wi"
+      }
+    ],
+    "city_type": "lakefront-city",
+    "climate_zone": "humid-continental",
+    "terrain": "lakefront-cliffs",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-shore-market",
+    "property_mix": "mixed-use"
+  },
+  {
+    "city": "Park Rapids",
+    "slug": "park-rapids-mn",
+    "county": "Hubbard County",
+    "population": 4200,
+    "zip_codes": [
+      "56470"
+    ],
+    "landmarks": [
+      "Heartland Trail",
+      "Fish Hook River",
+      "Downtown Park Rapids",
+      "Main Avenue",
+      "Community Center"
+    ],
+    "nearby_cities": [
+      {
+        "name": "Bemidji",
+        "slug": "bemidji-mn"
+      },
+      {
+        "name": "Detroit Lakes",
+        "slug": "detroit-lakes-mn"
+      },
+      {
+        "name": "Grand Rapids",
+        "slug": "grand-rapids-mn"
+      },
+      {
+        "name": "Brainerd",
+        "slug": "brainerd-mn"
+      },
+      {
+        "name": "Moorhead",
+        "slug": "moorhead-mn"
+      }
+    ],
+    "city_type": "tourism-city",
+    "climate_zone": "humid-continental",
+    "terrain": "forests-and-lakes",
+    "economy_type": "tourism-services",
+    "housing_profile": "mixed-residential",
+    "growth_pattern": "stable-growth",
+    "service_environment": "north-minnesota-market",
+    "property_mix": "mixed-use"
+  }
+]

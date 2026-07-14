@@ -1,0 +1,443 @@
+[
+  {
+    "city": "Casper",
+    "slug": "casper-wy",
+    "county": "Natrona County",
+    "population": 59200,
+    "zip_codes": [
+      "82601",
+      "82604",
+      "82609"
+    ],
+    "landmarks": [
+      "National Historic Trails Interpretive Center",
+      "Casper Mountain",
+      "Fort Caspar Museum",
+      "Three Crowns Golf Club",
+      "North Platte River"
+    ],
+    "nearby_cities": [
+      {"name":"Mills","slug":"mills-wy"},
+      {"name":"Evansville","slug":"evansville-wy"},
+      {"name":"Bar Nunn","slug":"bar-nunn-wy"},
+      {"name":"Glenrock","slug":"glenrock-wy"},
+      {"name":"Douglas","slug":"douglas-wy"}
+    ],
+    "city_type":"city",
+    "climate_zone":"semi-arid",
+    "terrain":"high-plains",
+    "economy_type":"energy-healthcare",
+    "housing_profile":"major-urban",
+    "growth_pattern":"steady-growth",
+    "service_environment":"central-wyoming",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Cheyenne",
+    "slug": "cheyenne-wy",
+    "county": "Laramie County",
+    "population": 65100,
+    "zip_codes": [
+      "82001",
+      "82007",
+      "82009"
+    ],
+    "landmarks": [
+      "Wyoming State Capitol",
+      "Cheyenne Frontier Days Old West Museum",
+      "Curt Gowdy State Park",
+      "Cheyenne Botanic Gardens",
+      "Historic Depot Museum"
+    ],
+    "nearby_cities": [
+      {"name":"Ranchettes","slug":"ranchettes-wy"},
+      {"name":"South Greeley","slug":"south-greeley-wy"},
+      {"name":"Fox Farm-College","slug":"fox-farm-college-wy"},
+      {"name":"Burns","slug":"burns-wy"},
+      {"name":"Wellington","slug":"wellington-co"}
+    ],
+    "city_type":"city",
+    "climate_zone":"semi-arid",
+    "terrain":"high-plains",
+    "economy_type":"government-military",
+    "housing_profile":"major-urban",
+    "growth_pattern":"steady-growth",
+    "service_environment":"southeast-wyoming",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Evanston",
+    "slug": "evanston-wy",
+    "county": "Uinta County",
+    "population": 11700,
+    "zip_codes": [
+      "82930"
+    ],
+    "landmarks": [
+      "Bear River State Park",
+      "Chinese Joss House Museum",
+      "Uinta County Museum",
+      "Historic Roundhouse",
+      "Purple Sage Golf Course"
+    ],
+    "nearby_cities": [
+      {"name":"Mountain View","slug":"mountain-view-wy"},
+      {"name":"Lyman","slug":"lyman-wy"},
+      {"name":"Kemmerer","slug":"kemmerer-wy"},
+      {"name":"Park City","slug":"park-city-ut"},
+      {"name":"Coalville","slug":"coalville-ut"}
+    ],
+    "city_type":"city",
+    "climate_zone":"semi-arid",
+    "terrain":"intermountain-basin",
+    "economy_type":"energy-transportation",
+    "housing_profile":"regional-residential",
+    "growth_pattern":"stable-growth",
+    "service_environment":"southwest-wyoming",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Gillette",
+    "slug": "gillette-wy",
+    "county": "Campbell County",
+    "population": 33600,
+    "zip_codes": [
+      "82716",
+      "82718"
+    ],
+    "landmarks": [
+      "CAM-PLEX",
+      "Rockpile Museum",
+      "Dalbey Memorial Park",
+      "Gillette College",
+      "Energy Capital Sports Complex"
+    ],
+    "nearby_cities": [
+      {"name":"Wright","slug":"wright-wy"},
+      {"name":"Buffalo","slug":"buffalo-wy"},
+      {"name":"Sheridan","slug":"sheridan-wy"},
+      {"name":"Newcastle","slug":"newcastle-wy"},
+      {"name":"Moorcroft","slug":"moorcroft-wy"}
+    ],
+    "city_type":"city",
+    "climate_zone":"semi-arid",
+    "terrain":"powder-river-basin",
+    "economy_type":"coal-energy",
+    "housing_profile":"regional-urban",
+    "growth_pattern":"steady-growth",
+    "service_environment":"northeast-wyoming",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Green River",
+    "slug": "green-river-wy",
+    "county": "Sweetwater County",
+    "population": 11700,
+    "zip_codes": [
+      "82935"
+    ],
+    "landmarks": [
+      "Expedition Island Park",
+      "Sweetwater County Historical Museum",
+      "Green River Recreation Center",
+      "Flaming Gorge Way",
+      "Green River State Wildlife Area"
+    ],
+    "nearby_cities": [
+      {"name":"Rock Springs","slug":"rock-springs-wy"},
+      {"name":"Reliance","slug":"reliance-wy"},
+      {"name":"Point of Rocks","slug":"point-of-rocks-wy"},
+      {"name":"Granger","slug":"granger-wy"},
+      {"name":"Farson","slug":"farson-wy"}
+    ],
+    "city_type":"city",
+    "climate_zone":"cold-semi-arid",
+    "terrain":"high-desert",
+    "economy_type":"mining-energy",
+    "housing_profile":"regional-residential",
+    "growth_pattern":"stable-growth",
+    "service_environment":"southwest-wyoming",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Laramie",
+    "slug": "laramie-wy",
+    "county": "Albany County",
+    "population": 31700,
+    "zip_codes": [
+      "82070",
+      "82072"
+    ],
+    "landmarks": [
+      "University of Wyoming",
+      "Wyoming Territorial Prison",
+      "Medicine Bow National Forest",
+      "Laramie Plains Museum",
+      "War Memorial Stadium"
+    ],
+    "nearby_cities": [
+      {"name":"Centennial","slug":"centennial-wy"},
+      {"name":"Cheyenne","slug":"cheyenne-wy"},
+      {"name":"Rock River","slug":"rock-river-wy"},
+      {"name":"Buford","slug":"buford-wy"},
+      {"name":"Rawlins","slug":"rawlins-wy"}
+    ],
+    "city_type":"city",
+    "climate_zone":"cold-semi-arid",
+    "terrain":"high-plains",
+    "economy_type":"education-government",
+    "housing_profile":"college-town",
+    "growth_pattern":"steady-growth",
+    "service_environment":"southeast-wyoming",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Rock Springs",
+    "slug": "rock-springs-wy",
+    "county": "Sweetwater County",
+    "population": 23000,
+    "zip_codes": [
+      "82901",
+      "82902"
+    ],
+    "landmarks": [
+      "Rock Springs Historical Museum",
+      "White Mountain Golf Course",
+      "Bunning Park",
+      "Sweetwater Events Complex",
+      "White Mountain Petroglyphs"
+    ],
+    "nearby_cities": [
+      {"name":"Green River","slug":"green-river-wy"},
+      {"name":"Reliance","slug":"reliance-wy"},
+      {"name":"Point of Rocks","slug":"point-of-rocks-wy"},
+      {"name":"Granger","slug":"granger-wy"},
+      {"name":"Wamsutter","slug":"wamsutter-wy"}
+    ],
+    "city_type":"city",
+    "climate_zone":"cold-semi-arid",
+    "terrain":"high-desert",
+    "economy_type":"energy-mining",
+    "housing_profile":"regional-urban",
+    "growth_pattern":"steady-growth",
+    "service_environment":"southwest-wyoming",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Sheridan",
+    "slug": "sheridan-wy",
+    "county": "Sheridan County",
+    "population": 19200,
+    "zip_codes": [
+      "82801"
+    ],
+    "landmarks": [
+      "Trail End State Historic Site",
+      "Kendrick Park",
+      "Sheridan College",
+      "Bighorn National Forest",
+      "King's Saddlery Museum"
+    ],
+    "nearby_cities": [
+      {"name":"Ranchester","slug":"ranchester-wy"},
+      {"name":"Dayton","slug":"dayton-wy"},
+      {"name":"Buffalo","slug":"buffalo-wy"},
+      {"name":"Story","slug":"story-wy"},
+      {"name":"Big Horn","slug":"big-horn-wy"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"bighorn-foothills",
+    "economy_type":"tourism-healthcare",
+    "housing_profile":"regional-urban",
+    "growth_pattern":"steady-growth",
+    "service_environment":"north-central-wyoming",
+    "property_mix":"mixed-use"
+  },
+{
+  "city": "Cody",
+  "slug": "cody-wy",
+  "county": "Park County",
+  "population": 10300,
+  "zip_codes": [
+    "82414"
+  ],
+  "landmarks": [
+    "Buffalo Bill Center of the West",
+    "Old Trail Town",
+    "Cody Rodeo Grounds",
+    "Shoshone River",
+    "Yellowstone Regional Airport"
+  ],
+  "nearby_cities": [
+    {"name":"Powell","slug":"powell-wy"},
+    {"name":"Lovell","slug":"lovell-wy"},
+    {"name":"Meeteetse","slug":"meeteetse-wy"},
+    {"name":"Greybull","slug":"greybull-wy"},
+    {"name":"Red Lodge","slug":"red-lodge-mt"}
+  ],
+  "city_type":"city",
+  "climate_zone":"cold-semi-arid",
+  "terrain":"bighorn-basin",
+  "economy_type":"tourism-services",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"northwest-wyoming",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Douglas",
+  "slug": "douglas-wy",
+  "county": "Converse County",
+  "population": 6300,
+  "zip_codes": [
+    "82633"
+  ],
+  "landmarks": [
+    "Wyoming State Fairgrounds",
+    "Ayres Natural Bridge",
+    "Douglas Railroad Museum",
+    "Bartling Park",
+    "North Platte River"
+  ],
+  "nearby_cities": [
+    {"name":"Glenrock","slug":"glenrock-wy"},
+    {"name":"Casper","slug":"casper-wy"},
+    {"name":"Wheatland","slug":"wheatland-wy"},
+    {"name":"Guernsey","slug":"guernsey-wy"},
+    {"name":"Lusk","slug":"lusk-wy"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"high-plains",
+  "economy_type":"agriculture-energy",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"east-central-wyoming",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Jackson",
+  "slug": "jackson-wy",
+  "county": "Teton County",
+  "population": 10800,
+  "zip_codes": [
+    "83001"
+  ],
+  "landmarks": [
+    "Jackson Town Square",
+    "National Elk Refuge",
+    "Snow King Mountain",
+    "Jackson Hole Historical Society",
+    "Grand Teton National Park"
+  ],
+  "nearby_cities": [
+    {"name":"Wilson","slug":"wilson-wy"},
+    {"name":"Teton Village","slug":"teton-village-wy"},
+    {"name":"Alpine","slug":"alpine-wy"},
+    {"name":"Victor","slug":"victor-id"},
+    {"name":"Driggs","slug":"driggs-id"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"mountain-valley",
+  "economy_type":"tourism-hospitality",
+  "housing_profile":"resort-town",
+  "growth_pattern":"steady-growth",
+  "service_environment":"jackson-hole",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Powell",
+  "slug": "powell-wy",
+  "county": "Park County",
+  "population": 6400,
+  "zip_codes": [
+    "82435"
+  ],
+  "landmarks": [
+    "Northwest College",
+    "Homesteader Museum",
+    "Washington Park",
+    "Heart Mountain Interpretive Center",
+    "Powell Golf Club"
+  ],
+  "nearby_cities": [
+    {"name":"Cody","slug":"cody-wy"},
+    {"name":"Lovell","slug":"lovell-wy"},
+    {"name":"Greybull","slug":"greybull-wy"},
+    {"name":"Basin","slug":"basin-wy"},
+    {"name":"Worland","slug":"worland-wy"}
+  ],
+  "city_type":"city",
+  "climate_zone":"cold-semi-arid",
+  "terrain":"bighorn-basin",
+  "economy_type":"agriculture-education",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"northwest-wyoming",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Riverton",
+  "slug": "riverton-wy",
+  "county": "Fremont County",
+  "population": 10700,
+  "zip_codes": [
+    "82501"
+  ],
+  "landmarks": [
+    "Wind River Heritage Center",
+    "Riverton City Park",
+    "Central Wyoming College",
+    "Wind River",
+    "Riverton Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Lander","slug":"lander-wy"},
+    {"name":"Shoshoni","slug":"shoshoni-wy"},
+    {"name":"Pavillion","slug":"pavillion-wy"},
+    {"name":"Hudson","slug":"hudson-wy"},
+    {"name":"Thermopolis","slug":"thermopolis-wy"}
+  ],
+  "city_type":"city",
+  "climate_zone":"cold-semi-arid",
+  "terrain":"wind-river-basin",
+  "economy_type":"agriculture-healthcare",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-wyoming",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Torrington",
+  "slug": "torrington-wy",
+  "county": "Goshen County",
+  "population": 6300,
+  "zip_codes": [
+    "82240"
+  ],
+  "landmarks": [
+    "Eastern Wyoming College",
+    "Pioneer Park",
+    "Goshen County Museum",
+    "North Platte River",
+    "Torrington Livestock Markets"
+  ],
+  "nearby_cities": [
+    {"name":"Lingle","slug":"lingle-wy"},
+    {"name":"Wheatland","slug":"wheatland-wy"},
+    {"name":"Scottsbluff","slug":"scottsbluff-ne"},
+    {"name":"Gering","slug":"gering-ne"},
+    {"name":"Mitchell","slug":"mitchell-ne"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"high-plains",
+  "economy_type":"agriculture-services",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-wyoming",
+  "property_mix":"mixed-use"
+}
+]

@@ -1,0 +1,1019 @@
+[
+
+{
+  "city": "Albuquerque",
+  "slug": "albuquerque-nm",
+  "county": "Bernalillo County",
+  "population": 565000,
+  "zip_codes": ["87101","87102","87104","87105","87106"],
+  "landmarks": [
+    "Old Town Albuquerque",
+    "Sandia Peak Tramway",
+    "University of New Mexico",
+    "ABQ BioPark",
+    "Petroglyph National Monument"
+  ],
+  "nearby_cities": [
+    {"name":"Rio Rancho","slug":"rio-rancho-nm"},
+    {"name":"Bernalillo","slug":"bernalillo-nm"},
+    {"name":"Los Lunas","slug":"los-lunas-nm"},
+    {"name":"Belen","slug":"belen-nm"},
+    {"name":"Corrales","slug":"corrales-nm"}
+  ],
+  "city_type": "major-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "government-technology",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Las Cruces",
+  "slug": "las-cruces-nm",
+  "county": "Dona Ana County",
+  "population": 115000,
+  "zip_codes": ["88001","88005","88007","88011","88012"],
+  "landmarks": [
+    "New Mexico State University",
+    "Mesilla Plaza",
+    "Dripping Springs Natural Area",
+    "Organ Mountains",
+    "Downtown Las Cruces"
+  ],
+  "nearby_cities": [
+    {"name":"Sunland Park","slug":"sunland-park-nm"},
+    {"name":"Deming","slug":"deming-nm"},
+    {"name":"Chaparral","slug":"chaparral-nm"},
+    {"name":"Anthony","slug":"anthony-nm"},
+    {"name":"Mesilla","slug":"mesilla-nm"}
+  ],
+  "city_type": "major-city",
+  "climate_zone": "desert",
+  "terrain": "desert-valley",
+  "economy_type": "education-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "southern-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Rio Rancho",
+  "slug": "rio-rancho-nm",
+  "county": "Sandoval County",
+  "population": 110000,
+  "zip_codes": ["87124","87144"],
+  "landmarks": [
+    "A Park Above",
+    "Rio Rancho Events Center",
+    "City Center",
+    "Cabezon Park",
+    "Intel Campus Area"
+  ],
+  "nearby_cities": [
+    {"name":"Albuquerque","slug":"albuquerque-nm"},
+    {"name":"Bernalillo","slug":"bernalillo-nm"},
+    {"name":"Corrales","slug":"corrales-nm"},
+    {"name":"Los Lunas","slug":"los-lunas-nm"},
+    {"name":"Belen","slug":"belen-nm"}
+  ],
+  "city_type": "major-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "technology-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Santa Fe",
+  "slug": "santa-fe-nm",
+  "county": "Santa Fe County",
+  "population": 89000,
+  "zip_codes": ["87501","87505","87507","87508"],
+  "landmarks": [
+    "Santa Fe Plaza",
+    "Georgia O'Keeffe Museum",
+    "Loretto Chapel",
+    "Canyon Road",
+    "Museum Hill"
+  ],
+  "nearby_cities": [
+    {"name":"Los Alamos","slug":"los-alamos-nm"},
+    {"name":"Espanola","slug":"espanola-nm"},
+    {"name":"Pojoaque","slug":"pojoaque-nm"},
+    {"name":"Taos","slug":"taos-nm"},
+    {"name":"Bernalillo","slug":"bernalillo-nm"}
+  ],
+  "city_type": "capital-city",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-foothills",
+  "economy_type": "government-tourism",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "capital-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Roswell",
+  "slug": "roswell-nm",
+  "county": "Chaves County",
+  "population": 48000,
+  "zip_codes": ["88201","88203"],
+  "landmarks": [
+    "International UFO Museum",
+    "Bottomless Lakes State Park",
+    "Spring River Park",
+    "Downtown Roswell",
+    "Roswell Convention Center"
+  ],
+  "nearby_cities": [
+    {"name":"Artesia","slug":"artesia-nm"},
+    {"name":"Carlsbad","slug":"carlsbad-nm"},
+    {"name":"Lovington","slug":"lovington-nm"},
+    {"name":"Hobbs","slug":"hobbs-nm"},
+    {"name":"Portales","slug":"portales-nm"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "energy-agriculture",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southeast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Farmington",
+  "slug": "farmington-nm",
+  "county": "San Juan County",
+  "population": 46000,
+  "zip_codes": ["87401","87402"],
+  "landmarks": [
+    "Animas River Trail",
+    "Berg Park",
+    "Farmington Museum",
+    "Pinon Hills Golf Course",
+    "Downtown Farmington"
+  ],
+  "nearby_cities": [
+    {"name":"Bloomfield","slug":"bloomfield-nm"},
+    {"name":"Aztec","slug":"aztec-nm"},
+    {"name":"Shiprock","slug":"shiprock-nm"},
+    {"name":"Gallup","slug":"gallup-nm"},
+    {"name":"Durango","slug":"durango-co"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plateau",
+  "economy_type": "energy-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northwest-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Hobbs",
+  "slug": "hobbs-nm",
+  "county": "Lea County",
+  "population": 41000,
+  "zip_codes": ["88240","88242"],
+  "landmarks": [
+    "Zia Park Casino",
+    "Western Heritage Museum",
+    "Green Meadow Lake",
+    "Downtown Hobbs",
+    "Lea County Event Center"
+  ],
+  "nearby_cities": [
+    {"name":"Lovington","slug":"lovington-nm"},
+    {"name":"Roswell","slug":"roswell-nm"},
+    {"name":"Artesia","slug":"artesia-nm"},
+    {"name":"Carlsbad","slug":"carlsbad-nm"},
+    {"name":"Portales","slug":"portales-nm"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "oil-gas",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "energy-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Clovis",
+  "slug": "clovis-nm",
+  "county": "Curry County",
+  "population": 38000,
+  "zip_codes": ["88101"],
+  "landmarks": [
+    "Hillcrest Park Zoo",
+    "Norman Petty Studios",
+    "North Plains Mall",
+    "Downtown Clovis",
+    "Cannon Air Force Base Area"
+  ],
+  "nearby_cities": [
+    {"name":"Portales","slug":"portales-nm"},
+    {"name":"Roswell","slug":"roswell-nm"},
+    {"name":"Lovington","slug":"lovington-nm"},
+    {"name":"Hobbs","slug":"hobbs-nm"},
+    {"name":"Muleshoe","slug":"muleshoe-tx"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "military-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "eastern-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Alamogordo",
+  "slug": "alamogordo-nm",
+  "county": "Otero County",
+  "population": 32000,
+  "zip_codes": ["88310"],
+  "landmarks": [
+    "White Sands National Park",
+    "New Mexico Museum of Space History",
+    "Alameda Park Zoo",
+    "Downtown Alamogordo",
+    "Oliver Lee Memorial State Park"
+  ],
+  "nearby_cities": [
+    {"name":"Las Cruces","slug":"las-cruces-nm"},
+    {"name":"Chaparral","slug":"chaparral-nm"},
+    {"name":"Sunland Park","slug":"sunland-park-nm"},
+    {"name":"Ruidoso","slug":"ruidoso-nm"},
+    {"name":"Cloudcroft","slug":"cloudcroft-nm"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "desert",
+  "terrain": "basin-valley",
+  "economy_type": "military-tourism",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southern-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Carlsbad",
+  "slug": "carlsbad-nm",
+  "county": "Eddy County",
+  "population": 32000,
+  "zip_codes": ["88220"],
+  "landmarks": [
+    "Carlsbad Caverns National Park",
+    "Living Desert Zoo",
+    "Pecos River Walk",
+    "Lake Carlsbad",
+    "Downtown Carlsbad"
+  ],
+  "nearby_cities": [
+    {"name":"Artesia","slug":"artesia-nm"},
+    {"name":"Roswell","slug":"roswell-nm"},
+    {"name":"Hobbs","slug":"hobbs-nm"},
+    {"name":"Lovington","slug":"lovington-nm"},
+    {"name":"Alamogordo","slug":"alamogordo-nm"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "desert",
+  "terrain": "river-valley",
+  "economy_type": "energy-tourism",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "southeast-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Gallup",
+  "slug": "gallup-nm",
+  "county": "McKinley County",
+  "population": 22000,
+  "zip_codes": ["87301"],
+  "landmarks": [
+    "Gallup Cultural Center",
+    "Red Rock Park",
+    "Historic Route 66",
+    "Downtown Gallup",
+    "Rex Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Grants","slug":"grants-nm"},
+    {"name":"Farmington","slug":"farmington-nm"},
+    {"name":"Window Rock","slug":"window-rock-az"},
+    {"name":"Bloomfield","slug":"bloomfield-nm"},
+    {"name":"Aztec","slug":"aztec-nm"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plateau",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northwest-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Los Lunas",
+  "slug": "los-lunas-nm",
+  "county": "Valencia County",
+  "population": 18000,
+  "zip_codes": ["87031"],
+  "landmarks": [
+    "Daniel Fernandez Park",
+    "Los Lunas Museum of Heritage",
+    "Valencia County Fairgrounds",
+    "Main Street District",
+    "Rio Grande Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Belen","slug":"belen-nm"},
+    {"name":"Albuquerque","slug":"albuquerque-nm"},
+    {"name":"Rio Rancho","slug":"rio-rancho-nm"},
+    {"name":"Bernalillo","slug":"bernalillo-nm"},
+    {"name":"Corrales","slug":"corrales-nm"}
+  ],
+  "city_type": "growing-village",
+  "climate_zone": "semi-arid",
+  "terrain": "river-valley",
+  "economy_type": "logistics-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sunland Park",
+  "slug": "sunland-park-nm",
+  "county": "Dona Ana County",
+  "population": 17000,
+  "zip_codes": ["88063"],
+  "landmarks": [
+    "Sunland Park Racetrack",
+    "Western Playland",
+    "McNutt Road Corridor",
+    "Rio Grande Area",
+    "City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Las Cruces","slug":"las-cruces-nm"},
+    {"name":"Chaparral","slug":"chaparral-nm"},
+    {"name":"Anthony","slug":"anthony-nm"},
+    {"name":"El Paso","slug":"el-paso-tx"},
+    {"name":"Alamogordo","slug":"alamogordo-nm"}
+  ],
+  "city_type": "border-city",
+  "climate_zone": "desert",
+  "terrain": "desert-valley",
+  "economy_type": "gaming-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "southern-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Deming",
+  "slug": "deming-nm",
+  "county": "Luna County",
+  "population": 15000,
+  "zip_codes": ["88030"],
+  "landmarks": [
+    "Luna Mimbres Museum",
+    "Rockhound State Park",
+    "Deming Municipal Airport",
+    "Downtown Deming",
+    "Courthouse Park"
+  ],
+  "nearby_cities": [
+    {"name":"Las Cruces","slug":"las-cruces-nm"},
+    {"name":"Silver City","slug":"silver-city-nm"},
+    {"name":"Sunland Park","slug":"sunland-park-nm"},
+    {"name":"Chaparral","slug":"chaparral-nm"},
+    {"name":"Alamogordo","slug":"alamogordo-nm"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "desert",
+  "terrain": "desert-basin",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southwest-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Chaparral",
+  "slug": "chaparral-nm",
+  "county": "Dona Ana County",
+  "population": 15000,
+  "zip_codes": ["88081"],
+  "landmarks": [
+    "Chaparral Community Center",
+    "Desert Trails Park",
+    "O'Hara Road Corridor",
+    "Chaparral Plaza",
+    "Border Region Area"
+  ],
+  "nearby_cities": [
+    {"name":"Sunland Park","slug":"sunland-park-nm"},
+    {"name":"Las Cruces","slug":"las-cruces-nm"},
+    {"name":"Alamogordo","slug":"alamogordo-nm"},
+    {"name":"Anthony","slug":"anthony-nm"},
+    {"name":"El Paso","slug":"el-paso-tx"}
+  ],
+  "city_type": "border-community",
+  "climate_zone": "desert",
+  "terrain": "desert-plain",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "southern-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Artesia",
+  "slug": "artesia-nm",
+  "county": "Eddy County",
+  "population": 13000,
+  "zip_codes": ["88210"],
+  "landmarks": [
+    "Main Street Artesia",
+    "Artesia Historical Museum",
+    "Bulldog Bowl",
+    "Jaycee Park",
+    "Eddy County Fairgrounds"
+  ],
+  "nearby_cities": [
+    {"name":"Carlsbad","slug":"carlsbad-nm"},
+    {"name":"Roswell","slug":"roswell-nm"},
+    {"name":"Hobbs","slug":"hobbs-nm"},
+    {"name":"Lovington","slug":"lovington-nm"},
+    {"name":"Alamogordo","slug":"alamogordo-nm"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "oil-gas",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "energy-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Portales",
+  "slug": "portales-nm",
+  "county": "Roosevelt County",
+  "population": 12000,
+  "zip_codes": ["88130"],
+  "landmarks": [
+    "Eastern New Mexico University",
+    "Roosevelt County Museum",
+    "Portales City Park",
+    "Downtown Portales",
+    "Blackwater Draw Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Clovis","slug":"clovis-nm"},
+    {"name":"Roswell","slug":"roswell-nm"},
+    {"name":"Lovington","slug":"lovington-nm"},
+    {"name":"Hobbs","slug":"hobbs-nm"},
+    {"name":"Artesia","slug":"artesia-nm"}
+  ],
+  "city_type": "college-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "education-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "eastern-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lovington",
+  "slug": "lovington-nm",
+  "county": "Lea County",
+  "population": 11000,
+  "zip_codes": ["88260"],
+  "landmarks": [
+    "Lea County Museum",
+    "Sixth Street District",
+    "Veterans Memorial Park",
+    "Downtown Lovington",
+    "City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Hobbs","slug":"hobbs-nm"},
+    {"name":"Portales","slug":"portales-nm"},
+    {"name":"Roswell","slug":"roswell-nm"},
+    {"name":"Artesia","slug":"artesia-nm"},
+    {"name":"Carlsbad","slug":"carlsbad-nm"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "oil-gas",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "energy-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Silver City",
+  "slug": "silver-city-nm",
+  "county": "Grant County",
+  "population": 10000,
+  "zip_codes": ["88061","88062"],
+  "landmarks": [
+    "Historic Downtown Silver City",
+    "Western New Mexico University",
+    "Big Ditch Park",
+    "Gila National Forest",
+    "Grant County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Deming","slug":"deming-nm"},
+    {"name":"Las Cruces","slug":"las-cruces-nm"},
+    {"name":"Truth or Consequences","slug":"truth-or-consequences-nm"},
+    {"name":"Alamogordo","slug":"alamogordo-nm"},
+    {"name":"Socorro","slug":"socorro-nm"}
+  ],
+  "city_type": "historic-city",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-foothills",
+  "economy_type": "education-tourism",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southwest-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Bloomfield",
+  "slug": "bloomfield-nm",
+  "county": "San Juan County",
+  "population": 8000,
+  "zip_codes": ["87413"],
+  "landmarks": [
+    "Salmon Ruins",
+    "Bloomfield Cultural Center",
+    "Veterans Memorial Park",
+    "Main Street District",
+    "San Juan River Area"
+  ],
+  "nearby_cities": [
+    {"name":"Farmington","slug":"farmington-nm"},
+    {"name":"Aztec","slug":"aztec-nm"},
+    {"name":"Gallup","slug":"gallup-nm"},
+    {"name":"Shiprock","slug":"shiprock-nm"},
+    {"name":"Grants","slug":"grants-nm"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "river-valley",
+  "economy_type": "energy-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northwest-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Bernalillo",
+  "slug": "bernalillo-nm",
+  "county": "Sandoval County",
+  "population": 11000,
+  "zip_codes": ["87004"],
+  "landmarks": [
+    "Coronado Historic Site",
+    "Jemez River",
+    "Bernalillo Rail Runner Station",
+    "Downtown Bernalillo",
+    "Rotary Park"
+  ],
+  "nearby_cities": [
+    {"name":"Albuquerque","slug":"albuquerque-nm"},
+    {"name":"Rio Rancho","slug":"rio-rancho-nm"},
+    {"name":"Corrales","slug":"corrales-nm"},
+    {"name":"Los Lunas","slug":"los-lunas-nm"},
+    {"name":"Santa Fe","slug":"santa-fe-nm"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "semi-arid",
+  "terrain": "river-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Socorro",
+  "slug": "socorro-nm",
+  "county": "Socorro County",
+  "population": 8700,
+  "zip_codes": ["87801"],
+  "landmarks": [
+    "New Mexico Tech",
+    "Bosque del Apache Area",
+    "Socorro Plaza",
+    "Mineral Museum",
+    "Rio Grande Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Belen","slug":"belen-nm"},
+    {"name":"Los Lunas","slug":"los-lunas-nm"},
+    {"name":"Truth or Consequences","slug":"truth-or-consequences-nm"},
+    {"name":"Albuquerque","slug":"albuquerque-nm"},
+    {"name":"Silver City","slug":"silver-city-nm"}
+  ],
+  "city_type": "college-city",
+  "climate_zone": "semi-arid",
+  "terrain": "river-valley",
+  "economy_type": "education-research",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Belen",
+  "slug": "belen-nm",
+  "county": "Valencia County",
+  "population": 7300,
+  "zip_codes": ["87002"],
+  "landmarks": [
+    "Harvey House Museum",
+    "Belen Rail Yard",
+    "Anna Becker Park",
+    "Downtown Belen",
+    "Rio Grande Area"
+  ],
+  "nearby_cities": [
+    {"name":"Los Lunas","slug":"los-lunas-nm"},
+    {"name":"Albuquerque","slug":"albuquerque-nm"},
+    {"name":"Socorro","slug":"socorro-nm"},
+    {"name":"Rio Rancho","slug":"rio-rancho-nm"},
+    {"name":"Bernalillo","slug":"bernalillo-nm"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "river-valley",
+  "economy_type": "transportation-logistics",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Espanola",
+  "slug": "espanola-nm",
+  "county": "Rio Arriba County",
+  "population": 10500,
+  "zip_codes": ["87532"],
+  "landmarks": [
+    "Santa Cruz Plaza",
+    "Bond House Museum",
+    "Rio Grande Valley",
+    "Northern New Mexico College",
+    "Downtown Espanola"
+  ],
+  "nearby_cities": [
+    {"name":"Santa Fe","slug":"santa-fe-nm"},
+    {"name":"Los Alamos","slug":"los-alamos-nm"},
+    {"name":"Taos","slug":"taos-nm"},
+    {"name":"Bernalillo","slug":"bernalillo-nm"},
+    {"name":"Pojoaque","slug":"pojoaque-nm"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "river-valley",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northern-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Los Alamos",
+  "slug": "los-alamos-nm",
+  "county": "Los Alamos County",
+  "population": 13000,
+  "zip_codes": ["87544"],
+  "landmarks": [
+    "Los Alamos National Laboratory",
+    "Bandelier National Monument",
+    "Ashley Pond Park",
+    "Bradbury Science Museum",
+    "Downtown Los Alamos"
+  ],
+  "nearby_cities": [
+    {"name":"Santa Fe","slug":"santa-fe-nm"},
+    {"name":"Espanola","slug":"espanola-nm"},
+    {"name":"Taos","slug":"taos-nm"},
+    {"name":"Bernalillo","slug":"bernalillo-nm"},
+    {"name":"Rio Rancho","slug":"rio-rancho-nm"}
+  ],
+  "city_type": "science-city",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-plateau",
+  "economy_type": "research-technology",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northern-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Corrales",
+  "slug": "corrales-nm",
+  "county": "Sandoval County",
+  "population": 8600,
+  "zip_codes": ["87048"],
+  "landmarks": [
+    "Corrales Bosque Preserve",
+    "Casa San Ysidro",
+    "Village Center",
+    "Rio Grande Bosque",
+    "Corrales Recreation Area"
+  ],
+  "nearby_cities": [
+    {"name":"Albuquerque","slug":"albuquerque-nm"},
+    {"name":"Rio Rancho","slug":"rio-rancho-nm"},
+    {"name":"Bernalillo","slug":"bernalillo-nm"},
+    {"name":"Los Lunas","slug":"los-lunas-nm"},
+    {"name":"Belen","slug":"belen-nm"}
+  ],
+  "city_type": "village",
+  "climate_zone": "semi-arid",
+  "terrain": "river-valley",
+  "economy_type": "agriculture-services",
+  "housing_profile": "rural-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Taos",
+  "slug": "taos-nm",
+  "county": "Taos County",
+  "population": 6600,
+  "zip_codes": ["87571"],
+  "landmarks": [
+    "Taos Plaza",
+    "Taos Pueblo",
+    "Rio Grande Gorge Bridge",
+    "Kit Carson Park",
+    "Taos Ski Valley Area"
+  ],
+  "nearby_cities": [
+    {"name":"Espanola","slug":"espanola-nm"},
+    {"name":"Los Alamos","slug":"los-alamos-nm"},
+    {"name":"Santa Fe","slug":"santa-fe-nm"},
+    {"name":"Bernalillo","slug":"bernalillo-nm"},
+    {"name":"Angel Fire","slug":"angel-fire-nm"}
+  ],
+  "city_type": "tourism-city",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-art",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northern-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Grants",
+  "slug": "grants-nm",
+  "county": "Cibola County",
+  "population": 9000,
+  "zip_codes": ["87020"],
+  "landmarks": [
+    "El Malpais National Monument",
+    "New Mexico Mining Museum",
+    "Route 66 District",
+    "Downtown Grants",
+    "Bluewater Lake Area"
+  ],
+  "nearby_cities": [
+    {"name":"Gallup","slug":"gallup-nm"},
+    {"name":"Albuquerque","slug":"albuquerque-nm"},
+    {"name":"Rio Rancho","slug":"rio-rancho-nm"},
+    {"name":"Bloomfield","slug":"bloomfield-nm"},
+    {"name":"Farmington","slug":"farmington-nm"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plateau",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "western-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Raton",
+  "slug": "raton-nm",
+  "county": "Colfax County",
+  "population": 6100,
+  "zip_codes": ["87740"],
+  "landmarks": [
+    "Raton Pass",
+    "Sugarite Canyon State Park",
+    "Shuler Theater",
+    "Downtown Raton",
+    "Raton Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Taos","slug":"taos-nm"},
+    {"name":"Espanola","slug":"espanola-nm"},
+    {"name":"Santa Fe","slug":"santa-fe-nm"},
+    {"name":"Los Alamos","slug":"los-alamos-nm"},
+    {"name":"Trinidad","slug":"trinidad-co"}
+  ],
+  "city_type": "mountain-city",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-foothills",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northeast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Truth or Consequences",
+  "slug": "truth-or-consequences-nm",
+  "county": "Sierra County",
+  "population": 6100,
+  "zip_codes": ["87901"],
+  "landmarks": [
+    "Elephant Butte Lake",
+    "Riverbend Hot Springs",
+    "Veterans Memorial Park",
+    "Downtown Truth or Consequences",
+    "Rio Grande Area"
+  ],
+  "nearby_cities": [
+    {"name":"Socorro","slug":"socorro-nm"},
+    {"name":"Silver City","slug":"silver-city-nm"},
+    {"name":"Las Cruces","slug":"las-cruces-nm"},
+    {"name":"Deming","slug":"deming-nm"},
+    {"name":"Alamogordo","slug":"alamogordo-nm"}
+  ],
+  "city_type": "spa-city",
+  "climate_zone": "desert",
+  "terrain": "river-valley",
+  "economy_type": "tourism-hospitality",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-central-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Anthony",
+  "slug": "anthony-nm",
+  "county": "Dona Ana County",
+  "population": 9200,
+  "zip_codes": ["88021"],
+  "landmarks": [
+    "Anthony Plaza",
+    "WAGGS Park",
+    "Rio Grande Corridor",
+    "Veterans Memorial",
+    "Downtown Anthony"
+  ],
+  "nearby_cities": [
+    {"name":"Sunland Park","slug":"sunland-park-nm"},
+    {"name":"Chaparral","slug":"chaparral-nm"},
+    {"name":"Las Cruces","slug":"las-cruces-nm"},
+    {"name":"El Paso","slug":"el-paso-tx"},
+    {"name":"Alamogordo","slug":"alamogordo-nm"}
+  ],
+  "city_type": "border-city",
+  "climate_zone": "desert",
+  "terrain": "river-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "southern-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Aztec",
+  "slug": "aztec-nm",
+  "county": "San Juan County",
+  "population": 6500,
+  "zip_codes": ["87410"],
+  "landmarks": [
+    "Aztec Ruins National Monument",
+    "Aztec Museum",
+    "Tiger Sports Complex",
+    "Historic Downtown",
+    "Animas River"
+  ],
+  "nearby_cities": [
+    {"name":"Farmington","slug":"farmington-nm"},
+    {"name":"Bloomfield","slug":"bloomfield-nm"},
+    {"name":"Gallup","slug":"gallup-nm"},
+    {"name":"Grants","slug":"grants-nm"},
+    {"name":"Durango","slug":"durango-co"}
+  ],
+  "city_type": "historic-city",
+  "climate_zone": "semi-arid",
+  "terrain": "river-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northwest-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Shiprock",
+  "slug": "shiprock-nm",
+  "county": "San Juan County",
+  "population": 8300,
+  "zip_codes": ["87420"],
+  "landmarks": [
+    "Shiprock Peak",
+    "Navajo Nation Government Area",
+    "Northern Navajo Medical Center",
+    "Red Rock Area",
+    "US 491 Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Farmington","slug":"farmington-nm"},
+    {"name":"Bloomfield","slug":"bloomfield-nm"},
+    {"name":"Aztec","slug":"aztec-nm"},
+    {"name":"Gallup","slug":"gallup-nm"},
+    {"name":"Durango","slug":"durango-co"}
+  ],
+  "city_type": "regional-community",
+  "climate_zone": "semi-arid",
+  "terrain": "plateau",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northwest-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Pojoaque",
+  "slug": "pojoaque-nm",
+  "county": "Santa Fe County",
+  "population": 6200,
+  "zip_codes": ["87506"],
+  "landmarks": [
+    "Buffalo Thunder Resort",
+    "Pojoaque Pueblo",
+    "Cities of Gold Casino",
+    "US 84 Corridor",
+    "Pojoaque Valley"
+  ],
+  "nearby_cities": [
+    {"name":"Santa Fe","slug":"santa-fe-nm"},
+    {"name":"Espanola","slug":"espanola-nm"},
+    {"name":"Los Alamos","slug":"los-alamos-nm"},
+    {"name":"Taos","slug":"taos-nm"},
+    {"name":"Bernalillo","slug":"bernalillo-nm"}
+  ],
+  "city_type": "regional-community",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "tourism-gaming",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northern-market",
+  "property_mix": "mixed-use"
+}
+]

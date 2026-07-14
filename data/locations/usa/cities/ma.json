@@ -1,0 +1,5293 @@
+[
+
+{
+  "city": "Attleboro",
+  "slug": "attleboro-ma",
+  "county": "Bristol County",
+  "population": 46000,
+  "zip_codes": ["02703"],
+  "landmarks": [
+    "Capron Park Zoo",
+    "Attleboro Arts Museum",
+    "LaSalette Shrine",
+    "Downtown Attleboro",
+    "Poncin-Hewitt Recreation Complex"
+  ],
+  "nearby_cities": [
+    {"name":"North Attleborough","slug":"north-attleborough-ma"},
+    {"name":"Pawtucket","slug":"pawtucket-ri"},
+    {"name":"Providence","slug":"providence-ri"},
+    {"name":"Mansfield","slug":"mansfield-ma"},
+    {"name":"Taunton","slug":"taunton-ma"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "healthcare-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-coast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Barnstable",
+  "slug": "barnstable-ma",
+  "county": "Barnstable County",
+  "population": 49000,
+  "zip_codes": ["02601","02630","02632","02635","02648"],
+  "landmarks": [
+    "Hyannis Harbor",
+    "John F. Kennedy Hyannis Museum",
+    "Craigville Beach",
+    "Cape Cod Maritime Museum",
+    "Main Street Hyannis"
+  ],
+  "nearby_cities": [
+    {"name":"Yarmouth","slug":"yarmouth-ma"},
+    {"name":"Falmouth","slug":"falmouth-ma"},
+    {"name":"Sandwich","slug":"sandwich-ma"},
+    {"name":"Dennis","slug":"dennis-ma"},
+    {"name":"Mashpee","slug":"mashpee-ma"}
+  ],
+  "city_type": "coastal-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plains",
+  "economy_type": "tourism-services",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "seasonal-growth",
+  "service_environment": "cape-cod-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Boston",
+  "slug": "boston-ma",
+  "county": "Suffolk County",
+  "population": 675000,
+  "zip_codes": ["02108","02109","02110","02111","02116"],
+  "landmarks": [
+    "Fenway Park",
+    "Boston Common",
+    "Faneuil Hall",
+    "TD Garden",
+    "Harvard Bridge"
+  ],
+  "nearby_cities": [
+    {"name":"Cambridge","slug":"cambridge-ma"},
+    {"name":"Somerville","slug":"somerville-ma"},
+    {"name":"Brookline","slug":"brookline-ma"},
+    {"name":"Quincy","slug":"quincy-ma"},
+    {"name":"Newton","slug":"newton-ma"}
+  ],
+  "city_type": "major-metro-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-harbor",
+  "economy_type": "finance-education",
+  "housing_profile": "urban-high-density",
+  "growth_pattern": "metro-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Brockton",
+  "slug": "brockton-ma",
+  "county": "Plymouth County",
+  "population": 105000,
+  "zip_codes": ["02301","02302"],
+  "landmarks": [
+    "DW Field Park",
+    "Brockton Fairgrounds",
+    "Campanelli Stadium",
+    "Brockton Historical Society",
+    "Downtown Brockton"
+  ],
+  "nearby_cities": [
+    {"name":"Randolph","slug":"randolph-ma"},
+    {"name":"Stoughton","slug":"stoughton-ma"},
+    {"name":"Abington","slug":"abington-ma"},
+    {"name":"Bridgewater","slug":"bridgewater-ma"},
+    {"name":"Taunton","slug":"taunton-ma"}
+  ],
+  "city_type": "regional-hub-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "healthcare-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Cambridge",
+  "slug": "cambridge-ma",
+  "county": "Middlesex County",
+  "population": 118000,
+  "zip_codes": ["02138","02139","02140","02141","02142"],
+  "landmarks": [
+    "Harvard University",
+    "MIT",
+    "Harvard Square",
+    "Kendall Square",
+    "Charles River Esplanade"
+  ],
+  "nearby_cities": [
+    {"name":"Boston","slug":"boston-ma"},
+    {"name":"Somerville","slug":"somerville-ma"},
+    {"name":"Brookline","slug":"brookline-ma"},
+    {"name":"Newton","slug":"newton-ma"},
+    {"name":"Watertown","slug":"watertown-ma"}
+  ],
+  "city_type": "innovation-city",
+  "climate_zone": "humid-continental",
+  "terrain": "urban-riverfront",
+  "economy_type": "technology-education",
+  "housing_profile": "urban-high-density",
+  "growth_pattern": "innovation-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Fall River",
+  "slug": "fall-river-ma",
+  "county": "Bristol County",
+  "population": 94000,
+  "zip_codes": ["02720","02721","02723","02724"],
+  "landmarks": [
+    "Battleship Cove",
+    "Lizzie Borden House",
+    "Heritage State Park",
+    "Narrows Center for the Arts",
+    "Fall River Waterfront"
+  ],
+  "nearby_cities": [
+    {"name":"New Bedford","slug":"new-bedford-ma"},
+    {"name":"Taunton","slug":"taunton-ma"},
+    {"name":"Somerset","slug":"somerset-ma"},
+    {"name":"Westport","slug":"westport-ma"},
+    {"name":"Providence","slug":"providence-ri"}
+  ],
+  "city_type": "historic-river-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-riverfront",
+  "economy_type": "healthcare-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-coast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Framingham",
+  "slug": "framingham-ma",
+  "county": "Middlesex County",
+  "population": 75000,
+  "zip_codes": ["01701","01702"],
+  "landmarks": [
+    "Framingham Centre",
+    "Callahan State Park",
+    "Garden in the Woods",
+    "Cushing Memorial Park",
+    "Downtown Framingham"
+  ],
+  "nearby_cities": [
+    {"name":"Natick","slug":"natick-ma"},
+    {"name":"Marlborough","slug":"marlborough-ma"},
+    {"name":"Ashland","slug":"ashland-ma"},
+    {"name":"Newton","slug":"newton-ma"},
+    {"name":"Waltham","slug":"waltham-ma"}
+  ],
+  "city_type": "metro-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Haverhill",
+  "slug": "haverhill-ma",
+  "county": "Essex County",
+  "population": 68000,
+  "zip_codes": ["01830","01832","01835"],
+  "landmarks": [
+    "Winnekenni Castle",
+    "Plug Pond",
+    "Downtown Haverhill",
+    "Tattersall Farm",
+    "Merrimack River Walk"
+  ],
+  "nearby_cities": [
+    {"name":"Lawrence","slug":"lawrence-ma"},
+    {"name":"Methuen","slug":"methuen-ma"},
+    {"name":"Andover","slug":"andover-ma"},
+    {"name":"Salem","slug":"salem-nh"},
+    {"name":"Lowell","slug":"lowell-ma"}
+  ],
+  "city_type": "river-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "healthcare-manufacturing",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "merrimack-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lawrence",
+  "slug": "lawrence-ma",
+  "county": "Essex County",
+  "population": 90000,
+  "zip_codes": ["01840","01841","01843"],
+  "landmarks": [
+    "Lawrence Heritage State Park",
+    "Campagnone Common",
+    "Merrimack River Waterfront",
+    "Essex Art Center",
+    "Downtown Lawrence"
+  ],
+  "nearby_cities": [
+    {"name":"Haverhill","slug":"haverhill-ma"},
+    {"name":"Methuen","slug":"methuen-ma"},
+    {"name":"Andover","slug":"andover-ma"},
+    {"name":"Lowell","slug":"lowell-ma"},
+    {"name":"North Andover","slug":"north-andover-ma"}
+  ],
+  "city_type": "gateway-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "services-logistics",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "merrimack-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lowell",
+  "slug": "lowell-ma",
+  "county": "Middlesex County",
+  "population": 118000,
+  "zip_codes": ["01850","01851","01852","01854"],
+  "landmarks": [
+    "Lowell National Historical Park",
+    "Tsongas Center",
+    "Merrimack Repertory Theatre",
+    "Canal District",
+    "UMass Lowell"
+  ],
+  "nearby_cities": [
+    {"name":"Lawrence","slug":"lawrence-ma"},
+    {"name":"Chelmsford","slug":"chelmsford-ma"},
+    {"name":"Dracut","slug":"dracut-ma"},
+    {"name":"Tewksbury","slug":"tewksbury-ma"},
+    {"name":"Haverhill","slug":"haverhill-ma"}
+  ],
+  "city_type": "university-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "education-technology",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "innovation-growth",
+  "service_environment": "merrimack-valley-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Lynn",
+  "slug": "lynn-ma",
+  "county": "Essex County",
+  "population": 101000,
+  "zip_codes": ["01901","01902","01904","01905"],
+  "landmarks": [
+    "Lynn Shore Reservation",
+    "Nahant Beach",
+    "High Rock Tower",
+    "Lynn Auditorium",
+    "Downtown Lynn"
+  ],
+  "nearby_cities": [
+    {"name":"Revere","slug":"revere-ma"},
+    {"name":"Salem","slug":"salem-ma"},
+    {"name":"Saugus","slug":"saugus-ma"},
+    {"name":"Peabody","slug":"peabody-ma"},
+    {"name":"Boston","slug":"boston-ma"}
+  ],
+  "city_type": "coastal-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-urban",
+  "economy_type": "healthcare-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Malden",
+  "slug": "malden-ma",
+  "county": "Middlesex County",
+  "population": 67000,
+  "zip_codes": ["02148"],
+  "landmarks": [
+    "Middlesex Fells Reservation",
+    "Malden Center",
+    "Pine Banks Park",
+    "Waitt's Mount",
+    "Downtown Malden"
+  ],
+  "nearby_cities": [
+    {"name":"Medford","slug":"medford-ma"},
+    {"name":"Revere","slug":"revere-ma"},
+    {"name":"Everett","slug":"everett-ma"},
+    {"name":"Melrose","slug":"melrose-ma"},
+    {"name":"Boston","slug":"boston-ma"}
+  ],
+  "city_type": "metro-city",
+  "climate_zone": "humid-continental",
+  "terrain": "urban-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Medford",
+  "slug": "medford-ma",
+  "county": "Middlesex County",
+  "population": 61000,
+  "zip_codes": ["02153","02155"],
+  "landmarks": [
+    "Tufts University",
+    "Mystic River Reservation",
+    "Medford Square",
+    "Wright's Tower",
+    "Middlesex Fells Reservation"
+  ],
+  "nearby_cities": [
+    {"name":"Malden","slug":"malden-ma"},
+    {"name":"Somerville","slug":"somerville-ma"},
+    {"name":"Cambridge","slug":"cambridge-ma"},
+    {"name":"Everett","slug":"everett-ma"},
+    {"name":"Boston","slug":"boston-ma"}
+  ],
+  "city_type": "university-city",
+  "climate_zone": "humid-continental",
+  "terrain": "urban-riverfront",
+  "economy_type": "education-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "New Bedford",
+  "slug": "new-bedford-ma",
+  "county": "Bristol County",
+  "population": 101000,
+  "zip_codes": ["02740","02744","02745","02746"],
+  "landmarks": [
+    "New Bedford Whaling Museum",
+    "Seaport Cultural District",
+    "Buttonwood Park Zoo",
+    "New Bedford Harbor",
+    "Downtown New Bedford"
+  ],
+  "nearby_cities": [
+    {"name":"Fall River","slug":"fall-river-ma"},
+    {"name":"Dartmouth","slug":"dartmouth-ma"},
+    {"name":"Fairhaven","slug":"fairhaven-ma"},
+    {"name":"Acushnet","slug":"acushnet-ma"},
+    {"name":"Taunton","slug":"taunton-ma"}
+  ],
+  "city_type": "historic-port-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-harbor",
+  "economy_type": "fishing-logistics",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "south-coast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Newton",
+  "slug": "newton-ma",
+  "county": "Middlesex County",
+  "population": 89000,
+  "zip_codes": ["02458","02459","02460","02461","02462"],
+  "landmarks": [
+    "Boston College",
+    "Crystal Lake",
+    "Newton Centre",
+    "Hammond Pond Reservation",
+    "Jackson Homestead"
+  ],
+  "nearby_cities": [
+    {"name":"Boston","slug":"boston-ma"},
+    {"name":"Cambridge","slug":"cambridge-ma"},
+    {"name":"Brookline","slug":"brookline-ma"},
+    {"name":"Waltham","slug":"waltham-ma"},
+    {"name":"Framingham","slug":"framingham-ma"}
+  ],
+  "city_type": "affluent-metro-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "education-healthcare",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Chicopee",
+  "slug": "chicopee-ma",
+  "county": "Hampden County",
+  "population": 55000,
+  "zip_codes": ["01013","01020","01022"],
+  "landmarks": [
+    "Szot Park",
+    "Chicopee Memorial State Park",
+    "Westover Air Reserve Base",
+    "Cabotville Historic District",
+    "Chicopee Riverwalk"
+  ],
+  "nearby_cities": [
+    {"name":"Springfield","slug":"springfield-ma"},
+    {"name":"Holyoke","slug":"holyoke-ma"},
+    {"name":"Westfield","slug":"westfield-ma"},
+    {"name":"Ludlow","slug":"ludlow-ma"},
+    {"name":"South Hadley","slug":"south-hadley-ma"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "manufacturing-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "pioneer-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Pittsfield",
+  "slug": "pittsfield-ma",
+  "county": "Berkshire County",
+  "population": 43000,
+  "zip_codes": ["01201"],
+  "landmarks": [
+    "Berkshire Museum",
+    "The Common Park",
+    "Bousquet Mountain",
+    "Colonial Theatre",
+    "Downtown Pittsfield"
+  ],
+  "nearby_cities": [
+    {"name":"Lenox","slug":"lenox-ma"},
+    {"name":"Dalton","slug":"dalton-ma"},
+    {"name":"Lee","slug":"lee-ma"},
+    {"name":"North Adams","slug":"north-adams-ma"},
+    {"name":"Great Barrington","slug":"great-barrington-ma"}
+  ],
+  "city_type": "berkshire-hub-city",
+  "climate_zone": "humid-continental",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-healthcare",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "berkshires-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Quincy",
+  "slug": "quincy-ma",
+  "county": "Norfolk County",
+  "population": 101000,
+  "zip_codes": ["02169","02170","02171"],
+  "landmarks": [
+    "Adams National Historical Park",
+    "Marina Bay",
+    "Wollaston Beach",
+    "Quincy Center",
+    "United First Parish Church"
+  ],
+  "nearby_cities": [
+    {"name":"Boston","slug":"boston-ma"},
+    {"name":"Braintree","slug":"braintree-ma"},
+    {"name":"Weymouth","slug":"weymouth-ma"},
+    {"name":"Milton","slug":"milton-ma"},
+    {"name":"Randolph","slug":"randolph-ma"}
+  ],
+  "city_type": "major-metro-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-harbor",
+  "economy_type": "healthcare-finance",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Revere",
+  "slug": "revere-ma",
+  "county": "Suffolk County",
+  "population": 65000,
+  "zip_codes": ["02151"],
+  "landmarks": [
+    "Revere Beach",
+    "Rumney Marsh Reservation",
+    "Suffolk Downs",
+    "Revere City Hall",
+    "Revere Beach Boulevard"
+  ],
+  "nearby_cities": [
+    {"name":"Boston","slug":"boston-ma"},
+    {"name":"Lynn","slug":"lynn-ma"},
+    {"name":"Malden","slug":"malden-ma"},
+    {"name":"Chelsea","slug":"chelsea-ma"},
+    {"name":"Winthrop","slug":"winthrop-ma"}
+  ],
+  "city_type": "coastal-metro-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-urban",
+  "economy_type": "tourism-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Somerville",
+  "slug": "somerville-ma",
+  "county": "Middlesex County",
+  "population": 82000,
+  "zip_codes": ["02143","02144","02145"],
+  "landmarks": [
+    "Assembly Row",
+    "Davis Square",
+    "Union Square",
+    "Prospect Hill Monument",
+    "Tufts University Area"
+  ],
+  "nearby_cities": [
+    {"name":"Cambridge","slug":"cambridge-ma"},
+    {"name":"Boston","slug":"boston-ma"},
+    {"name":"Medford","slug":"medford-ma"},
+    {"name":"Malden","slug":"malden-ma"},
+    {"name":"Everett","slug":"everett-ma"}
+  ],
+  "city_type": "innovation-city",
+  "climate_zone": "humid-continental",
+  "terrain": "urban-hills",
+  "economy_type": "technology-services",
+  "housing_profile": "high-density-residential",
+  "growth_pattern": "innovation-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Chelsea",
+  "slug": "chelsea-ma",
+  "county": "Suffolk County",
+  "population": 41000,
+  "zip_codes": ["02150"],
+  "landmarks": [
+    "Mary O'Malley State Park",
+    "Chelsea Creek Waterfront",
+    "Bellingham Square",
+    "Chelsea City Hall",
+    "Mystic Mall Area"
+  ],
+  "nearby_cities": [
+    {"name":"Boston","slug":"boston-ma"},
+    {"name":"Revere","slug":"revere-ma"},
+    {"name":"Everett","slug":"everett-ma"},
+    {"name":"Malden","slug":"malden-ma"},
+    {"name":"Winthrop","slug":"winthrop-ma"}
+  ],
+  "city_type": "metro-city",
+  "climate_zone": "humid-continental",
+  "terrain": "urban-waterfront",
+  "economy_type": "logistics-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Everett",
+  "slug": "everett-ma",
+  "county": "Middlesex County",
+  "population": 50000,
+  "zip_codes": ["02149"],
+  "landmarks": [
+    "Encore Boston Harbor",
+    "Rivergreen Park",
+    "Glendale Park",
+    "Mystic River Reservation",
+    "Everett Stadium"
+  ],
+  "nearby_cities": [
+    {"name":"Boston","slug":"boston-ma"},
+    {"name":"Chelsea","slug":"chelsea-ma"},
+    {"name":"Malden","slug":"malden-ma"},
+    {"name":"Somerville","slug":"somerville-ma"},
+    {"name":"Medford","slug":"medford-ma"}
+  ],
+  "city_type": "metro-city",
+  "climate_zone": "humid-continental",
+  "terrain": "urban-riverfront",
+  "economy_type": "gaming-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Marlborough",
+  "slug": "marlborough-ma",
+  "county": "Middlesex County",
+  "population": 41000,
+  "zip_codes": ["01752"],
+  "landmarks": [
+    "Apex Entertainment Center",
+    "Ward Park",
+    "Ghiloni Park",
+    "Marlborough Country Club",
+    "Downtown Marlborough"
+  ],
+  "nearby_cities": [
+    {"name":"Framingham","slug":"framingham-ma"},
+    {"name":"Waltham","slug":"waltham-ma"},
+    {"name":"Natick","slug":"natick-ma"},
+    {"name":"Hudson","slug":"hudson-ma"},
+    {"name":"Westborough","slug":"westborough-ma"}
+  ],
+  "city_type": "technology-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-healthcare",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "business-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Peabody",
+  "slug": "peabody-ma",
+  "county": "Essex County",
+  "population": 54000,
+  "zip_codes": ["01960"],
+  "landmarks": [
+    "Northshore Mall",
+    "Brooksby Farm",
+    "Peabody Historical Society",
+    "Independence Greenway",
+    "Downtown Peabody"
+  ],
+  "nearby_cities": [
+    {"name":"Salem","slug":"salem-ma"},
+    {"name":"Lynn","slug":"lynn-ma"},
+    {"name":"Revere","slug":"revere-ma"},
+    {"name":"Beverly","slug":"beverly-ma"},
+    {"name":"Danvers","slug":"danvers-ma"}
+  ],
+  "city_type": "north-shore-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "north-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Salem",
+  "slug": "salem-ma",
+  "county": "Essex County",
+  "population": 45000,
+  "zip_codes": ["01970"],
+  "landmarks": [
+    "Salem Witch Museum",
+    "Salem Maritime National Historic Site",
+    "Peabody Essex Museum",
+    "Salem Common",
+    "Pickering Wharf"
+  ],
+  "nearby_cities": [
+    {"name":"Peabody","slug":"peabody-ma"},
+    {"name":"Lynn","slug":"lynn-ma"},
+    {"name":"Beverly","slug":"beverly-ma"},
+    {"name":"Danvers","slug":"danvers-ma"},
+    {"name":"Marblehead","slug":"marblehead-ma"}
+  ],
+  "city_type": "historic-tourism-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-harbor",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "tourism-growth",
+  "service_environment": "north-shore-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Taunton",
+  "slug": "taunton-ma",
+  "county": "Bristol County",
+  "population": 60000,
+  "zip_codes": ["02780"],
+  "landmarks": [
+    "Taunton Green",
+    "Old Colony History Museum",
+    "Massasoit State Park",
+    "Hopewell Park",
+    "Downtown Taunton"
+  ],
+  "nearby_cities": [
+    {"name":"Attleboro","slug":"attleboro-ma"},
+    {"name":"Fall River","slug":"fall-river-ma"},
+    {"name":"New Bedford","slug":"new-bedford-ma"},
+    {"name":"Brockton","slug":"brockton-ma"},
+    {"name":"Raynham","slug":"raynham-ma"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "healthcare-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-coast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Waltham",
+  "slug": "waltham-ma",
+  "county": "Middlesex County",
+  "population": 65000,
+  "zip_codes": ["02451","02452","02453"],
+  "landmarks": [
+    "Brandeis University",
+    "Moody Street",
+    "Charles River Museum",
+    "Prospect Hill Park",
+    "Watch Factory District"
+  ],
+  "nearby_cities": [
+    {"name":"Newton","slug":"newton-ma"},
+    {"name":"Cambridge","slug":"cambridge-ma"},
+    {"name":"Watertown","slug":"watertown-ma"},
+    {"name":"Framingham","slug":"framingham-ma"},
+    {"name":"Marlborough","slug":"marlborough-ma"}
+  ],
+  "city_type": "technology-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "technology-education",
+  "housing_profile": "urban-suburban-mix",
+  "growth_pattern": "innovation-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Westfield",
+  "slug": "westfield-ma",
+  "county": "Hampden County",
+  "population": 41000,
+  "zip_codes": ["01085","01086"],
+  "landmarks": [
+    "Westfield State University",
+    "Stanley Park",
+    "Great River Bridge",
+    "Westfield River Walk",
+    "Downtown Westfield"
+  ],
+  "nearby_cities": [
+    {"name":"Chicopee","slug":"chicopee-ma"},
+    {"name":"Springfield","slug":"springfield-ma"},
+    {"name":"Holyoke","slug":"holyoke-ma"},
+    {"name":"Southwick","slug":"southwick-ma"},
+    {"name":"Agawam","slug":"agawam-ma"}
+  ],
+  "city_type": "university-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "education-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "pioneer-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Weymouth",
+  "slug": "weymouth-ma",
+  "county": "Norfolk County",
+  "population": 58000,
+  "zip_codes": ["02188","02189","02190","02191"],
+  "landmarks": [
+    "Weymouth Fore River",
+    "Webb Memorial State Park",
+    "Great Esker Park",
+    "Weymouth Landing",
+    "Abigail Adams Birthplace"
+  ],
+  "nearby_cities": [
+    {"name":"Quincy","slug":"quincy-ma"},
+    {"name":"Braintree","slug":"braintree-ma"},
+    {"name":"Boston","slug":"boston-ma"},
+    {"name":"Hingham","slug":"hingham-ma"},
+    {"name":"Randolph","slug":"randolph-ma"}
+  ],
+  "city_type": "coastal-suburban-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-harbor",
+  "economy_type": "healthcare-retail",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "metro-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Worcester",
+  "slug": "worcester-ma",
+  "county": "Worcester County",
+  "population": 207000,
+  "zip_codes": ["01602","01603","01604","01605","01609"],
+  "landmarks": [
+    "Worcester Art Museum",
+    "Polar Park",
+    "EcoTarium",
+    "Union Station",
+    "Worcester Common"
+  ],
+  "nearby_cities": [
+    {"name":"Shrewsbury","slug":"shrewsbury-ma"},
+    {"name":"Leicester","slug":"leicester-ma"},
+    {"name":"Auburn","slug":"auburn-ma"},
+    {"name":"Holden","slug":"holden-ma"},
+    {"name":"West Boylston","slug":"west-boylston-ma"}
+  ],
+  "city_type": "major-regional-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "healthcare-education",
+  "housing_profile": "urban-high-density",
+  "growth_pattern": "regional-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Abington",
+  "slug": "abington-ma",
+  "county": "Plymouth County",
+  "population": 17000,
+  "zip_codes": ["02351"],
+  "landmarks": [
+    "Island Grove Park",
+    "Ames Nowell State Park",
+    "Abington Town Center",
+    "Veterans Memorial Park",
+    "Rail Trail Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Brockton","slug":"brockton-ma"},
+    {"name":"Rockland","slug":"rockland-ma"},
+    {"name":"Whitman","slug":"whitman-ma"},
+    {"name":"Weymouth","slug":"weymouth-ma"},
+    {"name":"Hanover","slug":"hanover-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Agawam",
+  "slug": "agawam-ma",
+  "county": "Hampden County",
+  "population": 29000,
+  "zip_codes": ["01001","01030"],
+  "landmarks": [
+    "Six Flags New England",
+    "Robinson State Park",
+    "Agawam Town Green",
+    "Connecticut River Walk",
+    "School Street Park"
+  ],
+  "nearby_cities": [
+    {"name":"Springfield","slug":"springfield-ma"},
+    {"name":"Westfield","slug":"westfield-ma"},
+    {"name":"Chicopee","slug":"chicopee-ma"},
+    {"name":"Holyoke","slug":"holyoke-ma"},
+    {"name":"Longmeadow","slug":"longmeadow-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "pioneer-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Amherst",
+  "slug": "amherst-ma",
+  "county": "Hampshire County",
+  "population": 40000,
+  "zip_codes": ["01002","01003"],
+  "landmarks": [
+    "University of Massachusetts Amherst",
+    "Amherst Common",
+    "Emily Dickinson Museum",
+    "UMass Campus",
+    "Mill River Recreation Area"
+  ],
+  "nearby_cities": [
+    {"name":"Northampton","slug":"northampton-ma"},
+    {"name":"Hadley","slug":"hadley-ma"},
+    {"name":"South Hadley","slug":"south-hadley-ma"},
+    {"name":"Holyoke","slug":"holyoke-ma"},
+    {"name":"Belchertown","slug":"belchertown-ma"}
+  ],
+  "city_type": "college-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "education-research",
+  "housing_profile": "student-professional-mix",
+  "growth_pattern": "institutional-growth",
+  "service_environment": "pioneer-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Andover",
+  "slug": "andover-ma",
+  "county": "Essex County",
+  "population": 37000,
+  "zip_codes": ["01810"],
+  "landmarks": [
+    "Phillips Academy",
+    "Pomps Pond",
+    "Harold Parker State Forest",
+    "Downtown Andover",
+    "Memorial Hall Library"
+  ],
+  "nearby_cities": [
+    {"name":"Lawrence","slug":"lawrence-ma"},
+    {"name":"North Andover","slug":"north-andover-ma"},
+    {"name":"Haverhill","slug":"haverhill-ma"},
+    {"name":"Methuen","slug":"methuen-ma"},
+    {"name":"Tewksbury","slug":"tewksbury-ma"}
+  ],
+  "city_type": "affluent-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "education-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "merrimack-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Arlington",
+  "slug": "arlington-ma",
+  "county": "Middlesex County",
+  "population": 46000,
+  "zip_codes": ["02474","02476"],
+  "landmarks": [
+    "Spy Pond",
+    "Minuteman Bikeway",
+    "Arlington Center",
+    "Menotomy Rocks Park",
+    "Arlington Reservoir"
+  ],
+  "nearby_cities": [
+    {"name":"Cambridge","slug":"cambridge-ma"},
+    {"name":"Somerville","slug":"somerville-ma"},
+    {"name":"Medford","slug":"medford-ma"},
+    {"name":"Belmont","slug":"belmont-ma"},
+    {"name":"Watertown","slug":"watertown-ma"}
+  ],
+  "city_type": "metro-town",
+  "climate_zone": "humid-continental",
+  "terrain": "urban-hills",
+  "economy_type": "services-education",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Ashland",
+  "slug": "ashland-ma",
+  "county": "Middlesex County",
+  "population": 18000,
+  "zip_codes": ["01721"],
+  "landmarks": [
+    "Ashland State Park",
+    "Stone Park",
+    "Downtown Ashland",
+    "Ashland Reservoir",
+    "MBTA Ashland Station"
+  ],
+  "nearby_cities": [
+    {"name":"Framingham","slug":"framingham-ma"},
+    {"name":"Hopkinton","slug":"hopkinton-ma"},
+    {"name":"Natick","slug":"natick-ma"},
+    {"name":"Marlborough","slug":"marlborough-ma"},
+    {"name":"Southborough","slug":"southborough-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Auburn",
+  "slug": "auburn-ma",
+  "county": "Worcester County",
+  "population": 17000,
+  "zip_codes": ["01501"],
+  "landmarks": [
+    "Auburn Mall",
+    "Pappas Recreation Complex",
+    "Pakachoag Golf Course",
+    "Auburn Town Center",
+    "Dark Brook Reservoir"
+  ],
+  "nearby_cities": [
+    {"name":"Worcester","slug":"worcester-ma"},
+    {"name":"Leicester","slug":"leicester-ma"},
+    {"name":"Millbury","slug":"millbury-ma"},
+    {"name":"Oxford","slug":"oxford-ma"},
+    {"name":"Shrewsbury","slug":"shrewsbury-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "retail-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Belmont",
+  "slug": "belmont-ma",
+  "county": "Middlesex County",
+  "population": 28000,
+  "zip_codes": ["02478"],
+  "landmarks": [
+    "Fresh Pond Reservation",
+    "Habitat Education Center",
+    "Belmont Center",
+    "Clay Pit Pond",
+    "Rock Meadow Conservation Area"
+  ],
+  "nearby_cities": [
+    {"name":"Cambridge","slug":"cambridge-ma"},
+    {"name":"Arlington","slug":"arlington-ma"},
+    {"name":"Watertown","slug":"watertown-ma"},
+    {"name":"Newton","slug":"newton-ma"},
+    {"name":"Waltham","slug":"waltham-ma"}
+  ],
+  "city_type": "metro-town",
+  "climate_zone": "humid-continental",
+  "terrain": "urban-hills",
+  "economy_type": "education-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Beverly",
+  "slug": "beverly-ma",
+  "county": "Essex County",
+  "population": 43000,
+  "zip_codes": ["01915"],
+  "landmarks": [
+    "Lynch Park",
+    "Endicott College",
+    "Cabot Street District",
+    "Dane Street Beach",
+    "Beverly Harbor"
+  ],
+  "nearby_cities": [
+    {"name":"Salem","slug":"salem-ma"},
+    {"name":"Peabody","slug":"peabody-ma"},
+    {"name":"Danvers","slug":"danvers-ma"},
+    {"name":"Marblehead","slug":"marblehead-ma"},
+    {"name":"Gloucester","slug":"gloucester-ma"}
+  ],
+  "city_type": "coastal-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-harbor",
+  "economy_type": "education-healthcare",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "north-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Braintree",
+  "slug": "braintree-ma",
+  "county": "Norfolk County",
+  "population": 39000,
+  "zip_codes": ["02184"],
+  "landmarks": [
+    "South Shore Plaza",
+    "General Sylvanus Thayer Birthplace",
+    "Sunset Lake",
+    "Braintree Town Hall",
+    "Monatiquot River Area"
+  ],
+  "nearby_cities": [
+    {"name":"Quincy","slug":"quincy-ma"},
+    {"name":"Weymouth","slug":"weymouth-ma"},
+    {"name":"Randolph","slug":"randolph-ma"},
+    {"name":"Milton","slug":"milton-ma"},
+    {"name":"Boston","slug":"boston-ma"}
+  ],
+  "city_type": "metro-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Bridgewater",
+  "slug": "bridgewater-ma",
+  "county": "Plymouth County",
+  "population": 29000,
+  "zip_codes": ["02324"],
+  "landmarks": [
+    "Bridgewater State University",
+    "Bridgewater Town Common",
+    "Stanley Iron Works Park",
+    "Town River",
+    "Bridgewater Center"
+  ],
+  "nearby_cities": [
+    {"name":"Brockton","slug":"brockton-ma"},
+    {"name":"Taunton","slug":"taunton-ma"},
+    {"name":"East Bridgewater","slug":"east-bridgewater-ma"},
+    {"name":"West Bridgewater","slug":"west-bridgewater-ma"},
+    {"name":"Raynham","slug":"raynham-ma"}
+  ],
+  "city_type": "college-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "education-services",
+  "housing_profile": "student-professional-mix",
+  "growth_pattern": "institutional-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Brookline",
+  "slug": "brookline-ma",
+  "county": "Norfolk County",
+  "population": 63000,
+  "zip_codes": ["02445","02446","02447"],
+  "landmarks": [
+    "Coolidge Corner",
+    "John F. Kennedy National Historic Site",
+    "Larz Anderson Park",
+    "Brookline Village",
+    "Emerald Necklace"
+  ],
+  "nearby_cities": [
+    {"name":"Boston","slug":"boston-ma"},
+    {"name":"Newton","slug":"newton-ma"},
+    {"name":"Cambridge","slug":"cambridge-ma"},
+    {"name":"Somerville","slug":"somerville-ma"},
+    {"name":"Waltham","slug":"waltham-ma"}
+  ],
+  "city_type": "inner-ring-suburb",
+  "climate_zone": "humid-continental",
+  "terrain": "urban-hills",
+  "economy_type": "healthcare-education",
+  "housing_profile": "high-density-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Burlington",
+  "slug": "burlington-ma",
+  "county": "Middlesex County",
+  "population": 27000,
+  "zip_codes": ["01803"],
+  "landmarks": [
+    "Burlington Mall",
+    "Mary Cummings Park",
+    "3rd Avenue District",
+    "Mill Pond Reservoir",
+    "Burlington Town Common"
+  ],
+  "nearby_cities": [
+    {"name":"Woburn","slug":"woburn-ma"},
+    {"name":"Lexington","slug":"lexington-ma"},
+    {"name":"Bedford","slug":"bedford-ma"},
+    {"name":"Wilmington","slug":"wilmington-ma"},
+    {"name":"Reading","slug":"reading-ma"}
+  ],
+  "city_type": "business-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "business-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Chelmsford",
+  "slug": "chelmsford-ma",
+  "county": "Middlesex County",
+  "population": 36000,
+  "zip_codes": ["01824"],
+  "landmarks": [
+    "Bruce Freeman Rail Trail",
+    "Heart Pond",
+    "Chelmsford Center",
+    "Freeman Lake",
+    "Robbins Mill Conservation Area"
+  ],
+  "nearby_cities": [
+    {"name":"Lowell","slug":"lowell-ma"},
+    {"name":"Westford","slug":"westford-ma"},
+    {"name":"Dracut","slug":"dracut-ma"},
+    {"name":"Tewksbury","slug":"tewksbury-ma"},
+    {"name":"Tyngsborough","slug":"tyngsborough-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "technology-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "merrimack-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Danvers",
+  "slug": "danvers-ma",
+  "county": "Essex County",
+  "population": 28000,
+  "zip_codes": ["01923"],
+  "landmarks": [
+    "Endicott Park",
+    "Rebecca Nurse Homestead",
+    "Liberty Tree Mall",
+    "Danvers Rail Trail",
+    "Downtown Danvers"
+  ],
+  "nearby_cities": [
+    {"name":"Peabody","slug":"peabody-ma"},
+    {"name":"Salem","slug":"salem-ma"},
+    {"name":"Beverly","slug":"beverly-ma"},
+    {"name":"Lynn","slug":"lynn-ma"},
+    {"name":"Gloucester","slug":"gloucester-ma"}
+  ],
+  "city_type": "north-shore-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "north-shore-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Dedham",
+  "slug": "dedham-ma",
+  "county": "Norfolk County",
+  "population": 26000,
+  "zip_codes": ["02026"],
+  "landmarks": [
+    "Legacy Place",
+    "Dedham Village",
+    "Fairbanks House",
+    "Mother Brook",
+    "Dedham Town Green"
+  ],
+  "nearby_cities": [
+    {"name":"Boston","slug":"boston-ma"},
+    {"name":"Brookline","slug":"brookline-ma"},
+    {"name":"Needham","slug":"needham-ma"},
+    {"name":"Westwood","slug":"westwood-ma"},
+    {"name":"Norwood","slug":"norwood-ma"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "retail-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Dennis",
+  "slug": "dennis-ma",
+  "county": "Barnstable County",
+  "population": 15000,
+  "zip_codes": ["02638","02639","02660","02670"],
+  "landmarks": [
+    "Mayflower Beach",
+    "Corporation Beach",
+    "Cape Playhouse",
+    "Scargo Tower",
+    "West Dennis Beach"
+  ],
+  "nearby_cities": [
+    {"name":"Barnstable","slug":"barnstable-ma"},
+    {"name":"Yarmouth","slug":"yarmouth-ma"},
+    {"name":"Brewster","slug":"brewster-ma"},
+    {"name":"Harwich","slug":"harwich-ma"},
+    {"name":"Chatham","slug":"chatham-ma"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plains",
+  "economy_type": "tourism-services",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "seasonal-growth",
+  "service_environment": "cape-cod-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Dracut",
+  "slug": "dracut-ma",
+  "county": "Middlesex County",
+  "population": 33000,
+  "zip_codes": ["01826"],
+  "landmarks": [
+    "Long Pond",
+    "Beaver Brook Farm",
+    "Veterans Memorial Park",
+    "Dracut Town Hall",
+    "Merrimack River Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Lowell","slug":"lowell-ma"},
+    {"name":"Chelmsford","slug":"chelmsford-ma"},
+    {"name":"Tyngsborough","slug":"tyngsborough-ma"},
+    {"name":"Tewksbury","slug":"tewksbury-ma"},
+    {"name":"Pelham","slug":"pelham-nh"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-plains",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "merrimack-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "East Longmeadow",
+  "slug": "east-longmeadow-ma",
+  "county": "Hampden County",
+  "population": 16000,
+  "zip_codes": ["01028"],
+  "landmarks": [
+    "Rotary Park",
+    "Heritage Park",
+    "Center Square",
+    "Pleasure Grounds",
+    "East Longmeadow Town Green"
+  ],
+  "nearby_cities": [
+    {"name":"Springfield","slug":"springfield-ma"},
+    {"name":"Longmeadow","slug":"longmeadow-ma"},
+    {"name":"Agawam","slug":"agawam-ma"},
+    {"name":"Ludlow","slug":"ludlow-ma"},
+    {"name":"Chicopee","slug":"chicopee-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-healthcare",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "pioneer-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Fairhaven",
+  "slug": "fairhaven-ma",
+  "county": "Bristol County",
+  "population": 16000,
+  "zip_codes": ["02719"],
+  "landmarks": [
+    "Fort Phoenix State Reservation",
+    "Fairhaven Town Hall",
+    "West Island Beach",
+    "Phoenix Rail Trail",
+    "Fairhaven Waterfront"
+  ],
+  "nearby_cities": [
+    {"name":"New Bedford","slug":"new-bedford-ma"},
+    {"name":"Dartmouth","slug":"dartmouth-ma"},
+    {"name":"Acushnet","slug":"acushnet-ma"},
+    {"name":"Mattapoisett","slug":"mattapoisett-ma"},
+    {"name":"Marion","slug":"marion-ma"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-harbor",
+  "economy_type": "marine-services",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-coast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Falmouth",
+  "slug": "falmouth-ma",
+  "county": "Barnstable County",
+  "population": 33000,
+  "zip_codes": ["02540","02556","02574"],
+  "landmarks": [
+    "Woods Hole",
+    "Shining Sea Bikeway",
+    "Surf Drive Beach",
+    "Falmouth Harbor",
+    "Highfield Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Barnstable","slug":"barnstable-ma"},
+    {"name":"Mashpee","slug":"mashpee-ma"},
+    {"name":"Bourne","slug":"bourne-ma"},
+    {"name":"Sandwich","slug":"sandwich-ma"},
+    {"name":"Yarmouth","slug":"yarmouth-ma"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plains",
+  "economy_type": "tourism-research",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "seasonal-growth",
+  "service_environment": "cape-cod-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Franklin",
+  "slug": "franklin-ma",
+  "county": "Norfolk County",
+  "population": 34000,
+  "zip_codes": ["02038"],
+  "landmarks": [
+    "Franklin Public Library",
+    "DelCarte Conservation Area",
+    "Franklin Town Common",
+    "King Street Memorial Park",
+    "Dean College"
+  ],
+  "nearby_cities": [
+    {"name":"Bellingham","slug":"bellingham-ma"},
+    {"name":"Norfolk","slug":"norfolk-ma"},
+    {"name":"Milford","slug":"milford-ma"},
+    {"name":"Wrentham","slug":"wrentham-ma"},
+    {"name":"Foxborough","slug":"foxborough-ma"}
+  ],
+  "city_type": "growth-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "education-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Gloucester",
+  "slug": "gloucester-ma",
+  "county": "Essex County",
+  "population": 30000,
+  "zip_codes": ["01930"],
+  "landmarks": [
+    "Good Harbor Beach",
+    "Fishermen's Memorial",
+    "Stage Fort Park",
+    "Gloucester Harbor",
+    "Rocky Neck Art Colony"
+  ],
+  "nearby_cities": [
+    {"name":"Beverly","slug":"beverly-ma"},
+    {"name":"Danvers","slug":"danvers-ma"},
+    {"name":"Salem","slug":"salem-ma"},
+    {"name":"Ipswich","slug":"ipswich-ma"},
+    {"name":"Rockport","slug":"rockport-ma"}
+  ],
+  "city_type": "historic-fishing-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rocky-coastline",
+  "economy_type": "fishing-tourism",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "north-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Grafton",
+  "slug": "grafton-ma",
+  "county": "Worcester County",
+  "population": 20000,
+  "zip_codes": ["01519","01536","01560"],
+  "landmarks": [
+    "Tufts University Cummings School",
+    "Fisherville Mill",
+    "Silver Lake Park",
+    "Grafton Common",
+    "Hassanamesit Woods"
+  ],
+  "nearby_cities": [
+    {"name":"Worcester","slug":"worcester-ma"},
+    {"name":"Shrewsbury","slug":"shrewsbury-ma"},
+    {"name":"Westborough","slug":"westborough-ma"},
+    {"name":"Northbridge","slug":"northbridge-ma"},
+    {"name":"Millbury","slug":"millbury-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "education-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Holden",
+  "slug": "holden-ma",
+  "county": "Worcester County",
+  "population": 20000,
+  "zip_codes": ["01520"],
+  "landmarks": [
+    "Trout Brook Recreation Area",
+    "Davis Hill Conservation Land",
+    "Holden Town Center",
+    "Eagle Lake",
+    "Holden Hills Country Club"
+  ],
+  "nearby_cities": [
+    {"name":"Worcester","slug":"worcester-ma"},
+    {"name":"West Boylston","slug":"west-boylston-ma"},
+    {"name":"Rutland","slug":"rutland-ma"},
+    {"name":"Princeton","slug":"princeton-ma"},
+    {"name":"Paxton","slug":"paxton-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Holyoke",
+  "slug": "holyoke-ma",
+  "county": "Hampden County",
+  "population": 38000,
+  "zip_codes": ["01040","01041"],
+  "landmarks": [
+    "Mount Tom State Reservation",
+    "Holyoke Mall",
+    "Holyoke Heritage State Park",
+    "Canalwalk",
+    "Volleyball Hall of Fame"
+  ],
+  "nearby_cities": [
+    {"name":"Chicopee","slug":"chicopee-ma"},
+    {"name":"Springfield","slug":"springfield-ma"},
+    {"name":"Westfield","slug":"westfield-ma"},
+    {"name":"South Hadley","slug":"south-hadley-ma"},
+    {"name":"Northampton","slug":"northampton-ma"}
+  ],
+  "city_type": "historic-industrial-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "healthcare-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "pioneer-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Hudson",
+  "slug": "hudson-ma",
+  "county": "Middlesex County",
+  "population": 21000,
+  "zip_codes": ["01749"],
+  "landmarks": [
+    "Assabet River Rail Trail",
+    "Wood Park",
+    "Downtown Hudson",
+    "Lake Boon Area",
+    "Hudson Town Common"
+  ],
+  "nearby_cities": [
+    {"name":"Marlborough","slug":"marlborough-ma"},
+    {"name":"Sudbury","slug":"sudbury-ma"},
+    {"name":"Stow","slug":"stow-ma"},
+    {"name":"Maynard","slug":"maynard-ma"},
+    {"name":"Berlin","slug":"berlin-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Ipswich",
+  "slug": "ipswich-ma",
+  "county": "Essex County",
+  "population": 14000,
+  "zip_codes": ["01938"],
+  "landmarks": [
+    "Crane Beach",
+    "Castle Hill",
+    "Ipswich River Wildlife Sanctuary",
+    "Downtown Ipswich",
+    "Choate Bridge"
+  ],
+  "nearby_cities": [
+    {"name":"Gloucester","slug":"gloucester-ma"},
+    {"name":"Beverly","slug":"beverly-ma"},
+    {"name":"Danvers","slug":"danvers-ma"},
+    {"name":"Hamilton","slug":"hamilton-ma"},
+    {"name":"Essex","slug":"essex-ma"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-marshland",
+  "economy_type": "tourism-services",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "north-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Leicester",
+  "slug": "leicester-ma",
+  "county": "Worcester County",
+  "population": 12000,
+  "zip_codes": ["01524"],
+  "landmarks": [
+    "Washburn Square",
+    "Rochdale Park",
+    "Leicester Country Club",
+    "Leicester Town Common",
+    "Burncoat Pond"
+  ],
+  "nearby_cities": [
+    {"name":"Worcester","slug":"worcester-ma"},
+    {"name":"Auburn","slug":"auburn-ma"},
+    {"name":"Spencer","slug":"spencer-ma"},
+    {"name":"Paxton","slug":"paxton-ma"},
+    {"name":"Holden","slug":"holden-ma"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lexington",
+  "slug": "lexington-ma",
+  "county": "Middlesex County",
+  "population": 35000,
+  "zip_codes": ["02420","02421"],
+  "landmarks": [
+    "Lexington Battle Green",
+    "Minute Man National Historical Park",
+    "Buckman Tavern",
+    "Lexington Center",
+    "Old Reservoir"
+  ],
+  "nearby_cities": [
+    {"name":"Arlington","slug":"arlington-ma"},
+    {"name":"Belmont","slug":"belmont-ma"},
+    {"name":"Burlington","slug":"burlington-ma"},
+    {"name":"Waltham","slug":"waltham-ma"},
+    {"name":"Bedford","slug":"bedford-ma"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-education",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Longmeadow",
+  "slug": "longmeadow-ma",
+  "county": "Hampden County",
+  "population": 16000,
+  "zip_codes": ["01106"],
+  "landmarks": [
+    "Bliss Park",
+    "Longmeadow Green",
+    "Bay Path University Area",
+    "Wolf Swamp Fields",
+    "Longmeadow Shops"
+  ],
+  "nearby_cities": [
+    {"name":"Springfield","slug":"springfield-ma"},
+    {"name":"East Longmeadow","slug":"east-longmeadow-ma"},
+    {"name":"Agawam","slug":"agawam-ma"},
+    {"name":"Holyoke","slug":"holyoke-ma"},
+    {"name":"Chicopee","slug":"chicopee-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "education-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "pioneer-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Mashpee",
+  "slug": "mashpee-ma",
+  "county": "Barnstable County",
+  "population": 16000,
+  "zip_codes": ["02649"],
+  "landmarks": [
+    "Mashpee Commons",
+    "South Cape Beach",
+    "Mashpee River Reservation",
+    "Wakeby Pond",
+    "Mashpee National Wildlife Refuge"
+  ],
+  "nearby_cities": [
+    {"name":"Barnstable","slug":"barnstable-ma"},
+    {"name":"Falmouth","slug":"falmouth-ma"},
+    {"name":"Sandwich","slug":"sandwich-ma"},
+    {"name":"Yarmouth","slug":"yarmouth-ma"},
+    {"name":"Dennis","slug":"dennis-ma"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plains",
+  "economy_type": "tourism-retail",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "seasonal-growth",
+  "service_environment": "cape-cod-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Melrose",
+  "slug": "melrose-ma",
+  "county": "Middlesex County",
+  "population": 29000,
+  "zip_codes": ["02176"],
+  "landmarks": [
+    "Middlesex Fells Reservation",
+    "Ell Pond",
+    "Melrose Common",
+    "Mount Hood Golf Course",
+    "Downtown Melrose"
+  ],
+  "nearby_cities": [
+    {"name":"Malden","slug":"malden-ma"},
+    {"name":"Wakefield","slug":"wakefield-ma"},
+    {"name":"Stoneham","slug":"stoneham-ma"},
+    {"name":"Medford","slug":"medford-ma"},
+    {"name":"Revere","slug":"revere-ma"}
+  ],
+  "city_type": "metro-city",
+  "climate_zone": "humid-continental",
+  "terrain": "urban-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Methuen",
+  "slug": "methuen-ma",
+  "county": "Essex County",
+  "population": 53000,
+  "zip_codes": ["01844"],
+  "landmarks": [
+    "The Loop Shopping Center",
+    "Nevins Memorial Library",
+    "Forest Lake",
+    "Methuen Rail Trail",
+    "Methuen Memorial Music Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Lawrence","slug":"lawrence-ma"},
+    {"name":"Haverhill","slug":"haverhill-ma"},
+    {"name":"Andover","slug":"andover-ma"},
+    {"name":"North Andover","slug":"north-andover-ma"},
+    {"name":"Salem","slug":"salem-nh"}
+  ],
+  "city_type": "gateway-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "merrimack-valley-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Milford",
+  "slug": "milford-ma",
+  "county": "Worcester County",
+  "population": 31000,
+  "zip_codes": ["01757"],
+  "landmarks": [
+    "Milford Town Park",
+    "Charles River Trail",
+    "Milford Regional Medical Center",
+    "Upper Charles Rail Trail",
+    "Downtown Milford"
+  ],
+  "nearby_cities": [
+    {"name":"Franklin","slug":"franklin-ma"},
+    {"name":"Hopkinton","slug":"hopkinton-ma"},
+    {"name":"Hopedale","slug":"hopedale-ma"},
+    {"name":"Mendon","slug":"mendon-ma"},
+    {"name":"Bellingham","slug":"bellingham-ma"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "healthcare-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Milton",
+  "slug": "milton-ma",
+  "county": "Norfolk County",
+  "population": 28000,
+  "zip_codes": ["02186"],
+  "landmarks": [
+    "Blue Hills Reservation",
+    "Turner's Pond",
+    "Milton Academy",
+    "Houghton's Pond",
+    "Milton Town Center"
+  ],
+  "nearby_cities": [
+    {"name":"Boston","slug":"boston-ma"},
+    {"name":"Quincy","slug":"quincy-ma"},
+    {"name":"Braintree","slug":"braintree-ma"},
+    {"name":"Dedham","slug":"dedham-ma"},
+    {"name":"Randolph","slug":"randolph-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "education-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Natick",
+  "slug": "natick-ma",
+  "county": "Middlesex County",
+  "population": 37000,
+  "zip_codes": ["01760"],
+  "landmarks": [
+    "Natick Mall",
+    "Cochituate State Park",
+    "Natick Center",
+    "Broadmoor Wildlife Sanctuary",
+    "Lake Cochituate"
+  ],
+  "nearby_cities": [
+    {"name":"Framingham","slug":"framingham-ma"},
+    {"name":"Wellesley","slug":"wellesley-ma"},
+    {"name":"Ashland","slug":"ashland-ma"},
+    {"name":"Needham","slug":"needham-ma"},
+    {"name":"Wayland","slug":"wayland-ma"}
+  ],
+  "city_type": "metro-west-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "retail-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Needham",
+  "slug": "needham-ma",
+  "county": "Norfolk County",
+  "population": 33000,
+  "zip_codes": ["02492","02494"],
+  "landmarks": [
+    "Cutler Park Reservation",
+    "Needham Town Common",
+    "Needham Heights",
+    "Cricket Field",
+    "Charles River Peninsula"
+  ],
+  "nearby_cities": [
+    {"name":"Newton","slug":"newton-ma"},
+    {"name":"Waltham","slug":"waltham-ma"},
+    {"name":"Dedham","slug":"dedham-ma"},
+    {"name":"Natick","slug":"natick-ma"},
+    {"name":"Westwood","slug":"westwood-ma"}
+  ],
+  "city_type": "affluent-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "North Adams",
+  "slug": "north-adams-ma",
+  "county": "Berkshire County",
+  "population": 13000,
+  "zip_codes": ["01247"],
+  "landmarks": [
+    "MASS MoCA",
+    "Natural Bridge State Park",
+    "Downtown North Adams",
+    "Western Gateway Heritage Park",
+    "Hoosic River Walk"
+  ],
+  "nearby_cities": [
+    {"name":"Pittsfield","slug":"pittsfield-ma"},
+    {"name":"Adams","slug":"adams-ma"},
+    {"name":"Williamstown","slug":"williamstown-ma"},
+    {"name":"Cheshire","slug":"cheshire-ma"},
+    {"name":"Clarksburg","slug":"clarksburg-ma"}
+  ],
+  "city_type": "arts-city",
+  "climate_zone": "humid-continental",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-arts",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "berkshires-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "North Andover",
+  "slug": "north-andover-ma",
+  "county": "Essex County",
+  "population": 31000,
+  "zip_codes": ["01845"],
+  "landmarks": [
+    "Weir Hill",
+    "Lake Cochichewick",
+    "Stevens Estate",
+    "Downtown North Andover",
+    "Harold Parker State Forest"
+  ],
+  "nearby_cities": [
+    {"name":"Andover","slug":"andover-ma"},
+    {"name":"Lawrence","slug":"lawrence-ma"},
+    {"name":"Methuen","slug":"methuen-ma"},
+    {"name":"Haverhill","slug":"haverhill-ma"},
+    {"name":"Boxford","slug":"boxford-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "education-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "merrimack-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Northampton",
+  "slug": "northampton-ma",
+  "county": "Hampshire County",
+  "population": 30000,
+  "zip_codes": ["01060","01061","01062","01063"],
+  "landmarks": [
+    "Smith College",
+    "Look Memorial Park",
+    "Downtown Northampton",
+    "Mill River Greenway",
+    "Academy of Music Theatre"
+  ],
+  "nearby_cities": [
+    {"name":"Amherst","slug":"amherst-ma"},
+    {"name":"Holyoke","slug":"holyoke-ma"},
+    {"name":"South Hadley","slug":"south-hadley-ma"},
+    {"name":"Easthampton","slug":"easthampton-ma"},
+    {"name":"Hadley","slug":"hadley-ma"}
+  ],
+  "city_type": "college-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "education-tourism",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "institutional-growth",
+  "service_environment": "pioneer-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Norwood",
+  "slug": "norwood-ma",
+  "county": "Norfolk County",
+  "population": 32000,
+  "zip_codes": ["02062"],
+  "landmarks": [
+    "Norwood Memorial Airport",
+    "Norwood Town Common",
+    "Endean Park",
+    "Ellis Gardens",
+    "Norwood Theatre"
+  ],
+  "nearby_cities": [
+    {"name":"Dedham","slug":"dedham-ma"},
+    {"name":"Westwood","slug":"westwood-ma"},
+    {"name":"Canton","slug":"canton-ma"},
+    {"name":"Milton","slug":"milton-ma"},
+    {"name":"Needham","slug":"needham-ma"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "services-logistics",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Randolph",
+  "slug": "randolph-ma",
+  "county": "Norfolk County",
+  "population": 35000,
+  "zip_codes": ["02368"],
+  "landmarks": [
+    "Powers Farm",
+    "Randolph Intergenerational Community Center",
+    "Turner's Pond Area",
+    "Cochato Nursery",
+    "Randolph Town Center"
+  ],
+  "nearby_cities": [
+    {"name":"Brockton","slug":"brockton-ma"},
+    {"name":"Braintree","slug":"braintree-ma"},
+    {"name":"Milton","slug":"milton-ma"},
+    {"name":"Quincy","slug":"quincy-ma"},
+    {"name":"Stoughton","slug":"stoughton-ma"}
+  ],
+  "city_type": "metro-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Reading",
+  "slug": "reading-ma",
+  "county": "Middlesex County",
+  "population": 25000,
+  "zip_codes": ["01867"],
+  "landmarks": [
+    "Lake Quannapowitt",
+    "Memorial Park",
+    "Reading Town Common",
+    "Parker Tavern",
+    "Reading Public Library"
+  ],
+  "nearby_cities": [
+    {"name":"Wakefield","slug":"wakefield-ma"},
+    {"name":"Stoneham","slug":"stoneham-ma"},
+    {"name":"Wilmington","slug":"wilmington-ma"},
+    {"name":"Burlington","slug":"burlington-ma"},
+    {"name":"Melrose","slug":"melrose-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Saugus",
+  "slug": "saugus-ma",
+  "county": "Essex County",
+  "population": 29000,
+  "zip_codes": ["01906"],
+  "landmarks": [
+    "Breakheart Reservation",
+    "Saugus Iron Works",
+    "Prankers Pond",
+    "Anna Parker Playground",
+    "Saugus Town Center"
+  ],
+  "nearby_cities": [
+    {"name":"Lynn","slug":"lynn-ma"},
+    {"name":"Revere","slug":"revere-ma"},
+    {"name":"Peabody","slug":"peabody-ma"},
+    {"name":"Malden","slug":"malden-ma"},
+    {"name":"Melrose","slug":"melrose-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "retail-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "north-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Scituate",
+  "slug": "scituate-ma",
+  "county": "Plymouth County",
+  "population": 20000,
+  "zip_codes": ["02066"],
+  "landmarks": [
+    "Scituate Lighthouse",
+    "Scituate Harbor",
+    "Peggotty Beach",
+    "Widow's Walk Golf Course",
+    "Lawson Tower"
+  ],
+  "nearby_cities": [
+    {"name":"Weymouth","slug":"weymouth-ma"},
+    {"name":"Hingham","slug":"hingham-ma"},
+    {"name":"Marshfield","slug":"marshfield-ma"},
+    {"name":"Cohasset","slug":"cohasset-ma"},
+    {"name":"Norwell","slug":"norwell-ma"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-harbor",
+  "economy_type": "tourism-services",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "seasonal-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "South Hadley",
+  "slug": "south-hadley-ma",
+  "county": "Hampshire County",
+  "population": 18000,
+  "zip_codes": ["01075"],
+  "landmarks": [
+    "Mount Holyoke College",
+    "The Village Commons",
+    "Brunelle's Marina",
+    "Bachelor Brook",
+    "Buttery Brook Park"
+  ],
+  "nearby_cities": [
+    {"name":"Holyoke","slug":"holyoke-ma"},
+    {"name":"Northampton","slug":"northampton-ma"},
+    {"name":"Amherst","slug":"amherst-ma"},
+    {"name":"Chicopee","slug":"chicopee-ma"},
+    {"name":"Ludlow","slug":"ludlow-ma"}
+  ],
+  "city_type": "college-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "education-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "institutional-growth",
+  "service_environment": "pioneer-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Stoneham",
+  "slug": "stoneham-ma",
+  "county": "Middlesex County",
+  "population": 23000,
+  "zip_codes": ["02180"],
+  "landmarks": [
+    "Middlesex Fells Reservation",
+    "Spot Pond",
+    "Stone Zoo",
+    "Stoneham Town Common",
+    "Bear Hill Golf Club"
+  ],
+  "nearby_cities": [
+    {"name":"Melrose","slug":"melrose-ma"},
+    {"name":"Reading","slug":"reading-ma"},
+    {"name":"Malden","slug":"malden-ma"},
+    {"name":"Wakefield","slug":"wakefield-ma"},
+    {"name":"Medford","slug":"medford-ma"}
+  ],
+  "city_type": "metro-town",
+  "climate_zone": "humid-continental",
+  "terrain": "urban-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Stoughton",
+  "slug": "stoughton-ma",
+  "county": "Norfolk County",
+  "population": 29000,
+  "zip_codes": ["02072"],
+  "landmarks": [
+    "Bird Street Conservation Area",
+    "Halloran Park",
+    "Stoughton Center",
+    "Ames Long Pond",
+    "Stoughton Historical Society"
+  ],
+  "nearby_cities": [
+    {"name":"Randolph","slug":"randolph-ma"},
+    {"name":"Brockton","slug":"brockton-ma"},
+    {"name":"Canton","slug":"canton-ma"},
+    {"name":"Sharon","slug":"sharon-ma"},
+    {"name":"Milton","slug":"milton-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Swampscott",
+  "slug": "swampscott-ma",
+  "county": "Essex County",
+  "population": 15000,
+  "zip_codes": ["01907"],
+  "landmarks": [
+    "King's Beach",
+    "Fisherman's Beach",
+    "Swampscott Harbor",
+    "Linscott Park",
+    "Humphrey Street District"
+  ],
+  "nearby_cities": [
+    {"name":"Lynn","slug":"lynn-ma"},
+    {"name":"Salem","slug":"salem-ma"},
+    {"name":"Marblehead","slug":"marblehead-ma"},
+    {"name":"Peabody","slug":"peabody-ma"},
+    {"name":"Beverly","slug":"beverly-ma"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-harbor",
+  "economy_type": "tourism-services",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "north-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Tewksbury",
+  "slug": "tewksbury-ma",
+  "county": "Middlesex County",
+  "population": 32000,
+  "zip_codes": ["01876"],
+  "landmarks": [
+    "Tewksbury State Hospital Grounds",
+    "Livingston Street Recreation Area",
+    "Shawsheen River",
+    "Long Pond",
+    "Tewksbury Town Common"
+  ],
+  "nearby_cities": [
+    {"name":"Lowell","slug":"lowell-ma"},
+    {"name":"Chelmsford","slug":"chelmsford-ma"},
+    {"name":"Andover","slug":"andover-ma"},
+    {"name":"Dracut","slug":"dracut-ma"},
+    {"name":"Wilmington","slug":"wilmington-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-plains",
+  "economy_type": "services-healthcare",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "merrimack-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Wakefield",
+  "slug": "wakefield-ma",
+  "county": "Middlesex County",
+  "population": 27000,
+  "zip_codes": ["01880"],
+  "landmarks": [
+    "Lake Quannapowitt",
+    "Wakefield Common",
+    "Breakheart Reservation",
+    "Galvin Middle School Fields",
+    "Downtown Wakefield"
+  ],
+  "nearby_cities": [
+    {"name":"Reading","slug":"reading-ma"},
+    {"name":"Stoneham","slug":"stoneham-ma"},
+    {"name":"Melrose","slug":"melrose-ma"},
+    {"name":"Saugus","slug":"saugus-ma"},
+    {"name":"Lynnfield","slug":"lynnfield-ma"}
+  ],
+  "city_type": "metro-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Watertown",
+  "slug": "watertown-ma",
+  "county": "Middlesex County",
+  "population": 35000,
+  "zip_codes": ["02472"],
+  "landmarks": [
+    "Arsenal Yards",
+    "Charles River Greenway",
+    "Watertown Square",
+    "Armenian Library and Museum",
+    "Saltonstall Park"
+  ],
+  "nearby_cities": [
+    {"name":"Cambridge","slug":"cambridge-ma"},
+    {"name":"Belmont","slug":"belmont-ma"},
+    {"name":"Waltham","slug":"waltham-ma"},
+    {"name":"Newton","slug":"newton-ma"},
+    {"name":"Arlington","slug":"arlington-ma"}
+  ],
+  "city_type": "metro-town",
+  "climate_zone": "humid-continental",
+  "terrain": "urban-riverfront",
+  "economy_type": "retail-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "West Boylston",
+  "slug": "west-boylston-ma",
+  "county": "Worcester County",
+  "population": 8000,
+  "zip_codes": ["01583"],
+  "landmarks": [
+    "Wachusett Reservoir",
+    "Goodale Park",
+    "Old Stone Church",
+    "West Boylston Common",
+    "Beaman Memorial Library"
+  ],
+  "nearby_cities": [
+    {"name":"Worcester","slug":"worcester-ma"},
+    {"name":"Holden","slug":"holden-ma"},
+    {"name":"Shrewsbury","slug":"shrewsbury-ma"},
+    {"name":"Clinton","slug":"clinton-ma"},
+    {"name":"Sterling","slug":"sterling-ma"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Westborough",
+  "slug": "westborough-ma",
+  "county": "Worcester County",
+  "population": 22000,
+  "zip_codes": ["01581"],
+  "landmarks": [
+    "Westborough Reservoir",
+    "Sandra Pond",
+    "Westborough Town Common",
+    "Veterans Freedom Park",
+    "Lake Chauncy"
+  ],
+  "nearby_cities": [
+    {"name":"Grafton","slug":"grafton-ma"},
+    {"name":"Marlborough","slug":"marlborough-ma"},
+    {"name":"Shrewsbury","slug":"shrewsbury-ma"},
+    {"name":"Southborough","slug":"southborough-ma"},
+    {"name":"Northborough","slug":"northborough-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "business-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "West Springfield",
+  "slug": "west-springfield-ma",
+  "county": "Hampden County",
+  "population": 29000,
+  "zip_codes": ["01089","01090"],
+  "landmarks": [
+    "Eastern States Exposition",
+    "Mittineague Park",
+    "West Springfield Town Common",
+    "Bear Hole Reservoir",
+    "Connecticut River Walk"
+  ],
+  "nearby_cities": [
+    {"name":"Springfield","slug":"springfield-ma"},
+    {"name":"Holyoke","slug":"holyoke-ma"},
+    {"name":"Agawam","slug":"agawam-ma"},
+    {"name":"Chicopee","slug":"chicopee-ma"},
+    {"name":"Westfield","slug":"westfield-ma"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "retail-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "pioneer-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Westport",
+  "slug": "westport-ma",
+  "county": "Bristol County",
+  "population": 16000,
+  "zip_codes": ["02790"],
+  "landmarks": [
+    "Horseneck Beach",
+    "Westport Point",
+    "Westport Rivers Vineyard",
+    "East Branch Westport River",
+    "Town Farm Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Fall River","slug":"fall-river-ma"},
+    {"name":"New Bedford","slug":"new-bedford-ma"},
+    {"name":"Dartmouth","slug":"dartmouth-ma"},
+    {"name":"Little Compton","slug":"little-compton-ri"},
+    {"name":"Somerset","slug":"somerset-ma"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plains",
+  "economy_type": "tourism-agriculture",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-coast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Wilmington",
+  "slug": "wilmington-ma",
+  "county": "Middlesex County",
+  "population": 24000,
+  "zip_codes": ["01887"],
+  "landmarks": [
+    "Silver Lake",
+    "Rotary Park",
+    "Yentile Farm Recreation Area",
+    "Wilmington Town Common",
+    "Town Beach"
+  ],
+  "nearby_cities": [
+    {"name":"Reading","slug":"reading-ma"},
+    {"name":"Tewksbury","slug":"tewksbury-ma"},
+    {"name":"Burlington","slug":"burlington-ma"},
+    {"name":"Woburn","slug":"woburn-ma"},
+    {"name":"Wakefield","slug":"wakefield-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Winchester",
+  "slug": "winchester-ma",
+  "county": "Middlesex County",
+  "population": 22000,
+  "zip_codes": ["01890"],
+  "landmarks": [
+    "Mystic Lakes",
+    "Middlesex Fells Reservation",
+    "Winchester Center",
+    "Town Hall Plaza",
+    "Wright-Locke Farm"
+  ],
+  "nearby_cities": [
+    {"name":"Woburn","slug":"woburn-ma"},
+    {"name":"Arlington","slug":"arlington-ma"},
+    {"name":"Lexington","slug":"lexington-ma"},
+    {"name":"Reading","slug":"reading-ma"},
+    {"name":"Stoneham","slug":"stoneham-ma"}
+  ],
+  "city_type": "affluent-town",
+  "climate_zone": "humid-continental",
+  "terrain": "urban-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Winthrop",
+  "slug": "winthrop-ma",
+  "county": "Suffolk County",
+  "population": 19000,
+  "zip_codes": ["02152"],
+  "landmarks": [
+    "Winthrop Beach",
+    "Deer Island",
+    "Yirrell Beach",
+    "Coughlin Park",
+    "Winthrop Harbor"
+  ],
+  "nearby_cities": [
+    {"name":"Boston","slug":"boston-ma"},
+    {"name":"Revere","slug":"revere-ma"},
+    {"name":"Chelsea","slug":"chelsea-ma"},
+    {"name":"Nahant","slug":"nahant-ma"},
+    {"name":"Lynn","slug":"lynn-ma"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-peninsula",
+  "economy_type": "tourism-services",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Yarmouth",
+  "slug": "yarmouth-ma",
+  "county": "Barnstable County",
+  "population": 25000,
+  "zip_codes": ["02664","02673","02675"],
+  "landmarks": [
+    "Seagull Beach",
+    "Bass River",
+    "Whydah Pirate Museum",
+    "Yarmouth Port",
+    "Gray's Beach"
+  ],
+  "nearby_cities": [
+    {"name":"Barnstable","slug":"barnstable-ma"},
+    {"name":"Dennis","slug":"dennis-ma"},
+    {"name":"Mashpee","slug":"mashpee-ma"},
+    {"name":"Falmouth","slug":"falmouth-ma"},
+    {"name":"Brewster","slug":"brewster-ma"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plains",
+  "economy_type": "tourism-services",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "seasonal-growth",
+  "service_environment": "cape-cod-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Marblehead",
+  "slug": "marblehead-ma",
+  "county": "Essex County",
+  "population": 20000,
+  "zip_codes": ["01945"],
+  "landmarks": [
+    "Marblehead Harbor",
+    "Fort Sewall",
+    "Castle Rock Park",
+    "Chandler Hovey Park",
+    "Old Town Marblehead"
+  ],
+  "nearby_cities": [
+    {"name":"Salem","slug":"salem-ma"},
+    {"name":"Swampscott","slug":"swampscott-ma"},
+    {"name":"Beverly","slug":"beverly-ma"},
+    {"name":"Peabody","slug":"peabody-ma"},
+    {"name":"Lynn","slug":"lynn-ma"}
+  ],
+  "city_type": "historic-coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rocky-coastline",
+  "economy_type": "tourism-maritime",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "north-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Mansfield",
+  "slug": "mansfield-ma",
+  "county": "Bristol County",
+  "population": 24000,
+  "zip_codes": ["02048"],
+  "landmarks": [
+    "Xfinity Center",
+    "Mansfield Crossing",
+    "Memorial Park",
+    "Great Woods Conservation Area",
+    "Mansfield Town Center"
+  ],
+  "nearby_cities": [
+    {"name":"Attleboro","slug":"attleboro-ma"},
+    {"name":"Foxborough","slug":"foxborough-ma"},
+    {"name":"Norton","slug":"norton-ma"},
+    {"name":"Easton","slug":"easton-ma"},
+    {"name":"Taunton","slug":"taunton-ma"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "entertainment-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Middleborough",
+  "slug": "middleborough-ma",
+  "county": "Plymouth County",
+  "population": 25000,
+  "zip_codes": ["02346"],
+  "landmarks": [
+    "Oliver Mill Park",
+    "Nemasket River",
+    "Middleborough Town Center",
+    "Tispaquin Pond",
+    "Robbins Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Bridgewater","slug":"bridgewater-ma"},
+    {"name":"Taunton","slug":"taunton-ma"},
+    {"name":"Lakeville","slug":"lakeville-ma"},
+    {"name":"Plymouth","slug":"plymouth-ma"},
+    {"name":"Wareham","slug":"wareham-ma"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-plains",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Pembroke",
+  "slug": "pembroke-ma",
+  "county": "Plymouth County",
+  "population": 19000,
+  "zip_codes": ["02359"],
+  "landmarks": [
+    "Oldham Pond",
+    "Pembroke Town Common",
+    "Herring Run Park",
+    "Pembroke Community Center",
+    "Bryantville Historic Area"
+  ],
+  "nearby_cities": [
+    {"name":"Hanover","slug":"hanover-ma"},
+    {"name":"Marshfield","slug":"marshfield-ma"},
+    {"name":"Rockland","slug":"rockland-ma"},
+    {"name":"Duxbury","slug":"duxbury-ma"},
+    {"name":"Kingston","slug":"kingston-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plains",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Plymouth",
+  "slug": "plymouth-ma",
+  "county": "Plymouth County",
+  "population": 62000,
+  "zip_codes": ["02360"],
+  "landmarks": [
+    "Plymouth Rock",
+    "Mayflower II",
+    "Plymouth Harbor",
+    "Plimoth Patuxet Museums",
+    "Downtown Plymouth"
+  ],
+  "nearby_cities": [
+    {"name":"Kingston","slug":"kingston-ma"},
+    {"name":"Middleborough","slug":"middleborough-ma"},
+    {"name":"Wareham","slug":"wareham-ma"},
+    {"name":"Carver","slug":"carver-ma"},
+    {"name":"Duxbury","slug":"duxbury-ma"}
+  ],
+  "city_type": "historic-coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-harbor",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Rockland",
+  "slug": "rockland-ma",
+  "county": "Plymouth County",
+  "population": 18000,
+  "zip_codes": ["02370"],
+  "landmarks": [
+    "Rockland Golf Course",
+    "Veterans Memorial Stadium",
+    "Rockland Town Center",
+    "Cushing Memorial Park",
+    "Studley's Pond"
+  ],
+  "nearby_cities": [
+    {"name":"Abington","slug":"abington-ma"},
+    {"name":"Hanover","slug":"hanover-ma"},
+    {"name":"Weymouth","slug":"weymouth-ma"},
+    {"name":"Pembroke","slug":"pembroke-ma"},
+    {"name":"Whitman","slug":"whitman-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Seekonk",
+  "slug": "seekonk-ma",
+  "county": "Bristol County",
+  "population": 16000,
+  "zip_codes": ["02771"],
+  "landmarks": [
+    "Seekonk Speedway",
+    "Gammino Pond",
+    "Seekonk Town Hall",
+    "Turner Reservoir",
+    "Jacob Hill Conservation Area"
+  ],
+  "nearby_cities": [
+    {"name":"Attleboro","slug":"attleboro-ma"},
+    {"name":"Taunton","slug":"taunton-ma"},
+    {"name":"East Providence","slug":"east-providence-ri"},
+    {"name":"Pawtucket","slug":"pawtucket-ri"},
+    {"name":"Rehoboth","slug":"rehoboth-ma"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-coast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Somerset",
+  "slug": "somerset-ma",
+  "county": "Bristol County",
+  "population": 18000,
+  "zip_codes": ["02725","02726"],
+  "landmarks": [
+    "Somerset Marina",
+    "Pierce Beach",
+    "Veterans Memorial Park",
+    "Lees River",
+    "Somerset Town Center"
+  ],
+  "nearby_cities": [
+    {"name":"Fall River","slug":"fall-river-ma"},
+    {"name":"Swansea","slug":"swansea-ma"},
+    {"name":"Westport","slug":"westport-ma"},
+    {"name":"Seekonk","slug":"seekonk-ma"},
+    {"name":"New Bedford","slug":"new-bedford-ma"}
+  ],
+  "city_type": "riverfront-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-riverfront",
+  "economy_type": "services-maritime",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-coast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Southbridge",
+  "slug": "southbridge-ma",
+  "county": "Worcester County",
+  "population": 17000,
+  "zip_codes": ["01550"],
+  "landmarks": [
+    "Southbridge Town Common",
+    "Westville Recreation Area",
+    "Jacob Edwards Library",
+    "McKinstry Brook",
+    "Heritage State Park Area"
+  ],
+  "nearby_cities": [
+    {"name":"Sturbridge","slug":"sturbridge-ma"},
+    {"name":"Charlton","slug":"charlton-ma"},
+    {"name":"Dudley","slug":"dudley-ma"},
+    {"name":"Webster","slug":"webster-ma"},
+    {"name":"Auburn","slug":"auburn-ma"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "healthcare-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Wareham",
+  "slug": "wareham-ma",
+  "county": "Plymouth County",
+  "population": 24000,
+  "zip_codes": ["02571","02576"],
+  "landmarks": [
+    "Onset Beach",
+    "Wareham River",
+    "Water Wizz",
+    "Onset Village",
+    "Tihonet Pond"
+  ],
+  "nearby_cities": [
+    {"name":"Plymouth","slug":"plymouth-ma"},
+    {"name":"Middleborough","slug":"middleborough-ma"},
+    {"name":"Falmouth","slug":"falmouth-ma"},
+    {"name":"Bourne","slug":"bourne-ma"},
+    {"name":"New Bedford","slug":"new-bedford-ma"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plains",
+  "economy_type": "tourism-services",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "seasonal-growth",
+  "service_environment": "south-coast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Woburn",
+  "slug": "woburn-ma",
+  "county": "Middlesex County",
+  "population": 42000,
+  "zip_codes": ["01801"],
+  "landmarks": [
+    "Horn Pond",
+    "Middlesex Canal Park",
+    "Woburn Common",
+    "Library Park",
+    "Baldwin Green"
+  ],
+  "nearby_cities": [
+    {"name":"Winchester","slug":"winchester-ma"},
+    {"name":"Burlington","slug":"burlington-ma"},
+    {"name":"Reading","slug":"reading-ma"},
+    {"name":"Stoneham","slug":"stoneham-ma"},
+    {"name":"Wilmington","slug":"wilmington-ma"}
+  ],
+  "city_type": "metro-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-services",
+  "housing_profile": "urban-suburban-mix",
+  "growth_pattern": "business-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Easthampton",
+  "slug": "easthampton-ma",
+  "county": "Hampshire County",
+  "population": 16000,
+  "zip_codes": ["01027"],
+  "landmarks": [
+    "Manhan Rail Trail",
+    "Mount Tom Reservation",
+    "Easthampton City Hall",
+    "Nashawannuck Pond",
+    "Cultural District"
+  ],
+  "nearby_cities": [
+    {"name":"Northampton","slug":"northampton-ma"},
+    {"name":"Holyoke","slug":"holyoke-ma"},
+    {"name":"South Hadley","slug":"south-hadley-ma"},
+    {"name":"Westfield","slug":"westfield-ma"},
+    {"name":"Amherst","slug":"amherst-ma"}
+  ],
+  "city_type": "small-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "arts-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "pioneer-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Foxborough",
+  "slug": "foxborough-ma",
+  "county": "Norfolk County",
+  "population": 19000,
+  "zip_codes": ["02035"],
+  "landmarks": [
+    "Gillette Stadium",
+    "Patriot Place",
+    "F. Gilbert Hills State Forest",
+    "Foxborough Common",
+    "Memorial Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Mansfield","slug":"mansfield-ma"},
+    {"name":"Franklin","slug":"franklin-ma"},
+    {"name":"Wrentham","slug":"wrentham-ma"},
+    {"name":"Sharon","slug":"sharon-ma"},
+    {"name":"Easton","slug":"easton-ma"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "sports-entertainment",
+  "housing_profile": "family-residential",
+  "growth_pattern": "event-driven-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Hanover",
+  "slug": "hanover-ma",
+  "county": "Plymouth County",
+  "population": 15000,
+  "zip_codes": ["02339"],
+  "landmarks": [
+    "Forge Pond Park",
+    "Hanover Mall Area",
+    "Sylvester Field",
+    "John Curtis Free Library",
+    "Hanover Town Center"
+  ],
+  "nearby_cities": [
+    {"name":"Pembroke","slug":"pembroke-ma"},
+    {"name":"Rockland","slug":"rockland-ma"},
+    {"name":"Norwell","slug":"norwell-ma"},
+    {"name":"Abington","slug":"abington-ma"},
+    {"name":"Whitman","slug":"whitman-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Hingham",
+  "slug": "hingham-ma",
+  "county": "Plymouth County",
+  "population": 25000,
+  "zip_codes": ["02043"],
+  "landmarks": [
+    "Hingham Harbor",
+    "Worlds End",
+    "Derby Street Shops",
+    "Wompatuck State Park",
+    "Hingham Shipyard"
+  ],
+  "nearby_cities": [
+    {"name":"Weymouth","slug":"weymouth-ma"},
+    {"name":"Scituate","slug":"scituate-ma"},
+    {"name":"Cohasset","slug":"cohasset-ma"},
+    {"name":"Norwell","slug":"norwell-ma"},
+    {"name":"Boston","slug":"boston-ma"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-harbor",
+  "economy_type": "professional-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lakeville",
+  "slug": "lakeville-ma",
+  "county": "Plymouth County",
+  "population": 12000,
+  "zip_codes": ["02347"],
+  "landmarks": [
+    "Long Pond",
+    "Assawompset Pond",
+    "Ted Williams Camp",
+    "Lakeville Town House",
+    "Nemasket River"
+  ],
+  "nearby_cities": [
+    {"name":"Middleborough","slug":"middleborough-ma"},
+    {"name":"Taunton","slug":"taunton-ma"},
+    {"name":"Wareham","slug":"wareham-ma"},
+    {"name":"Freetown","slug":"freetown-ma"},
+    {"name":"Rochester","slug":"rochester-ma"}
+  ],
+  "city_type": "rural-town",
+  "climate_zone": "humid-continental",
+  "terrain": "lakes-region",
+  "economy_type": "services-agriculture",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-coast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lynnfield",
+  "slug": "lynnfield-ma",
+  "county": "Essex County",
+  "population": 13000,
+  "zip_codes": ["01940"],
+  "landmarks": [
+    "MarketStreet Lynnfield",
+    "Pillings Pond",
+    "King Rail Reserve",
+    "Reedy Meadow",
+    "Lynnfield Common"
+  ],
+  "nearby_cities": [
+    {"name":"Peabody","slug":"peabody-ma"},
+    {"name":"Wakefield","slug":"wakefield-ma"},
+    {"name":"Saugus","slug":"saugus-ma"},
+    {"name":"Reading","slug":"reading-ma"},
+    {"name":"Lynn","slug":"lynn-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "retail-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "north-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Norton",
+  "slug": "norton-ma",
+  "county": "Bristol County",
+  "population": 19000,
+  "zip_codes": ["02766"],
+  "landmarks": [
+    "Wheaton College",
+    "Norton Reservoir",
+    "Winslow Farm",
+    "Norton Common",
+    "Chartley Pond"
+  ],
+  "nearby_cities": [
+    {"name":"Mansfield","slug":"mansfield-ma"},
+    {"name":"Attleboro","slug":"attleboro-ma"},
+    {"name":"Taunton","slug":"taunton-ma"},
+    {"name":"Easton","slug":"easton-ma"},
+    {"name":"Foxborough","slug":"foxborough-ma"}
+  ],
+  "city_type": "college-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "education-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-coast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sharon",
+  "slug": "sharon-ma",
+  "county": "Norfolk County",
+  "population": 19000,
+  "zip_codes": ["02067"],
+  "landmarks": [
+    "Lake Massapoag",
+    "Borderland State Park",
+    "Sharon Town Center",
+    "Memorial Park Beach",
+    "Moose Hill Wildlife Sanctuary"
+  ],
+  "nearby_cities": [
+    {"name":"Foxborough","slug":"foxborough-ma"},
+    {"name":"Stoughton","slug":"stoughton-ma"},
+    {"name":"Canton","slug":"canton-ma"},
+    {"name":"Mansfield","slug":"mansfield-ma"},
+    {"name":"Easton","slug":"easton-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "lakes-and-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Swansea",
+  "slug": "swansea-ma",
+  "county": "Bristol County",
+  "population": 17000,
+  "zip_codes": ["02777"],
+  "landmarks": [
+    "Swansea Town Beach",
+    "Touisset Marsh",
+    "Joseph Case Junior High Area",
+    "Lee's River",
+    "Swansea Town Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Somerset","slug":"somerset-ma"},
+    {"name":"Fall River","slug":"fall-river-ma"},
+    {"name":"Seekonk","slug":"seekonk-ma"},
+    {"name":"Warren","slug":"warren-ri"},
+    {"name":"Barrington","slug":"barrington-ri"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-riverfront",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-coast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Webster",
+  "slug": "webster-ma",
+  "county": "Worcester County",
+  "population": 18000,
+  "zip_codes": ["01570"],
+  "landmarks": [
+    "Webster Lake",
+    "Indian Ranch",
+    "Memorial Beach",
+    "Downtown Webster",
+    "French River Park"
+  ],
+  "nearby_cities": [
+    {"name":"Southbridge","slug":"southbridge-ma"},
+    {"name":"Dudley","slug":"dudley-ma"},
+    {"name":"Oxford","slug":"oxford-ma"},
+    {"name":"Charlton","slug":"charlton-ma"},
+    {"name":"Thompson","slug":"thompson-ct"}
+  ],
+  "city_type": "lake-town",
+  "climate_zone": "humid-continental",
+  "terrain": "lakes-region",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Westwood",
+  "slug": "westwood-ma",
+  "county": "Norfolk County",
+  "population": 17000,
+  "zip_codes": ["02090"],
+  "landmarks": [
+    "University Station",
+    "Hale Reservation",
+    "Buckmaster Pond",
+    "Westwood Town Center",
+    "Martha Jones School Area"
+  ],
+  "nearby_cities": [
+    {"name":"Dedham","slug":"dedham-ma"},
+    {"name":"Needham","slug":"needham-ma"},
+    {"name":"Norwood","slug":"norwood-ma"},
+    {"name":"Canton","slug":"canton-ma"},
+    {"name":"Dover","slug":"dover-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Whitman",
+  "slug": "whitman-ma",
+  "county": "Plymouth County",
+  "population": 15000,
+  "zip_codes": ["02382"],
+  "landmarks": [
+    "Whitman Town Park",
+    "Historic Town Hall",
+    "Whitman Center",
+    "Hobart Pond",
+    "Memorial Field"
+  ],
+  "nearby_cities": [
+    {"name":"Abington","slug":"abington-ma"},
+    {"name":"Rockland","slug":"rockland-ma"},
+    {"name":"Hanover","slug":"hanover-ma"},
+    {"name":"Brockton","slug":"brockton-ma"},
+    {"name":"East Bridgewater","slug":"east-bridgewater-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Bourne",
+  "slug": "bourne-ma",
+  "county": "Barnstable County",
+  "population": 21000,
+  "zip_codes": ["02532","02534","02559","02562"],
+  "landmarks": [
+    "Cape Cod Canal",
+    "Bourne Bridge",
+    "Monument Beach",
+    "Scusset Beach State Reservation",
+    "Buzzards Bay Park"
+  ],
+  "nearby_cities": [
+    {"name":"Wareham","slug":"wareham-ma"},
+    {"name":"Falmouth","slug":"falmouth-ma"},
+    {"name":"Mashpee","slug":"mashpee-ma"},
+    {"name":"Sandwich","slug":"sandwich-ma"},
+    {"name":"Plymouth","slug":"plymouth-ma"}
+  ],
+  "city_type": "canal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plains",
+  "economy_type": "tourism-services",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "seasonal-growth",
+  "service_environment": "cape-cod-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Brewster",
+  "slug": "brewster-ma",
+  "county": "Barnstable County",
+  "population": 10000,
+  "zip_codes": ["02631"],
+  "landmarks": [
+    "Nickerson State Park",
+    "Breakwater Beach",
+    "Cape Cod Rail Trail",
+    "Stony Brook Grist Mill",
+    "Brewster Flats"
+  ],
+  "nearby_cities": [
+    {"name":"Dennis","slug":"dennis-ma"},
+    {"name":"Yarmouth","slug":"yarmouth-ma"},
+    {"name":"Orleans","slug":"orleans-ma"},
+    {"name":"Harwich","slug":"harwich-ma"},
+    {"name":"Barnstable","slug":"barnstable-ma"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plains",
+  "economy_type": "tourism-services",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "seasonal-growth",
+  "service_environment": "cape-cod-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Carver",
+  "slug": "carver-ma",
+  "county": "Plymouth County",
+  "population": 12000,
+  "zip_codes": ["02330"],
+  "landmarks": [
+    "Myles Standish State Forest",
+    "Sampson's Pond",
+    "Edaville Family Theme Park",
+    "Carver Town Hall",
+    "Cranberry Bogs"
+  ],
+  "nearby_cities": [
+    {"name":"Plymouth","slug":"plymouth-ma"},
+    {"name":"Wareham","slug":"wareham-ma"},
+    {"name":"Middleborough","slug":"middleborough-ma"},
+    {"name":"Kingston","slug":"kingston-ma"},
+    {"name":"Lakeville","slug":"lakeville-ma"}
+  ],
+  "city_type": "rural-town",
+  "climate_zone": "humid-continental",
+  "terrain": "forests-and-wetlands",
+  "economy_type": "agriculture-tourism",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Duxbury",
+  "slug": "duxbury-ma",
+  "county": "Plymouth County",
+  "population": 16000,
+  "zip_codes": ["02332"],
+  "landmarks": [
+    "Duxbury Beach",
+    "Myles Standish Monument",
+    "King Caesar House",
+    "Powder Point Bridge",
+    "Duxbury Bay"
+  ],
+  "nearby_cities": [
+    {"name":"Plymouth","slug":"plymouth-ma"},
+    {"name":"Kingston","slug":"kingston-ma"},
+    {"name":"Marshfield","slug":"marshfield-ma"},
+    {"name":"Pembroke","slug":"pembroke-ma"},
+    {"name":"Carver","slug":"carver-ma"}
+  ],
+  "city_type": "historic-coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-harbor",
+  "economy_type": "tourism-services",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Easton",
+  "slug": "easton-ma",
+  "county": "Bristol County",
+  "population": 25000,
+  "zip_codes": ["02356","02357"],
+  "landmarks": [
+    "Stonehill College",
+    "Borderland State Park",
+    "Governor Ames Estate",
+    "Frothingham Park",
+    "Easton Town Center"
+  ],
+  "nearby_cities": [
+    {"name":"Brockton","slug":"brockton-ma"},
+    {"name":"Mansfield","slug":"mansfield-ma"},
+    {"name":"Norton","slug":"norton-ma"},
+    {"name":"Sharon","slug":"sharon-ma"},
+    {"name":"Taunton","slug":"taunton-ma"}
+  ],
+  "city_type": "college-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "education-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-coast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Hopkinton",
+  "slug": "hopkinton-ma",
+  "county": "Middlesex County",
+  "population": 19000,
+  "zip_codes": ["01748"],
+  "landmarks": [
+    "Boston Marathon Start Line",
+    "Hopkinton State Park",
+    "Whitehall Reservoir",
+    "Hopkinton Common",
+    "Fruit Street Fields"
+  ],
+  "nearby_cities": [
+    {"name":"Ashland","slug":"ashland-ma"},
+    {"name":"Milford","slug":"milford-ma"},
+    {"name":"Westborough","slug":"westborough-ma"},
+    {"name":"Southborough","slug":"southborough-ma"},
+    {"name":"Upton","slug":"upton-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "business-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Kingston",
+  "slug": "kingston-ma",
+  "county": "Plymouth County",
+  "population": 14000,
+  "zip_codes": ["02364"],
+  "landmarks": [
+    "Kingston Collection",
+    "Gray's Beach Park",
+    "Jones River Landing",
+    "Kingston Bay",
+    "Independence Mall Area"
+  ],
+  "nearby_cities": [
+    {"name":"Plymouth","slug":"plymouth-ma"},
+    {"name":"Duxbury","slug":"duxbury-ma"},
+    {"name":"Pembroke","slug":"pembroke-ma"},
+    {"name":"Carver","slug":"carver-ma"},
+    {"name":"Marshfield","slug":"marshfield-ma"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Marshfield",
+  "slug": "marshfield-ma",
+  "county": "Plymouth County",
+  "population": 26000,
+  "zip_codes": ["02050"],
+  "landmarks": [
+    "Brant Rock Beach",
+    "Green Harbor",
+    "Rexhame Beach",
+    "Daniel Webster Estate",
+    "Marshfield Fairgrounds"
+  ],
+  "nearby_cities": [
+    {"name":"Scituate","slug":"scituate-ma"},
+    {"name":"Duxbury","slug":"duxbury-ma"},
+    {"name":"Pembroke","slug":"pembroke-ma"},
+    {"name":"Kingston","slug":"kingston-ma"},
+    {"name":"Hingham","slug":"hingham-ma"}
+  ],
+  "city_type": "coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-harbor",
+  "economy_type": "tourism-services",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Maynard",
+  "slug": "maynard-ma",
+  "county": "Middlesex County",
+  "population": 11000,
+  "zip_codes": ["01754"],
+  "landmarks": [
+    "Assabet River Rail Trail",
+    "Clock Tower Place",
+    "Maynard Town Center",
+    "Memorial Park",
+    "Assabet River"
+  ],
+  "nearby_cities": [
+    {"name":"Hudson","slug":"hudson-ma"},
+    {"name":"Stow","slug":"stow-ma"},
+    {"name":"Acton","slug":"acton-ma"},
+    {"name":"Concord","slug":"concord-ma"},
+    {"name":"Sudbury","slug":"sudbury-ma"}
+  ],
+  "city_type": "historic-mill-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "services-technology",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Medway",
+  "slug": "medway-ma",
+  "county": "Norfolk County",
+  "population": 14000,
+  "zip_codes": ["02053"],
+  "landmarks": [
+    "Choate Park",
+    "Medway Community Farm",
+    "Town Hall District",
+    "Charles River Corridor",
+    "Metcalf Park"
+  ],
+  "nearby_cities": [
+    {"name":"Franklin","slug":"franklin-ma"},
+    {"name":"Milford","slug":"milford-ma"},
+    {"name":"Norfolk","slug":"norfolk-ma"},
+    {"name":"Millis","slug":"millis-ma"},
+    {"name":"Bellingham","slug":"bellingham-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-plains",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Norfolk",
+  "slug": "norfolk-ma",
+  "county": "Norfolk County",
+  "population": 12000,
+  "zip_codes": ["02056"],
+  "landmarks": [
+    "Stony Brook Wildlife Sanctuary",
+    "Norfolk Town Center",
+    "Campbell Forest",
+    "Freeman-Kennedy School Area",
+    "Town Hill"
+  ],
+  "nearby_cities": [
+    {"name":"Franklin","slug":"franklin-ma"},
+    {"name":"Medway","slug":"medway-ma"},
+    {"name":"Wrentham","slug":"wrentham-ma"},
+    {"name":"Millis","slug":"millis-ma"},
+    {"name":"Walpole","slug":"walpole-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Northborough",
+  "slug": "northborough-ma",
+  "county": "Worcester County",
+  "population": 15000,
+  "zip_codes": ["01532"],
+  "landmarks": [
+    "Assabet Park",
+    "Ellsworth-McAfee Park",
+    "Northborough Town Common",
+    "Bartlett Pond",
+    "Peaslee School Area"
+  ],
+  "nearby_cities": [
+    {"name":"Westborough","slug":"westborough-ma"},
+    {"name":"Marlborough","slug":"marlborough-ma"},
+    {"name":"Shrewsbury","slug":"shrewsbury-ma"},
+    {"name":"Berlin","slug":"berlin-ma"},
+    {"name":"Southborough","slug":"southborough-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "business-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Rehoboth",
+  "slug": "rehoboth-ma",
+  "county": "Bristol County",
+  "population": 13000,
+  "zip_codes": ["02769"],
+  "landmarks": [
+    "Anawan Rock",
+    "Carpenter Museum",
+    "Francis Farm",
+    "Rehoboth Village",
+    "Palmer River"
+  ],
+  "nearby_cities": [
+    {"name":"Seekonk","slug":"seekonk-ma"},
+    {"name":"Taunton","slug":"taunton-ma"},
+    {"name":"Attleboro","slug":"attleboro-ma"},
+    {"name":"Swansea","slug":"swansea-ma"},
+    {"name":"East Providence","slug":"east-providence-ri"}
+  ],
+  "city_type": "rural-town",
+  "climate_zone": "humid-continental",
+  "terrain": "farmland-plains",
+  "economy_type": "services-agriculture",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-coast-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sandwich",
+  "slug": "sandwich-ma",
+  "county": "Barnstable County",
+  "population": 21000,
+  "zip_codes": ["02537","02563"],
+  "landmarks": [
+    "Heritage Museums & Gardens",
+    "Sandwich Boardwalk",
+    "Shawme Pond",
+    "Sandwich Glass Museum",
+    "Town Neck Beach"
+  ],
+  "nearby_cities": [
+    {"name":"Barnstable","slug":"barnstable-ma"},
+    {"name":"Mashpee","slug":"mashpee-ma"},
+    {"name":"Bourne","slug":"bourne-ma"},
+    {"name":"Yarmouth","slug":"yarmouth-ma"},
+    {"name":"Falmouth","slug":"falmouth-ma"}
+  ],
+  "city_type": "historic-coastal-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plains",
+  "economy_type": "tourism-services",
+  "housing_profile": "coastal-residential",
+  "growth_pattern": "seasonal-growth",
+  "service_environment": "cape-cod-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Shrewsbury",
+  "slug": "shrewsbury-ma",
+  "county": "Worcester County",
+  "population": 39000,
+  "zip_codes": ["01545"],
+  "landmarks": [
+    "Lake Quinsigamond",
+    "Dean Park",
+    "Shrewsbury Town Common",
+    "Prospect Park",
+    "Floral Street District"
+  ],
+  "nearby_cities": [
+    {"name":"Worcester","slug":"worcester-ma"},
+    {"name":"Westborough","slug":"westborough-ma"},
+    {"name":"Northborough","slug":"northborough-ma"},
+    {"name":"Grafton","slug":"grafton-ma"},
+    {"name":"Holden","slug":"holden-ma"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "healthcare-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Walpole",
+  "slug": "walpole-ma",
+  "county": "Norfolk County",
+  "population": 26000,
+  "zip_codes": ["02081","02032","02071"],
+  "landmarks": [
+    "Bird Park",
+    "Francis William Bird Park",
+    "Walpole Center",
+    "Walpole Country Club",
+    "Turner Pond"
+  ],
+  "nearby_cities": [
+    {"name":"Norwood","slug":"norwood-ma"},
+    {"name":"Norfolk","slug":"norfolk-ma"},
+    {"name":"Westwood","slug":"westwood-ma"},
+    {"name":"Foxborough","slug":"foxborough-ma"},
+    {"name":"Sharon","slug":"sharon-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Acton",
+  "slug": "acton-ma",
+  "county": "Middlesex County",
+  "population": 25000,
+  "zip_codes": ["01720"],
+  "landmarks": [
+    "NARA Park",
+    "Acton Arboretum",
+    "Discovery Museum",
+    "Acton Town Center",
+    "Great Hill Conservation Area"
+  ],
+  "nearby_cities": [
+    {"name":"Maynard","slug":"maynard-ma"},
+    {"name":"Concord","slug":"concord-ma"},
+    {"name":"Littleton","slug":"littleton-ma"},
+    {"name":"Westford","slug":"westford-ma"},
+    {"name":"Sudbury","slug":"sudbury-ma"}
+  ],
+  "city_type": "technology-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "business-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Concord",
+  "slug": "concord-ma",
+  "county": "Middlesex County",
+  "population": 18000,
+  "zip_codes": ["01742"],
+  "landmarks": [
+    "Walden Pond",
+    "Minute Man National Historical Park",
+    "Old North Bridge",
+    "Concord Museum",
+    "Concord Center"
+  ],
+  "nearby_cities": [
+    {"name":"Acton","slug":"acton-ma"},
+    {"name":"Lexington","slug":"lexington-ma"},
+    {"name":"Maynard","slug":"maynard-ma"},
+    {"name":"Bedford","slug":"bedford-ma"},
+    {"name":"Sudbury","slug":"sudbury-ma"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "tourism-education",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Millis",
+  "slug": "millis-ma",
+  "county": "Norfolk County",
+  "population": 8500,
+  "zip_codes": ["02054"],
+  "landmarks": [
+    "Oak Grove Farm",
+    "Millis Town Center",
+    "Veterans Memorial Building",
+    "Charles River Area",
+    "Clyde Brown Elementary Area"
+  ],
+  "nearby_cities": [
+    {"name":"Medway","slug":"medway-ma"},
+    {"name":"Norfolk","slug":"norfolk-ma"},
+    {"name":"Walpole","slug":"walpole-ma"},
+    {"name":"Sherborn","slug":"sherborn-ma"},
+    {"name":"Franklin","slug":"franklin-ma"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-plains",
+  "economy_type": "services-retail",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sudbury",
+  "slug": "sudbury-ma",
+  "county": "Middlesex County",
+  "population": 19000,
+  "zip_codes": ["01776"],
+  "landmarks": [
+    "Wayside Inn",
+    "Assabet River National Wildlife Refuge",
+    "Sudbury Town Center",
+    "Nobscot Reservation",
+    "Bruce Freeman Rail Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Acton","slug":"acton-ma"},
+    {"name":"Maynard","slug":"maynard-ma"},
+    {"name":"Hudson","slug":"hudson-ma"},
+    {"name":"Concord","slug":"concord-ma"},
+    {"name":"Natick","slug":"natick-ma"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Bedford",
+  "slug": "bedford-ma",
+  "county": "Middlesex County",
+  "population": 14500,
+  "zip_codes": ["01730"],
+  "landmarks": [
+    "Minuteman Bikeway",
+    "Hanscom Air Field",
+    "Bedford Depot Park",
+    "Great Meadows Wildlife Refuge",
+    "Bedford Town Center"
+  ],
+  "nearby_cities": [
+    {"name":"Lexington","slug":"lexington-ma"},
+    {"name":"Concord","slug":"concord-ma"},
+    {"name":"Burlington","slug":"burlington-ma"},
+    {"name":"Acton","slug":"acton-ma"},
+    {"name":"Lincoln","slug":"lincoln-ma"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Bellingham",
+  "slug": "bellingham-ma",
+  "county": "Norfolk County",
+  "population": 17500,
+  "zip_codes": ["02019"],
+  "landmarks": [
+    "Silver Lake",
+    "Bellingham Town Common",
+    "Hartford Avenue District",
+    "Town Forest",
+    "Stall Brook Area"
+  ],
+  "nearby_cities": [
+    {"name":"Franklin","slug":"franklin-ma"},
+    {"name":"Milford","slug":"milford-ma"},
+    {"name":"Medway","slug":"medway-ma"},
+    {"name":"Wrentham","slug":"wrentham-ma"},
+    {"name":"Mendon","slug":"mendon-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Berlin",
+  "slug": "berlin-ma",
+  "county": "Worcester County",
+  "population": 3200,
+  "zip_codes": ["01503"],
+  "landmarks": [
+    "Solomon Pond Area",
+    "Berlin Orchards",
+    "Sawink Farm",
+    "Berlin Town Center",
+    "Assabet River Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Hudson","slug":"hudson-ma"},
+    {"name":"Northborough","slug":"northborough-ma"},
+    {"name":"Marlborough","slug":"marlborough-ma"},
+    {"name":"Clinton","slug":"clinton-ma"},
+    {"name":"Boylston","slug":"boylston-ma"}
+  ],
+  "city_type": "rural-town",
+  "climate_zone": "humid-continental",
+  "terrain": "farmland-hills",
+  "economy_type": "agriculture-services",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Canton",
+  "slug": "canton-ma",
+  "county": "Norfolk County",
+  "population": 24500,
+  "zip_codes": ["02021"],
+  "landmarks": [
+    "Blue Hills Reservation",
+    "Paul Revere Heritage Site",
+    "Canton Corner",
+    "Ponkapoag Pond",
+    "Museum of American Bird Art"
+  ],
+  "nearby_cities": [
+    {"name":"Sharon","slug":"sharon-ma"},
+    {"name":"Stoughton","slug":"stoughton-ma"},
+    {"name":"Norwood","slug":"norwood-ma"},
+    {"name":"Milton","slug":"milton-ma"},
+    {"name":"Westwood","slug":"westwood-ma"}
+  ],
+  "city_type": "metro-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Charlton",
+  "slug": "charlton-ma",
+  "county": "Worcester County",
+  "population": 14500,
+  "zip_codes": ["01507"],
+  "landmarks": [
+    "Buffumville Lake",
+    "Charlton Common",
+    "Westville Recreation Area",
+    "Prindle Pond",
+    "Heritage Country Club"
+  ],
+  "nearby_cities": [
+    {"name":"Southbridge","slug":"southbridge-ma"},
+    {"name":"Webster","slug":"webster-ma"},
+    {"name":"Oxford","slug":"oxford-ma"},
+    {"name":"Auburn","slug":"auburn-ma"},
+    {"name":"Sturbridge","slug":"sturbridge-ma"}
+  ],
+  "city_type": "rural-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Clinton",
+  "slug": "clinton-ma",
+  "county": "Worcester County",
+  "population": 15500,
+  "zip_codes": ["01510"],
+  "landmarks": [
+    "Museum of Russian Icons",
+    "Central Park",
+    "Wachusett Dam",
+    "Clinton Town Center",
+    "Riverside Park"
+  ],
+  "nearby_cities": [
+    {"name":"Northborough","slug":"northborough-ma"},
+    {"name":"West Boylston","slug":"west-boylston-ma"},
+    {"name":"Berlin","slug":"berlin-ma"},
+    {"name":"Lancaster","slug":"lancaster-ma"},
+    {"name":"Boylston","slug":"boylston-ma"}
+  ],
+  "city_type": "historic-mill-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Dover",
+  "slug": "dover-ma",
+  "county": "Norfolk County",
+  "population": 6200,
+  "zip_codes": ["02030"],
+  "landmarks": [
+    "Noanet Woodlands",
+    "Powisset Farm",
+    "Dover Town Center",
+    "Pegan Hill",
+    "Charles River Area"
+  ],
+  "nearby_cities": [
+    {"name":"Needham","slug":"needham-ma"},
+    {"name":"Westwood","slug":"westwood-ma"},
+    {"name":"Natick","slug":"natick-ma"},
+    {"name":"Sherborn","slug":"sherborn-ma"},
+    {"name":"Medfield","slug":"medfield-ma"}
+  ],
+  "city_type": "rural-residential-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Dudley",
+  "slug": "dudley-ma",
+  "county": "Worcester County",
+  "population": 12000,
+  "zip_codes": ["01571"],
+  "landmarks": [
+    "Nichols College",
+    "Merino Park",
+    "Dudley Town Common",
+    "French River",
+    "Stevens Linen Works Area"
+  ],
+  "nearby_cities": [
+    {"name":"Webster","slug":"webster-ma"},
+    {"name":"Southbridge","slug":"southbridge-ma"},
+    {"name":"Oxford","slug":"oxford-ma"},
+    {"name":"Charlton","slug":"charlton-ma"},
+    {"name":"Thompson","slug":"thompson-ct"}
+  ],
+  "city_type": "college-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "education-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "institutional-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lancaster",
+  "slug": "lancaster-ma",
+  "county": "Worcester County",
+  "population": 8300,
+  "zip_codes": ["01523"],
+  "landmarks": [
+    "Thayer Memorial Library",
+    "South Meadow Pond",
+    "Lancaster Town Green",
+    "Nashua River",
+    "Atlantic Union College Historic Area"
+  ],
+  "nearby_cities": [
+    {"name":"Clinton","slug":"clinton-ma"},
+    {"name":"Leominster","slug":"leominster-ma"},
+    {"name":"Bolton","slug":"bolton-ma"},
+    {"name":"Harvard","slug":"harvard-ma"},
+    {"name":"Sterling","slug":"sterling-ma"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-plains",
+  "economy_type": "services-agriculture",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Littleton",
+  "slug": "littleton-ma",
+  "county": "Middlesex County",
+  "population": 10500,
+  "zip_codes": ["01460"],
+  "landmarks": [
+    "Long Lake Park",
+    "The Point Shopping Center",
+    "Littleton Common",
+    "Nashoba Valley Area",
+    "Mill Pond"
+  ],
+  "nearby_cities": [
+    {"name":"Acton","slug":"acton-ma"},
+    {"name":"Westford","slug":"westford-ma"},
+    {"name":"Ayer","slug":"ayer-ma"},
+    {"name":"Harvard","slug":"harvard-ma"},
+    {"name":"Boxborough","slug":"boxborough-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Lincoln",
+  "slug": "lincoln-ma",
+  "county": "Middlesex County",
+  "population": 7000,
+  "zip_codes": ["01773"],
+  "landmarks": [
+    "Walden Pond State Reservation",
+    "Drumlin Farm",
+    "Codman Estate",
+    "Lincoln Town Center",
+    "DeCordova Sculpture Park"
+  ],
+  "nearby_cities": [
+    {"name":"Concord","slug":"concord-ma"},
+    {"name":"Bedford","slug":"bedford-ma"},
+    {"name":"Lexington","slug":"lexington-ma"},
+    {"name":"Sudbury","slug":"sudbury-ma"},
+    {"name":"Wayland","slug":"wayland-ma"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "education-services",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Ludlow",
+  "slug": "ludlow-ma",
+  "county": "Hampden County",
+  "population": 21000,
+  "zip_codes": ["01056"],
+  "landmarks": [
+    "Ludlow Reservoir",
+    "Hubbard Memorial Library",
+    "Ludlow Country Club",
+    "Veterans Park",
+    "Ludlow Center"
+  ],
+  "nearby_cities": [
+    {"name":"Springfield","slug":"springfield-ma"},
+    {"name":"Chicopee","slug":"chicopee-ma"},
+    {"name":"Holyoke","slug":"holyoke-ma"},
+    {"name":"South Hadley","slug":"south-hadley-ma"},
+    {"name":"East Longmeadow","slug":"east-longmeadow-ma"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "manufacturing-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "pioneer-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Medfield",
+  "slug": "medfield-ma",
+  "county": "Norfolk County",
+  "population": 13000,
+  "zip_codes": ["02052"],
+  "landmarks": [
+    "Noon Hill Reservation",
+    "Medfield State Hospital Grounds",
+    "Rocky Woods",
+    "Medfield Town Center",
+    "Hinkley Pond"
+  ],
+  "nearby_cities": [
+    {"name":"Dover","slug":"dover-ma"},
+    {"name":"Millis","slug":"millis-ma"},
+    {"name":"Norfolk","slug":"norfolk-ma"},
+    {"name":"Walpole","slug":"walpole-ma"},
+    {"name":"Westwood","slug":"westwood-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Oxford",
+  "slug": "oxford-ma",
+  "county": "Worcester County",
+  "population": 14000,
+  "zip_codes": ["01540"],
+  "landmarks": [
+    "Buffumville Lake",
+    "Carbuncle Pond",
+    "Oxford Center",
+    "French River",
+    "Town Common"
+  ],
+  "nearby_cities": [
+    {"name":"Auburn","slug":"auburn-ma"},
+    {"name":"Charlton","slug":"charlton-ma"},
+    {"name":"Webster","slug":"webster-ma"},
+    {"name":"Dudley","slug":"dudley-ma"},
+    {"name":"Southbridge","slug":"southbridge-ma"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-logistics",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Southborough",
+  "slug": "southborough-ma",
+  "county": "Worcester County",
+  "population": 11000,
+  "zip_codes": ["01772"],
+  "landmarks": [
+    "Sudbury Reservoir",
+    "Chestnut Hill Farm",
+    "Southborough Center",
+    "Breakneck Hill",
+    "Fay School Campus"
+  ],
+  "nearby_cities": [
+    {"name":"Westborough","slug":"westborough-ma"},
+    {"name":"Hopkinton","slug":"hopkinton-ma"},
+    {"name":"Marlborough","slug":"marlborough-ma"},
+    {"name":"Northborough","slug":"northborough-ma"},
+    {"name":"Ashland","slug":"ashland-ma"}
+  ],
+  "city_type": "affluent-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Spencer",
+  "slug": "spencer-ma",
+  "county": "Worcester County",
+  "population": 12000,
+  "zip_codes": ["01562"],
+  "landmarks": [
+    "Howe State Park",
+    "Spencer Town Center",
+    "Sugden Reservoir",
+    "Luther Hill Park",
+    "Wire Village Historic District"
+  ],
+  "nearby_cities": [
+    {"name":"Leicester","slug":"leicester-ma"},
+    {"name":"Paxton","slug":"paxton-ma"},
+    {"name":"Charlton","slug":"charlton-ma"},
+    {"name":"Southbridge","slug":"southbridge-ma"},
+    {"name":"Auburn","slug":"auburn-ma"}
+  ],
+  "city_type": "historic-mill-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sterling",
+  "slug": "sterling-ma",
+  "county": "Worcester County",
+  "population": 8500,
+  "zip_codes": ["01564"],
+  "landmarks": [
+    "Wachusett Reservoir Area",
+    "Sterling Town Common",
+    "Chocksett School Area",
+    "Justice Hill",
+    "Muddy Pond"
+  ],
+  "nearby_cities": [
+    {"name":"Clinton","slug":"clinton-ma"},
+    {"name":"Lancaster","slug":"lancaster-ma"},
+    {"name":"West Boylston","slug":"west-boylston-ma"},
+    {"name":"Leominster","slug":"leominster-ma"},
+    {"name":"Princeton","slug":"princeton-ma"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-agriculture",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sturbridge",
+  "slug": "sturbridge-ma",
+  "county": "Worcester County",
+  "population": 9800,
+  "zip_codes": ["01566"],
+  "landmarks": [
+    "Old Sturbridge Village",
+    "Cedar Lake",
+    "Wells State Park",
+    "Sturbridge Town Common",
+    "Quinebaug River"
+  ],
+  "nearby_cities": [
+    {"name":"Southbridge","slug":"southbridge-ma"},
+    {"name":"Charlton","slug":"charlton-ma"},
+    {"name":"Webster","slug":"webster-ma"},
+    {"name":"Oxford","slug":"oxford-ma"},
+    {"name":"Dudley","slug":"dudley-ma"}
+  ],
+  "city_type": "tourism-town",
+  "climate_zone": "humid-continental",
+  "terrain": "lakes-and-hills",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Wayland",
+  "slug": "wayland-ma",
+  "county": "Middlesex County",
+  "population": 14000,
+  "zip_codes": ["01778"],
+  "landmarks": [
+    "Cochituate State Park",
+    "Wayland Town Center",
+    "Dudley Pond",
+    "Great Meadows",
+    "Wayland Depot"
+  ],
+  "nearby_cities": [
+    {"name":"Natick","slug":"natick-ma"},
+    {"name":"Sudbury","slug":"sudbury-ma"},
+    {"name":"Lincoln","slug":"lincoln-ma"},
+    {"name":"Framingham","slug":"framingham-ma"},
+    {"name":"Concord","slug":"concord-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-plains",
+  "economy_type": "professional-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Wrentham",
+  "slug": "wrentham-ma",
+  "county": "Norfolk County",
+  "population": 12500,
+  "zip_codes": ["02093"],
+  "landmarks": [
+    "Wrentham Village Premium Outlets",
+    "Lake Pearl",
+    "Wrentham Town Common",
+    "Sweatt Beach",
+    "Mirror Lake"
+  ],
+  "nearby_cities": [
+    {"name":"Franklin","slug":"franklin-ma"},
+    {"name":"Norfolk","slug":"norfolk-ma"},
+    {"name":"Foxborough","slug":"foxborough-ma"},
+    {"name":"Bellingham","slug":"bellingham-ma"},
+    {"name":"Plainville","slug":"plainville-ma"}
+  ],
+  "city_type": "retail-town",
+  "climate_zone": "humid-continental",
+  "terrain": "lakes-and-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Westford",
+  "slug": "westford-ma",
+  "county": "Middlesex County",
+  "population": 25000,
+  "zip_codes": ["01886"],
+  "landmarks": [
+    "Nashoba Valley Ski Area",
+    "Westford Town Common",
+    "Forge Pond",
+    "Kimball Farm",
+    "Westford Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Littleton","slug":"littleton-ma"},
+    {"name":"Acton","slug":"acton-ma"},
+    {"name":"Chelmsford","slug":"chelmsford-ma"},
+    {"name":"Tyngsborough","slug":"tyngsborough-ma"},
+    {"name":"Lowell","slug":"lowell-ma"}
+  ],
+  "city_type": "technology-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "business-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Wilbraham",
+  "slug": "wilbraham-ma",
+  "county": "Hampden County",
+  "population": 15000,
+  "zip_codes": ["01095"],
+  "landmarks": [
+    "Wilbraham Mountain",
+    "Fountain Park",
+    "Wilbraham Town Hall",
+    "Rice Nature Preserve",
+    "Boston Road Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Springfield","slug":"springfield-ma"},
+    {"name":"Ludlow","slug":"ludlow-ma"},
+    {"name":"East Longmeadow","slug":"east-longmeadow-ma"},
+    {"name":"Palmer","slug":"palmer-ma"},
+    {"name":"Monson","slug":"monson-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "pioneer-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Tyngsborough",
+  "slug": "tyngsborough-ma",
+  "county": "Middlesex County",
+  "population": 12500,
+  "zip_codes": ["01879"],
+  "landmarks": [
+    "Tyngsborough Bridge",
+    "Merrimack River",
+    "Tyngsborough Town Center",
+    "Sherburne Nature Area",
+    "Town Beach"
+  ],
+  "nearby_cities": [
+    {"name":"Lowell","slug":"lowell-ma"},
+    {"name":"Dracut","slug":"dracut-ma"},
+    {"name":"Westford","slug":"westford-ma"},
+    {"name":"Chelmsford","slug":"chelmsford-ma"},
+    {"name":"Nashua","slug":"nashua-nh"}
+  ],
+  "city_type": "river-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "merrimack-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Plainville",
+  "slug": "plainville-ma",
+  "county": "Norfolk County",
+  "population": 10000,
+  "zip_codes": ["02762"],
+  "landmarks": [
+    "Plainridge Park Casino",
+    "Heather Hill Country Club",
+    "Plainville Town Center",
+    "Mirror Lake",
+    "Hawthorne Brook"
+  ],
+  "nearby_cities": [
+    {"name":"Wrentham","slug":"wrentham-ma"},
+    {"name":"Foxborough","slug":"foxborough-ma"},
+    {"name":"North Attleborough","slug":"north-attleborough-ma"},
+    {"name":"Mansfield","slug":"mansfield-ma"},
+    {"name":"Franklin","slug":"franklin-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "gaming-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Upton",
+  "slug": "upton-ma",
+  "county": "Worcester County",
+  "population": 8500,
+  "zip_codes": ["01568"],
+  "landmarks": [
+    "Upton State Forest",
+    "Kiwanis Beach",
+    "Upton Town Common",
+    "Pratt Pond",
+    "Peppercorn Hill"
+  ],
+  "nearby_cities": [
+    {"name":"Hopkinton","slug":"hopkinton-ma"},
+    {"name":"Milford","slug":"milford-ma"},
+    {"name":"Grafton","slug":"grafton-ma"},
+    {"name":"Mendon","slug":"mendon-ma"},
+    {"name":"Northbridge","slug":"northbridge-ma"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-agriculture",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Groton",
+  "slug": "groton-ma",
+  "county": "Middlesex County",
+  "population": 11500,
+  "zip_codes": ["01450"],
+  "landmarks": [
+    "Groton School",
+    "Nashua River Rail Trail",
+    "Gibbet Hill",
+    "Groton Town Center",
+    "Lawrence Academy"
+  ],
+  "nearby_cities": [
+    {"name":"Littleton","slug":"littleton-ma"},
+    {"name":"Ayer","slug":"ayer-ma"},
+    {"name":"Westford","slug":"westford-ma"},
+    {"name":"Harvard","slug":"harvard-ma"},
+    {"name":"Pepperell","slug":"pepperell-ma"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "education-services",
+  "housing_profile": "rural-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "greater-boston-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Holliston",
+  "slug": "holliston-ma",
+  "county": "Middlesex County",
+  "population": 15500,
+  "zip_codes": ["01746"],
+  "landmarks": [
+    "Upper Charles Rail Trail",
+    "Lake Winthrop",
+    "Holliston Town Center",
+    "Goodwill Park",
+    "Mudville Historic District"
+  ],
+  "nearby_cities": [
+    {"name":"Hopkinton","slug":"hopkinton-ma"},
+    {"name":"Ashland","slug":"ashland-ma"},
+    {"name":"Medway","slug":"medway-ma"},
+    {"name":"Milford","slug":"milford-ma"},
+    {"name":"Sherborn","slug":"sherborn-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Harvard",
+  "slug": "harvard-ma",
+  "county": "Worcester County",
+  "population": 7000,
+  "zip_codes": ["01451"],
+  "landmarks": [
+    "Fruitlands Museum",
+    "Harvard Town Common",
+    "Bare Hill Pond",
+    "Harvard General Store",
+    "Oxbow National Wildlife Refuge"
+  ],
+  "nearby_cities": [
+    {"name":"Groton","slug":"groton-ma"},
+    {"name":"Littleton","slug":"littleton-ma"},
+    {"name":"Lancaster","slug":"lancaster-ma"},
+    {"name":"Acton","slug":"acton-ma"},
+    {"name":"Boxborough","slug":"boxborough-ma"}
+  ],
+  "city_type": "rural-town",
+  "climate_zone": "humid-continental",
+  "terrain": "farmland-hills",
+  "economy_type": "agriculture-services",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Princeton",
+  "slug": "princeton-ma",
+  "county": "Worcester County",
+  "population": 3600,
+  "zip_codes": ["01541"],
+  "landmarks": [
+    "Mount Wachusett",
+    "Wachusett Mountain Ski Area",
+    "Princeton Town Common",
+    "Echo Lake",
+    "Leominster State Forest"
+  ],
+  "nearby_cities": [
+    {"name":"Sterling","slug":"sterling-ma"},
+    {"name":"Leominster","slug":"leominster-ma"},
+    {"name":"West Boylston","slug":"west-boylston-ma"},
+    {"name":"Holden","slug":"holden-ma"},
+    {"name":"Rutland","slug":"rutland-ma"}
+  ],
+  "city_type": "mountain-town",
+  "climate_zone": "humid-continental",
+  "terrain": "mountainous",
+  "economy_type": "tourism-services",
+  "housing_profile": "rural-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Rochester",
+  "slug": "rochester-ma",
+  "county": "Plymouth County",
+  "population": 5600,
+  "zip_codes": ["02770"],
+  "landmarks": [
+    "Rochester Town Hall",
+    "Leonard's Pond",
+    "East Over Reservation",
+    "Plumb Corner",
+    "Mattapoisett River Area"
+  ],
+  "nearby_cities": [
+    {"name":"Wareham","slug":"wareham-ma"},
+    {"name":"Marion","slug":"marion-ma"},
+    {"name":"Mattapoisett","slug":"mattapoisett-ma"},
+    {"name":"Lakeville","slug":"lakeville-ma"},
+    {"name":"Middleborough","slug":"middleborough-ma"}
+  ],
+  "city_type": "rural-town",
+  "climate_zone": "humid-continental",
+  "terrain": "woodlands-and-plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-coast-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Boxborough",
+  "slug": "boxborough-ma",
+  "county": "Middlesex County",
+  "population": 5600,
+  "zip_codes": ["01719"],
+  "landmarks": [
+    "Flerra Meadows",
+    "Liberty Fields",
+    "Boxborough Town Hall",
+    "Steele Farm",
+    "Cisco Gardens"
+  ],
+  "nearby_cities": [
+    {"name":"Acton","slug":"acton-ma"},
+    {"name":"Harvard","slug":"harvard-ma"},
+    {"name":"Littleton","slug":"littleton-ma"},
+    {"name":"Stow","slug":"stow-ma"},
+    {"name":"Ayer","slug":"ayer-ma"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-services",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Monson",
+  "slug": "monson-ma",
+  "county": "Hampden County",
+  "population": 8900,
+  "zip_codes": ["01057"],
+  "landmarks": [
+    "Flynt Park",
+    "Monson Town Common",
+    "Quarry Hill",
+    "Norcross Wildlife Sanctuary",
+    "Memorial Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Wilbraham","slug":"wilbraham-ma"},
+    {"name":"Palmer","slug":"palmer-ma"},
+    {"name":"Ludlow","slug":"ludlow-ma"},
+    {"name":"Brimfield","slug":"brimfield-ma"},
+    {"name":"Hampden","slug":"hampden-ma"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "pioneer-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Norwell",
+  "slug": "norwell-ma",
+  "county": "Plymouth County",
+  "population": 11000,
+  "zip_codes": ["02061"],
+  "landmarks": [
+    "North River",
+    "Cushing Memorial Park",
+    "Norwell Town Center",
+    "Gaffield Park",
+    "James Library"
+  ],
+  "nearby_cities": [
+    {"name":"Hingham","slug":"hingham-ma"},
+    {"name":"Hanover","slug":"hanover-ma"},
+    {"name":"Scituate","slug":"scituate-ma"},
+    {"name":"Pembroke","slug":"pembroke-ma"},
+    {"name":"Rockland","slug":"rockland-ma"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plains",
+  "economy_type": "professional-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-shore-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Paxton",
+  "slug": "paxton-ma",
+  "county": "Worcester County",
+  "population": 5200,
+  "zip_codes": ["01612"],
+  "landmarks": [
+    "Moore State Park",
+    "Paxton Common",
+    "Turkey Hill",
+    "Richter Center",
+    "Asnebumskit Hill"
+  ],
+  "nearby_cities": [
+    {"name":"Holden","slug":"holden-ma"},
+    {"name":"Spencer","slug":"spencer-ma"},
+    {"name":"Leicester","slug":"leicester-ma"},
+    {"name":"Worcester","slug":"worcester-ma"},
+    {"name":"Rutland","slug":"rutland-ma"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Pepperell",
+  "slug": "pepperell-ma",
+  "county": "Middlesex County",
+  "population": 12300,
+  "zip_codes": ["01463"],
+  "landmarks": [
+    "Nashua River Rail Trail",
+    "Pepperell Town Field",
+    "Heald Street Orchard",
+    "Pepperell Town Center",
+    "Covered Bridge Area"
+  ],
+  "nearby_cities": [
+    {"name":"Groton","slug":"groton-ma"},
+    {"name":"Townsend","slug":"townsend-ma"},
+    {"name":"Dunstable","slug":"dunstable-ma"},
+    {"name":"Tyngsborough","slug":"tyngsborough-ma"},
+    {"name":"Nashua","slug":"nashua-nh"}
+  ],
+  "city_type": "river-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "merrimack-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Rutland",
+  "slug": "rutland-ma",
+  "county": "Worcester County",
+  "population": 9200,
+  "zip_codes": ["01543"],
+  "landmarks": [
+    "Rutland State Park Area",
+    "Rutland Town Common",
+    "Whitehall Pond",
+    "Long Pond",
+    "Memorial Field"
+  ],
+  "nearby_cities": [
+    {"name":"Paxton","slug":"paxton-ma"},
+    {"name":"Holden","slug":"holden-ma"},
+    {"name":"Princeton","slug":"princeton-ma"},
+    {"name":"Spencer","slug":"spencer-ma"},
+    {"name":"Barre","slug":"barre-ma"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-agriculture",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sherborn",
+  "slug": "sherborn-ma",
+  "county": "Middlesex County",
+  "population": 6500,
+  "zip_codes": ["01770"],
+  "landmarks": [
+    "Farm Pond",
+    "Sherborn Town Center",
+    "Rocky Narrows",
+    "Town Forest",
+    "Pine Hill School Area"
+  ],
+  "nearby_cities": [
+    {"name":"Holliston","slug":"holliston-ma"},
+    {"name":"Natick","slug":"natick-ma"},
+    {"name":"Dover","slug":"dover-ma"},
+    {"name":"Medfield","slug":"medfield-ma"},
+    {"name":"Millis","slug":"millis-ma"}
+  ],
+  "city_type": "rural-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Stow",
+  "slug": "stow-ma",
+  "county": "Middlesex County",
+  "population": 7300,
+  "zip_codes": ["01775"],
+  "landmarks": [
+    "Lake Boon",
+    "Honey Pot Hill Orchards",
+    "Stow Town Center",
+    "Delaney Wildlife Area",
+    "Assabet River"
+  ],
+  "nearby_cities": [
+    {"name":"Maynard","slug":"maynard-ma"},
+    {"name":"Hudson","slug":"hudson-ma"},
+    {"name":"Boxborough","slug":"boxborough-ma"},
+    {"name":"Acton","slug":"acton-ma"},
+    {"name":"Sudbury","slug":"sudbury-ma"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "agriculture-services",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "metro-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sutton",
+  "slug": "sutton-ma",
+  "county": "Worcester County",
+  "population": 9400,
+  "zip_codes": ["01590"],
+  "landmarks": [
+    "Purgatory Chasm",
+    "Manchaug Pond",
+    "Sutton Common",
+    "Blackstone Valley Corridor",
+    "Marion's Camp"
+  ],
+  "nearby_cities": [
+    {"name":"Grafton","slug":"grafton-ma"},
+    {"name":"Millbury","slug":"millbury-ma"},
+    {"name":"Northbridge","slug":"northbridge-ma"},
+    {"name":"Upton","slug":"upton-ma"},
+    {"name":"Douglas","slug":"douglas-ma"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Townsend",
+  "slug": "townsend-ma",
+  "county": "Middlesex County",
+  "population": 9500,
+  "zip_codes": ["01469"],
+  "landmarks": [
+    "Townsend Common",
+    "Pearly Brook",
+    "Townsend Harbor",
+    "Memorial Field",
+    "Willard Brook State Forest"
+  ],
+  "nearby_cities": [
+    {"name":"Pepperell","slug":"pepperell-ma"},
+    {"name":"Groton","slug":"groton-ma"},
+    {"name":"Ashby","slug":"ashby-ma"},
+    {"name":"Lunenburg","slug":"lunenburg-ma"},
+    {"name":"Dunstable","slug":"dunstable-ma"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "north-central-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Northbridge",
+  "slug": "northbridge-ma",
+  "county": "Worcester County",
+  "population": 16000,
+  "zip_codes": ["01534","01588"],
+  "landmarks": [
+    "Blackstone River",
+    "Whitinsville Historic District",
+    "River Bend Farm",
+    "Northbridge Common",
+    "Blackstone Valley Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Upton","slug":"upton-ma"},
+    {"name":"Sutton","slug":"sutton-ma"},
+    {"name":"Grafton","slug":"grafton-ma"},
+    {"name":"Millbury","slug":"millbury-ma"},
+    {"name":"Douglas","slug":"douglas-ma"}
+  ],
+  "city_type": "historic-mill-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "services-manufacturing",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Douglas",
+  "slug": "douglas-ma",
+  "county": "Worcester County",
+  "population": 9000,
+  "zip_codes": ["01516"],
+  "landmarks": [
+    "Douglas State Forest",
+    "Wallum Lake",
+    "Douglas Common",
+    "Whitin Reservoir",
+    "West Main Street District"
+  ],
+  "nearby_cities": [
+    {"name":"Sutton","slug":"sutton-ma"},
+    {"name":"Northbridge","slug":"northbridge-ma"},
+    {"name":"Uxbridge","slug":"uxbridge-ma"},
+    {"name":"Webster","slug":"webster-ma"},
+    {"name":"Dudley","slug":"dudley-ma"}
+  ],
+  "city_type": "forest-town",
+  "climate_zone": "humid-continental",
+  "terrain": "forests-and-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "low-density-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Uxbridge",
+  "slug": "uxbridge-ma",
+  "county": "Worcester County",
+  "population": 14500,
+  "zip_codes": ["01569"],
+  "landmarks": [
+    "Blackstone Canal",
+    "River Bend Farm",
+    "Uxbridge Common",
+    "West Hill Dam",
+    "Blackstone River Greenway"
+  ],
+  "nearby_cities": [
+    {"name":"Northbridge","slug":"northbridge-ma"},
+    {"name":"Douglas","slug":"douglas-ma"},
+    {"name":"Sutton","slug":"sutton-ma"},
+    {"name":"Mendon","slug":"mendon-ma"},
+    {"name":"Millville","slug":"millville-ma"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "services-manufacturing",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-massachusetts-market",
+  "property_mix": "mixed-use"
+}
+
+
+]

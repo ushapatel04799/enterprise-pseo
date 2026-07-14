@@ -1,0 +1,2546 @@
+[
+  {
+    "city": "Appleton",
+    "slug": "appleton-wi",
+    "county": "Outagamie County",
+    "population": 75800,
+    "zip_codes": [
+      "54911",
+      "54913",
+      "54914",
+      "54915"
+    ],
+    "landmarks": [
+      "Fox Cities Performing Arts Center",
+      "The History Museum at the Castle",
+      "Lawrence University",
+      "Appleton Memorial Park",
+      "Fox River Mall"
+    ],
+    "nearby_cities": [
+      {"name":"Menasha","slug":"menasha-wi"},
+      {"name":"Neenah","slug":"neenah-wi"},
+      {"name":"Kaukauna","slug":"kaukauna-wi"},
+      {"name":"Kimberly","slug":"kimberly-wi"},
+      {"name":"Little Chute","slug":"little-chute-wi"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"fox-river-valley",
+    "economy_type":"manufacturing-healthcare",
+    "housing_profile":"major-urban",
+    "growth_pattern":"steady-growth",
+    "service_environment":"fox-cities",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Ashwaubenon",
+    "slug": "ashwaubenon-wi",
+    "county": "Brown County",
+    "population": 18100,
+    "zip_codes": [
+      "54304",
+      "54115"
+    ],
+    "landmarks": [
+      "Lambeau Field",
+      "Resch Center",
+      "Titletown District",
+      "Bay Park Square",
+      "National Railroad Museum"
+    ],
+    "nearby_cities": [
+      {"name":"Green Bay","slug":"green-bay-wi"},
+      {"name":"De Pere","slug":"de-pere-wi"},
+      {"name":"Allouez","slug":"allouez-wi"},
+      {"name":"Howard","slug":"howard-wi"},
+      {"name":"Bellevue","slug":"bellevue-wi"}
+    ],
+    "city_type":"village",
+    "climate_zone":"humid-continental",
+    "terrain":"lake-michigan-lowlands",
+    "economy_type":"tourism-retail",
+    "housing_profile":"major-suburban",
+    "growth_pattern":"steady-growth",
+    "service_environment":"green-bay-metro",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Beaver Dam",
+    "slug": "beaver-dam-wi",
+    "county": "Dodge County",
+    "population": 17000,
+    "zip_codes": [
+      "53916"
+    ],
+    "landmarks": [
+      "Beaver Dam Lake",
+      "Swan City Park",
+      "Dodge County Fairgrounds",
+      "Watermark Community Center",
+      "Downtown Beaver Dam"
+    ],
+    "nearby_cities": [
+      {"name":"Waupun","slug":"waupun-wi"},
+      {"name":"Juneau","slug":"juneau-wi"},
+      {"name":"Columbus","slug":"columbus-wi"},
+      {"name":"Sun Prairie","slug":"sun-prairie-wi"},
+      {"name":"Watertown","slug":"watertown-wi"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"glaciated-plains",
+    "economy_type":"manufacturing-services",
+    "housing_profile":"regional-residential",
+    "growth_pattern":"stable-growth",
+    "service_environment":"south-central-wisconsin",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Beloit",
+    "slug": "beloit-wi",
+    "county": "Rock County",
+    "population": 37000,
+    "zip_codes": [
+      "53511"
+    ],
+    "landmarks": [
+      "Riverside Park",
+      "Beloit College",
+      "Downtown Beloit",
+      "ABC Supply Stadium",
+      "Angel Museum"
+    ],
+    "nearby_cities": [
+      {"name":"Janesville","slug":"janesville-wi"},
+      {"name":"South Beloit","slug":"south-beloit-il"},
+      {"name":"Clinton","slug":"clinton-wi"},
+      {"name":"Roscoe","slug":"roscoe-il"},
+      {"name":"Rockton","slug":"rockton-il"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"rock-river-valley",
+    "economy_type":"manufacturing-logistics",
+    "housing_profile":"major-urban",
+    "growth_pattern":"steady-growth",
+    "service_environment":"rock-county",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Brookfield",
+    "slug": "brookfield-wi",
+    "county": "Waukesha County",
+    "population": 41500,
+    "zip_codes": [
+      "53005",
+      "53045"
+    ],
+    "landmarks": [
+      "Brookfield Square",
+      "Mitchell Park",
+      "Fox Brook Park",
+      "Sharon Lynne Wilson Center",
+      "The Corners of Brookfield"
+    ],
+    "nearby_cities": [
+      {"name":"Wauwatosa","slug":"wauwatosa-wi"},
+      {"name":"New Berlin","slug":"new-berlin-wi"},
+      {"name":"Elm Grove","slug":"elm-grove-wi"},
+      {"name":"Pewaukee","slug":"pewaukee-wi"},
+      {"name":"Milwaukee","slug":"milwaukee-wi"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"glaciated-plains",
+    "economy_type":"corporate-retail",
+    "housing_profile":"upscale-suburban",
+    "growth_pattern":"steady-growth",
+    "service_environment":"milwaukee-metro",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Caledonia",
+    "slug": "caledonia-wi",
+    "county": "Racine County",
+    "population": 25600,
+    "zip_codes": [
+      "53108",
+      "53126"
+    ],
+    "landmarks": [
+      "Cliffside Park",
+      "Seven Waters Bike Trail",
+      "Lake Michigan Shoreline",
+      "Nicholson Wildlife Refuge",
+      "Caledonia Conservancy"
+    ],
+    "nearby_cities": [
+      {"name":"Racine","slug":"racine-wi"},
+      {"name":"Oak Creek","slug":"oak-creek-wi"},
+      {"name":"Mount Pleasant","slug":"mount-pleasant-wi"},
+      {"name":"Franklin","slug":"franklin-wi"},
+      {"name":"Milwaukee","slug":"milwaukee-wi"}
+    ],
+    "city_type":"village",
+    "climate_zone":"humid-continental",
+    "terrain":"lake-michigan-lowlands",
+    "economy_type":"manufacturing-logistics",
+    "housing_profile":"major-suburban",
+    "growth_pattern":"steady-growth",
+    "service_environment":"racine-area",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Cudahy",
+    "slug": "cudahy-wi",
+    "county": "Milwaukee County",
+    "population": 18000,
+    "zip_codes": [
+      "53110"
+    ],
+    "landmarks": [
+      "Sheridan Park",
+      "Lake Michigan",
+      "Pulaski Park",
+      "Warnimont Park",
+      "Cudahy Family Library"
+    ],
+    "nearby_cities": [
+      {"name":"South Milwaukee","slug":"south-milwaukee-wi"},
+      {"name":"St. Francis","slug":"saint-francis-wi"},
+      {"name":"Oak Creek","slug":"oak-creek-wi"},
+      {"name":"Milwaukee","slug":"milwaukee-wi"},
+      {"name":"Greenfield","slug":"greenfield-wi"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"lake-michigan-lowlands",
+    "economy_type":"manufacturing-services",
+    "housing_profile":"urban-residential",
+    "growth_pattern":"stable-growth",
+    "service_environment":"milwaukee-metro",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "De Pere",
+    "slug": "de-pere-wi",
+    "county": "Brown County",
+    "population": 25300,
+    "zip_codes": [
+      "54115"
+    ],
+    "landmarks": [
+      "St. Norbert College",
+      "Voyageur Park",
+      "Fox River Trail",
+      "Downtown De Pere",
+      "Mulva Cultural Center"
+    ],
+    "nearby_cities": [
+      {"name":"Green Bay","slug":"green-bay-wi"},
+      {"name":"Ashwaubenon","slug":"ashwaubenon-wi"},
+      {"name":"Bellevue","slug":"bellevue-wi"},
+      {"name":"Allouez","slug":"allouez-wi"},
+      {"name":"Howard","slug":"howard-wi"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"fox-river-valley",
+    "economy_type":"education-healthcare",
+    "housing_profile":"major-suburban",
+    "growth_pattern":"steady-growth",
+    "service_environment":"green-bay-metro",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Eau Claire",
+    "slug": "eau-claire-wi",
+    "county": "Eau Claire County",
+    "population": 69900,
+    "zip_codes": [
+      "54701",
+      "54703"
+    ],
+    "landmarks": [
+      "Carson Park",
+      "University of Wisconsin–Eau Claire",
+      "Pablo Center",
+      "Phoenix Park",
+      "Chippewa River State Trail"
+    ],
+    "nearby_cities": [
+      {"name":"Altoona","slug":"altoona-wi"},
+      {"name":"Chippewa Falls","slug":"chippewa-falls-wi"},
+      {"name":"Lake Hallie","slug":"lake-hallie-wi"},
+      {"name":"Menomonie","slug":"menomonie-wi"},
+      {"name":"Osseo","slug":"osseo-wi"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"chippewa-valley",
+    "economy_type":"education-healthcare",
+    "housing_profile":"major-urban",
+    "growth_pattern":"steady-growth",
+    "service_environment":"chippewa-valley",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Fitchburg",
+    "slug": "fitchburg-wi",
+    "county": "Dane County",
+    "population": 31800,
+    "zip_codes": [
+      "53711",
+      "53713",
+      "53719"
+    ],
+    "landmarks": [
+      "Capital Springs Recreation Area",
+      "McKee Farms Park",
+      "Upper Mud Lake",
+      "Fitchburg Center",
+      "Badger State Trail"
+    ],
+    "nearby_cities": [
+      {"name":"Madison","slug":"madison-wi"},
+      {"name":"Oregon","slug":"oregon-wi"},
+      {"name":"Verona","slug":"verona-wi"},
+      {"name":"Monona","slug":"monona-wi"},
+      {"name":"Middleton","slug":"middleton-wi"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"glaciated-plains",
+    "economy_type":"technology-services",
+    "housing_profile":"major-suburban",
+    "growth_pattern":"rapid-growth",
+    "service_environment":"madison-metro",
+    "property_mix":"mixed-use"
+  },
+{
+  "city": "Fond du Lac",
+  "slug": "fond-du-lac-wi",
+  "county": "Fond du Lac County",
+  "population": 44600,
+  "zip_codes": [
+    "54935",
+    "54937"
+  ],
+  "landmarks": [
+    "Lakeside Park",
+    "Children's Museum of Fond du Lac",
+    "Marian University",
+    "Fond du Lac Lighthouse",
+    "Lake Winnebago"
+  ],
+  "nearby_cities": [
+    {"name":"North Fond du Lac","slug":"north-fond-du-lac-wi"},
+    {"name":"Ripon","slug":"ripon-wi"},
+    {"name":"Waupun","slug":"waupun-wi"},
+    {"name":"Oshkosh","slug":"oshkosh-wi"},
+    {"name":"Beaver Dam","slug":"beaver-dam-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"east-central-wisconsin",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Franklin",
+  "slug": "franklin-wi",
+  "county": "Milwaukee County",
+  "population": 36700,
+  "zip_codes": [
+    "53132"
+  ],
+  "landmarks": [
+    "The Rock Sports Complex",
+    "Whitnall Park",
+    "We Energies Energy Park",
+    "Kayla's Playground",
+    "Root River Parkway"
+  ],
+  "nearby_cities": [
+    {"name":"Oak Creek","slug":"oak-creek-wi"},
+    {"name":"Greenfield","slug":"greenfield-wi"},
+    {"name":"Hales Corners","slug":"hales-corners-wi"},
+    {"name":"Muskego","slug":"muskego-wi"},
+    {"name":"Milwaukee","slug":"milwaukee-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"retail-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Germantown",
+  "slug": "germantown-wi",
+  "county": "Washington County",
+  "population": 20600,
+  "zip_codes": [
+    "53022"
+  ],
+  "landmarks": [
+    "Firemen's Park",
+    "Kinderberg Park",
+    "Germantown Historical Society",
+    "Alt Bauer Park",
+    "Blackstone Creek Golf Club"
+  ],
+  "nearby_cities": [
+    {"name":"Menomonee Falls","slug":"menomonee-falls-wi"},
+    {"name":"Jackson","slug":"jackson-wi"},
+    {"name":"Richfield","slug":"richfield-wi"},
+    {"name":"Milwaukee","slug":"milwaukee-wi"},
+    {"name":"West Bend","slug":"west-bend-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Glendale",
+  "slug": "glendale-wi",
+  "county": "Milwaukee County",
+  "population": 13200,
+  "zip_codes": [
+    "53209",
+    "53217"
+  ],
+  "landmarks": [
+    "Bayshore Mall",
+    "Kletzsch Park",
+    "Milwaukee River Greenway",
+    "Richard E. Maslowski Park",
+    "Lincoln Park Golf Course"
+  ],
+  "nearby_cities": [
+    {"name":"Milwaukee","slug":"milwaukee-wi"},
+    {"name":"Whitefish Bay","slug":"whitefish-bay-wi"},
+    {"name":"Brown Deer","slug":"brown-deer-wi"},
+    {"name":"Shorewood","slug":"shorewood-wi"},
+    {"name":"Fox Point","slug":"fox-point-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"retail-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Green Bay",
+  "slug": "green-bay-wi",
+  "county": "Brown County",
+  "population": 107400,
+  "zip_codes": [
+    "54301",
+    "54302",
+    "54303",
+    "54304",
+    "54311",
+    "54313"
+  ],
+  "landmarks": [
+    "Lambeau Field",
+    "Bay Beach Amusement Park",
+    "Neville Public Museum",
+    "Green Bay Botanical Garden",
+    "Titletown District"
+  ],
+  "nearby_cities": [
+    {"name":"Ashwaubenon","slug":"ashwaubenon-wi"},
+    {"name":"De Pere","slug":"de-pere-wi"},
+    {"name":"Howard","slug":"howard-wi"},
+    {"name":"Bellevue","slug":"bellevue-wi"},
+    {"name":"Allouez","slug":"allouez-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"fox-river-valley",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"green-bay-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Greenfield",
+  "slug": "greenfield-wi",
+  "county": "Milwaukee County",
+  "population": 37300,
+  "zip_codes": [
+    "53220",
+    "53221",
+    "53228"
+  ],
+  "landmarks": [
+    "Konkel Park",
+    "Southridge Mall",
+    "Root River Parkway",
+    "Kulwicki Park",
+    "Greenfield Park"
+  ],
+  "nearby_cities": [
+    {"name":"Milwaukee","slug":"milwaukee-wi"},
+    {"name":"Franklin","slug":"franklin-wi"},
+    {"name":"West Allis","slug":"west-allis-wi"},
+    {"name":"Greendale","slug":"greendale-wi"},
+    {"name":"Hales Corners","slug":"hales-corners-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"retail-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Howard",
+  "slug": "howard-wi",
+  "county": "Brown County",
+  "population": 20400,
+  "zip_codes": [
+    "54303",
+    "54313"
+  ],
+  "landmarks": [
+    "Mountain Bay Trail",
+    "Howard Commons",
+    "Pamperin Park",
+    "Duck Creek",
+    "Village Center"
+  ],
+  "nearby_cities": [
+    {"name":"Green Bay","slug":"green-bay-wi"},
+    {"name":"Ashwaubenon","slug":"ashwaubenon-wi"},
+    {"name":"Suamico","slug":"suamico-wi"},
+    {"name":"De Pere","slug":"de-pere-wi"},
+    {"name":"Allouez","slug":"allouez-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"fox-river-valley",
+  "economy_type":"services-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"green-bay-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Janesville",
+  "slug": "janesville-wi",
+  "county": "Rock County",
+  "population": 65800,
+  "zip_codes": [
+    "53545",
+    "53546",
+    "53548"
+  ],
+  "landmarks": [
+    "Rotary Botanical Gardens",
+    "Traxler Park",
+    "Rock County Historical Society",
+    "Lincoln-Tallman House",
+    "Rock River"
+  ],
+  "nearby_cities": [
+    {"name":"Beloit","slug":"beloit-wi"},
+    {"name":"Milton","slug":"milton-wi"},
+    {"name":"Edgerton","slug":"edgerton-wi"},
+    {"name":"Evansville","slug":"evansville-wi"},
+    {"name":"Stoughton","slug":"stoughton-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"rock-river-valley",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"rock-county",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Kaukauna",
+  "slug": "kaukauna-wi",
+  "county": "Outagamie County",
+  "population": 17800,
+  "zip_codes": [
+    "54130"
+  ],
+  "landmarks": [
+    "1000 Islands Environmental Center",
+    "Hydro Park",
+    "Fox River Lock System",
+    "Kaukauna Recreation Area",
+    "Downtown Kaukauna"
+  ],
+  "nearby_cities": [
+    {"name":"Appleton","slug":"appleton-wi"},
+    {"name":"Little Chute","slug":"little-chute-wi"},
+    {"name":"Kimberly","slug":"kimberly-wi"},
+    {"name":"De Pere","slug":"de-pere-wi"},
+    {"name":"Green Bay","slug":"green-bay-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"fox-river-valley",
+  "economy_type":"manufacturing-paper",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"fox-cities",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Kenosha",
+  "slug": "kenosha-wi",
+  "county": "Kenosha County",
+  "population": 100000,
+  "zip_codes": [
+    "53140",
+    "53142",
+    "53143",
+    "53144"
+  ],
+  "landmarks": [
+    "Kenosha Public Museum",
+    "Simmons Island Beach",
+    "Civil War Museum",
+    "Kenosha Harbor",
+    "Dinosaur Discovery Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Pleasant Prairie","slug":"pleasant-prairie-wi"},
+    {"name":"Somers","slug":"somers-wi"},
+    {"name":"Racine","slug":"racine-wi"},
+    {"name":"Zion","slug":"zion-il"},
+    {"name":"Waukegan","slug":"waukegan-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"kenosha-county",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "La Crosse",
+  "slug": "la-crosse-wi",
+  "county": "La Crosse County",
+  "population": 52100,
+  "zip_codes": [
+    "54601",
+    "54603"
+  ],
+  "landmarks": [
+    "Grandad Bluff",
+    "Riverside Park",
+    "University of Wisconsin–La Crosse",
+    "Shrine of Our Lady of Guadalupe",
+    "Mississippi River"
+  ],
+  "nearby_cities": [
+    {"name":"Onalaska","slug":"onalaska-wi"},
+    {"name":"Holmen","slug":"holmen-wi"},
+    {"name":"La Crescent","slug":"la-crescent-mn"},
+    {"name":"West Salem","slug":"west-salem-wi"},
+    {"name":"Stoddard","slug":"stoddard-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"driftless-area",
+  "economy_type":"education-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"la-crosse-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Madison",
+  "slug": "madison-wi",
+  "county": "Dane County",
+  "population": 280300,
+  "zip_codes": [
+    "53703",
+    "53704",
+    "53705",
+    "53711",
+    "53713",
+    "53715",
+    "53717",
+    "53718",
+    "53719"
+  ],
+  "landmarks": [
+    "Wisconsin State Capitol",
+    "University of Wisconsin–Madison",
+    "Monona Terrace",
+    "Olbrich Botanical Gardens",
+    "Henry Vilas Zoo"
+  ],
+  "nearby_cities": [
+    {"name":"Middleton","slug":"middleton-wi"},
+    {"name":"Monona","slug":"monona-wi"},
+    {"name":"Sun Prairie","slug":"sun-prairie-wi"},
+    {"name":"Fitchburg","slug":"fitchburg-wi"},
+    {"name":"Verona","slug":"verona-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"government-technology",
+  "housing_profile":"major-metropolitan",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"madison-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Manitowoc",
+  "slug": "manitowoc-wi",
+  "county": "Manitowoc County",
+  "population": 34900,
+  "zip_codes": [
+    "54220"
+  ],
+  "landmarks": [
+    "Wisconsin Maritime Museum",
+    "Rahr-West Art Museum",
+    "Manitowoc Breakwater Lighthouse",
+    "Lincoln Park Zoo",
+    "Lake Michigan"
+  ],
+  "nearby_cities": [
+    {"name":"Two Rivers","slug":"two-rivers-wi"},
+    {"name":"Mishicot","slug":"mishicot-wi"},
+    {"name":"Kiel","slug":"kiel-wi"},
+    {"name":"Sheboygan","slug":"sheboygan-wi"},
+    {"name":"Reedsville","slug":"reedsville-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"manufacturing-maritime",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"lakeshore-region",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Marshfield",
+  "slug": "marshfield-wi",
+  "county": "Wood County",
+  "population": 19100,
+  "zip_codes": [
+    "54449"
+  ],
+  "landmarks": [
+    "Marshfield Medical Center",
+    "Wildwood Park & Zoo",
+    "Jurustic Park",
+    "UW-Stevens Point at Marshfield",
+    "Braem Park"
+  ],
+  "nearby_cities": [
+    {"name":"Wisconsin Rapids","slug":"wisconsin-rapids-wi"},
+    {"name":"Stevens Point","slug":"stevens-point-wi"},
+    {"name":"Neillsville","slug":"neillsville-wi"},
+    {"name":"Abbotsford","slug":"abbotsford-wi"},
+    {"name":"Spencer","slug":"spencer-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"central-plains",
+  "economy_type":"healthcare-agriculture",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-wisconsin",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Menasha",
+  "slug": "menasha-wi",
+  "county": "Winnebago County",
+  "population": 18300,
+  "zip_codes": [
+    "54952"
+  ],
+  "landmarks": [
+    "Heckrodt Wetland Reserve",
+    "Jefferson Park",
+    "Barkhausen Waterfowl Preserve",
+    "Lake Winnebago",
+    "Fox River"
+  ],
+  "nearby_cities": [
+    {"name":"Appleton","slug":"appleton-wi"},
+    {"name":"Neenah","slug":"neenah-wi"},
+    {"name":"Kimberly","slug":"kimberly-wi"},
+    {"name":"Little Chute","slug":"little-chute-wi"},
+    {"name":"Kaukauna","slug":"kaukauna-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"fox-river-valley",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"fox-cities",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Menomonee Falls",
+  "slug": "menomonee-falls-wi",
+  "county": "Waukesha County",
+  "population": 39300,
+  "zip_codes": [
+    "53051"
+  ],
+  "landmarks": [
+    "Old Falls Village",
+    "Village Park",
+    "Lannon Quarry",
+    "Menomonee River",
+    "Rotary Park"
+  ],
+  "nearby_cities": [
+    {"name":"Germantown","slug":"germantown-wi"},
+    {"name":"Milwaukee","slug":"milwaukee-wi"},
+    {"name":"Brookfield","slug":"brookfield-wi"},
+    {"name":"Sussex","slug":"sussex-wi"},
+    {"name":"Wauwatosa","slug":"wauwatosa-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Mequon",
+  "slug": "mequon-wi",
+  "county": "Ozaukee County",
+  "population": 25100,
+  "zip_codes": [
+    "53092",
+    "53097"
+  ],
+  "landmarks": [
+    "Concordia University Wisconsin",
+    "Virmond Park",
+    "Mequon Nature Preserve",
+    "Lac du Cours",
+    "Donges Bay Gorge"
+  ],
+  "nearby_cities": [
+    {"name":"Cedarburg","slug":"cedarburg-wi"},
+    {"name":"Thiensville","slug":"thiensville-wi"},
+    {"name":"Grafton","slug":"grafton-wi"},
+    {"name":"Brown Deer","slug":"brown-deer-wi"},
+    {"name":"Fox Point","slug":"fox-point-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"education-services",
+  "housing_profile":"upscale-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Middleton",
+  "slug": "middleton-wi",
+  "county": "Dane County",
+  "population": 22300,
+  "zip_codes": [
+    "53562"
+  ],
+  "landmarks": [
+    "Pheasant Branch Conservancy",
+    "National Mustard Museum",
+    "Lake Mendota",
+    "Capital Brewery",
+    "Middleton Hills Park"
+  ],
+  "nearby_cities": [
+    {"name":"Madison","slug":"madison-wi"},
+    {"name":"Fitchburg","slug":"fitchburg-wi"},
+    {"name":"Sun Prairie","slug":"sun-prairie-wi"},
+    {"name":"Verona","slug":"verona-wi"},
+    {"name":"Monona","slug":"monona-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"technology-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"madison-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Milwaukee",
+  "slug": "milwaukee-wi",
+  "county": "Milwaukee County",
+  "population": 561400,
+  "zip_codes": [
+    "53202",
+    "53204",
+    "53207",
+    "53209",
+    "53211",
+    "53213",
+    "53215",
+    "53219",
+    "53221",
+    "53227"
+  ],
+  "landmarks": [
+    "Milwaukee Art Museum",
+    "Harley-Davidson Museum",
+    "American Family Field",
+    "Milwaukee Public Market",
+    "Lake Michigan Waterfront"
+  ],
+  "nearby_cities": [
+    {"name":"West Allis","slug":"west-allis-wi"},
+    {"name":"Wauwatosa","slug":"wauwatosa-wi"},
+    {"name":"Greenfield","slug":"greenfield-wi"},
+    {"name":"Glendale","slug":"glendale-wi"},
+    {"name":"Oak Creek","slug":"oak-creek-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"finance-manufacturing",
+  "housing_profile":"major-metropolitan",
+  "growth_pattern":"steady-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Monona",
+  "slug": "monona-wi",
+  "county": "Dane County",
+  "population": 8700,
+  "zip_codes": [
+    "53716"
+  ],
+  "landmarks": [
+    "Winnequah Park",
+    "Lake Monona",
+    "Aldo Leopold Nature Center",
+    "Monona Golf Course",
+    "Monona Terrace Area"
+  ],
+  "nearby_cities": [
+    {"name":"Madison","slug":"madison-wi"},
+    {"name":"Fitchburg","slug":"fitchburg-wi"},
+    {"name":"Middleton","slug":"middleton-wi"},
+    {"name":"Sun Prairie","slug":"sun-prairie-wi"},
+    {"name":"Verona","slug":"verona-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"madison-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Mount Pleasant",
+  "slug": "mount-pleasant-wi",
+  "county": "Racine County",
+  "population": 27400,
+  "zip_codes": [
+    "53403",
+    "53405",
+    "53406"
+  ],
+  "landmarks": [
+    "Racine County Fairgrounds",
+    "Campus Park",
+    "Pritchard Park",
+    "Foxconn Wisconsin Campus",
+    "Smolenski Park"
+  ],
+  "nearby_cities": [
+    {"name":"Racine","slug":"racine-wi"},
+    {"name":"Caledonia","slug":"caledonia-wi"},
+    {"name":"Sturtevant","slug":"sturtevant-wi"},
+    {"name":"Union Grove","slug":"union-grove-wi"},
+    {"name":"Oak Creek","slug":"oak-creek-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"racine-area",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Muskego",
+  "slug": "muskego-wi",
+  "county": "Waukesha County",
+  "population": 26200,
+  "zip_codes": [
+    "53150"
+  ],
+  "landmarks": [
+    "Big Muskego Lake",
+    "Little Muskego Lake",
+    "Idle Isle Park",
+    "Muskego Park",
+    "Veterans Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Franklin","slug":"franklin-wi"},
+    {"name":"New Berlin","slug":"new-berlin-wi"},
+    {"name":"Hales Corners","slug":"hales-corners-wi"},
+    {"name":"Greendale","slug":"greendale-wi"},
+    {"name":"Mukwonago","slug":"mukwonago-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"services-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Neenah",
+  "slug": "neenah-wi",
+  "county": "Winnebago County",
+  "population": 27500,
+  "zip_codes": [
+    "54956"
+  ],
+  "landmarks": [
+    "Riverside Park",
+    "Bergstrom-Mahler Museum of Glass",
+    "Lake Winnebago",
+    "Shattuck Park",
+    "Doty Island"
+  ],
+  "nearby_cities": [
+    {"name":"Menasha","slug":"menasha-wi"},
+    {"name":"Appleton","slug":"appleton-wi"},
+    {"name":"Little Chute","slug":"little-chute-wi"},
+    {"name":"Kaukauna","slug":"kaukauna-wi"},
+    {"name":"Oshkosh","slug":"oshkosh-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"fox-river-valley",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"fox-cities",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "New Berlin",
+  "slug": "new-berlin-wi",
+  "county": "Waukesha County",
+  "population": 41000,
+  "zip_codes": [
+    "53146",
+    "53151"
+  ],
+  "landmarks": [
+    "Malone Park",
+    "Valley View Park",
+    "New Berlin Hills Golf Course",
+    "Minooka Park",
+    "Lindner Soccer Complex"
+  ],
+  "nearby_cities": [
+    {"name":"Brookfield","slug":"brookfield-wi"},
+    {"name":"Muskego","slug":"muskego-wi"},
+    {"name":"West Allis","slug":"west-allis-wi"},
+    {"name":"Greenfield","slug":"greenfield-wi"},
+    {"name":"Waukesha","slug":"waukesha-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Oak Creek",
+  "slug": "oak-creek-wi",
+  "county": "Milwaukee County",
+  "population": 36600,
+  "zip_codes": [
+    "53154"
+  ],
+  "landmarks": [
+    "Bender Park",
+    "Drexel Town Square",
+    "Abendschein Park",
+    "Lake Vista Park",
+    "Lake Michigan Shoreline"
+  ],
+  "nearby_cities": [
+    {"name":"Franklin","slug":"franklin-wi"},
+    {"name":"South Milwaukee","slug":"south-milwaukee-wi"},
+    {"name":"Cudahy","slug":"cudahy-wi"},
+    {"name":"Caledonia","slug":"caledonia-wi"},
+    {"name":"Milwaukee","slug":"milwaukee-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Onalaska",
+  "slug": "onalaska-wi",
+  "county": "La Crosse County",
+  "population": 19300,
+  "zip_codes": [
+    "54650"
+  ],
+  "landmarks": [
+    "Lake Onalaska",
+    "Great River State Trail",
+    "Rowe Park",
+    "Van Riper Park",
+    "Omni Center"
+  ],
+  "nearby_cities": [
+    {"name":"La Crosse","slug":"la-crosse-wi"},
+    {"name":"Holmen","slug":"holmen-wi"},
+    {"name":"La Crescent","slug":"la-crescent-mn"},
+    {"name":"West Salem","slug":"west-salem-wi"},
+    {"name":"Sparta","slug":"sparta-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"driftless-area",
+  "economy_type":"retail-healthcare",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"la-crosse-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Oshkosh",
+  "slug": "oshkosh-wi",
+  "county": "Winnebago County",
+  "population": 67100,
+  "zip_codes": [
+    "54901",
+    "54902",
+    "54904"
+  ],
+  "landmarks": [
+    "EAA Aviation Museum",
+    "University of Wisconsin–Oshkosh",
+    "Menominee Park",
+    "Paine Art Center",
+    "Lake Winnebago"
+  ],
+  "nearby_cities": [
+    {"name":"Neenah","slug":"neenah-wi"},
+    {"name":"Fond du Lac","slug":"fond-du-lac-wi"},
+    {"name":"Menasha","slug":"menasha-wi"},
+    {"name":"Ripon","slug":"ripon-wi"},
+    {"name":"Appleton","slug":"appleton-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"fox-river-valley",
+  "economy_type":"education-manufacturing",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"fox-cities",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Pleasant Prairie",
+  "slug": "pleasant-prairie-wi",
+  "county": "Kenosha County",
+  "population": 22700,
+  "zip_codes": [
+    "53158"
+  ],
+  "landmarks": [
+    "Pleasant Prairie Premium Outlets",
+    "Prairie Springs Park",
+    "Lake Andrea",
+    "RecPlex",
+    "Des Plaines River Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Kenosha","slug":"kenosha-wi"},
+    {"name":"Somers","slug":"somers-wi"},
+    {"name":"Zion","slug":"zion-il"},
+    {"name":"Waukegan","slug":"waukegan-il"},
+    {"name":"Racine","slug":"racine-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"logistics-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"kenosha-county",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Racine",
+  "slug": "racine-wi",
+  "county": "Racine County",
+  "population": 77100,
+  "zip_codes": [
+    "53402",
+    "53403",
+    "53404",
+    "53405",
+    "53406"
+  ],
+  "landmarks": [
+    "Wind Point Lighthouse",
+    "North Beach",
+    "Racine Zoo",
+    "SC Johnson Headquarters",
+    "Downtown Racine"
+  ],
+  "nearby_cities": [
+    {"name":"Mount Pleasant","slug":"mount-pleasant-wi"},
+    {"name":"Caledonia","slug":"caledonia-wi"},
+    {"name":"Sturtevant","slug":"sturtevant-wi"},
+    {"name":"Oak Creek","slug":"oak-creek-wi"},
+    {"name":"Kenosha","slug":"kenosha-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"racine-area",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Sheboygan",
+  "slug": "sheboygan-wi",
+  "county": "Sheboygan County",
+  "population": 49900,
+  "zip_codes": [
+    "53081",
+    "53083"
+  ],
+  "landmarks": [
+    "Kohler-Andrae State Park",
+    "Blue Harbor Resort",
+    "John Michael Kohler Arts Center",
+    "Sheboygan Riverfront",
+    "Lake Michigan"
+  ],
+  "nearby_cities": [
+    {"name":"Manitowoc","slug":"manitowoc-wi"},
+    {"name":"Kohler","slug":"kohler-wi"},
+    {"name":"Plymouth","slug":"plymouth-wi"},
+    {"name":"Sheboygan Falls","slug":"sheboygan-falls-wi"},
+    {"name":"Howards Grove","slug":"howards-grove-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"manufacturing-tourism",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"lakeshore-region",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "South Milwaukee",
+  "slug": "south-milwaukee-wi",
+  "county": "Milwaukee County",
+  "population": 20600,
+  "zip_codes": [
+    "53172"
+  ],
+  "landmarks": [
+    "Grant Park",
+    "South Milwaukee Downtown",
+    "Rawson Avenue Business District",
+    "Oak Creek Parkway",
+    "Lake Michigan Shoreline"
+  ],
+  "nearby_cities": [
+    {"name":"Oak Creek","slug":"oak-creek-wi"},
+    {"name":"Cudahy","slug":"cudahy-wi"},
+    {"name":"St. Francis","slug":"saint-francis-wi"},
+    {"name":"Milwaukee","slug":"milwaukee-wi"},
+    {"name":"Franklin","slug":"franklin-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Stevens Point",
+  "slug": "stevens-point-wi",
+  "county": "Portage County",
+  "population": 25800,
+  "zip_codes": [
+    "54481",
+    "54482"
+  ],
+  "landmarks": [
+    "University of Wisconsin–Stevens Point",
+    "Schmeeckle Reserve",
+    "Standing Rocks Park",
+    "Pfiffner Pioneer Park",
+    "Wisconsin River"
+  ],
+  "nearby_cities": [
+    {"name":"Plover","slug":"plover-wi"},
+    {"name":"Wisconsin Rapids","slug":"wisconsin-rapids-wi"},
+    {"name":"Marshfield","slug":"marshfield-wi"},
+    {"name":"Amherst","slug":"amherst-wi"},
+    {"name":"Waupaca","slug":"waupaca-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"central-plains",
+  "economy_type":"education-healthcare",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-wisconsin",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Sun Prairie",
+  "slug": "sun-prairie-wi",
+  "county": "Dane County",
+  "population": 37600,
+  "zip_codes": [
+    "53590"
+  ],
+  "landmarks": [
+    "Angell Park",
+    "Sun Prairie Historical Library",
+    "Prairie Athletic Club",
+    "Wetmore Community Park",
+    "Downtown Sun Prairie"
+  ],
+  "nearby_cities": [
+    {"name":"Madison","slug":"madison-wi"},
+    {"name":"Middleton","slug":"middleton-wi"},
+    {"name":"Monona","slug":"monona-wi"},
+    {"name":"Fitchburg","slug":"fitchburg-wi"},
+    {"name":"DeForest","slug":"deforest-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"technology-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"madison-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Superior",
+  "slug": "superior-wi",
+  "county": "Douglas County",
+  "population": 26800,
+  "zip_codes": [
+    "54880"
+  ],
+  "landmarks": [
+    "Barker's Island",
+    "Richard I. Bong Veterans Historical Center",
+    "Fairlawn Mansion",
+    "Wisconsin Point",
+    "Lake Superior Waterfront"
+  ],
+  "nearby_cities": [
+    {"name":"Duluth","slug":"duluth-mn"},
+    {"name":"Hermantown","slug":"hermantown-mn"},
+    {"name":"Proctor","slug":"proctor-mn"},
+    {"name":"Oliver","slug":"oliver-wi"},
+    {"name":"Lake Nebagamon","slug":"lake-nebagamon-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-superior-basin",
+  "economy_type":"shipping-logistics",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"twin-ports",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Sussex",
+  "slug": "sussex-wi",
+  "county": "Waukesha County",
+  "population": 11600,
+  "zip_codes": [
+    "53089"
+  ],
+  "landmarks": [
+    "Village Park",
+    "Bugline Trail",
+    "Civic Center",
+    "Armory Park",
+    "Sussex Nature Preserve"
+  ],
+  "nearby_cities": [
+    {"name":"Menomonee Falls","slug":"menomonee-falls-wi"},
+    {"name":"Pewaukee","slug":"pewaukee-wi"},
+    {"name":"Hartland","slug":"hartland-wi"},
+    {"name":"Brookfield","slug":"brookfield-wi"},
+    {"name":"Germantown","slug":"germantown-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"services-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Verona",
+  "slug": "verona-wi",
+  "county": "Dane County",
+  "population": 14800,
+  "zip_codes": [
+    "53593"
+  ],
+  "landmarks": [
+    "Epic Systems Campus",
+    "Badger Prairie Park",
+    "Military Ridge State Trail",
+    "Fireman's Park",
+    "Ice Age Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Madison","slug":"madison-wi"},
+    {"name":"Fitchburg","slug":"fitchburg-wi"},
+    {"name":"Middleton","slug":"middleton-wi"},
+    {"name":"Oregon","slug":"oregon-wi"},
+    {"name":"Mount Horeb","slug":"mount-horeb-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"technology-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"madison-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Waukesha",
+  "slug": "waukesha-wi",
+  "county": "Waukesha County",
+  "population": 71800,
+  "zip_codes": [
+    "53186",
+    "53188",
+    "53189"
+  ],
+  "landmarks": [
+    "Fox River Park",
+    "Frame Park",
+    "Carroll University",
+    "Downtown Waukesha",
+    "Retzer Nature Center"
+  ],
+  "nearby_cities": [
+    {"name":"Brookfield","slug":"brookfield-wi"},
+    {"name":"New Berlin","slug":"new-berlin-wi"},
+    {"name":"Pewaukee","slug":"pewaukee-wi"},
+    {"name":"Muskego","slug":"muskego-wi"},
+    {"name":"Sussex","slug":"sussex-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"healthcare-manufacturing",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Wausau",
+  "slug": "wausau-wi",
+  "county": "Marathon County",
+  "population": 40100,
+  "zip_codes": [
+    "54401",
+    "54403"
+  ],
+  "landmarks": [
+    "Rib Mountain State Park",
+    "Leigh Yawkey Woodson Art Museum",
+    "Granite Peak Ski Area",
+    "Marathon Park",
+    "Wisconsin River"
+  ],
+  "nearby_cities": [
+    {"name":"Schofield","slug":"schofield-wi"},
+    {"name":"Weston","slug":"weston-wi"},
+    {"name":"Rothschild","slug":"rothschild-wi"},
+    {"name":"Mosinee","slug":"mosinee-wi"},
+    {"name":"Merrill","slug":"merrill-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"central-plains",
+  "economy_type":"healthcare-manufacturing",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-wisconsin",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Wauwatosa",
+  "slug": "wauwatosa-wi",
+  "county": "Milwaukee County",
+  "population": 48300,
+  "zip_codes": [
+    "53213",
+    "53222",
+    "53226"
+  ],
+  "landmarks": [
+    "Milwaukee County Zoo",
+    "Mayfair Mall",
+    "Hoyt Park",
+    "Froedtert Hospital",
+    "Medical College of Wisconsin"
+  ],
+  "nearby_cities": [
+    {"name":"Milwaukee","slug":"milwaukee-wi"},
+    {"name":"Brookfield","slug":"brookfield-wi"},
+    {"name":"West Allis","slug":"west-allis-wi"},
+    {"name":"Menomonee Falls","slug":"menomonee-falls-wi"},
+    {"name":"New Berlin","slug":"new-berlin-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"healthcare-education",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "West Allis",
+  "slug": "west-allis-wi",
+  "county": "Milwaukee County",
+  "population": 59800,
+  "zip_codes": [
+    "53214",
+    "53219",
+    "53227"
+  ],
+  "landmarks": [
+    "Wisconsin State Fair Park",
+    "Milwaukee Mile Speedway",
+    "McCarty Park",
+    "Greenfield Park",
+    "State Fair Expo Center"
+  ],
+  "nearby_cities": [
+    {"name":"Milwaukee","slug":"milwaukee-wi"},
+    {"name":"Wauwatosa","slug":"wauwatosa-wi"},
+    {"name":"Greenfield","slug":"greenfield-wi"},
+    {"name":"New Berlin","slug":"new-berlin-wi"},
+    {"name":"Brookfield","slug":"brookfield-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"retail-manufacturing",
+  "housing_profile":"major-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "West Bend",
+  "slug": "west-bend-wi",
+  "county": "Washington County",
+  "population": 32200,
+  "zip_codes": [
+    "53090",
+    "53095"
+  ],
+  "landmarks": [
+    "Museum of Wisconsin Art",
+    "Regner Park",
+    "Riverside Park",
+    "Lac Lawrann Conservancy",
+    "Downtown West Bend"
+  ],
+  "nearby_cities": [
+    {"name":"Germantown","slug":"germantown-wi"},
+    {"name":"Jackson","slug":"jackson-wi"},
+    {"name":"Hartford","slug":"hartford-wi"},
+    {"name":"Richfield","slug":"richfield-wi"},
+    {"name":"Slinger","slug":"slinger-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"washington-county",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Weston",
+  "slug": "weston-wi",
+  "county": "Marathon County",
+  "population": 16100,
+  "zip_codes": [
+    "54476"
+  ],
+  "landmarks": [
+    "Green Circle Trail",
+    "Weston Aquatic Center",
+    "Kennedy Park",
+    "Weston Farmers Market",
+    "Wisconsin River"
+  ],
+  "nearby_cities": [
+    {"name":"Wausau","slug":"wausau-wi"},
+    {"name":"Schofield","slug":"schofield-wi"},
+    {"name":"Rothschild","slug":"rothschild-wi"},
+    {"name":"Mosinee","slug":"mosinee-wi"},
+    {"name":"Merrill","slug":"merrill-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"central-plains",
+  "economy_type":"services-healthcare",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-wisconsin",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Whitewater",
+  "slug": "whitewater-wi",
+  "county": "Walworth County",
+  "population": 15300,
+  "zip_codes": [
+    "53190"
+  ],
+  "landmarks": [
+    "University of Wisconsin–Whitewater",
+    "Starin Park",
+    "Whitewater Aquatic Center",
+    "Cravath Lake",
+    "Downtown Whitewater"
+  ],
+  "nearby_cities": [
+    {"name":"Fort Atkinson","slug":"fort-atkinson-wi"},
+    {"name":"Elkhorn","slug":"elkhorn-wi"},
+    {"name":"Jefferson","slug":"jefferson-wi"},
+    {"name":"Milton","slug":"milton-wi"},
+    {"name":"Janesville","slug":"janesville-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"education-services",
+  "housing_profile":"college-town",
+  "growth_pattern":"steady-growth",
+  "service_environment":"walworth-county",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Wisconsin Rapids",
+  "slug": "wisconsin-rapids-wi",
+  "county": "Wood County",
+  "population": 18400,
+  "zip_codes": [
+    "54494",
+    "54495"
+  ],
+  "landmarks": [
+    "Veterans Memorial Park",
+    "Wisconsin River",
+    "South Wood County Historical Museum",
+    "Ridges Golf Course",
+    "Downtown Wisconsin Rapids"
+  ],
+  "nearby_cities": [
+    {"name":"Stevens Point","slug":"stevens-point-wi"},
+    {"name":"Marshfield","slug":"marshfield-wi"},
+    {"name":"Plover","slug":"plover-wi"},
+    {"name":"Nekoosa","slug":"nekoosa-wi"},
+    {"name":"Port Edwards","slug":"port-edwards-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"central-plains",
+  "economy_type":"paper-manufacturing",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-wisconsin",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Allouez",
+  "slug": "allouez-wi",
+  "county": "Brown County",
+  "population": 14100,
+  "zip_codes": [
+    "54301"
+  ],
+  "landmarks": [
+    "Heritage Hill State Historical Park",
+    "Green Isle Park",
+    "East River Trail",
+    "Allouez Village Hall",
+    "Fox River"
+  ],
+  "nearby_cities": [
+    {"name":"Green Bay","slug":"green-bay-wi"},
+    {"name":"De Pere","slug":"de-pere-wi"},
+    {"name":"Bellevue","slug":"bellevue-wi"},
+    {"name":"Ashwaubenon","slug":"ashwaubenon-wi"},
+    {"name":"Howard","slug":"howard-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"fox-river-valley",
+  "economy_type":"services-healthcare",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"green-bay-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Bellevue",
+  "slug": "bellevue-wi",
+  "county": "Brown County",
+  "population": 16400,
+  "zip_codes": [
+    "54311"
+  ],
+  "landmarks": [
+    "Josten Park",
+    "Willow Creek Park",
+    "East River",
+    "Bellevue Family Aquatic Center",
+    "Village Center"
+  ],
+  "nearby_cities": [
+    {"name":"Green Bay","slug":"green-bay-wi"},
+    {"name":"Allouez","slug":"allouez-wi"},
+    {"name":"De Pere","slug":"de-pere-wi"},
+    {"name":"Ashwaubenon","slug":"ashwaubenon-wi"},
+    {"name":"Howard","slug":"howard-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"fox-river-valley",
+  "economy_type":"services-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"green-bay-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Brown Deer",
+  "slug": "brown-deer-wi",
+  "county": "Milwaukee County",
+  "population": 12900,
+  "zip_codes": [
+    "53223"
+  ],
+  "landmarks": [
+    "Brown Deer Park",
+    "Brown Deer Golf Course",
+    "Badger Meter Riverwalk",
+    "Village Park",
+    "Milwaukee River"
+  ],
+  "nearby_cities": [
+    {"name":"Glendale","slug":"glendale-wi"},
+    {"name":"Mequon","slug":"mequon-wi"},
+    {"name":"Fox Point","slug":"fox-point-wi"},
+    {"name":"Milwaukee","slug":"milwaukee-wi"},
+    {"name":"Whitefish Bay","slug":"whitefish-bay-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"services-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Grafton",
+  "slug": "grafton-wi",
+  "county": "Ozaukee County",
+  "population": 12100,
+  "zip_codes": [
+    "53024"
+  ],
+  "landmarks": [
+    "Lime Kiln Park",
+    "Milwaukee River",
+    "Downtown Grafton",
+    "Veterans Memorial Park",
+    "Ozaukee Interurban Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Mequon","slug":"mequon-wi"},
+    {"name":"Cedarburg","slug":"cedarburg-wi"},
+    {"name":"Port Washington","slug":"port-washington-wi"},
+    {"name":"Thiensville","slug":"thiensville-wi"},
+    {"name":"Saukville","slug":"saukville-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"ozaukee-county",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Holmen",
+  "slug": "holmen-wi",
+  "county": "La Crosse County",
+  "population": 10800,
+  "zip_codes": [
+    "54636"
+  ],
+  "landmarks": [
+    "Halfway Creek Park",
+    "Seven Bridges Trail",
+    "Holmen Area Community Center",
+    "Viking Park",
+    "Great River Road"
+  ],
+  "nearby_cities": [
+    {"name":"Onalaska","slug":"onalaska-wi"},
+    {"name":"La Crosse","slug":"la-crosse-wi"},
+    {"name":"West Salem","slug":"west-salem-wi"},
+    {"name":"Sparta","slug":"sparta-wi"},
+    {"name":"La Crescent","slug":"la-crescent-mn"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"driftless-area",
+  "economy_type":"services-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"la-crosse-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Little Chute",
+  "slug": "little-chute-wi",
+  "county": "Outagamie County",
+  "population": 11900,
+  "zip_codes": [
+    "54140"
+  ],
+  "landmarks": [
+    "Windmill Park",
+    "Doyle Park",
+    "Fox River",
+    "Little Chute Civic Center",
+    "Van Asten Visitor Center"
+  ],
+  "nearby_cities": [
+    {"name":"Appleton","slug":"appleton-wi"},
+    {"name":"Kaukauna","slug":"kaukauna-wi"},
+    {"name":"Menasha","slug":"menasha-wi"},
+    {"name":"Neenah","slug":"neenah-wi"},
+    {"name":"Kimberly","slug":"kimberly-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"fox-river-valley",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"fox-cities",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Pewaukee",
+  "slug": "pewaukee-wi",
+  "county": "Waukesha County",
+  "population": 16400,
+  "zip_codes": [
+    "53072"
+  ],
+  "landmarks": [
+    "Pewaukee Lake",
+    "Lakefront Park",
+    "Pewaukee Beach",
+    "Pewaukee Riverwalk",
+    "Springdale Park"
+  ],
+  "nearby_cities": [
+    {"name":"Waukesha","slug":"waukesha-wi"},
+    {"name":"Brookfield","slug":"brookfield-wi"},
+    {"name":"Sussex","slug":"sussex-wi"},
+    {"name":"Hartland","slug":"hartland-wi"},
+    {"name":"Delafield","slug":"delafield-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"services-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Plover",
+  "slug": "plover-wi",
+  "county": "Portage County",
+  "population": 13800,
+  "zip_codes": [
+    "54467"
+  ],
+  "landmarks": [
+    "Standing Rocks County Park",
+    "Lake Pacawa Park",
+    "Plover River Trail",
+    "Lake Emily Park",
+    "Village Park"
+  ],
+  "nearby_cities": [
+    {"name":"Stevens Point","slug":"stevens-point-wi"},
+    {"name":"Wisconsin Rapids","slug":"wisconsin-rapids-wi"},
+    {"name":"Amherst","slug":"amherst-wi"},
+    {"name":"Waupaca","slug":"waupaca-wi"},
+    {"name":"Marshfield","slug":"marshfield-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"central-plains",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-wisconsin",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Port Washington",
+  "slug": "port-washington-wi",
+  "county": "Ozaukee County",
+  "population": 12700,
+  "zip_codes": [
+    "53074"
+  ],
+  "landmarks": [
+    "Port Washington Marina",
+    "Coal Dock Park",
+    "1860 Light Station Museum",
+    "Lake Michigan",
+    "Downtown Port Washington"
+  ],
+  "nearby_cities": [
+    {"name":"Grafton","slug":"grafton-wi"},
+    {"name":"Saukville","slug":"saukville-wi"},
+    {"name":"Mequon","slug":"mequon-wi"},
+    {"name":"Cedarburg","slug":"cedarburg-wi"},
+    {"name":"Belgium","slug":"belgium-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"tourism-maritime",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"ozaukee-county",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Schofield",
+  "slug": "schofield-wi",
+  "county": "Marathon County",
+  "population": 2300,
+  "zip_codes": [
+    "54476"
+  ],
+  "landmarks": [
+    "Schofield Dam",
+    "Lake Wausau",
+    "Kennedy Park",
+    "Wisconsin River",
+    "Schofield Village Center"
+  ],
+  "nearby_cities": [
+    {"name":"Weston","slug":"weston-wi"},
+    {"name":"Wausau","slug":"wausau-wi"},
+    {"name":"Rothschild","slug":"rothschild-wi"},
+    {"name":"Mosinee","slug":"mosinee-wi"},
+    {"name":"Merrill","slug":"merrill-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"central-plains",
+  "economy_type":"services",
+  "housing_profile":"small-town",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-wisconsin",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Shorewood",
+  "slug": "shorewood-wi",
+  "county": "Milwaukee County",
+  "population": 13600,
+  "zip_codes": [
+    "53211"
+  ],
+  "landmarks": [
+    "Atwater Park",
+    "Shorewood Nature Preserve",
+    "Oak Leaf Trail",
+    "Estabrook Park",
+    "Lake Michigan"
+  ],
+  "nearby_cities": [
+    {"name":"Milwaukee","slug":"milwaukee-wi"},
+    {"name":"Glendale","slug":"glendale-wi"},
+    {"name":"Whitefish Bay","slug":"whitefish-bay-wi"},
+    {"name":"Fox Point","slug":"fox-point-wi"},
+    {"name":"Brown Deer","slug":"brown-deer-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"services-education",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Somers",
+  "slug": "somers-wi",
+  "county": "Kenosha County",
+  "population": 9600,
+  "zip_codes": [
+    "53144",
+    "53171"
+  ],
+  "landmarks": [
+    "Petrifying Springs Park",
+    "UW-Parkside",
+    "Somers House",
+    "Lake Michigan Shoreline",
+    "Old Settlers Park"
+  ],
+  "nearby_cities": [
+    {"name":"Kenosha","slug":"kenosha-wi"},
+    {"name":"Pleasant Prairie","slug":"pleasant-prairie-wi"},
+    {"name":"Racine","slug":"racine-wi"},
+    {"name":"Mount Pleasant","slug":"mount-pleasant-wi"},
+    {"name":"Caledonia","slug":"caledonia-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"education-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"kenosha-county",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "St. Francis",
+  "slug": "saint-francis-wi",
+  "county": "Milwaukee County",
+  "population": 9800,
+  "zip_codes": [
+    "53235"
+  ],
+  "landmarks": [
+    "Lake Michigan",
+    "Greene Park",
+    "Milwaukee County Sports Complex",
+    "Howard Village Park",
+    "Lake Drive"
+  ],
+  "nearby_cities": [
+    {"name":"Milwaukee","slug":"milwaukee-wi"},
+    {"name":"Cudahy","slug":"cudahy-wi"},
+    {"name":"South Milwaukee","slug":"south-milwaukee-wi"},
+    {"name":"Oak Creek","slug":"oak-creek-wi"},
+    {"name":"Bay View","slug":"bay-view-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"services-retail",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Stoughton",
+  "slug": "stoughton-wi",
+  "county": "Dane County",
+  "population": 13700,
+  "zip_codes": [
+    "53589"
+  ],
+  "landmarks": [
+    "Livsreise Norwegian Heritage Center",
+    "Lake Kegonsa",
+    "Mandt Park",
+    "Yahara River",
+    "Stoughton Opera House"
+  ],
+  "nearby_cities": [
+    {"name":"Madison","slug":"madison-wi"},
+    {"name":"Sun Prairie","slug":"sun-prairie-wi"},
+    {"name":"Monona","slug":"monona-wi"},
+    {"name":"Fitchburg","slug":"fitchburg-wi"},
+    {"name":"Janesville","slug":"janesville-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"madison-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Suamico",
+  "slug": "suamico-wi",
+  "county": "Brown County",
+  "population": 13600,
+  "zip_codes": [
+    "54173"
+  ],
+  "landmarks": [
+    "Barkhausen Waterfowl Preserve",
+    "Sensiba State Wildlife Area",
+    "Suamico River",
+    "Vickery Village",
+    "Idlewild Park"
+  ],
+  "nearby_cities": [
+    {"name":"Howard","slug":"howard-wi"},
+    {"name":"Green Bay","slug":"green-bay-wi"},
+    {"name":"Ashwaubenon","slug":"ashwaubenon-wi"},
+    {"name":"De Pere","slug":"de-pere-wi"},
+    {"name":"Pulaski","slug":"pulaski-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"fox-river-valley",
+  "economy_type":"services-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"green-bay-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Whitefish Bay",
+  "slug": "whitefish-bay-wi",
+  "county": "Milwaukee County",
+  "population": 14500,
+  "zip_codes": [
+    "53217"
+  ],
+  "landmarks": [
+    "Klode Park",
+    "Big Bay Park",
+    "Lake Michigan Shoreline",
+    "Silver Spring Drive",
+    "Cahill Park"
+  ],
+  "nearby_cities": [
+    {"name":"Shorewood","slug":"shorewood-wi"},
+    {"name":"Glendale","slug":"glendale-wi"},
+    {"name":"Fox Point","slug":"fox-point-wi"},
+    {"name":"Brown Deer","slug":"brown-deer-wi"},
+    {"name":"Milwaukee","slug":"milwaukee-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"services",
+  "housing_profile":"upscale-suburban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"milwaukee-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Cedarburg",
+  "slug": "cedarburg-wi",
+  "county": "Ozaukee County",
+  "population": 12600,
+  "zip_codes": [
+    "53012"
+  ],
+  "landmarks": [
+    "Cedar Creek Settlement",
+    "Cedarburg Cultural Center",
+    "Covered Bridge Park",
+    "Washington Avenue Historic District",
+    "Cedar Creek Park"
+  ],
+  "nearby_cities": [
+    {"name":"Grafton","slug":"grafton-wi"},
+    {"name":"Mequon","slug":"mequon-wi"},
+    {"name":"Port Washington","slug":"port-washington-wi"},
+    {"name":"Saukville","slug":"saukville-wi"},
+    {"name":"Thiensville","slug":"thiensville-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-michigan-lowlands",
+  "economy_type":"tourism-services",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"ozaukee-county",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Chippewa Falls",
+  "slug": "chippewa-falls-wi",
+  "county": "Chippewa County",
+  "population": 15400,
+  "zip_codes": [
+    "54729"
+  ],
+  "landmarks": [
+    "Irvine Park",
+    "Leinenkugel Brewery",
+    "Chippewa River",
+    "Northern Wisconsin State Fairgrounds",
+    "Cook-Rutledge Mansion"
+  ],
+  "nearby_cities": [
+    {"name":"Eau Claire","slug":"eau-claire-wi"},
+    {"name":"Lake Hallie","slug":"lake-hallie-wi"},
+    {"name":"Altoona","slug":"altoona-wi"},
+    {"name":"Bloomer","slug":"bloomer-wi"},
+    {"name":"Menomonie","slug":"menomonie-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"chippewa-valley",
+  "economy_type":"manufacturing-tourism",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chippewa-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "DeForest",
+  "slug": "deforest-wi",
+  "county": "Dane County",
+  "population": 11300,
+  "zip_codes": [
+    "53532"
+  ],
+  "landmarks": [
+    "Fireman's Park",
+    "Yahara River",
+    "DeForest Area Historical Society",
+    "Token Creek Conservancy",
+    "Veterans Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Sun Prairie","slug":"sun-prairie-wi"},
+    {"name":"Madison","slug":"madison-wi"},
+    {"name":"Windsor","slug":"windsor-wi"},
+    {"name":"Waunakee","slug":"waunakee-wi"},
+    {"name":"Middleton","slug":"middleton-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"services-logistics",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"madison-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Hartford",
+  "slug": "hartford-wi",
+  "county": "Washington County",
+  "population": 16800,
+  "zip_codes": [
+    "53027"
+  ],
+  "landmarks": [
+    "Pike Lake State Park",
+    "Schauer Arts Center",
+    "Independence Park",
+    "Rubicon River",
+    "Downtown Hartford"
+  ],
+  "nearby_cities": [
+    {"name":"West Bend","slug":"west-bend-wi"},
+    {"name":"Slinger","slug":"slinger-wi"},
+    {"name":"Richfield","slug":"richfield-wi"},
+    {"name":"Jackson","slug":"jackson-wi"},
+    {"name":"Germantown","slug":"germantown-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"washington-county",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Kimberly",
+  "slug": "kimberly-wi",
+  "county": "Outagamie County",
+  "population": 7300,
+  "zip_codes": [
+    "54136"
+  ],
+  "landmarks": [
+    "Sunset Park",
+    "Memorial Park",
+    "Fox River",
+    "Kimberly Point",
+    "Paper Makers Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Appleton","slug":"appleton-wi"},
+    {"name":"Little Chute","slug":"little-chute-wi"},
+    {"name":"Kaukauna","slug":"kaukauna-wi"},
+    {"name":"Menasha","slug":"menasha-wi"},
+    {"name":"Neenah","slug":"neenah-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"fox-river-valley",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"fox-cities",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lake Hallie",
+  "slug": "lake-hallie-wi",
+  "county": "Chippewa County",
+  "population": 6900,
+  "zip_codes": [
+    "54729"
+  ],
+  "landmarks": [
+    "Lake Hallie",
+    "Hallie Ball Park",
+    "Chippewa River",
+    "Lake Hallie Sports Complex",
+    "Village Hall Park"
+  ],
+  "nearby_cities": [
+    {"name":"Chippewa Falls","slug":"chippewa-falls-wi"},
+    {"name":"Eau Claire","slug":"eau-claire-wi"},
+    {"name":"Altoona","slug":"altoona-wi"},
+    {"name":"Menomonie","slug":"menomonie-wi"},
+    {"name":"Bloomer","slug":"bloomer-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"chippewa-valley",
+  "economy_type":"services-retail",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chippewa-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Menomonie",
+  "slug": "menomonie-wi",
+  "county": "Dunn County",
+  "population": 16900,
+  "zip_codes": [
+    "54751"
+  ],
+  "landmarks": [
+    "University of Wisconsin–Stout",
+    "Lake Menomin",
+    "Wilson Place Museum",
+    "Wakanda Park",
+    "Red Cedar Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Eau Claire","slug":"eau-claire-wi"},
+    {"name":"Chippewa Falls","slug":"chippewa-falls-wi"},
+    {"name":"Lake Hallie","slug":"lake-hallie-wi"},
+    {"name":"Colfax","slug":"colfax-wi"},
+    {"name":"Elk Mound","slug":"elk-mound-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"chippewa-valley",
+  "economy_type":"education-services",
+  "housing_profile":"college-town",
+  "growth_pattern":"steady-growth",
+  "service_environment":"west-central-wisconsin",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rothschild",
+  "slug": "rothschild-wi",
+  "county": "Marathon County",
+  "population": 5600,
+  "zip_codes": [
+    "54474"
+  ],
+  "landmarks": [
+    "George Street Park",
+    "Wisconsin River",
+    "Rothschild Pavilion",
+    "Memorial Park",
+    "Village Center"
+  ],
+  "nearby_cities": [
+    {"name":"Weston","slug":"weston-wi"},
+    {"name":"Wausau","slug":"wausau-wi"},
+    {"name":"Mosinee","slug":"mosinee-wi"},
+    {"name":"Schofield","slug":"schofield-wi"},
+    {"name":"Merrill","slug":"merrill-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"central-plains",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-wisconsin",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Waunakee",
+  "slug": "waunakee-wi",
+  "county": "Dane County",
+  "population": 15100,
+  "zip_codes": [
+    "53597"
+  ],
+  "landmarks": [
+    "Village Park",
+    "Waunakee Village Center",
+    "Yahara River",
+    "Schumacher Farm Park",
+    "Ripp Park"
+  ],
+  "nearby_cities": [
+    {"name":"Madison","slug":"madison-wi"},
+    {"name":"Middleton","slug":"middleton-wi"},
+    {"name":"DeForest","slug":"deforest-wi"},
+    {"name":"Sun Prairie","slug":"sun-prairie-wi"},
+    {"name":"Windsor","slug":"windsor-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"madison-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Windsor",
+  "slug": "windsor-wi",
+  "county": "Dane County",
+  "population": 9200,
+  "zip_codes": [
+    "53598"
+  ],
+  "landmarks": [
+    "Token Creek Conservancy",
+    "Lake Windsor",
+    "Windsor Community Park",
+    "Yahara River",
+    "Fireman's Park"
+  ],
+  "nearby_cities": [
+    {"name":"DeForest","slug":"deforest-wi"},
+    {"name":"Waunakee","slug":"waunakee-wi"},
+    {"name":"Sun Prairie","slug":"sun-prairie-wi"},
+    {"name":"Madison","slug":"madison-wi"},
+    {"name":"Middleton","slug":"middleton-wi"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"madison-metro",
+  "property_mix":"mixed-use"
+}
+]

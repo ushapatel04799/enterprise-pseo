@@ -1,0 +1,895 @@
+[
+
+{
+  "city": "Ammon",
+  "slug": "ammon-id",
+  "county": "Bonneville County",
+  "population": 17940,
+  "zip_codes": [
+    "83401",
+    "83406"
+  ],
+  "landmarks": [
+    "McCowin Park",
+    "Ammon City Park",
+    "Sandcreek Commons",
+    "Hillcrest High School",
+    "Tautphaus Park"
+  ],
+  "nearby_cities": [
+    {"name":"Idaho Falls","slug":"idaho-falls-id"},
+    {"name":"Iona","slug":"iona-id"},
+    {"name":"Shelley","slug":"shelley-id"},
+    {"name":"Ucon","slug":"ucon-id"},
+    {"name":"Rigby","slug":"rigby-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"snake-river-plain",
+  "economy_type":"healthcare-retail",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"idaho-falls-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Blackfoot",
+  "slug": "blackfoot-id",
+  "county": "Bingham County",
+  "population": 12910,
+  "zip_codes": [
+    "83221"
+  ],
+  "landmarks": [
+    "Idaho Potato Museum",
+    "Jensen Grove Park",
+    "Eastern Idaho State Fairgrounds",
+    "Bingham County Historical Museum",
+    "Blackfoot Golf Course"
+  ],
+  "nearby_cities": [
+    {"name":"Shelley","slug":"shelley-id"},
+    {"name":"Pocatello","slug":"pocatello-id"},
+    {"name":"American Falls","slug":"american-falls-id"},
+    {"name":"Idaho Falls","slug":"idaho-falls-id"},
+    {"name":"Aberdeen","slug":"aberdeen-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"snake-river-plain",
+  "economy_type":"agriculture-manufacturing",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"southeast-idaho",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Boise",
+  "slug": "boise-id",
+  "county": "Ada County",
+  "population": 235680,
+  "zip_codes": [
+    "83702",
+    "83703",
+    "83704",
+    "83705",
+    "83706",
+    "83709",
+    "83713",
+    "83716"
+  ],
+  "landmarks": [
+    "Boise River Greenbelt",
+    "Idaho State Capitol",
+    "Julia Davis Park",
+    "Boise Art Museum",
+    "Albertsons Stadium"
+  ],
+  "nearby_cities": [
+    {"name":"Meridian","slug":"meridian-id"},
+    {"name":"Garden City","slug":"garden-city-id"},
+    {"name":"Eagle","slug":"eagle-id"},
+    {"name":"Kuna","slug":"kuna-id"},
+    {"name":"Star","slug":"star-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"treasure-valley",
+  "economy_type":"government-technology",
+  "housing_profile":"major-urban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"boise-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Burley",
+  "slug": "burley-id",
+  "county": "Cassia County",
+  "population": 11110,
+  "zip_codes": [
+    "83318"
+  ],
+  "landmarks": [
+    "Storybook Park",
+    "Freedom Park",
+    "Cassia County Historical Museum",
+    "Snake River",
+    "Burley Golf Course"
+  ],
+  "nearby_cities": [
+    {"name":"Rupert","slug":"rupert-id"},
+    {"name":"Heyburn","slug":"heyburn-id"},
+    {"name":"Twin Falls","slug":"twin-falls-id"},
+    {"name":"Jerome","slug":"jerome-id"},
+    {"name":"Paul","slug":"paul-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"snake-river-plain",
+  "economy_type":"agriculture-food-processing",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"south-central-idaho",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Caldwell",
+  "slug": "caldwell-id",
+  "county": "Canyon County",
+  "population": 63680,
+  "zip_codes": [
+    "83605",
+    "83607"
+  ],
+  "landmarks": [
+    "Indian Creek Plaza",
+    "College of Idaho",
+    "Whittenberger Planetarium",
+    "Caldwell Night Rodeo",
+    "Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Nampa","slug":"nampa-id"},
+    {"name":"Middleton","slug":"middleton-id"},
+    {"name":"Parma","slug":"parma-id"},
+    {"name":"Boise","slug":"boise-id"},
+    {"name":"Meridian","slug":"meridian-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"treasure-valley",
+  "economy_type":"agriculture-education",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"boise-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Chubbuck",
+  "slug": "chubbuck-id",
+  "county": "Bannock County",
+  "population": 15960,
+  "zip_codes": [
+    "83202"
+  ],
+  "landmarks": [
+    "Stuart Park",
+    "Pine Ridge Mall",
+    "Capell Park",
+    "Chubbuck City Hall",
+    "Portneuf Wellness Complex"
+  ],
+  "nearby_cities": [
+    {"name":"Pocatello","slug":"pocatello-id"},
+    {"name":"Blackfoot","slug":"blackfoot-id"},
+    {"name":"American Falls","slug":"american-falls-id"},
+    {"name":"Inkom","slug":"inkom-id"},
+    {"name":"Shelley","slug":"shelley-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"snake-river-plain",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"pocatello-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Coeur d'Alene",
+  "slug": "coeur-dalene-id",
+  "county": "Kootenai County",
+  "population": 56650,
+  "zip_codes": [
+    "83814",
+    "83815"
+  ],
+  "landmarks": [
+    "Lake Coeur d'Alene",
+    "Tubbs Hill",
+    "McEuen Park",
+    "Coeur d'Alene Resort",
+    "North Idaho Centennial Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Post Falls","slug":"post-falls-id"},
+    {"name":"Hayden","slug":"hayden-id"},
+    {"name":"Rathdrum","slug":"rathdrum-id"},
+    {"name":"Dalton Gardens","slug":"dalton-gardens-id"},
+    {"name":"Spokane Valley","slug":"spokane-valley-wa"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"mountain-lake",
+  "economy_type":"tourism-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"north-idaho",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Eagle",
+  "slug": "eagle-id",
+  "county": "Ada County",
+  "population": 32290,
+  "zip_codes": [
+    "83616"
+  ],
+  "landmarks": [
+    "Eagle Island State Park",
+    "Downtown Eagle",
+    "Heritage Park",
+    "BanBury Golf Course",
+    "Eagle Sports Complex"
+  ],
+  "nearby_cities": [
+    {"name":"Boise","slug":"boise-id"},
+    {"name":"Meridian","slug":"meridian-id"},
+    {"name":"Star","slug":"star-id"},
+    {"name":"Garden City","slug":"garden-city-id"},
+    {"name":"Middleton","slug":"middleton-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"treasure-valley",
+  "economy_type":"professional-services",
+  "housing_profile":"upscale-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"boise-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Garden City",
+  "slug": "garden-city-id",
+  "county": "Ada County",
+  "population": 14340,
+  "zip_codes": [
+    "83714"
+  ],
+  "landmarks": [
+    "Boise River Greenbelt",
+    "Expo Idaho",
+    "Western Collective",
+    "Riverside Park",
+    "Veterans Memorial Parkway"
+  ],
+  "nearby_cities": [
+    {"name":"Boise","slug":"boise-id"},
+    {"name":"Eagle","slug":"eagle-id"},
+    {"name":"Meridian","slug":"meridian-id"},
+    {"name":"Star","slug":"star-id"},
+    {"name":"Kuna","slug":"kuna-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"treasure-valley",
+  "economy_type":"business-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"boise-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Hayden",
+  "slug": "hayden-id",
+  "county": "Kootenai County",
+  "population": 17610,
+  "zip_codes": [
+    "83835"
+  ],
+  "landmarks": [
+    "Hayden Lake",
+    "Avondale Golf Club",
+    "Hayden City Park",
+    "Triple Play Family Fun Park",
+    "Broadmoore Park"
+  ],
+  "nearby_cities": [
+    {"name":"Coeur d'Alene","slug":"coeur-dalene-id"},
+    {"name":"Post Falls","slug":"post-falls-id"},
+    {"name":"Rathdrum","slug":"rathdrum-id"},
+    {"name":"Dalton Gardens","slug":"dalton-gardens-id"},
+    {"name":"Spokane Valley","slug":"spokane-valley-wa"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"mountain-lake",
+  "economy_type":"tourism-retail",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"north-idaho",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Heyburn",
+  "slug": "heyburn-id",
+  "county": "Minidoka County",
+  "population": 3850,
+  "zip_codes": [
+    "83336"
+  ],
+  "landmarks": [
+    "Snake River",
+    "Heyburn Riverside Park",
+    "Freedom Park",
+    "Minidoka County Fairgrounds",
+    "Heyburn Marina"
+  ],
+  "nearby_cities": [
+    {"name":"Burley","slug":"burley-id"},
+    {"name":"Rupert","slug":"rupert-id"},
+    {"name":"Paul","slug":"paul-id"},
+    {"name":"Jerome","slug":"jerome-id"},
+    {"name":"Twin Falls","slug":"twin-falls-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"snake-river-plain",
+  "economy_type":"agriculture-transportation",
+  "housing_profile":"small-city-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"south-central-idaho",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Idaho Falls",
+  "slug": "idaho-falls-id",
+  "county": "Bonneville County",
+  "population": 67890,
+  "zip_codes": [
+    "83401",
+    "83402",
+    "83404",
+    "83406"
+  ],
+  "landmarks": [
+    "Idaho Falls River Walk",
+    "Idaho Falls Zoo",
+    "Museum of Idaho",
+    "Snake River Greenbelt",
+    "Melaleuca Field"
+  ],
+  "nearby_cities": [
+    {"name":"Ammon","slug":"ammon-id"},
+    {"name":"Iona","slug":"iona-id"},
+    {"name":"Shelley","slug":"shelley-id"},
+    {"name":"Rigby","slug":"rigby-id"},
+    {"name":"Ucon","slug":"ucon-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"snake-river-plain",
+  "economy_type":"healthcare-energy",
+  "housing_profile":"major-urban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"idaho-falls-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Jerome",
+  "slug": "jerome-id",
+  "county": "Jerome County",
+  "population": 13110,
+  "zip_codes": [
+    "83338"
+  ],
+  "landmarks": [
+    "Jerome County Historical Museum",
+    "Conexon Park",
+    "Jerome Country Club",
+    "Historic Downtown Jerome",
+    "Snake River Canyon"
+  ],
+  "nearby_cities": [
+    {"name":"Twin Falls","slug":"twin-falls-id"},
+    {"name":"Burley","slug":"burley-id"},
+    {"name":"Rupert","slug":"rupert-id"},
+    {"name":"Gooding","slug":"gooding-id"},
+    {"name":"Heyburn","slug":"heyburn-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"snake-river-plain",
+  "economy_type":"agriculture-food-processing",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"magic-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Kuna",
+  "slug": "kuna-id",
+  "county": "Ada County",
+  "population": 28840,
+  "zip_codes": [
+    "83634"
+  ],
+  "landmarks": [
+    "Kuna Greenbelt",
+    "Bernardine Quinn Riverside Park",
+    "Indian Creek",
+    "Kuna Performing Arts Center",
+    "Falcon Valley Golf Course"
+  ],
+  "nearby_cities": [
+    {"name":"Boise","slug":"boise-id"},
+    {"name":"Meridian","slug":"meridian-id"},
+    {"name":"Nampa","slug":"nampa-id"},
+    {"name":"Eagle","slug":"eagle-id"},
+    {"name":"Garden City","slug":"garden-city-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"treasure-valley",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"boise-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lewiston",
+  "slug": "lewiston-id",
+  "county": "Nez Perce County",
+  "population": 34020,
+  "zip_codes": [
+    "83501"
+  ],
+  "landmarks": [
+    "Hells Gate State Park",
+    "Lewis-Clark State College",
+    "Clearwater River",
+    "Lewiston Levee Parkway",
+    "Lewis & Clark Discovery Center"
+  ],
+  "nearby_cities": [
+    {"name":"Clarkston","slug":"clarkston-wa"},
+    {"name":"Moscow","slug":"moscow-id"},
+    {"name":"Orofino","slug":"orofino-id"},
+    {"name":"Lapwai","slug":"lapwai-id"},
+    {"name":"Asotin","slug":"asotin-wa"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"river-canyon",
+  "economy_type":"manufacturing-port",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"north-central-idaho",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Meridian",
+  "slug": "meridian-id",
+  "county": "Ada County",
+  "population": 134800,
+  "zip_codes": [
+    "83642",
+    "83646",
+    "83680"
+  ],
+  "landmarks": [
+    "The Village at Meridian",
+    "Julius M. Kleiner Memorial Park",
+    "Meridian Speedway",
+    "Roaring Springs Water Park",
+    "Meridian City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Boise","slug":"boise-id"},
+    {"name":"Eagle","slug":"eagle-id"},
+    {"name":"Garden City","slug":"garden-city-id"},
+    {"name":"Kuna","slug":"kuna-id"},
+    {"name":"Nampa","slug":"nampa-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"treasure-valley",
+  "economy_type":"technology-healthcare",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"boise-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Moscow",
+  "slug": "moscow-id",
+  "county": "Latah County",
+  "population": 25720,
+  "zip_codes": [
+    "83843",
+    "83844"
+  ],
+  "landmarks": [
+    "University of Idaho",
+    "Arboretum & Botanical Garden",
+    "East City Park",
+    "Appaloosa Museum",
+    "Moscow Farmers Market"
+  ],
+  "nearby_cities": [
+    {"name":"Lewiston","slug":"lewiston-id"},
+    {"name":"Pullman","slug":"pullman-wa"},
+    {"name":"Genesee","slug":"genesee-id"},
+    {"name":"Troy","slug":"troy-id"},
+    {"name":"Potlatch","slug":"potlatch-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"warm-summer-continental",
+  "terrain":"palouse",
+  "economy_type":"education-research",
+  "housing_profile":"college-town",
+  "growth_pattern":"steady-growth",
+  "service_environment":"north-central-idaho",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Mountain Home",
+  "slug": "mountain-home-id",
+  "county": "Elmore County",
+  "population": 15880,
+  "zip_codes": [
+    "83647"
+  ],
+  "landmarks": [
+    "Mountain Home Air Force Base",
+    "Carl Miller Park",
+    "Desert Canyon Golf Course",
+    "Legacy Park",
+    "Elmore County Historical Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Boise","slug":"boise-id"},
+    {"name":"Kuna","slug":"kuna-id"},
+    {"name":"Glenns Ferry","slug":"glenns-ferry-id"},
+    {"name":"Hammett","slug":"hammett-id"},
+    {"name":"Gooding","slug":"gooding-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"snake-river-plain",
+  "economy_type":"military-services",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"southwest-idaho",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Nampa",
+  "slug": "nampa-id",
+  "county": "Canyon County",
+  "population": 112980,
+  "zip_codes": [
+    "83651",
+    "83652",
+    "83686",
+    "83687"
+  ],
+  "landmarks": [
+    "Ford Idaho Center",
+    "Lakeview Park",
+    "Warhawk Air Museum",
+    "Northwest Nazarene University",
+    "Wilson Springs Ponds"
+  ],
+  "nearby_cities": [
+    {"name":"Caldwell","slug":"caldwell-id"},
+    {"name":"Meridian","slug":"meridian-id"},
+    {"name":"Kuna","slug":"kuna-id"},
+    {"name":"Boise","slug":"boise-id"},
+    {"name":"Middleton","slug":"middleton-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"treasure-valley",
+  "economy_type":"manufacturing-agriculture",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"boise-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Pocatello",
+  "slug": "pocatello-id",
+  "county": "Bannock County",
+  "population": 58690,
+  "zip_codes": [
+    "83201",
+    "83202",
+    "83204"
+  ],
+  "landmarks": [
+    "Idaho State University",
+    "Portneuf Greenway",
+    "Zoo Idaho",
+    "Ross Park",
+    "Museum of Clean"
+  ],
+  "nearby_cities": [
+    {"name":"Chubbuck","slug":"chubbuck-id"},
+    {"name":"Blackfoot","slug":"blackfoot-id"},
+    {"name":"American Falls","slug":"american-falls-id"},
+    {"name":"Inkom","slug":"inkom-id"},
+    {"name":"McCammon","slug":"mccammon-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"snake-river-plain",
+  "economy_type":"education-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"pocatello-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Post Falls",
+  "slug": "post-falls-id",
+  "county": "Kootenai County",
+  "population": 40980,
+  "zip_codes": [
+    "83854",
+    "83877"
+  ],
+  "landmarks": [
+    "Falls Park",
+    "Q'emiln Park",
+    "Centennial Trail",
+    "The Highlands Golf Course",
+    "Post Falls Dam"
+  ],
+  "nearby_cities": [
+    {"name":"Coeur d'Alene","slug":"coeur-dalene-id"},
+    {"name":"Hayden","slug":"hayden-id"},
+    {"name":"Rathdrum","slug":"rathdrum-id"},
+    {"name":"Liberty Lake","slug":"liberty-lake-wa"},
+    {"name":"Spokane Valley","slug":"spokane-valley-wa"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"mountain-valley",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"north-idaho",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rathdrum",
+  "slug": "rathdrum-id",
+  "county": "Kootenai County",
+  "population": 10340,
+  "zip_codes": [
+    "83858"
+  ],
+  "landmarks": [
+    "Rathdrum City Park",
+    "Rathdrum Mountain",
+    "Twin Lakes Village Golf Club",
+    "Majestic Park",
+    "Rathdrum Prairie"
+  ],
+  "nearby_cities": [
+    {"name":"Post Falls","slug":"post-falls-id"},
+    {"name":"Hayden","slug":"hayden-id"},
+    {"name":"Coeur d'Alene","slug":"coeur-dalene-id"},
+    {"name":"Spirit Lake","slug":"spirit-lake-id"},
+    {"name":"Athol","slug":"athol-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"mountain-valley",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"north-idaho",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rexburg",
+  "slug": "rexburg-id",
+  "county": "Madison County",
+  "population": 39850,
+  "zip_codes": [
+    "83440",
+    "83460"
+  ],
+  "landmarks": [
+    "Brigham Young University–Idaho",
+    "Porter Park",
+    "Rexburg Rapids",
+    "Legacy Flight Museum",
+    "Nature Park"
+  ],
+  "nearby_cities": [
+    {"name":"Rigby","slug":"rigby-id"},
+    {"name":"Ammon","slug":"ammon-id"},
+    {"name":"Idaho Falls","slug":"idaho-falls-id"},
+    {"name":"Sugar City","slug":"sugar-city-id"},
+    {"name":"St. Anthony","slug":"st-anthony-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"snake-river-plain",
+  "economy_type":"education-services",
+  "housing_profile":"college-town",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"upper-snake-region",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rigby",
+  "slug": "rigby-id",
+  "county": "Jefferson County",
+  "population": 6030,
+  "zip_codes": [
+    "83442"
+  ],
+  "landmarks": [
+    "Jefferson County Lake",
+    "Rigby City Park",
+    "Jefferson County Historical Museum",
+    "Veterans Memorial",
+    "Rigby Lake"
+  ],
+  "nearby_cities": [
+    {"name":"Rexburg","slug":"rexburg-id"},
+    {"name":"Idaho Falls","slug":"idaho-falls-id"},
+    {"name":"Ammon","slug":"ammon-id"},
+    {"name":"Ucon","slug":"ucon-id"},
+    {"name":"Menan","slug":"menan-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"snake-river-plain",
+  "economy_type":"agriculture-services",
+  "housing_profile":"small-city-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"upper-snake-region",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rupert",
+  "slug": "rupert-id",
+  "county": "Minidoka County",
+  "population": 6130,
+  "zip_codes": [
+    "83350"
+  ],
+  "landmarks": [
+    "Rupert Square",
+    "Wilson Theatre",
+    "Minidoka County Fairgrounds",
+    "Neilsen Park",
+    "Historic Downtown Rupert"
+  ],
+  "nearby_cities": [
+    {"name":"Burley","slug":"burley-id"},
+    {"name":"Paul","slug":"paul-id"},
+    {"name":"Jerome","slug":"jerome-id"},
+    {"name":"Twin Falls","slug":"twin-falls-id"},
+    {"name":"Declo","slug":"declo-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"snake-river-plain",
+  "economy_type":"agriculture-retail",
+  "housing_profile":"small-city-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"south-central-idaho",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Sandpoint",
+  "slug": "sandpoint-id",
+  "county": "Bonner County",
+  "population": 10220,
+  "zip_codes": [
+    "83864"
+  ],
+  "landmarks": [
+    "Lake Pend Oreille",
+    "Schweitzer Mountain Resort",
+    "Sandpoint City Beach Park",
+    "Pend d'Oreille Bay Trail",
+    "Panida Theater"
+  ],
+  "nearby_cities": [
+    {"name":"Ponderay","slug":"ponderay-id"},
+    {"name":"Dover","slug":"dover-id"},
+    {"name":"Sagle","slug":"sagle-id"},
+    {"name":"Priest River","slug":"priest-river-id"},
+    {"name":"Bonners Ferry","slug":"bonners-ferry-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"mountain-lake",
+  "economy_type":"tourism-recreation",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"north-idaho",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Star",
+  "slug": "star-id",
+  "county": "Ada County",
+  "population": 15160,
+  "zip_codes": [
+    "83669"
+  ],
+  "landmarks": [
+    "Hunter's Creek Sports Complex",
+    "Blake Haven Park",
+    "Star Riverwalk Park",
+    "Freedom Park",
+    "Star City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Eagle","slug":"eagle-id"},
+    {"name":"Meridian","slug":"meridian-id"},
+    {"name":"Middleton","slug":"middleton-id"},
+    {"name":"Boise","slug":"boise-id"},
+    {"name":"Caldwell","slug":"caldwell-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"treasure-valley",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"boise-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Twin Falls",
+  "slug": "twin-falls-id",
+  "county": "Twin Falls County",
+  "population": 54150,
+  "zip_codes": [
+    "83301",
+    "83303"
+  ],
+  "landmarks": [
+    "Shoshone Falls",
+    "Perrine Bridge",
+    "Snake River Canyon",
+    "Centennial Waterfront Park",
+    "College of Southern Idaho"
+  ],
+  "nearby_cities": [
+    {"name":"Jerome","slug":"jerome-id"},
+    {"name":"Burley","slug":"burley-id"},
+    {"name":"Rupert","slug":"rupert-id"},
+    {"name":"Kimberly","slug":"kimberly-id"},
+    {"name":"Filer","slug":"filer-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"snake-river-canyon",
+  "economy_type":"healthcare-agriculture",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"magic-valley",
+  "property_mix":"mixed-use"
+}
+]

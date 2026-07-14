@@ -1,0 +1,808 @@
+[
+
+{
+  "city": "Alexandria",
+  "slug": "alexandria-la",
+  "county": "Rapides Parish",
+  "population": 45000,
+  "zip_codes": ["71301","71302","71303"],
+  "landmarks": [
+    "Alexandria Zoological Park",
+    "Kent Plantation House",
+    "Rapides Parish Coliseum",
+    "Downtown Alexandria",
+    "Red River Waterfront"
+  ],
+  "nearby_cities": [
+    {"name":"Pineville","slug":"pineville-la"},
+    {"name":"Natchitoches","slug":"natchitoches-la"},
+    {"name":"Opelousas","slug":"opelousas-la"},
+    {"name":"Leesville","slug":"leesville-la"},
+    {"name":"Marksville","slug":"marksville-la"}
+  ],
+  "city_type": "regional-hub-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "river-valley",
+  "economy_type": "healthcare-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "central-louisiana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Baton Rouge",
+  "slug": "baton-rouge-la",
+  "county": "East Baton Rouge Parish",
+  "population": 220000,
+  "zip_codes": ["70801","70802","70808","70809","70810"],
+  "landmarks": [
+    "Louisiana State Capitol",
+    "LSU Campus",
+    "Tiger Stadium",
+    "USS Kidd Museum",
+    "Downtown Baton Rouge"
+  ],
+  "nearby_cities": [
+    {"name":"Central","slug":"central-la"},
+    {"name":"Denham Springs","slug":"denham-springs-la"},
+    {"name":"Prairieville","slug":"prairieville-la"},
+    {"name":"Zachary","slug":"zachary-la"},
+    {"name":"Gonzales","slug":"gonzales-la"}
+  ],
+  "city_type": "state-capital-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "river-plains",
+  "economy_type": "government-petrochemical",
+  "housing_profile": "urban-high-density",
+  "growth_pattern": "metro-growth",
+  "service_environment": "baton-rouge-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Bossier City",
+  "slug": "bossier-city-la",
+  "county": "Bossier Parish",
+  "population": 63000,
+  "zip_codes": ["71111","71112"],
+  "landmarks": [
+    "Louisiana Boardwalk",
+    "Margaritaville Resort Casino",
+    "Brookshire Grocery Arena",
+    "Red River District",
+    "Barksdale Air Force Base Area"
+  ],
+  "nearby_cities": [
+    {"name":"Shreveport","slug":"shreveport-la"},
+    {"name":"Haughton","slug":"haughton-la"},
+    {"name":"Minden","slug":"minden-la"},
+    {"name":"Benton","slug":"benton-la"},
+    {"name":"Blanchard","slug":"blanchard-la"}
+  ],
+  "city_type": "casino-entertainment-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "river-plains",
+  "economy_type": "gaming-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "shreveport-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Central",
+  "slug": "central-la",
+  "county": "East Baton Rouge Parish",
+  "population": 30000,
+  "zip_codes": ["70714","70739"],
+  "landmarks": [
+    "Central Sports Park",
+    "Blackwater Conservation Area",
+    "Central City Hall",
+    "Sullivan Road Corridor",
+    "Bellingrath Lakes Area"
+  ],
+  "nearby_cities": [
+    {"name":"Baton Rouge","slug":"baton-rouge-la"},
+    {"name":"Zachary","slug":"zachary-la"},
+    {"name":"Denham Springs","slug":"denham-springs-la"},
+    {"name":"Walker","slug":"walker-la"},
+    {"name":"Prairieville","slug":"prairieville-la"}
+  ],
+  "city_type": "suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "flatwood-plains",
+  "economy_type": "services-retail",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "steady-growth",
+  "service_environment": "baton-rouge-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Gonzales",
+  "slug": "gonzales-la",
+  "county": "Ascension Parish",
+  "population": 13000,
+  "zip_codes": ["70737"],
+  "landmarks": [
+    "Lamar Dixon Expo Center",
+    "Tanger Outlets Gonzales",
+    "Jambalaya Park",
+    "Historic Downtown Gonzales",
+    "Ascension Parish Government Complex"
+  ],
+  "nearby_cities": [
+    {"name":"Baton Rouge","slug":"baton-rouge-la"},
+    {"name":"Prairieville","slug":"prairieville-la"},
+    {"name":"Denham Springs","slug":"denham-springs-la"},
+    {"name":"Donaldsonville","slug":"donaldsonville-la"},
+    {"name":"Geismar","slug":"geismar-la"}
+  ],
+  "city_type": "retail-hub-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "river-plains",
+  "economy_type": "retail-petrochemical",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "baton-rouge-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Houma",
+  "slug": "houma-la",
+  "county": "Terrebonne Parish",
+  "population": 33000,
+  "zip_codes": ["70360","70363","70364"],
+  "landmarks": [
+    "Mandalay National Wildlife Refuge",
+    "Southdown Plantation",
+    "Houma Downtown Marina",
+    "Terrebonne Folklife Culture Center",
+    "Bayou Terrebonne Waterfront"
+  ],
+  "nearby_cities": [
+    {"name":"Thibodaux","slug":"thibodaux-la"},
+    {"name":"Morgan City","slug":"morgan-city-la"},
+    {"name":"Raceland","slug":"raceland-la"},
+    {"name":"Lockport","slug":"lockport-la"},
+    {"name":"Larose","slug":"larose-la"}
+  ],
+  "city_type": "bayou-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-wetlands",
+  "economy_type": "energy-maritime",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "south-louisiana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Kenner",
+  "slug": "kenner-la",
+  "county": "Jefferson Parish",
+  "population": 65000,
+  "zip_codes": ["70062","70065"],
+  "landmarks": [
+    "Louis Armstrong New Orleans International Airport",
+    "Rivertown Historic District",
+    "Laketown Park",
+    "Pontchartrain Center",
+    "Treasure Chest Casino"
+  ],
+  "nearby_cities": [
+    {"name":"New Orleans","slug":"new-orleans-la"},
+    {"name":"Metairie","slug":"metairie-la"},
+    {"name":"Harahan","slug":"harahan-la"},
+    {"name":"Gretna","slug":"gretna-la"},
+    {"name":"Marrero","slug":"marrero-la"}
+  ],
+  "city_type": "metro-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plains",
+  "economy_type": "aviation-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "new-orleans-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lafayette",
+  "slug": "lafayette-la",
+  "county": "Lafayette Parish",
+  "population": 121000,
+  "zip_codes": ["70501","70503","70506","70507","70508"],
+  "landmarks": [
+    "University of Louisiana at Lafayette",
+    "Cajundome",
+    "Vermilionville",
+    "Acadiana Center for the Arts",
+    "Moncus Park"
+  ],
+  "nearby_cities": [
+    {"name":"Youngsville","slug":"youngsville-la"},
+    {"name":"Carencro","slug":"carencro-la"},
+    {"name":"Broussard","slug":"broussard-la"},
+    {"name":"Scott","slug":"scott-la"},
+    {"name":"New Iberia","slug":"new-iberia-la"}
+  ],
+  "city_type": "regional-hub-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plains",
+  "economy_type": "energy-healthcare",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "high-growth",
+  "service_environment": "acadiana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lake Charles",
+  "slug": "lake-charles-la",
+  "county": "Calcasieu Parish",
+  "population": 85000,
+  "zip_codes": ["70601","70605","70607","70611"],
+  "landmarks": [
+    "Golden Nugget Lake Charles",
+    "Prien Lake Park",
+    "Millennium Park",
+    "Lakefront Promenade",
+    "Imperial Calcasieu Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Sulphur","slug":"sulphur-la"},
+    {"name":"Westlake","slug":"westlake-la"},
+    {"name":"Moss Bluff","slug":"moss-bluff-la"},
+    {"name":"Iowa","slug":"iowa-la"},
+    {"name":"Jennings","slug":"jennings-la"}
+  ],
+  "city_type": "casino-resort-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plains",
+  "economy_type": "energy-gaming",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "southwest-louisiana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Monroe",
+  "slug": "monroe-la",
+  "county": "Ouachita Parish",
+  "population": 47000,
+  "zip_codes": ["71201","71202","71203"],
+  "landmarks": [
+    "Louisiana Purchase Gardens and Zoo",
+    "Black Bayou Lake",
+    "Pecanland Mall",
+    "Downtown Monroe",
+    "Biedenharn Museum"
+  ],
+  "nearby_cities": [
+    {"name":"West Monroe","slug":"west-monroe-la"},
+    {"name":"Ruston","slug":"ruston-la"},
+    {"name":"Bastrop","slug":"bastrop-la"},
+    {"name":"Rayville","slug":"rayville-la"},
+    {"name":"Farmerville","slug":"farmerville-la"}
+  ],
+  "city_type": "regional-service-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "river-plains",
+  "economy_type": "healthcare-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "north-louisiana-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "New Iberia",
+  "slug": "new-iberia-la",
+  "county": "Iberia Parish",
+  "population": 28000,
+  "zip_codes": ["70560","70563"],
+  "landmarks": [
+    "Shadows-on-the-Teche",
+    "Conrad Rice Mill",
+    "Bouligny Plaza",
+    "Bayou Teche Museum",
+    "Downtown New Iberia"
+  ],
+  "nearby_cities": [
+    {"name":"Lafayette","slug":"lafayette-la"},
+    {"name":"Youngsville","slug":"youngsville-la"},
+    {"name":"Abbeville","slug":"abbeville-la"},
+    {"name":"St. Martinville","slug":"st-martinville-la"},
+    {"name":"Broussard","slug":"broussard-la"}
+  ],
+  "city_type": "historic-bayou-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plains",
+  "economy_type": "energy-agriculture",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "acadiana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "New Orleans",
+  "slug": "new-orleans-la",
+  "county": "Orleans Parish",
+  "population": 365000,
+  "zip_codes": ["70112","70115","70116","70118","70119"],
+  "landmarks": [
+    "French Quarter",
+    "Jackson Square",
+    "Caesars Superdome",
+    "Garden District",
+    "Bourbon Street"
+  ],
+  "nearby_cities": [
+    {"name":"Kenner","slug":"kenner-la"},
+    {"name":"Metairie","slug":"metairie-la"},
+    {"name":"Gretna","slug":"gretna-la"},
+    {"name":"Marrero","slug":"marrero-la"},
+    {"name":"Chalmette","slug":"chalmette-la"}
+  ],
+  "city_type": "major-metro-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "delta-lowlands",
+  "economy_type": "tourism-port-logistics",
+  "housing_profile": "urban-high-density",
+  "growth_pattern": "metro-growth",
+  "service_environment": "new-orleans-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Ruston",
+  "slug": "ruston-la",
+  "county": "Lincoln Parish",
+  "population": 23000,
+  "zip_codes": ["71270"],
+  "landmarks": [
+    "Louisiana Tech University",
+    "Railroad Park",
+    "Joe Aillet Stadium",
+    "Downtown Ruston",
+    "Lincoln Parish Park"
+  ],
+  "nearby_cities": [
+    {"name":"Monroe","slug":"monroe-la"},
+    {"name":"West Monroe","slug":"west-monroe-la"},
+    {"name":"Grambling","slug":"grambling-la"},
+    {"name":"Minden","slug":"minden-la"},
+    {"name":"Farmerville","slug":"farmerville-la"}
+  ],
+  "city_type": "university-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "education-services",
+  "housing_profile": "student-professional-mix",
+  "growth_pattern": "institutional-growth",
+  "service_environment": "north-louisiana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Shreveport",
+  "slug": "shreveport-la",
+  "county": "Caddo Parish",
+  "population": 177000,
+  "zip_codes": ["71101","71103","71104","71105","71106"],
+  "landmarks": [
+    "Shreveport Aquarium",
+    "Louisiana Boardwalk",
+    "Sci-Port Discovery Center",
+    "Red River District",
+    "Municipal Auditorium"
+  ],
+  "nearby_cities": [
+    {"name":"Bossier City","slug":"bossier-city-la"},
+    {"name":"Blanchard","slug":"blanchard-la"},
+    {"name":"Minden","slug":"minden-la"},
+    {"name":"Benton","slug":"benton-la"},
+    {"name":"Marshall","slug":"marshall-tx"}
+  ],
+  "city_type": "major-regional-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "river-plains",
+  "economy_type": "healthcare-gaming",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "shreveport-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Slidell",
+  "slug": "slidell-la",
+  "county": "St. Tammany Parish",
+  "population": 29000,
+  "zip_codes": ["70458","70460","70461"],
+  "landmarks": [
+    "Heritage Park",
+    "Olde Towne Slidell",
+    "Camp Salmen Nature Park",
+    "Bayou Bonfouca",
+    "Slidell Municipal Auditorium"
+  ],
+  "nearby_cities": [
+    {"name":"New Orleans","slug":"new-orleans-la"},
+    {"name":"Mandeville","slug":"mandeville-la"},
+    {"name":"Covington","slug":"covington-la"},
+    {"name":"Pearl River","slug":"pearl-river-la"},
+    {"name":"Picayune","slug":"picayune-ms"}
+  ],
+  "city_type": "suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-wetlands",
+  "economy_type": "services-logistics",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "steady-growth",
+  "service_environment": "northshore-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Chalmette",
+  "slug": "chalmette-la",
+  "county": "St. Bernard Parish",
+  "population": 21000,
+  "zip_codes": ["70043"],
+  "landmarks": [
+    "Chalmette Battlefield",
+    "Jean Lafitte National Historical Park",
+    "Val Riess Sports Complex",
+    "St. Bernard State Park",
+    "Downtown Chalmette"
+  ],
+  "nearby_cities": [
+    {"name":"New Orleans","slug":"new-orleans-la"},
+    {"name":"Gretna","slug":"gretna-la"},
+    {"name":"Marrero","slug":"marrero-la"},
+    {"name":"Belle Chasse","slug":"belle-chasse-la"},
+    {"name":"Arabi","slug":"arabi-la"}
+  ],
+  "city_type": "historic-river-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "delta-lowlands",
+  "economy_type": "services-logistics",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "new-orleans-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Denham Springs",
+  "slug": "denham-springs-la",
+  "county": "Livingston Parish",
+  "population": 28000,
+  "zip_codes": ["70726"],
+  "landmarks": [
+    "Antique Village",
+    "North Park",
+    "Denham Springs Historic District",
+    "PARDS Recreation Complex",
+    "Bass Pro Shops Area"
+  ],
+  "nearby_cities": [
+    {"name":"Baton Rouge","slug":"baton-rouge-la"},
+    {"name":"Central","slug":"central-la"},
+    {"name":"Walker","slug":"walker-la"},
+    {"name":"Prairieville","slug":"prairieville-la"},
+    {"name":"Zachary","slug":"zachary-la"}
+  ],
+  "city_type": "growth-suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "flatwood-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "baton-rouge-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Gretna",
+  "slug": "gretna-la",
+  "county": "Jefferson Parish",
+  "population": 17000,
+  "zip_codes": ["70053","70056"],
+  "landmarks": [
+    "Historic Downtown Gretna",
+    "Gretna Heritage Festival Grounds",
+    "Huey P. Long Bridge Area",
+    "Gretna City Park",
+    "Mississippi River Levee Trail"
+  ],
+  "nearby_cities": [
+    {"name":"New Orleans","slug":"new-orleans-la"},
+    {"name":"Marrero","slug":"marrero-la"},
+    {"name":"Kenner","slug":"kenner-la"},
+    {"name":"Chalmette","slug":"chalmette-la"},
+    {"name":"Harvey","slug":"harvey-la"}
+  ],
+  "city_type": "riverfront-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "delta-lowlands",
+  "economy_type": "services-retail",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "new-orleans-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Marrero",
+  "slug": "marrero-la",
+  "county": "Jefferson Parish",
+  "population": 31000,
+  "zip_codes": ["70072","70073"],
+  "landmarks": [
+    "Bayou Segnette State Park",
+    "West Jefferson Medical Center",
+    "Jean Lafitte Parkway",
+    "Marrero Commercial District",
+    "Barataria Preserve Access"
+  ],
+  "nearby_cities": [
+    {"name":"New Orleans","slug":"new-orleans-la"},
+    {"name":"Gretna","slug":"gretna-la"},
+    {"name":"Kenner","slug":"kenner-la"},
+    {"name":"Chalmette","slug":"chalmette-la"},
+    {"name":"Harvey","slug":"harvey-la"}
+  ],
+  "city_type": "metro-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-lowlands",
+  "economy_type": "healthcare-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "new-orleans-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Metairie",
+  "slug": "metairie-la",
+  "county": "Jefferson Parish",
+  "population": 143000,
+  "zip_codes": ["70001","70002","70003","70005","70006"],
+  "landmarks": [
+    "Lakeside Shopping Center",
+    "Lafreniere Park",
+    "Pontchartrain Center",
+    "Metairie Cemetery",
+    "Veterans Memorial Boulevard"
+  ],
+  "nearby_cities": [
+    {"name":"New Orleans","slug":"new-orleans-la"},
+    {"name":"Kenner","slug":"kenner-la"},
+    {"name":"Gretna","slug":"gretna-la"},
+    {"name":"Marrero","slug":"marrero-la"},
+    {"name":"Harahan","slug":"harahan-la"}
+  ],
+  "city_type": "major-metro-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-lowlands",
+  "economy_type": "retail-professional-services",
+  "housing_profile": "urban-suburban-mix",
+  "growth_pattern": "metro-growth",
+  "service_environment": "new-orleans-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Broussard",
+  "slug": "broussard-la",
+  "county": "Lafayette Parish",
+  "population": 21000,
+  "zip_codes": ["70518"],
+  "landmarks": [
+    "St. Julien Park",
+    "Broussard Sports Complex",
+    "Le Triomphe Golf Club",
+    "Downtown Broussard",
+    "Arceneaux Park"
+  ],
+  "nearby_cities": [
+    {"name":"Lafayette","slug":"lafayette-la"},
+    {"name":"Youngsville","slug":"youngsville-la"},
+    {"name":"New Iberia","slug":"new-iberia-la"},
+    {"name":"Scott","slug":"scott-la"},
+    {"name":"Carencro","slug":"carencro-la"}
+  ],
+  "city_type": "growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plains",
+  "economy_type": "energy-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "acadiana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Carencro",
+  "slug": "carencro-la",
+  "county": "Lafayette Parish",
+  "population": 22000,
+  "zip_codes": ["70520"],
+  "landmarks": [
+    "Pelican Park",
+    "Veterans Memorial Park",
+    "Carencro Sports Complex",
+    "Downtown Carencro",
+    "Carencro Cultural District"
+  ],
+  "nearby_cities": [
+    {"name":"Lafayette","slug":"lafayette-la"},
+    {"name":"Scott","slug":"scott-la"},
+    {"name":"Broussard","slug":"broussard-la"},
+    {"name":"Youngsville","slug":"youngsville-la"},
+    {"name":"Opelousas","slug":"opelousas-la"}
+  ],
+  "city_type": "suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plains",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "acadiana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Prairieville",
+  "slug": "prairieville-la",
+  "county": "Ascension Parish",
+  "population": 35000,
+  "zip_codes": ["70769"],
+  "landmarks": [
+    "Prairieville Park",
+    "Ascension Sports Park",
+    "Oak Grove Community Center",
+    "Airline Highway Corridor",
+    "Prairieville Library"
+  ],
+  "nearby_cities": [
+    {"name":"Baton Rouge","slug":"baton-rouge-la"},
+    {"name":"Denham Springs","slug":"denham-springs-la"},
+    {"name":"Gonzales","slug":"gonzales-la"},
+    {"name":"Central","slug":"central-la"},
+    {"name":"Walker","slug":"walker-la"}
+  ],
+  "city_type": "high-growth-suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "flatwood-plains",
+  "economy_type": "services-construction",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "hyper-growth",
+  "service_environment": "baton-rouge-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sulphur",
+  "slug": "sulphur-la",
+  "county": "Calcasieu Parish",
+  "population": 22000,
+  "zip_codes": ["70663","70665"],
+  "landmarks": [
+    "Creole Nature Trail Gateway",
+    "Heritage Square",
+    "Frasch Park",
+    "Sulphur Parks and Recreation Center",
+    "Brimstone Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Lake Charles","slug":"lake-charles-la"},
+    {"name":"Westlake","slug":"westlake-la"},
+    {"name":"Moss Bluff","slug":"moss-bluff-la"},
+    {"name":"Vinton","slug":"vinton-la"},
+    {"name":"Iowa","slug":"iowa-la"}
+  ],
+  "city_type": "industrial-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plains",
+  "economy_type": "petrochemical-manufacturing",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "southwest-louisiana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "West Monroe",
+  "slug": "west-monroe-la",
+  "county": "Ouachita Parish",
+  "population": 26000,
+  "zip_codes": ["71291","71292"],
+  "landmarks": [
+    "Duck Commander Headquarters",
+    "Kiroli Park",
+    "Ike Hamilton Expo Center",
+    "Downtown West Monroe",
+    "West Monroe Sports Complex"
+  ],
+  "nearby_cities": [
+    {"name":"Monroe","slug":"monroe-la"},
+    {"name":"Ruston","slug":"ruston-la"},
+    {"name":"Farmerville","slug":"farmerville-la"},
+    {"name":"Rayville","slug":"rayville-la"},
+    {"name":"Bastrop","slug":"bastrop-la"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "river-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "north-louisiana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Youngsville",
+  "slug": "youngsville-la",
+  "county": "Lafayette Parish",
+  "population": 21000,
+  "zip_codes": ["70592"],
+  "landmarks": [
+    "Youngsville Sports Complex",
+    "Sugar Mill Pond",
+    "Youngsville Amphitheater",
+    "Foster Park",
+    "Downtown Youngsville"
+  ],
+  "nearby_cities": [
+    {"name":"Lafayette","slug":"lafayette-la"},
+    {"name":"Broussard","slug":"broussard-la"},
+    {"name":"New Iberia","slug":"new-iberia-la"},
+    {"name":"Carencro","slug":"carencro-la"},
+    {"name":"Abbeville","slug":"abbeville-la"}
+  ],
+  "city_type": "high-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plains",
+  "economy_type": "services-construction",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "hyper-growth",
+  "service_environment": "acadiana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Zachary",
+  "slug": "zachary-la",
+  "county": "East Baton Rouge Parish",
+  "population": 21000,
+  "zip_codes": ["70791"],
+  "landmarks": [
+    "Zachary Youth Park",
+    "Rollins Road Park",
+    "Historic Downtown Zachary",
+    "Zachary Community School District Campus",
+    "Americana Development Area"
+  ],
+  "nearby_cities": [
+    {"name":"Baton Rouge","slug":"baton-rouge-la"},
+    {"name":"Central","slug":"central-la"},
+    {"name":"Denham Springs","slug":"denham-springs-la"},
+    {"name":"Prairieville","slug":"prairieville-la"},
+    {"name":"Baker","slug":"baker-la"}
+  ],
+  "city_type": "suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "flatwood-plains",
+  "economy_type": "services-education",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "baton-rouge-market",
+  "property_mix": "mixed-use"
+}
+]

@@ -1,0 +1,3264 @@
+[
+
+{
+  "city": "Billings",
+  "slug": "billings-mt",
+  "county": "Yellowstone County",
+  "population": 120000,
+  "zip_codes": ["59101","59102","59105","59106"],
+  "landmarks": [
+    "Rimrocks",
+    "ZooMontana",
+    "Moss Mansion",
+    "MetraPark",
+    "Downtown Billings"
+  ],
+  "nearby_cities": [
+    {"name":"Laurel","slug":"laurel-mt"},
+    {"name":"Lockwood","slug":"lockwood-mt"},
+    {"name":"Columbus","slug":"columbus-mt"},
+    {"name":"Red Lodge","slug":"red-lodge-mt"},
+    {"name":"Shepherd","slug":"shepherd-mt"}
+  ],
+  "city_type": "major-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "healthcare-energy",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "billings-metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Missoula",
+  "slug": "missoula-mt",
+  "county": "Missoula County",
+  "population": 77000,
+  "zip_codes": ["59801","59802","59803","59808"],
+  "landmarks": [
+    "University of Montana",
+    "Caras Park",
+    "Mount Sentinel",
+    "Clark Fork River",
+    "Downtown Missoula"
+  ],
+  "nearby_cities": [
+    {"name":"Lolo","slug":"lolo-mt"},
+    {"name":"Bonner-West Riverside","slug":"bonner-west-riverside-mt"},
+    {"name":"Frenchtown","slug":"frenchtown-mt"},
+    {"name":"East Missoula","slug":"east-missoula-mt"},
+    {"name":"Stevensville","slug":"stevensville-mt"}
+  ],
+  "city_type": "college-city",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "education-healthcare",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "missoula-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Great Falls",
+  "slug": "great-falls-mt",
+  "county": "Cascade County",
+  "population": 61000,
+  "zip_codes": ["59401","59404","59405"],
+  "landmarks": [
+    "Giant Springs State Park",
+    "River's Edge Trail",
+    "Malmstrom Air Force Base",
+    "Lewis and Clark Interpretive Center",
+    "Downtown Great Falls"
+  ],
+  "nearby_cities": [
+    {"name":"Black Eagle","slug":"black-eagle-mt"},
+    {"name":"Vaughn","slug":"vaughn-mt"},
+    {"name":"Ulm","slug":"ulm-mt"},
+    {"name":"Cascade","slug":"cascade-mt"},
+    {"name":"Fort Shaw","slug":"fort-shaw-mt"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "military-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "great-falls-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Bozeman",
+  "slug": "bozeman-mt",
+  "county": "Gallatin County",
+  "population": 59000,
+  "zip_codes": ["59715","59718"],
+  "landmarks": [
+    "Montana State University",
+    "Museum of the Rockies",
+    "Main Street",
+    "Gallatin Valley",
+    "Downtown Bozeman"
+  ],
+  "nearby_cities": [
+    {"name":"Belgrade","slug":"belgrade-mt"},
+    {"name":"Four Corners","slug":"four-corners-mt"},
+    {"name":"Livingston","slug":"livingston-mt"},
+    {"name":"Manhattan","slug":"manhattan-mt"},
+    {"name":"Big Sky","slug":"big-sky-mt"}
+  ],
+  "city_type": "growth-city",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "technology-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "gallatin-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Helena",
+  "slug": "helena-mt",
+  "county": "Lewis and Clark County",
+  "population": 34000,
+  "zip_codes": ["59601","59602"],
+  "landmarks": [
+    "Montana State Capitol",
+    "Mount Helena",
+    "Cathedral of Saint Helena",
+    "Last Chance Gulch",
+    "Downtown Helena"
+  ],
+  "nearby_cities": [
+    {"name":"East Helena","slug":"east-helena-mt"},
+    {"name":"Clancy","slug":"clancy-mt"},
+    {"name":"Montana City","slug":"montana-city-mt"},
+    {"name":"Jefferson City","slug":"jefferson-city-mt"},
+    {"name":"Townsend","slug":"townsend-mt"}
+  ],
+  "city_type": "capital-city",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "government-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "helena-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Kalispell",
+  "slug": "kalispell-mt",
+  "county": "Flathead County",
+  "population": 30000,
+  "zip_codes": ["59901"],
+  "landmarks": [
+    "Flathead Lake",
+    "Conrad Mansion",
+    "Glacier National Park Gateway",
+    "Downtown Kalispell",
+    "Hockaday Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Whitefish","slug":"whitefish-mt"},
+    {"name":"Columbia Falls","slug":"columbia-falls-mt"},
+    {"name":"Evergreen","slug":"evergreen-mt"},
+    {"name":"Bigfork","slug":"bigfork-mt"},
+    {"name":"Lakeside","slug":"lakeside-mt"}
+  ],
+  "city_type": "tourism-city",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "flathead-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Butte",
+  "slug": "butte-mt",
+  "county": "Silver Bow County",
+  "population": 35000,
+  "zip_codes": ["59701"],
+  "landmarks": [
+    "Berkeley Pit",
+    "World Museum of Mining",
+    "Historic Uptown Butte",
+    "Montana Tech",
+    "Our Lady of the Rockies"
+  ],
+  "nearby_cities": [
+    {"name":"Walkerville","slug":"walkerville-mt"},
+    {"name":"Anaconda","slug":"anaconda-mt"},
+    {"name":"Whitehall","slug":"whitehall-mt"},
+    {"name":"Deer Lodge","slug":"deer-lodge-mt"},
+    {"name":"Three Forks","slug":"three-forks-mt"}
+  ],
+  "city_type": "historic-city",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "mining-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southwest-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Belgrade",
+  "slug": "belgrade-mt",
+  "county": "Gallatin County",
+  "population": 12000,
+  "zip_codes": ["59714"],
+  "landmarks": [
+    "Gallatin Field Airport",
+    "Lewis and Clark Park",
+    "Downtown Belgrade",
+    "Community Center",
+    "Main Street District"
+  ],
+  "nearby_cities": [
+    {"name":"Bozeman","slug":"bozeman-mt"},
+    {"name":"Four Corners","slug":"four-corners-mt"},
+    {"name":"Manhattan","slug":"manhattan-mt"},
+    {"name":"Big Sky","slug":"big-sky-mt"},
+    {"name":"Livingston","slug":"livingston-mt"}
+  ],
+  "city_type": "growth-city",
+  "climate_zone": "continental",
+  "terrain": "valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "gallatin-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Anaconda",
+  "slug": "anaconda-mt",
+  "county": "Deer Lodge County",
+  "population": 9500,
+  "zip_codes": ["59711"],
+  "landmarks": [
+    "Washoe Theater",
+    "Old Works Golf Course",
+    "Georgetown Lake",
+    "Anaconda Smoke Stack",
+    "Downtown Anaconda"
+  ],
+  "nearby_cities": [
+    {"name":"Butte","slug":"butte-mt"},
+    {"name":"Deer Lodge","slug":"deer-lodge-mt"},
+    {"name":"Philipsburg","slug":"philipsburg-mt"},
+    {"name":"Pintler Valley","slug":"pintler-valley-mt"},
+    {"name":"Warm Springs","slug":"warm-springs-mt"}
+  ],
+  "city_type": "historic-city",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southwest-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Livingston",
+  "slug": "livingston-mt",
+  "county": "Park County",
+  "population": 9000,
+  "zip_codes": ["59047"],
+  "landmarks": [
+    "Yellowstone Gateway Museum",
+    "Sacajawea Park",
+    "Yellowstone River",
+    "Historic Downtown",
+    "Livingston Depot Center"
+  ],
+  "nearby_cities": [
+    {"name":"Bozeman","slug":"bozeman-mt"},
+    {"name":"Belgrade","slug":"belgrade-mt"},
+    {"name":"Big Timber","slug":"big-timber-mt"},
+    {"name":"Gardiner","slug":"gardiner-mt"},
+    {"name":"Emigrant","slug":"emigrant-mt"}
+  ],
+  "city_type": "tourism-city",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "yellowstone-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Whitefish",
+  "slug": "whitefish-mt",
+  "county": "Flathead County",
+  "population": 9500,
+  "zip_codes": ["59937"],
+  "landmarks": [
+    "Whitefish Mountain Resort",
+    "Whitefish Lake",
+    "Downtown Whitefish",
+    "Whitefish River Trail",
+    "Depot Park"
+  ],
+  "nearby_cities": [
+    {"name":"Kalispell","slug":"kalispell-mt"},
+    {"name":"Columbia Falls","slug":"columbia-falls-mt"},
+    {"name":"Evergreen","slug":"evergreen-mt"},
+    {"name":"Bigfork","slug":"bigfork-mt"},
+    {"name":"Lakeside","slug":"lakeside-mt"}
+  ],
+  "city_type": "tourism-city",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "flathead-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Columbia Falls",
+  "slug": "columbia-falls-mt",
+  "county": "Flathead County",
+  "population": 6200,
+  "zip_codes": ["59912"],
+  "landmarks": [
+    "Glacier Gateway",
+    "Flathead River",
+    "Downtown Columbia Falls",
+    "Glacier Discovery Square",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Whitefish","slug":"whitefish-mt"},
+    {"name":"Kalispell","slug":"kalispell-mt"},
+    {"name":"Evergreen","slug":"evergreen-mt"},
+    {"name":"Bigfork","slug":"bigfork-mt"},
+    {"name":"Hungry Horse","slug":"hungry-horse-mt"}
+  ],
+  "city_type": "tourism-city",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "flathead-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Evergreen",
+  "slug": "evergreen-mt",
+  "county": "Flathead County",
+  "population": 8500,
+  "zip_codes": ["59901"],
+  "landmarks": [
+    "Flathead Valley",
+    "Evergreen Business District",
+    "Community Park",
+    "Whitefish River Area",
+    "Downtown Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Kalispell","slug":"kalispell-mt"},
+    {"name":"Whitefish","slug":"whitefish-mt"},
+    {"name":"Columbia Falls","slug":"columbia-falls-mt"},
+    {"name":"Bigfork","slug":"bigfork-mt"},
+    {"name":"Lakeside","slug":"lakeside-mt"}
+  ],
+  "city_type": "suburban-community",
+  "climate_zone": "continental",
+  "terrain": "valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "flathead-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Bigfork",
+  "slug": "bigfork-mt",
+  "county": "Flathead County",
+  "population": 5200,
+  "zip_codes": ["59911"],
+  "landmarks": [
+    "Flathead Lake",
+    "Bigfork Village",
+    "Swan River",
+    "Bigfork Summer Playhouse",
+    "Wayfarers State Park"
+  ],
+  "nearby_cities": [
+    {"name":"Kalispell","slug":"kalispell-mt"},
+    {"name":"Whitefish","slug":"whitefish-mt"},
+    {"name":"Columbia Falls","slug":"columbia-falls-mt"},
+    {"name":"Lakeside","slug":"lakeside-mt"},
+    {"name":"Polson","slug":"polson-mt"}
+  ],
+  "city_type": "lake-city",
+  "climate_zone": "continental",
+  "terrain": "lake-region",
+  "economy_type": "tourism-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "flathead-lake-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Polson",
+  "slug": "polson-mt",
+  "county": "Lake County",
+  "population": 5800,
+  "zip_codes": ["59860"],
+  "landmarks": [
+    "Flathead Lake",
+    "Polson Bay",
+    "KwaTaqNuk Resort",
+    "Downtown Polson",
+    "Sacajawea Park"
+  ],
+  "nearby_cities": [
+    {"name":"Bigfork","slug":"bigfork-mt"},
+    {"name":"Ronan","slug":"ronan-mt"},
+    {"name":"Kalispell","slug":"kalispell-mt"},
+    {"name":"Lakeside","slug":"lakeside-mt"},
+    {"name":"St. Ignatius","slug":"st-ignatius-mt"}
+  ],
+  "city_type": "lake-city",
+  "climate_zone": "continental",
+  "terrain": "lake-region",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "flathead-lake-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Ronan",
+  "slug": "ronan-mt",
+  "county": "Lake County",
+  "population": 2200,
+  "zip_codes": ["59864"],
+  "landmarks": [
+    "Mission Valley",
+    "Downtown Ronan",
+    "Community Center",
+    "Veterans Memorial",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Polson","slug":"polson-mt"},
+    {"name":"St. Ignatius","slug":"st-ignatius-mt"},
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Kalispell","slug":"kalispell-mt"},
+    {"name":"Arlee","slug":"arlee-mt"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "continental",
+  "terrain": "valley",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "mission-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Havre",
+  "slug": "havre-mt",
+  "county": "Hill County",
+  "population": 9800,
+  "zip_codes": ["59501"],
+  "landmarks": [
+    "Havre Beneath the Streets",
+    "Montana State University Northern",
+    "Bullhook Creek",
+    "Downtown Havre",
+    "Wahkpa Chu'gn Archaeological Site"
+  ],
+  "nearby_cities": [
+    {"name":"Chinook","slug":"chinook-mt"},
+    {"name":"Fort Belknap Agency","slug":"fort-belknap-agency-mt"},
+    {"name":"Shelby","slug":"shelby-mt"},
+    {"name":"Malta","slug":"malta-mt"},
+    {"name":"Harlem","slug":"harlem-mt"}
+  ],
+  "city_type": "college-city",
+  "climate_zone": "semi-arid",
+  "terrain": "northern-plains",
+  "economy_type": "education-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "north-central-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Miles City",
+  "slug": "miles-city-mt",
+  "county": "Custer County",
+  "population": 8500,
+  "zip_codes": ["59301"],
+  "landmarks": [
+    "Range Riders Museum",
+    "Tongue River",
+    "Yellowstone River",
+    "Downtown Miles City",
+    "WaterWorks Art Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Forsyth","slug":"forsyth-mt"},
+    {"name":"Glendive","slug":"glendive-mt"},
+    {"name":"Terry","slug":"terry-mt"},
+    {"name":"Billings","slug":"billings-mt"},
+    {"name":"Broadus","slug":"broadus-mt"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "eastern-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Laurel",
+  "slug": "laurel-mt",
+  "county": "Yellowstone County",
+  "population": 7300,
+  "zip_codes": ["59044"],
+  "landmarks": [
+    "Yellowstone River",
+    "Downtown Laurel",
+    "Railroad District",
+    "Thompson Park",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Billings","slug":"billings-mt"},
+    {"name":"Columbus","slug":"columbus-mt"},
+    {"name":"Red Lodge","slug":"red-lodge-mt"},
+    {"name":"Lockwood","slug":"lockwood-mt"},
+    {"name":"Shepherd","slug":"shepherd-mt"}
+  ],
+  "city_type": "suburban-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "energy-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "billings-metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sidney",
+  "slug": "sidney-mt",
+  "county": "Richland County",
+  "population": 6800,
+  "zip_codes": ["59270"],
+  "landmarks": [
+    "MonDak Heritage Center",
+    "Yellowstone River",
+    "Downtown Sidney",
+    "Richland County Fairgrounds",
+    "Veterans Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Fairview","slug":"fairview-mt"},
+    {"name":"Glendive","slug":"glendive-mt"},
+    {"name":"Williston","slug":"williston-nd"},
+    {"name":"Savage","slug":"savage-mt"},
+    {"name":"Culbertson","slug":"culbertson-mt"}
+  ],
+  "city_type": "energy-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "oil-gas-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "bakken-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Glendive",
+  "slug": "glendive-mt",
+  "county": "Dawson County",
+  "population": 5200,
+  "zip_codes": ["59330"],
+  "landmarks": [
+    "Makoshika State Park",
+    "Yellowstone River",
+    "Frontier Gateway Museum",
+    "Downtown Glendive",
+    "Dawson County Fairgrounds"
+  ],
+  "nearby_cities": [
+    {"name":"Sidney","slug":"sidney-mt"},
+    {"name":"Miles City","slug":"miles-city-mt"},
+    {"name":"Fairview","slug":"fairview-mt"},
+    {"name":"Terry","slug":"terry-mt"},
+    {"name":"Wibaux","slug":"wibaux-mt"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "badlands",
+  "economy_type": "energy-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "eastern-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Shelby",
+  "slug": "shelby-mt",
+  "county": "Toole County",
+  "population": 3300,
+  "zip_codes": ["59474"],
+  "landmarks": [
+    "Marias Museum",
+    "Downtown Shelby",
+    "Champions Park",
+    "Toole County Courthouse",
+    "Amtrak Station"
+  ],
+  "nearby_cities": [
+    {"name":"Cut Bank","slug":"cut-bank-mt"},
+    {"name":"Conrad","slug":"conrad-mt"},
+    {"name":"Havre","slug":"havre-mt"},
+    {"name":"Sweet Grass","slug":"sweet-grass-mt"},
+    {"name":"Sunburst","slug":"sunburst-mt"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "semi-arid",
+  "terrain": "northern-plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "north-central-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Cut Bank",
+  "slug": "cut-bank-mt",
+  "county": "Glacier County",
+  "population": 3100,
+  "zip_codes": ["59427"],
+  "landmarks": [
+    "World's Coldest Spot Sign",
+    "Cut Bank Creek",
+    "Downtown Cut Bank",
+    "Glacier County Museum",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Shelby","slug":"shelby-mt"},
+    {"name":"Browning","slug":"browning-mt"},
+    {"name":"Conrad","slug":"conrad-mt"},
+    {"name":"East Glacier Park","slug":"east-glacier-park-mt"},
+    {"name":"Sunburst","slug":"sunburst-mt"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "glacier-county-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Conrad",
+  "slug": "conrad-mt",
+  "county": "Pondera County",
+  "population": 2800,
+  "zip_codes": ["59425"],
+  "landmarks": [
+    "Pondera Golf Club",
+    "Downtown Conrad",
+    "Pondera County Courthouse",
+    "Community Center",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Shelby","slug":"shelby-mt"},
+    {"name":"Cut Bank","slug":"cut-bank-mt"},
+    {"name":"Great Falls","slug":"great-falls-mt"},
+    {"name":"Valier","slug":"valier-mt"},
+    {"name":"Choteau","slug":"choteau-mt"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "north-central-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lewistown",
+  "slug": "lewistown-mt",
+  "county": "Fergus County",
+  "population": 6200,
+  "zip_codes": ["59457"],
+  "landmarks": [
+    "Fergus County Courthouse",
+    "Big Spring Creek",
+    "Downtown Lewistown",
+    "Central Montana Museum",
+    "Frank Day Park"
+  ],
+  "nearby_cities": [
+    {"name":"Roundup","slug":"roundup-mt"},
+    {"name":"Stanford","slug":"stanford-mt"},
+    {"name":"Harlowton","slug":"harlowton-mt"},
+    {"name":"Great Falls","slug":"great-falls-mt"},
+    {"name":"Billings","slug":"billings-mt"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "continental",
+  "terrain": "central-plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Dillon",
+  "slug": "dillon-mt",
+  "county": "Beaverhead County",
+  "population": 4300,
+  "zip_codes": ["59725"],
+  "landmarks": [
+    "University of Montana Western",
+    "Beaverhead River",
+    "Downtown Dillon",
+    "Beaverhead County Museum",
+    "Clark's Lookout State Park"
+  ],
+  "nearby_cities": [
+    {"name":"Butte","slug":"butte-mt"},
+    {"name":"Sheridan","slug":"sheridan-mt"},
+    {"name":"Twin Bridges","slug":"twin-bridges-mt"},
+    {"name":"Whitehall","slug":"whitehall-mt"},
+    {"name":"Virginia City","slug":"virginia-city-mt"}
+  ],
+  "city_type": "college-city",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "education-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southwest-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Deer Lodge",
+  "slug": "deer-lodge-mt",
+  "county": "Powell County",
+  "population": 2900,
+  "zip_codes": ["59722"],
+  "landmarks": [
+    "Old Montana Prison",
+    "Grant-Kohrs Ranch",
+    "Downtown Deer Lodge",
+    "Powell County Museum",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Anaconda","slug":"anaconda-mt"},
+    {"name":"Butte","slug":"butte-mt"},
+    {"name":"Helena","slug":"helena-mt"},
+    {"name":"Philipsburg","slug":"philipsburg-mt"},
+    {"name":"Drummond","slug":"drummond-mt"}
+  ],
+  "city_type": "historic-city",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southwest-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Whitehall",
+  "slug": "whitehall-mt",
+  "county": "Jefferson County",
+  "population": 1200,
+  "zip_codes": ["59759"],
+  "landmarks": [
+    "Lewis and Clark Caverns Area",
+    "Downtown Whitehall",
+    "Star Theatre",
+    "Community Center",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Butte","slug":"butte-mt"},
+    {"name":"Three Forks","slug":"three-forks-mt"},
+    {"name":"Dillon","slug":"dillon-mt"},
+    {"name":"Helena","slug":"helena-mt"},
+    {"name":"Townsend","slug":"townsend-mt"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southwest-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Three Forks",
+  "slug": "three-forks-mt",
+  "county": "Gallatin County",
+  "population": 2100,
+  "zip_codes": ["59752"],
+  "landmarks": [
+    "Missouri Headwaters State Park",
+    "Downtown Three Forks",
+    "Headwaters Heritage Museum",
+    "Community Center",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Bozeman","slug":"bozeman-mt"},
+    {"name":"Belgrade","slug":"belgrade-mt"},
+    {"name":"Whitehall","slug":"whitehall-mt"},
+    {"name":"Manhattan","slug":"manhattan-mt"},
+    {"name":"Townsend","slug":"townsend-mt"}
+  ],
+  "city_type": "historic-city",
+  "climate_zone": "continental",
+  "terrain": "valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "gallatin-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Manhattan",
+  "slug": "manhattan-mt",
+  "county": "Gallatin County",
+  "population": 2400,
+  "zip_codes": ["59741"],
+  "landmarks": [
+    "Gallatin River",
+    "Downtown Manhattan",
+    "Railroad District",
+    "Community Park",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Bozeman","slug":"bozeman-mt"},
+    {"name":"Belgrade","slug":"belgrade-mt"},
+    {"name":"Three Forks","slug":"three-forks-mt"},
+    {"name":"Livingston","slug":"livingston-mt"},
+    {"name":"Big Sky","slug":"big-sky-mt"}
+  ],
+  "city_type": "growth-town",
+  "climate_zone": "continental",
+  "terrain": "valley",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "gallatin-valley-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "East Helena",
+  "slug": "east-helena-mt",
+  "county": "Lewis and Clark County",
+  "population": 3500,
+  "zip_codes": ["59635"],
+  "landmarks": [
+    "Prickly Pear Creek",
+    "East Helena City Hall",
+    "Community Center",
+    "Main Street",
+    "Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Helena","slug":"helena-mt"},
+    {"name":"Montana City","slug":"montana-city-mt"},
+    {"name":"Clancy","slug":"clancy-mt"},
+    {"name":"Townsend","slug":"townsend-mt"},
+    {"name":"Jefferson City","slug":"jefferson-city-mt"}
+  ],
+  "city_type": "growth-city",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "helena-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Townsend",
+  "slug": "townsend-mt",
+  "county": "Broadwater County",
+  "population": 1900,
+  "zip_codes": ["59644"],
+  "landmarks": [
+    "Broadwater County Courthouse",
+    "Missouri River",
+    "Downtown Townsend",
+    "Heritage Park",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Helena","slug":"helena-mt"},
+    {"name":"East Helena","slug":"east-helena-mt"},
+    {"name":"Whitehall","slug":"whitehall-mt"},
+    {"name":"Three Forks","slug":"three-forks-mt"},
+    {"name":"Bozeman","slug":"bozeman-mt"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "continental",
+  "terrain": "valley",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Roundup",
+  "slug": "roundup-mt",
+  "county": "Musselshell County",
+  "population": 1800,
+  "zip_codes": ["59072"],
+  "landmarks": [
+    "Musselshell River",
+    "Roundup City Park",
+    "Downtown Roundup",
+    "Community Center",
+    "County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Billings","slug":"billings-mt"},
+    {"name":"Lewistown","slug":"lewistown-mt"},
+    {"name":"Forsyth","slug":"forsyth-mt"},
+    {"name":"Harlowton","slug":"harlowton-mt"},
+    {"name":"Columbus","slug":"columbus-mt"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Forsyth",
+  "slug": "forsyth-mt",
+  "county": "Rosebud County",
+  "population": 1700,
+  "zip_codes": ["59327"],
+  "landmarks": [
+    "Yellowstone River",
+    "Forsyth Country Club",
+    "Downtown Forsyth",
+    "Rosebud County Courthouse",
+    "Veterans Park"
+  ],
+  "nearby_cities": [
+    {"name":"Miles City","slug":"miles-city-mt"},
+    {"name":"Roundup","slug":"roundup-mt"},
+    {"name":"Billings","slug":"billings-mt"},
+    {"name":"Glendive","slug":"glendive-mt"},
+    {"name":"Colstrip","slug":"colstrip-mt"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "eastern-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Colstrip",
+  "slug": "colstrip-mt",
+  "county": "Rosebud County",
+  "population": 2200,
+  "zip_codes": ["59323"],
+  "landmarks": [
+    "Colstrip Power Plant",
+    "Castle Rock Lake",
+    "Downtown Colstrip",
+    "Community Center",
+    "Energy Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Forsyth","slug":"forsyth-mt"},
+    {"name":"Miles City","slug":"miles-city-mt"},
+    {"name":"Billings","slug":"billings-mt"},
+    {"name":"Broadus","slug":"broadus-mt"},
+    {"name":"Ashland","slug":"ashland-mt"}
+  ],
+  "city_type": "energy-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "energy-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "energy-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Red Lodge",
+  "slug": "red-lodge-mt",
+  "county": "Carbon County",
+  "population": 2400,
+  "zip_codes": ["59068"],
+  "landmarks": [
+    "Beartooth Highway",
+    "Red Lodge Mountain",
+    "Downtown Red Lodge",
+    "Carbon County Museum",
+    "Rock Creek"
+  ],
+  "nearby_cities": [
+    {"name":"Billings","slug":"billings-mt"},
+    {"name":"Laurel","slug":"laurel-mt"},
+    {"name":"Columbus","slug":"columbus-mt"},
+    {"name":"Cooke City","slug":"cooke-city-mt"},
+    {"name":"Joliet","slug":"joliet-mt"}
+  ],
+  "city_type": "tourism-city",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "yellowstone-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Columbus",
+  "slug": "columbus-mt",
+  "county": "Stillwater County",
+  "population": 2200,
+  "zip_codes": ["59019"],
+  "landmarks": [
+    "Yellowstone River",
+    "Stillwater County Courthouse",
+    "Downtown Columbus",
+    "Railroad District",
+    "Community Park"
+  ],
+  "nearby_cities": [
+    {"name":"Billings","slug":"billings-mt"},
+    {"name":"Laurel","slug":"laurel-mt"},
+    {"name":"Red Lodge","slug":"red-lodge-mt"},
+    {"name":"Roundup","slug":"roundup-mt"},
+    {"name":"Big Timber","slug":"big-timber-mt"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "semi-arid",
+  "terrain": "river-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "billings-regional-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Big Timber",
+  "slug": "big-timber-mt",
+  "county": "Sweet Grass County",
+  "population": 1700,
+  "zip_codes": ["59011"],
+  "landmarks": [
+    "Sweet Grass County Courthouse",
+    "Yellowstone River",
+    "Downtown Big Timber",
+    "Crazy Mountains Viewpoint",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Livingston","slug":"livingston-mt"},
+    {"name":"Columbus","slug":"columbus-mt"},
+    {"name":"Bozeman","slug":"bozeman-mt"},
+    {"name":"Billings","slug":"billings-mt"},
+    {"name":"Harlowton","slug":"harlowton-mt"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "yellowstone-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Choteau",
+  "slug": "choteau-mt",
+  "county": "Teton County",
+  "population": 1700,
+  "zip_codes": ["59422"],
+  "landmarks": [
+    "Old Trail Museum",
+    "Teton County Courthouse",
+    "Downtown Choteau",
+    "Community Center",
+    "Rocky Mountain Front"
+  ],
+  "nearby_cities": [
+    {"name":"Conrad","slug":"conrad-mt"},
+    {"name":"Great Falls","slug":"great-falls-mt"},
+    {"name":"Shelby","slug":"shelby-mt"},
+    {"name":"Augusta","slug":"augusta-mt"},
+    {"name":"Valier","slug":"valier-mt"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "semi-arid",
+  "terrain": "foothills",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "north-central-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Browning",
+  "slug": "browning-mt",
+  "county": "Glacier County",
+  "population": 1100,
+  "zip_codes": ["59417"],
+  "landmarks": [
+    "Museum of the Plains Indian",
+    "Blackfeet Nation Headquarters",
+    "Downtown Browning",
+    "Blackfeet Heritage Center",
+    "Community Plaza"
+  ],
+  "nearby_cities": [
+    {"name":"Cut Bank","slug":"cut-bank-mt"},
+    {"name":"East Glacier Park","slug":"east-glacier-park-mt"},
+    {"name":"Shelby","slug":"shelby-mt"},
+    {"name":"Choteau","slug":"choteau-mt"},
+    {"name":"Kalispell","slug":"kalispell-mt"}
+  ],
+  "city_type": "tribal-center",
+  "climate_zone": "semi-arid",
+  "terrain": "foothills",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "glacier-region-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Lockwood",
+  "slug": "lockwood-mt",
+  "county": "Yellowstone County",
+  "population": 7000,
+  "zip_codes": ["59101"],
+  "landmarks": [
+    "Yellowstone River",
+    "Lockwood Schools Complex",
+    "Community Center",
+    "Main Street Corridor",
+    "Lockwood Park"
+  ],
+  "nearby_cities": [
+    {"name":"Billings","slug":"billings-mt"},
+    {"name":"Laurel","slug":"laurel-mt"},
+    {"name":"Shepherd","slug":"shepherd-mt"},
+    {"name":"Columbus","slug":"columbus-mt"},
+    {"name":"Huntley","slug":"huntley-mt"}
+  ],
+  "city_type": "suburban-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "billings-metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lolo",
+  "slug": "lolo-mt",
+  "county": "Missoula County",
+  "population": 4200,
+  "zip_codes": ["59847"],
+  "landmarks": [
+    "Traveler's Rest State Park",
+    "Lolo Peak",
+    "Downtown Lolo",
+    "Community Center",
+    "US Highway 93 Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Stevensville","slug":"stevensville-mt"},
+    {"name":"Florence","slug":"florence-mt"},
+    {"name":"East Missoula","slug":"east-missoula-mt"},
+    {"name":"Frenchtown","slug":"frenchtown-mt"}
+  ],
+  "city_type": "growth-city",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "missoula-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Stevensville",
+  "slug": "stevensville-mt",
+  "county": "Ravalli County",
+  "population": 2200,
+  "zip_codes": ["59870"],
+  "landmarks": [
+    "St. Mary's Mission",
+    "Downtown Stevensville",
+    "Lee Metcalf Wildlife Refuge",
+    "Community Center",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Lolo","slug":"lolo-mt"},
+    {"name":"Hamilton","slug":"hamilton-mt"},
+    {"name":"Florence","slug":"florence-mt"},
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Victor","slug":"victor-mt"}
+  ],
+  "city_type": "historic-city",
+  "climate_zone": "continental",
+  "terrain": "valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "bitterroot-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Hamilton",
+  "slug": "hamilton-mt",
+  "county": "Ravalli County",
+  "population": 5200,
+  "zip_codes": ["59840"],
+  "landmarks": [
+    "Daly Mansion",
+    "Bitterroot River",
+    "Downtown Hamilton",
+    "Ravalli County Museum",
+    "River Park"
+  ],
+  "nearby_cities": [
+    {"name":"Stevensville","slug":"stevensville-mt"},
+    {"name":"Victor","slug":"victor-mt"},
+    {"name":"Florence","slug":"florence-mt"},
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Darby","slug":"darby-mt"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "healthcare-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "bitterroot-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Florence",
+  "slug": "florence-mt",
+  "county": "Ravalli County",
+  "population": 1000,
+  "zip_codes": ["59833"],
+  "landmarks": [
+    "Bitterroot Valley",
+    "Downtown Florence",
+    "Community Center",
+    "Veterans Memorial",
+    "Florence Park"
+  ],
+  "nearby_cities": [
+    {"name":"Lolo","slug":"lolo-mt"},
+    {"name":"Stevensville","slug":"stevensville-mt"},
+    {"name":"Hamilton","slug":"hamilton-mt"},
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Victor","slug":"victor-mt"}
+  ],
+  "city_type": "growth-town",
+  "climate_zone": "continental",
+  "terrain": "valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "bitterroot-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Victor",
+  "slug": "victor-mt",
+  "county": "Ravalli County",
+  "population": 900,
+  "zip_codes": ["59875"],
+  "landmarks": [
+    "Victor Heritage Museum",
+    "Downtown Victor",
+    "Bitterroot River",
+    "Community Center",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Hamilton","slug":"hamilton-mt"},
+    {"name":"Stevensville","slug":"stevensville-mt"},
+    {"name":"Florence","slug":"florence-mt"},
+    {"name":"Darby","slug":"darby-mt"},
+    {"name":"Missoula","slug":"missoula-mt"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "continental",
+  "terrain": "valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "bitterroot-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Darby",
+  "slug": "darby-mt",
+  "county": "Ravalli County",
+  "population": 800,
+  "zip_codes": ["59829"],
+  "landmarks": [
+    "Painted Rocks Reservoir",
+    "Downtown Darby",
+    "Bitterroot Mountains",
+    "Community Center",
+    "Historic District"
+  ],
+  "nearby_cities": [
+    {"name":"Hamilton","slug":"hamilton-mt"},
+    {"name":"Victor","slug":"victor-mt"},
+    {"name":"Stevensville","slug":"stevensville-mt"},
+    {"name":"Florence","slug":"florence-mt"},
+    {"name":"Missoula","slug":"missoula-mt"}
+  ],
+  "city_type": "tourism-town",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "bitterroot-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Frenchtown",
+  "slug": "frenchtown-mt",
+  "county": "Missoula County",
+  "population": 2300,
+  "zip_codes": ["59834"],
+  "landmarks": [
+    "Frenchtown Pond",
+    "Downtown Frenchtown",
+    "Community Center",
+    "Main Street",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Lolo","slug":"lolo-mt"},
+    {"name":"East Missoula","slug":"east-missoula-mt"},
+    {"name":"Stevensville","slug":"stevensville-mt"},
+    {"name":"Hamilton","slug":"hamilton-mt"}
+  ],
+  "city_type": "suburban-town",
+  "climate_zone": "continental",
+  "terrain": "valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "missoula-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "East Missoula",
+  "slug": "east-missoula-mt",
+  "county": "Missoula County",
+  "population": 2500,
+  "zip_codes": ["59802"],
+  "landmarks": [
+    "Clark Fork River",
+    "Mount Jumbo Area",
+    "Community Center",
+    "East Missoula Corridor",
+    "Local Business District"
+  ],
+  "nearby_cities": [
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Lolo","slug":"lolo-mt"},
+    {"name":"Frenchtown","slug":"frenchtown-mt"},
+    {"name":"Bonner-West Riverside","slug":"bonner-west-riverside-mt"},
+    {"name":"Stevensville","slug":"stevensville-mt"}
+  ],
+  "city_type": "suburban-community",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "missoula-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Bonner-West Riverside",
+  "slug": "bonner-west-riverside-mt",
+  "county": "Missoula County",
+  "population": 1800,
+  "zip_codes": ["59823"],
+  "landmarks": [
+    "Blackfoot River",
+    "Bonner Mill Area",
+    "Community Center",
+    "River Access Park",
+    "Historic District"
+  ],
+  "nearby_cities": [
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"East Missoula","slug":"east-missoula-mt"},
+    {"name":"Lolo","slug":"lolo-mt"},
+    {"name":"Frenchtown","slug":"frenchtown-mt"},
+    {"name":"Stevensville","slug":"stevensville-mt"}
+  ],
+  "city_type": "river-community",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "missoula-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Montana City",
+  "slug": "montana-city-mt",
+  "county": "Jefferson County",
+  "population": 2800,
+  "zip_codes": ["59634"],
+  "landmarks": [
+    "Prickly Pear Creek",
+    "Montana City School",
+    "Community Center",
+    "Mountain View Area",
+    "Local Business District"
+  ],
+  "nearby_cities": [
+    {"name":"Helena","slug":"helena-mt"},
+    {"name":"East Helena","slug":"east-helena-mt"},
+    {"name":"Clancy","slug":"clancy-mt"},
+    {"name":"Jefferson City","slug":"jefferson-city-mt"},
+    {"name":"Townsend","slug":"townsend-mt"}
+  ],
+  "city_type": "growth-community",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "helena-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Clancy",
+  "slug": "clancy-mt",
+  "county": "Jefferson County",
+  "population": 1800,
+  "zip_codes": ["59634"],
+  "landmarks": [
+    "Clancy Creek",
+    "Community Center",
+    "Mountain Trails",
+    "Veterans Memorial",
+    "Local Business Area"
+  ],
+  "nearby_cities": [
+    {"name":"Helena","slug":"helena-mt"},
+    {"name":"Montana City","slug":"montana-city-mt"},
+    {"name":"East Helena","slug":"east-helena-mt"},
+    {"name":"Jefferson City","slug":"jefferson-city-mt"},
+    {"name":"Whitehall","slug":"whitehall-mt"}
+  ],
+  "city_type": "residential-community",
+  "climate_zone": "continental",
+  "terrain": "foothills",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "helena-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Jefferson City",
+  "slug": "jefferson-city-mt",
+  "county": "Jefferson County",
+  "population": 1100,
+  "zip_codes": ["59638"],
+  "landmarks": [
+    "Jefferson River Valley",
+    "Community Center",
+    "Historic District",
+    "Mountain View Area",
+    "Veterans Park"
+  ],
+  "nearby_cities": [
+    {"name":"Helena","slug":"helena-mt"},
+    {"name":"Montana City","slug":"montana-city-mt"},
+    {"name":"Clancy","slug":"clancy-mt"},
+    {"name":"East Helena","slug":"east-helena-mt"},
+    {"name":"Townsend","slug":"townsend-mt"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "continental",
+  "terrain": "valley",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Valier",
+  "slug": "valier-mt",
+  "county": "Pondera County",
+  "population": 500,
+  "zip_codes": ["59486"],
+  "landmarks": [
+    "Lake Frances",
+    "Downtown Valier",
+    "Community Center",
+    "Veterans Memorial",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Conrad","slug":"conrad-mt"},
+    {"name":"Choteau","slug":"choteau-mt"},
+    {"name":"Cut Bank","slug":"cut-bank-mt"},
+    {"name":"Shelby","slug":"shelby-mt"},
+    {"name":"Browning","slug":"browning-mt"}
+  ],
+  "city_type": "lake-town",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "north-central-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Augusta",
+  "slug": "augusta-mt",
+  "county": "Lewis and Clark County",
+  "population": 350,
+  "zip_codes": ["59410"],
+  "landmarks": [
+    "Rocky Mountain Front",
+    "Downtown Augusta",
+    "Community Center",
+    "Benchmark Area Gateway",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Choteau","slug":"choteau-mt"},
+    {"name":"Helena","slug":"helena-mt"},
+    {"name":"Great Falls","slug":"great-falls-mt"},
+    {"name":"Browning","slug":"browning-mt"},
+    {"name":"Conrad","slug":"conrad-mt"}
+  ],
+  "city_type": "tourism-town",
+  "climate_zone": "semi-arid",
+  "terrain": "foothills",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "rocky-mountain-front-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Malta",
+  "slug": "malta-mt",
+  "county": "Phillips County",
+  "population": 1900,
+  "zip_codes": ["59538"],
+  "landmarks": [
+    "Great Plains Dinosaur Museum",
+    "Downtown Malta",
+    "Phillips County Museum",
+    "Community Center",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Havre","slug":"havre-mt"},
+    {"name":"Glasgow","slug":"glasgow-mt"},
+    {"name":"Chinook","slug":"chinook-mt"},
+    {"name":"Dodson","slug":"dodson-mt"},
+    {"name":"Harlem","slug":"harlem-mt"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "semi-arid",
+  "terrain": "northern-plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "north-central-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Chinook",
+  "slug": "chinook-mt",
+  "county": "Blaine County",
+  "population": 1200,
+  "zip_codes": ["59523"],
+  "landmarks": [
+    "Blaine County Museum",
+    "Milk River",
+    "Downtown Chinook",
+    "Community Center",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Havre","slug":"havre-mt"},
+    {"name":"Malta","slug":"malta-mt"},
+    {"name":"Harlem","slug":"harlem-mt"},
+    {"name":"Shelby","slug":"shelby-mt"},
+    {"name":"Fort Belknap Agency","slug":"fort-belknap-agency-mt"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "hi-line-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Harlem",
+  "slug": "harlem-mt",
+  "county": "Blaine County",
+  "population": 850,
+  "zip_codes": ["59526"],
+  "landmarks": [
+    "Milk River Valley",
+    "Downtown Harlem",
+    "Community Center",
+    "Veterans Memorial",
+    "Historic District"
+  ],
+  "nearby_cities": [
+    {"name":"Chinook","slug":"chinook-mt"},
+    {"name":"Malta","slug":"malta-mt"},
+    {"name":"Havre","slug":"havre-mt"},
+    {"name":"Fort Belknap Agency","slug":"fort-belknap-agency-mt"},
+    {"name":"Dodson","slug":"dodson-mt"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "hi-line-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Glasgow",
+  "slug": "glasgow-mt",
+  "county": "Valley County",
+  "population": 3400,
+  "zip_codes": ["59230"],
+  "landmarks": [
+    "Fort Peck Interpretive Center",
+    "Downtown Glasgow",
+    "Valley County Courthouse",
+    "Community Center",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Malta","slug":"malta-mt"},
+    {"name":"Sidney","slug":"sidney-mt"},
+    {"name":"Wolf Point","slug":"wolf-point-mt"},
+    {"name":"Fort Peck","slug":"fort-peck-mt"},
+    {"name":"Nashua","slug":"nashua-mt"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northeast-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Wolf Point",
+  "slug": "wolf-point-mt",
+  "county": "Roosevelt County",
+  "population": 2600,
+  "zip_codes": ["59201"],
+  "landmarks": [
+    "Missouri River",
+    "Wild Horse Stampede Grounds",
+    "Downtown Wolf Point",
+    "Community Center",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Glasgow","slug":"glasgow-mt"},
+    {"name":"Sidney","slug":"sidney-mt"},
+    {"name":"Poplar","slug":"poplar-mt"},
+    {"name":"Culbertson","slug":"culbertson-mt"},
+    {"name":"Fort Peck","slug":"fort-peck-mt"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northeast-montana-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Poplar",
+  "slug": "poplar-mt",
+  "county": "Roosevelt County",
+  "population": 900,
+  "zip_codes": ["59255"],
+  "landmarks": [
+    "Fort Peck Indian Reservation",
+    "Poplar River",
+    "Downtown Poplar",
+    "Community Center",
+    "Tribal Headquarters"
+  ],
+  "nearby_cities": [
+    {"name":"Wolf Point","slug":"wolf-point-mt"},
+    {"name":"Culbertson","slug":"culbertson-mt"},
+    {"name":"Glasgow","slug":"glasgow-mt"},
+    {"name":"Sidney","slug":"sidney-mt"},
+    {"name":"Fort Peck","slug":"fort-peck-mt"}
+  ],
+  "city_type": "tribal-center",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northeast-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Culbertson",
+  "slug": "culbertson-mt",
+  "county": "Roosevelt County",
+  "population": 750,
+  "zip_codes": ["59218"],
+  "landmarks": [
+    "Missouri River Corridor",
+    "Downtown Culbertson",
+    "Community Center",
+    "Historic Main Street",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Poplar","slug":"poplar-mt"},
+    {"name":"Wolf Point","slug":"wolf-point-mt"},
+    {"name":"Sidney","slug":"sidney-mt"},
+    {"name":"Glasgow","slug":"glasgow-mt"},
+    {"name":"Fairview","slug":"fairview-mt"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northeast-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Fairview",
+  "slug": "fairview-mt",
+  "county": "Richland County",
+  "population": 950,
+  "zip_codes": ["59221"],
+  "landmarks": [
+    "Yellowstone River",
+    "Downtown Fairview",
+    "Community Center",
+    "Veterans Memorial",
+    "Main Street District"
+  ],
+  "nearby_cities": [
+    {"name":"Sidney","slug":"sidney-mt"},
+    {"name":"Culbertson","slug":"culbertson-mt"},
+    {"name":"Glendive","slug":"glendive-mt"},
+    {"name":"Poplar","slug":"poplar-mt"},
+    {"name":"Williston","slug":"williston-nd"}
+  ],
+  "city_type": "border-town",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "energy-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "bakken-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Fort Peck",
+  "slug": "fort-peck-mt",
+  "county": "Valley County",
+  "population": 250,
+  "zip_codes": ["59223"],
+  "landmarks": [
+    "Fort Peck Dam",
+    "Fort Peck Lake",
+    "Interpretive Center",
+    "Community Center",
+    "Historic District"
+  ],
+  "nearby_cities": [
+    {"name":"Glasgow","slug":"glasgow-mt"},
+    {"name":"Wolf Point","slug":"wolf-point-mt"},
+    {"name":"Poplar","slug":"poplar-mt"},
+    {"name":"Culbertson","slug":"culbertson-mt"},
+    {"name":"Sidney","slug":"sidney-mt"}
+  ],
+  "city_type": "lake-town",
+  "climate_zone": "semi-arid",
+  "terrain": "lake-region",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "fort-peck-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Nashua",
+  "slug": "nashua-mt",
+  "county": "Valley County",
+  "population": 850,
+  "zip_codes": ["59248"],
+  "landmarks": [
+    "Milk River",
+    "Downtown Nashua",
+    "Community Center",
+    "Veterans Memorial",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Glasgow","slug":"glasgow-mt"},
+    {"name":"Fort Peck","slug":"fort-peck-mt"},
+    {"name":"Wolf Point","slug":"wolf-point-mt"},
+    {"name":"Poplar","slug":"poplar-mt"},
+    {"name":"Malta","slug":"malta-mt"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northeast-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Wibaux",
+  "slug": "wibaux-mt",
+  "county": "Wibaux County",
+  "population": 600,
+  "zip_codes": ["59353"],
+  "landmarks": [
+    "Wibaux County Courthouse",
+    "Downtown Wibaux",
+    "Community Center",
+    "Historic District",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Glendive","slug":"glendive-mt"},
+    {"name":"Miles City","slug":"miles-city-mt"},
+    {"name":"Sidney","slug":"sidney-mt"},
+    {"name":"Fairview","slug":"fairview-mt"},
+    {"name":"Beach","slug":"beach-nd"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "semi-arid",
+  "terrain": "badlands",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "eastern-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Broadus",
+  "slug": "broadus-mt",
+  "county": "Powder River County",
+  "population": 450,
+  "zip_codes": ["59317"],
+  "landmarks": [
+    "Powder River",
+    "Powder River County Courthouse",
+    "Downtown Broadus",
+    "Community Center",
+    "Historic Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Miles City","slug":"miles-city-mt"},
+    {"name":"Colstrip","slug":"colstrip-mt"},
+    {"name":"Forsyth","slug":"forsyth-mt"},
+    {"name":"Sheridan","slug":"sheridan-wy"},
+    {"name":"Ashland","slug":"ashland-mt"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southeast-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Ashland",
+  "slug": "ashland-mt",
+  "county": "Rosebud County",
+  "population": 800,
+  "zip_codes": ["59003"],
+  "landmarks": [
+    "Tongue River",
+    "Ashland Ranger Station",
+    "Community Center",
+    "Historic District",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Broadus","slug":"broadus-mt"},
+    {"name":"Colstrip","slug":"colstrip-mt"},
+    {"name":"Forsyth","slug":"forsyth-mt"},
+    {"name":"Miles City","slug":"miles-city-mt"},
+    {"name":"Hardin","slug":"hardin-mt"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "semi-arid",
+  "terrain": "foothills",
+  "economy_type": "forestry-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southeast-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Hardin",
+  "slug": "hardin-mt",
+  "county": "Big Horn County",
+  "population": 4100,
+  "zip_codes": ["59034"],
+  "landmarks": [
+    "Big Horn County Courthouse",
+    "Little Bighorn River",
+    "Downtown Hardin",
+    "Community Center",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Billings","slug":"billings-mt"},
+    {"name":"Ashland","slug":"ashland-mt"},
+    {"name":"Crow Agency","slug":"crow-agency-mt"},
+    {"name":"Laurel","slug":"laurel-mt"},
+    {"name":"Colstrip","slug":"colstrip-mt"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "semi-arid",
+  "terrain": "river-valley",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-central-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Crow Agency",
+  "slug": "crow-agency-mt",
+  "county": "Big Horn County",
+  "population": 1600,
+  "zip_codes": ["59022"],
+  "landmarks": [
+    "Little Bighorn Battlefield",
+    "Crow Nation Headquarters",
+    "Community Center",
+    "Historic Site Area",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Hardin","slug":"hardin-mt"},
+    {"name":"Billings","slug":"billings-mt"},
+    {"name":"Laurel","slug":"laurel-mt"},
+    {"name":"Ashland","slug":"ashland-mt"},
+    {"name":"Colstrip","slug":"colstrip-mt"}
+  ],
+  "city_type": "tribal-center",
+  "climate_zone": "semi-arid",
+  "terrain": "river-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "little-bighorn-market",
+  "property_mix": "mixed-use"
+},
+
+
+{
+  "city": "St. Ignatius",
+  "slug": "st-ignatius-mt",
+  "county": "Lake County",
+  "population": 900,
+  "zip_codes": ["59865"],
+  "landmarks": [
+    "St. Ignatius Mission",
+    "Mission Mountains",
+    "Downtown St. Ignatius",
+    "Community Center",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Ronan","slug":"ronan-mt"},
+    {"name":"Polson","slug":"polson-mt"},
+    {"name":"Arlee","slug":"arlee-mt"},
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Kalispell","slug":"kalispell-mt"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "mission-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Arlee",
+  "slug": "arlee-mt",
+  "county": "Lake County",
+  "population": 700,
+  "zip_codes": ["59821"],
+  "landmarks": [
+    "Jocko Valley",
+    "Arlee Powwow Grounds",
+    "Community Center",
+    "Main Street",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"St. Ignatius","slug":"st-ignatius-mt"},
+    {"name":"Ronan","slug":"ronan-mt"},
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Polson","slug":"polson-mt"},
+    {"name":"Lolo","slug":"lolo-mt"}
+  ],
+  "city_type": "tribal-community",
+  "climate_zone": "continental",
+  "terrain": "valley",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "mission-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Big Sky",
+  "slug": "big-sky-mt",
+  "county": "Gallatin County",
+  "population": 3500,
+  "zip_codes": ["59716"],
+  "landmarks": [
+    "Big Sky Resort",
+    "Lone Peak",
+    "Town Center",
+    "Gallatin River",
+    "Mountain Village"
+  ],
+  "nearby_cities": [
+    {"name":"Bozeman","slug":"bozeman-mt"},
+    {"name":"Belgrade","slug":"belgrade-mt"},
+    {"name":"Manhattan","slug":"manhattan-mt"},
+    {"name":"Three Forks","slug":"three-forks-mt"},
+    {"name":"Livingston","slug":"livingston-mt"}
+  ],
+  "city_type": "resort-city",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "tourism-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "yellowstone-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Gardiner",
+  "slug": "gardiner-mt",
+  "county": "Park County",
+  "population": 850,
+  "zip_codes": ["59030"],
+  "landmarks": [
+    "Yellowstone National Park North Entrance",
+    "Roosevelt Arch",
+    "Yellowstone River",
+    "Downtown Gardiner",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Livingston","slug":"livingston-mt"},
+    {"name":"Big Sky","slug":"big-sky-mt"},
+    {"name":"Bozeman","slug":"bozeman-mt"},
+    {"name":"West Yellowstone","slug":"west-yellowstone-mt"},
+    {"name":"Emigrant","slug":"emigrant-mt"}
+  ],
+  "city_type": "tourism-city",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "yellowstone-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "West Yellowstone",
+  "slug": "west-yellowstone-mt",
+  "county": "Gallatin County",
+  "population": 1300,
+  "zip_codes": ["59758"],
+  "landmarks": [
+    "Yellowstone National Park West Entrance",
+    "Grizzly and Wolf Discovery Center",
+    "Downtown West Yellowstone",
+    "Yellowstone IMAX",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Big Sky","slug":"big-sky-mt"},
+    {"name":"Bozeman","slug":"bozeman-mt"},
+    {"name":"Belgrade","slug":"belgrade-mt"},
+    {"name":"Gardiner","slug":"gardiner-mt"},
+    {"name":"Livingston","slug":"livingston-mt"}
+  ],
+  "city_type": "tourism-city",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "yellowstone-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Philipsburg",
+  "slug": "philipsburg-mt",
+  "county": "Granite County",
+  "population": 950,
+  "zip_codes": ["59858"],
+  "landmarks": [
+    "Granite County Museum",
+    "Downtown Philipsburg",
+    "Sapphire Gallery",
+    "Historic District",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Anaconda","slug":"anaconda-mt"},
+    {"name":"Deer Lodge","slug":"deer-lodge-mt"},
+    {"name":"Butte","slug":"butte-mt"},
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Drummond","slug":"drummond-mt"}
+  ],
+  "city_type": "historic-city",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southwest-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Drummond",
+  "slug": "drummond-mt",
+  "county": "Granite County",
+  "population": 350,
+  "zip_codes": ["59832"],
+  "landmarks": [
+    "Clark Fork River",
+    "Downtown Drummond",
+    "Community Center",
+    "Historic Main Street",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Philipsburg","slug":"philipsburg-mt"},
+    {"name":"Deer Lodge","slug":"deer-lodge-mt"},
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Anaconda","slug":"anaconda-mt"},
+    {"name":"Butte","slug":"butte-mt"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southwest-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sheridan",
+  "slug": "sheridan-mt",
+  "county": "Madison County",
+  "population": 750,
+  "zip_codes": ["59749"],
+  "landmarks": [
+    "Ruby Valley",
+    "Downtown Sheridan",
+    "Community Center",
+    "Historic District",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Dillon","slug":"dillon-mt"},
+    {"name":"Twin Bridges","slug":"twin-bridges-mt"},
+    {"name":"Virginia City","slug":"virginia-city-mt"},
+    {"name":"Whitehall","slug":"whitehall-mt"},
+    {"name":"Butte","slug":"butte-mt"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "continental",
+  "terrain": "valley",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "madison-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Twin Bridges",
+  "slug": "twin-bridges-mt",
+  "county": "Madison County",
+  "population": 450,
+  "zip_codes": ["59754"],
+  "landmarks": [
+    "Beaverhead River",
+    "Ruby River",
+    "Downtown Twin Bridges",
+    "Community Center",
+    "Fishing Access Sites"
+  ],
+  "nearby_cities": [
+    {"name":"Sheridan","slug":"sheridan-mt"},
+    {"name":"Dillon","slug":"dillon-mt"},
+    {"name":"Virginia City","slug":"virginia-city-mt"},
+    {"name":"Whitehall","slug":"whitehall-mt"},
+    {"name":"Butte","slug":"butte-mt"}
+  ],
+  "city_type": "river-town",
+  "climate_zone": "continental",
+  "terrain": "valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "madison-valley-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Virginia City",
+  "slug": "virginia-city-mt",
+  "county": "Madison County",
+  "population": 220,
+  "zip_codes": ["59755"],
+  "landmarks": [
+    "Virginia City Historic District",
+    "Nevada City",
+    "Bale of Hay Saloon",
+    "Opera House",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Sheridan","slug":"sheridan-mt"},
+    {"name":"Twin Bridges","slug":"twin-bridges-mt"},
+    {"name":"Dillon","slug":"dillon-mt"},
+    {"name":"Whitehall","slug":"whitehall-mt"},
+    {"name":"Ennis","slug":"ennis-mt"}
+  ],
+  "city_type": "historic-city",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "madison-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Ennis",
+  "slug": "ennis-mt",
+  "county": "Madison County",
+  "population": 1100,
+  "zip_codes": ["59729"],
+  "landmarks": [
+    "Madison River",
+    "Ennis Lake",
+    "Downtown Ennis",
+    "Fly Fishing District",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Virginia City","slug":"virginia-city-mt"},
+    {"name":"Big Sky","slug":"big-sky-mt"},
+    {"name":"Bozeman","slug":"bozeman-mt"},
+    {"name":"Twin Bridges","slug":"twin-bridges-mt"},
+    {"name":"Sheridan","slug":"sheridan-mt"}
+  ],
+  "city_type": "tourism-city",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "madison-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Fort Benton",
+  "slug": "fort-benton-mt",
+  "county": "Chouteau County",
+  "population": 1500,
+  "zip_codes": ["59442"],
+  "landmarks": [
+    "Missouri River",
+    "Fort Benton Historic District",
+    "Old Fort Benton",
+    "Riverfront Trail",
+    "Downtown Fort Benton"
+  ],
+  "nearby_cities": [
+    {"name":"Great Falls","slug":"great-falls-mt"},
+    {"name":"Havre","slug":"havre-mt"},
+    {"name":"Chinook","slug":"chinook-mt"},
+    {"name":"Big Sandy","slug":"big-sandy-mt"},
+    {"name":"Conrad","slug":"conrad-mt"}
+  ],
+  "city_type": "historic-city",
+  "climate_zone": "semi-arid",
+  "terrain": "river-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "north-central-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Big Sandy",
+  "slug": "big-sandy-mt",
+  "county": "Chouteau County",
+  "population": 650,
+  "zip_codes": ["59520"],
+  "landmarks": [
+    "Bear Paw Mountains",
+    "Downtown Big Sandy",
+    "Community Center",
+    "Veterans Memorial",
+    "Historic Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Fort Benton","slug":"fort-benton-mt"},
+    {"name":"Havre","slug":"havre-mt"},
+    {"name":"Chinook","slug":"chinook-mt"},
+    {"name":"Malta","slug":"malta-mt"},
+    {"name":"Shelby","slug":"shelby-mt"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "hi-line-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Fort Belknap Agency",
+  "slug": "fort-belknap-agency-mt",
+  "county": "Blaine County",
+  "population": 1400,
+  "zip_codes": ["59526"],
+  "landmarks": [
+    "Fort Belknap Reservation",
+    "Aaniiih Nakoda College",
+    "Community Center",
+    "Tribal Headquarters",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Harlem","slug":"harlem-mt"},
+    {"name":"Chinook","slug":"chinook-mt"},
+    {"name":"Havre","slug":"havre-mt"},
+    {"name":"Malta","slug":"malta-mt"},
+    {"name":"Shelby","slug":"shelby-mt"}
+  ],
+  "city_type": "tribal-center",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "hi-line-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sunburst",
+  "slug": "sunburst-mt",
+  "county": "Toole County",
+  "population": 350,
+  "zip_codes": ["59482"],
+  "landmarks": [
+    "Sweetgrass Hills Viewpoint",
+    "Downtown Sunburst",
+    "Community Center",
+    "Historic District",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Shelby","slug":"shelby-mt"},
+    {"name":"Cut Bank","slug":"cut-bank-mt"},
+    {"name":"Sweet Grass","slug":"sweet-grass-mt"},
+    {"name":"Conrad","slug":"conrad-mt"},
+    {"name":"Havre","slug":"havre-mt"}
+  ],
+  "city_type": "border-town",
+  "climate_zone": "semi-arid",
+  "terrain": "northern-plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northern-border-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sweet Grass",
+  "slug": "sweet-grass-mt",
+  "county": "Toole County",
+  "population": 80,
+  "zip_codes": ["59484"],
+  "landmarks": [
+    "Sweetgrass Port of Entry",
+    "US-Canada Border Crossing",
+    "Community Center",
+    "Border Station",
+    "Historic Area"
+  ],
+  "nearby_cities": [
+    {"name":"Sunburst","slug":"sunburst-mt"},
+    {"name":"Shelby","slug":"shelby-mt"},
+    {"name":"Cut Bank","slug":"cut-bank-mt"},
+    {"name":"Conrad","slug":"conrad-mt"},
+    {"name":"Havre","slug":"havre-mt"}
+  ],
+  "city_type": "border-town",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "transport-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northern-border-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Cooke City",
+  "slug": "cooke-city-mt",
+  "county": "Park County",
+  "population": 120,
+  "zip_codes": ["59020"],
+  "landmarks": [
+    "Beartooth Highway",
+    "Yellowstone Gateway",
+    "Downtown Cooke City",
+    "Community Center",
+    "Mountain Pass"
+  ],
+  "nearby_cities": [
+    {"name":"Red Lodge","slug":"red-lodge-mt"},
+    {"name":"Gardiner","slug":"gardiner-mt"},
+    {"name":"Livingston","slug":"livingston-mt"},
+    {"name":"Big Sky","slug":"big-sky-mt"},
+    {"name":"West Yellowstone","slug":"west-yellowstone-mt"}
+  ],
+  "city_type": "tourism-town",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "seasonal-growth",
+  "service_environment": "yellowstone-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Emigrant",
+  "slug": "emigrant-mt",
+  "county": "Park County",
+  "population": 300,
+  "zip_codes": ["59027"],
+  "landmarks": [
+    "Paradise Valley",
+    "Yellowstone River",
+    "Downtown Emigrant",
+    "Community Center",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Livingston","slug":"livingston-mt"},
+    {"name":"Gardiner","slug":"gardiner-mt"},
+    {"name":"Big Sky","slug":"big-sky-mt"},
+    {"name":"Bozeman","slug":"bozeman-mt"},
+    {"name":"West Yellowstone","slug":"west-yellowstone-mt"}
+  ],
+  "city_type": "valley-town",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "yellowstone-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lakeside",
+  "slug": "lakeside-mt",
+  "county": "Flathead County",
+  "population": 2800,
+  "zip_codes": ["59922"],
+  "landmarks": [
+    "Flathead Lake",
+    "Volunteer Park",
+    "Lakeside Marina",
+    "Community Center",
+    "Lakeshore District"
+  ],
+  "nearby_cities": [
+    {"name":"Kalispell","slug":"kalispell-mt"},
+    {"name":"Bigfork","slug":"bigfork-mt"},
+    {"name":"Whitefish","slug":"whitefish-mt"},
+    {"name":"Polson","slug":"polson-mt"},
+    {"name":"Columbia Falls","slug":"columbia-falls-mt"}
+  ],
+  "city_type": "lake-city",
+  "climate_zone": "continental",
+  "terrain": "lake-region",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "flathead-lake-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Hungry Horse",
+  "slug": "hungry-horse-mt",
+  "county": "Flathead County",
+  "population": 850,
+  "zip_codes": ["59919"],
+  "landmarks": [
+    "Hungry Horse Dam",
+    "Hungry Horse Reservoir",
+    "Flathead National Forest",
+    "Community Center",
+    "Dam Visitor Center"
+  ],
+  "nearby_cities": [
+    {"name":"Columbia Falls","slug":"columbia-falls-mt"},
+    {"name":"Whitefish","slug":"whitefish-mt"},
+    {"name":"Kalispell","slug":"kalispell-mt"},
+    {"name":"West Glacier","slug":"west-glacier-mt"},
+    {"name":"Bigfork","slug":"bigfork-mt"}
+  ],
+  "city_type": "tourism-town",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "flathead-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "West Glacier",
+  "slug": "west-glacier-mt",
+  "county": "Flathead County",
+  "population": 250,
+  "zip_codes": ["59936"],
+  "landmarks": [
+    "Glacier National Park West Entrance",
+    "Apgar Village",
+    "Lake McDonald",
+    "Visitor Center",
+    "Going-to-the-Sun Road"
+  ],
+  "nearby_cities": [
+    {"name":"Hungry Horse","slug":"hungry-horse-mt"},
+    {"name":"Columbia Falls","slug":"columbia-falls-mt"},
+    {"name":"Whitefish","slug":"whitefish-mt"},
+    {"name":"Kalispell","slug":"kalispell-mt"},
+    {"name":"Bigfork","slug":"bigfork-mt"}
+  ],
+  "city_type": "tourism-town",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "tourism-services",
+  "housing_profile": "seasonal-residential",
+  "growth_pattern": "seasonal-growth",
+  "service_environment": "glacier-park-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Eureka",
+  "slug": "eureka-mt",
+  "county": "Lincoln County",
+  "population": 1600,
+  "zip_codes": ["59917"],
+  "landmarks": [
+    "Lake Koocanusa",
+    "Downtown Eureka",
+    "Tobacco Valley",
+    "Historical Village",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Libby","slug":"libby-mt"},
+    {"name":"Whitefish","slug":"whitefish-mt"},
+    {"name":"Kalispell","slug":"kalispell-mt"},
+    {"name":"Troy","slug":"troy-mt"},
+    {"name":"Columbia Falls","slug":"columbia-falls-mt"}
+  ],
+  "city_type": "border-city",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "northwest-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Libby",
+  "slug": "libby-mt",
+  "county": "Lincoln County",
+  "population": 2900,
+  "zip_codes": ["59923"],
+  "landmarks": [
+    "Kootenai River",
+    "Libby Dam",
+    "Downtown Libby",
+    "Heritage Museum",
+    "Riverfront Park"
+  ],
+  "nearby_cities": [
+    {"name":"Eureka","slug":"eureka-mt"},
+    {"name":"Troy","slug":"troy-mt"},
+    {"name":"Kalispell","slug":"kalispell-mt"},
+    {"name":"Whitefish","slug":"whitefish-mt"},
+    {"name":"Columbia Falls","slug":"columbia-falls-mt"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "forestry-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northwest-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Troy",
+  "slug": "troy-mt",
+  "county": "Lincoln County",
+  "population": 1000,
+  "zip_codes": ["59935"],
+  "landmarks": [
+    "Kootenai River",
+    "Downtown Troy",
+    "Troy Museum",
+    "Community Center",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Libby","slug":"libby-mt"},
+    {"name":"Eureka","slug":"eureka-mt"},
+    {"name":"Kalispell","slug":"kalispell-mt"},
+    {"name":"Whitefish","slug":"whitefish-mt"},
+    {"name":"Columbia Falls","slug":"columbia-falls-mt"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "forestry-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northwest-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Plains",
+  "slug": "plains-mt",
+  "county": "Sanders County",
+  "population": 1100,
+  "zip_codes": ["59859"],
+  "landmarks": [
+    "Clark Fork River",
+    "Downtown Plains",
+    "Sanders County Fairgrounds",
+    "Community Center",
+    "Riverfront Park"
+  ],
+  "nearby_cities": [
+    {"name":"Thompson Falls","slug":"thompson-falls-mt"},
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Libby","slug":"libby-mt"},
+    {"name":"Troy","slug":"troy-mt"},
+    {"name":"Kalispell","slug":"kalispell-mt"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "continental",
+  "terrain": "river-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "western-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Thompson Falls",
+  "slug": "thompson-falls-mt",
+  "county": "Sanders County",
+  "population": 1400,
+  "zip_codes": ["59873"],
+  "landmarks": [
+    "Thompson Falls Dam",
+    "Clark Fork River",
+    "Downtown Thompson Falls",
+    "Riverfront Trail",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Plains","slug":"plains-mt"},
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Libby","slug":"libby-mt"},
+    {"name":"Troy","slug":"troy-mt"},
+    {"name":"Kalispell","slug":"kalispell-mt"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "continental",
+  "terrain": "river-valley",
+  "economy_type": "forestry-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "western-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Boulder",
+  "slug": "boulder-mt",
+  "county": "Jefferson County",
+  "population": 1300,
+  "zip_codes": ["59632"],
+  "landmarks": [
+    "Jefferson River Valley",
+    "Boulder Hot Springs",
+    "Downtown Boulder",
+    "Community Center",
+    "Historic District"
+  ],
+  "nearby_cities": [
+    {"name":"Helena","slug":"helena-mt"},
+    {"name":"Whitehall","slug":"whitehall-mt"},
+    {"name":"Townsend","slug":"townsend-mt"},
+    {"name":"Butte","slug":"butte-mt"},
+    {"name":"Clancy","slug":"clancy-mt"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "continental",
+  "terrain": "valley",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Walkerville",
+  "slug": "walkerville-mt",
+  "county": "Silver Bow County",
+  "population": 700,
+  "zip_codes": ["59701"],
+  "landmarks": [
+    "Historic Walkerville",
+    "Mining District",
+    "Community Center",
+    "Veterans Memorial",
+    "Heritage Area"
+  ],
+  "nearby_cities": [
+    {"name":"Butte","slug":"butte-mt"},
+    {"name":"Anaconda","slug":"anaconda-mt"},
+    {"name":"Whitehall","slug":"whitehall-mt"},
+    {"name":"Dillon","slug":"dillon-mt"},
+    {"name":"Deer Lodge","slug":"deer-lodge-mt"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "butte-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Ulm",
+  "slug": "ulm-mt",
+  "county": "Cascade County",
+  "population": 800,
+  "zip_codes": ["59485"],
+  "landmarks": [
+    "Missouri River",
+    "Ulm Pishkun State Park",
+    "Community Center",
+    "Historic Area",
+    "Main Road Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Great Falls","slug":"great-falls-mt"},
+    {"name":"Vaughn","slug":"vaughn-mt"},
+    {"name":"Cascade","slug":"cascade-mt"},
+    {"name":"Choteau","slug":"choteau-mt"},
+    {"name":"Augusta","slug":"augusta-mt"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "great-falls-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Cascade",
+  "slug": "cascade-mt",
+  "county": "Cascade County",
+  "population": 650,
+  "zip_codes": ["59421"],
+  "landmarks": [
+    "Missouri River",
+    "Cascade Town Park",
+    "Downtown Cascade",
+    "Dearborn River Area",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Great Falls","slug":"great-falls-mt"},
+    {"name":"Ulm","slug":"ulm-mt"},
+    {"name":"Vaughn","slug":"vaughn-mt"},
+    {"name":"Helena","slug":"helena-mt"},
+    {"name":"Augusta","slug":"augusta-mt"}
+  ],
+  "city_type": "river-town",
+  "climate_zone": "semi-arid",
+  "terrain": "river-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "great-falls-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Vaughn",
+  "slug": "vaughn-mt",
+  "county": "Cascade County",
+  "population": 700,
+  "zip_codes": ["59487"],
+  "landmarks": [
+    "Vaughn Community Park",
+    "Sun River Valley",
+    "Downtown Vaughn",
+    "Veterans Memorial",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Great Falls","slug":"great-falls-mt"},
+    {"name":"Cascade","slug":"cascade-mt"},
+    {"name":"Ulm","slug":"ulm-mt"},
+    {"name":"Choteau","slug":"choteau-mt"},
+    {"name":"Augusta","slug":"augusta-mt"}
+  ],
+  "city_type": "small-town",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "great-falls-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lincoln",
+  "slug": "lincoln-mt",
+  "county": "Lewis and Clark County",
+  "population": 1200,
+  "zip_codes": ["59639"],
+  "landmarks": [
+    "Blackfoot River",
+    "Lincoln Community Hall",
+    "Downtown Lincoln",
+    "Stemple Pass",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Helena","slug":"helena-mt"},
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Seeley Lake","slug":"seeley-lake-mt"},
+    {"name":"Deer Lodge","slug":"deer-lodge-mt"},
+    {"name":"Drummond","slug":"drummond-mt"}
+  ],
+  "city_type": "mountain-town",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Seeley Lake",
+  "slug": "seeley-lake-mt",
+  "county": "Missoula County",
+  "population": 1700,
+  "zip_codes": ["59868"],
+  "landmarks": [
+    "Seeley Lake",
+    "Double Arrow Golf Course",
+    "Downtown Seeley Lake",
+    "Clearwater River",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Lincoln","slug":"lincoln-mt"},
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Helena","slug":"helena-mt"},
+    {"name":"Drummond","slug":"drummond-mt"},
+    {"name":"Ovando","slug":"ovando-mt"}
+  ],
+  "city_type": "lake-town",
+  "climate_zone": "continental",
+  "terrain": "forest-lake-region",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "seeley-swan-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Ovando",
+  "slug": "ovando-mt",
+  "county": "Powell County",
+  "population": 250,
+  "zip_codes": ["59854"],
+  "landmarks": [
+    "Blackfoot River",
+    "Downtown Ovando",
+    "Historic Mercantile",
+    "Community Hall",
+    "Cycling Route Stop"
+  ],
+  "nearby_cities": [
+    {"name":"Seeley Lake","slug":"seeley-lake-mt"},
+    {"name":"Lincoln","slug":"lincoln-mt"},
+    {"name":"Deer Lodge","slug":"deer-lodge-mt"},
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Drummond","slug":"drummond-mt"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "blackfoot-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Hot Springs",
+  "slug": "hot-springs-mt",
+  "county": "Sanders County",
+  "population": 600,
+  "zip_codes": ["59845"],
+  "landmarks": [
+    "Symes Hot Springs",
+    "Downtown Hot Springs",
+    "Community Center",
+    "Mineral Springs",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Plains","slug":"plains-mt"},
+    {"name":"Thompson Falls","slug":"thompson-falls-mt"},
+    {"name":"Polson","slug":"polson-mt"},
+    {"name":"Ronan","slug":"ronan-mt"},
+    {"name":"St. Ignatius","slug":"st-ignatius-mt"}
+  ],
+  "city_type": "spa-town",
+  "climate_zone": "continental",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northwest-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Superior",
+  "slug": "superior-mt",
+  "county": "Mineral County",
+  "population": 850,
+  "zip_codes": ["59872"],
+  "landmarks": [
+    "Clark Fork River",
+    "Mineral County Courthouse",
+    "Downtown Superior",
+    "Community Center",
+    "Riverfront Area"
+  ],
+  "nearby_cities": [
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"St. Regis","slug":"st-regis-mt"},
+    {"name":"Plains","slug":"plains-mt"},
+    {"name":"Thompson Falls","slug":"thompson-falls-mt"},
+    {"name":"Alberton","slug":"alberton-mt"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "continental",
+  "terrain": "river-valley",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "western-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "St. Regis",
+  "slug": "st-regis-mt",
+  "county": "Mineral County",
+  "population": 320,
+  "zip_codes": ["59866"],
+  "landmarks": [
+    "Lookout Pass Corridor",
+    "St. Regis Travel Center",
+    "Community Center",
+    "Clark Fork River",
+    "Historic District"
+  ],
+  "nearby_cities": [
+    {"name":"Superior","slug":"superior-mt"},
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Alberton","slug":"alberton-mt"},
+    {"name":"Plains","slug":"plains-mt"},
+    {"name":"Thompson Falls","slug":"thompson-falls-mt"}
+  ],
+  "city_type": "highway-town",
+  "climate_zone": "continental",
+  "terrain": "mountains",
+  "economy_type": "transport-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "i90-corridor-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Alberton",
+  "slug": "alberton-mt",
+  "county": "Mineral County",
+  "population": 450,
+  "zip_codes": ["59820"],
+  "landmarks": [
+    "Clark Fork River",
+    "Alberton Gorge",
+    "Downtown Alberton",
+    "Community Park",
+    "Historic Railroad Area"
+  ],
+  "nearby_cities": [
+    {"name":"Missoula","slug":"missoula-mt"},
+    {"name":"Superior","slug":"superior-mt"},
+    {"name":"St. Regis","slug":"st-regis-mt"},
+    {"name":"Plains","slug":"plains-mt"},
+    {"name":"Thompson Falls","slug":"thompson-falls-mt"}
+  ],
+  "city_type": "river-town",
+  "climate_zone": "continental",
+  "terrain": "river-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "western-montana-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lima",
+  "slug": "lima-mt",
+  "county": "Beaverhead County",
+  "population": 220,
+  "zip_codes": ["59739"],
+  "landmarks": [
+    "Red Rock River",
+    "Downtown Lima",
+    "Interstate 15 Corridor",
+    "Community Center",
+    "Historic District"
+  ],
+  "nearby_cities": [
+    {"name":"Dillon","slug":"dillon-mt"},
+    {"name":"Monida","slug":"monida-mt"},
+    {"name":"Dell","slug":"dell-mt"},
+    {"name":"Sheridan","slug":"sheridan-mt"},
+    {"name":"Twin Bridges","slug":"twin-bridges-mt"}
+  ],
+  "city_type": "highway-town",
+  "climate_zone": "continental",
+  "terrain": "high-valley",
+  "economy_type": "transport-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southwest-montana-market",
+  "property_mix": "mixed-use"
+}
+]

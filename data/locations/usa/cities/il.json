@@ -1,0 +1,4306 @@
+[
+  {
+    "city": "Addison",
+    "slug": "addison-il",
+    "county": "DuPage County",
+    "population": 35670,
+    "zip_codes": [
+      "60101"
+    ],
+    "landmarks": [
+      "Centennial Park",
+      "Army Trail Nature Center",
+      "Community Park",
+      "Addison Historical Museum",
+      "Green Meadows Shopping Center"
+    ],
+    "nearby_cities": [
+      {"name":"Bensenville","slug":"bensenville-il"},
+      {"name":"Elmhurst","slug":"elmhurst-il"},
+      {"name":"Villa Park","slug":"villa-park-il"},
+      {"name":"Wood Dale","slug":"wood-dale-il"},
+      {"name":"Lombard","slug":"lombard-il"}
+    ],
+    "city_type":"village",
+    "climate_zone":"humid-continental",
+    "terrain":"prairie",
+    "economy_type":"manufacturing-logistics",
+    "housing_profile":"suburban-residential",
+    "growth_pattern":"stable-growth",
+    "service_environment":"chicago-metro",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Algonquin",
+    "slug": "algonquin-il",
+    "county": "McHenry County",
+    "population": 29820,
+    "zip_codes": [
+      "60102"
+    ],
+    "landmarks": [
+      "Fox River",
+      "Algonquin Historic Downtown",
+      "Towne Park",
+      "Riverfront Park",
+      "Algonquin Commons"
+    ],
+    "nearby_cities": [
+      {"name":"Lake in the Hills","slug":"lake-in-the-hills-il"},
+      {"name":"Carpentersville","slug":"carpentersville-il"},
+      {"name":"Crystal Lake","slug":"crystal-lake-il"},
+      {"name":"Cary","slug":"cary-il"},
+      {"name":"East Dundee","slug":"east-dundee-il"}
+    ],
+    "city_type":"village",
+    "climate_zone":"humid-continental",
+    "terrain":"river-valley",
+    "economy_type":"retail-healthcare",
+    "housing_profile":"suburban-residential",
+    "growth_pattern":"steady-growth",
+    "service_environment":"chicago-northwest-suburbs",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Arlington Heights",
+    "slug": "arlington-heights-il",
+    "county": "Cook County",
+    "population": 77760,
+    "zip_codes": [
+      "60004",
+      "60005"
+    ],
+    "landmarks": [
+      "Metropolis Performing Arts Centre",
+      "Arlington Park Area",
+      "North School Park",
+      "Arlington Heights Memorial Library",
+      "Arlington Lakes Golf Club"
+    ],
+    "nearby_cities": [
+      {"name":"Mount Prospect","slug":"mount-prospect-il"},
+      {"name":"Rolling Meadows","slug":"rolling-meadows-il"},
+      {"name":"Palatine","slug":"palatine-il"},
+      {"name":"Buffalo Grove","slug":"buffalo-grove-il"},
+      {"name":"Prospect Heights","slug":"prospect-heights-il"}
+    ],
+    "city_type":"village",
+    "climate_zone":"humid-continental",
+    "terrain":"prairie",
+    "economy_type":"healthcare-professional-services",
+    "housing_profile":"major-suburban",
+    "growth_pattern":"stable-growth",
+    "service_environment":"chicago-northwest-suburbs",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Aurora",
+    "slug": "aurora-il",
+    "county": "Kane County",
+    "population": 180540,
+    "zip_codes": [
+      "60502",
+      "60503",
+      "60504",
+      "60505",
+      "60506"
+    ],
+    "landmarks": [
+      "Paramount Theatre",
+      "Phillips Park Zoo",
+      "Hollywood Casino Aurora",
+      "Fox River",
+      "Chicago Premium Outlets"
+    ],
+    "nearby_cities": [
+      {"name":"Naperville","slug":"naperville-il"},
+      {"name":"Batavia","slug":"batavia-il"},
+      {"name":"North Aurora","slug":"north-aurora-il"},
+      {"name":"Montgomery","slug":"montgomery-il"},
+      {"name":"Oswego","slug":"oswego-il"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"river-valley",
+    "economy_type":"manufacturing-technology",
+    "housing_profile":"major-urban",
+    "growth_pattern":"rapid-growth",
+    "service_environment":"fox-valley",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Bartlett",
+    "slug": "bartlett-il",
+    "county": "Cook County",
+    "population": 41110,
+    "zip_codes": [
+      "60103"
+    ],
+    "landmarks": [
+      "Bartlett Nature Center",
+      "James Pate Philip State Park",
+      "Villa Olivia",
+      "Downtown Bartlett",
+      "Apple Orchard Golf Course"
+    ],
+    "nearby_cities": [
+      {"name":"Streamwood","slug":"streamwood-il"},
+      {"name":"Hanover Park","slug":"hanover-park-il"},
+      {"name":"Elgin","slug":"elgin-il"},
+      {"name":"Bloomingdale","slug":"bloomingdale-il"},
+      {"name":"Wayne","slug":"wayne-il"}
+    ],
+    "city_type":"village",
+    "climate_zone":"humid-continental",
+    "terrain":"prairie",
+    "economy_type":"professional-services",
+    "housing_profile":"suburban-residential",
+    "growth_pattern":"steady-growth",
+    "service_environment":"chicago-metro",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Batavia",
+    "slug": "batavia-il",
+    "county": "Kane County",
+    "population": 26860,
+    "zip_codes": [
+      "60510"
+    ],
+    "landmarks": [
+      "Fabyan Forest Preserve",
+      "Batavia Riverwalk",
+      "Red Oak Nature Center",
+      "Batavia Depot Museum",
+      "Fermilab"
+    ],
+    "nearby_cities": [
+      {"name":"Geneva","slug":"geneva-il"},
+      {"name":"Aurora","slug":"aurora-il"},
+      {"name":"North Aurora","slug":"north-aurora-il"},
+      {"name":"St. Charles","slug":"st-charles-il"},
+      {"name":"West Chicago","slug":"west-chicago-il"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"river-valley",
+    "economy_type":"technology-manufacturing",
+    "housing_profile":"suburban-residential",
+    "growth_pattern":"steady-growth",
+    "service_environment":"fox-valley",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Belleville",
+    "slug": "belleville-il",
+    "county": "St. Clair County",
+    "population": 42240,
+    "zip_codes": [
+      "62220",
+      "62221",
+      "62223",
+      "62226"
+    ],
+    "landmarks": [
+      "Belleville Public Square",
+      "National Shrine of Our Lady of the Snows",
+      "Eckert's Country Store & Farms",
+      "Southwestern Illinois College",
+      "Belle-Clair Fairgrounds"
+    ],
+    "nearby_cities": [
+      {"name":"Shiloh","slug":"shiloh-il"},
+      {"name":"Swansea","slug":"swansea-il"},
+      {"name":"Fairview Heights","slug":"fairview-heights-il"},
+      {"name":"O'Fallon","slug":"ofallon-il"},
+      {"name":"East St. Louis","slug":"east-st-louis-il"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-subtropical",
+    "terrain":"rolling-plains",
+    "economy_type":"government-healthcare",
+    "housing_profile":"regional-urban",
+    "growth_pattern":"stable-growth",
+    "service_environment":"st-louis-metro",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Belvidere",
+    "slug": "belvidere-il",
+    "county": "Boone County",
+    "population": 25940,
+    "zip_codes": [
+      "61008"
+    ],
+    "landmarks": [
+      "Boone County Fairgrounds",
+      "Kishwaukee River",
+      "Doty Park",
+      "Baltic Mill",
+      "Belvidere Park"
+    ],
+    "nearby_cities": [
+      {"name":"Rockford","slug":"rockford-il"},
+      {"name":"Loves Park","slug":"loves-park-il"},
+      {"name":"Machesney Park","slug":"machesney-park-il"},
+      {"name":"Cherry Valley","slug":"cherry-valley-il"},
+      {"name":"Poplar Grove","slug":"poplar-grove-il"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"river-valley",
+    "economy_type":"manufacturing-logistics",
+    "housing_profile":"regional-residential",
+    "growth_pattern":"steady-growth",
+    "service_environment":"rockford-metro",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Berwyn",
+    "slug": "berwyn-il",
+    "county": "Cook County",
+    "population": 57010,
+    "zip_codes": [
+      "60402"
+    ],
+    "landmarks": [
+      "Berwyn Route 66 District",
+      "Proksa Park",
+      "Depot District",
+      "MacNeal Hospital",
+      "Cermak Plaza"
+    ],
+    "nearby_cities": [
+      {"name":"Cicero","slug":"cicero-il"},
+      {"name":"Oak Park","slug":"oak-park-il"},
+      {"name":"Riverside","slug":"riverside-il"},
+      {"name":"Lyons","slug":"lyons-il"},
+      {"name":"Chicago","slug":"chicago-il"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"prairie",
+    "economy_type":"healthcare-retail",
+    "housing_profile":"urban-residential",
+    "growth_pattern":"stable-growth",
+    "service_environment":"chicago-metro",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Bloomington",
+    "slug": "bloomington-il",
+    "county": "McLean County",
+    "population": 79040,
+    "zip_codes": [
+      "61701",
+      "61704",
+      "61705"
+    ],
+    "landmarks": [
+      "Miller Park Zoo",
+      "Downtown Bloomington",
+      "McLean County Museum of History",
+      "Grossinger Motors Arena",
+      "Illinois Wesleyan University"
+    ],
+    "nearby_cities": [
+      {"name":"Normal","slug":"normal-il"},
+      {"name":"Downs","slug":"downs-il"},
+      {"name":"Towanda","slug":"towanda-il"},
+      {"name":"Hudson","slug":"hudson-il"},
+      {"name":"Heyworth","slug":"heyworth-il"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"prairie",
+    "economy_type":"education-insurance",
+    "housing_profile":"regional-urban",
+    "growth_pattern":"steady-growth",
+    "service_environment":"central-illinois",
+    "property_mix":"mixed-use"
+  },
+{
+  "city": "Bolingbrook",
+  "slug": "bolingbrook-il",
+  "county": "Will County",
+  "population": 73920,
+  "zip_codes": [
+    "60440",
+    "60490"
+  ],
+  "landmarks": [
+    "The Promenade Bolingbrook",
+    "Hidden Oaks Nature Center",
+    "Pelican Harbor Aquatic Park",
+    "Whalon Lake",
+    "Boughton Ridge Golf Course"
+  ],
+  "nearby_cities": [
+    {"name":"Romeoville","slug":"romeoville-il"},
+    {"name":"Woodridge","slug":"woodridge-il"},
+    {"name":"Naperville","slug":"naperville-il"},
+    {"name":"Plainfield","slug":"plainfield-il"},
+    {"name":"Darien","slug":"darien-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"logistics-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Bourbonnais",
+  "slug": "bourbonnais-il",
+  "county": "Kankakee County",
+  "population": 19410,
+  "zip_codes": [
+    "60914"
+  ],
+  "landmarks": [
+    "Olivet Nazarene University",
+    "Perry Farm Park",
+    "Exploration Station",
+    "Northfield Square",
+    "The Grove"
+  ],
+  "nearby_cities": [
+    {"name":"Bradley","slug":"bradley-il"},
+    {"name":"Kankakee","slug":"kankakee-il"},
+    {"name":"Manteno","slug":"manteno-il"},
+    {"name":"Peotone","slug":"peotone-il"},
+    {"name":"Beecher","slug":"beecher-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-healthcare",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"kankakee-area",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Bradley",
+  "slug": "bradley-il",
+  "county": "Kankakee County",
+  "population": 15760,
+  "zip_codes": [
+    "60915"
+  ],
+  "landmarks": [
+    "Northfield Square",
+    "Bradley Public Library",
+    "Perry Farm Park",
+    "Broadway Street District",
+    "Bradley Village Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Bourbonnais","slug":"bourbonnais-il"},
+    {"name":"Kankakee","slug":"kankakee-il"},
+    {"name":"Manteno","slug":"manteno-il"},
+    {"name":"Momence","slug":"momence-il"},
+    {"name":"Peotone","slug":"peotone-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"retail-manufacturing",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"kankakee-area",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Buffalo Grove",
+  "slug": "buffalo-grove-il",
+  "county": "Lake County",
+  "population": 43640,
+  "zip_codes": [
+    "60089"
+  ],
+  "landmarks": [
+    "Buffalo Creek Forest Preserve",
+    "Willow Stream Park",
+    "Mike Rylko Community Park",
+    "Raupp Memorial Museum",
+    "Buffalo Grove Golf Course"
+  ],
+  "nearby_cities": [
+    {"name":"Arlington Heights","slug":"arlington-heights-il"},
+    {"name":"Wheeling","slug":"wheeling-il"},
+    {"name":"Lincolnshire","slug":"lincolnshire-il"},
+    {"name":"Long Grove","slug":"long-grove-il"},
+    {"name":"Vernon Hills","slug":"vernon-hills-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"technology-professional-services",
+  "housing_profile":"affluent-suburban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-northwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Cahokia Heights",
+  "slug": "cahokia-heights-il",
+  "county": "St. Clair County",
+  "population": 21480,
+  "zip_codes": [
+    "62206",
+    "62207"
+  ],
+  "landmarks": [
+    "Cahokia Mounds State Historic Site",
+    "Frank Holten State Recreation Area",
+    "Mississippi River",
+    "Illinois Route 3 Corridor",
+    "W.G. Gaston Park"
+  ],
+  "nearby_cities": [
+    {"name":"East St. Louis","slug":"east-st-louis-il"},
+    {"name":"Sauget","slug":"sauget-il"},
+    {"name":"Dupo","slug":"dupo-il"},
+    {"name":"Belleville","slug":"belleville-il"},
+    {"name":"Fairmont City","slug":"fairmont-city-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"river-floodplain",
+  "economy_type":"logistics-manufacturing",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"st-louis-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Calumet City",
+  "slug": "calumet-city-il",
+  "county": "Cook County",
+  "population": 36620,
+  "zip_codes": [
+    "60409"
+  ],
+  "landmarks": [
+    "River Oaks Center",
+    "Sand Ridge Nature Center",
+    "Calumet Memorial Park",
+    "Wentworth Woods",
+    "Burnham Greenway Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Lansing","slug":"lansing-il"},
+    {"name":"Burnham","slug":"burnham-il"},
+    {"name":"Dolton","slug":"dolton-il"},
+    {"name":"South Holland","slug":"south-holland-il"},
+    {"name":"Hammond","slug":"hammond-in"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-plain",
+  "economy_type":"retail-logistics",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-south-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Carbondale",
+  "slug": "carbondale-il",
+  "county": "Jackson County",
+  "population": 21360,
+  "zip_codes": [
+    "62901",
+    "62902",
+    "62903"
+  ],
+  "landmarks": [
+    "Southern Illinois University",
+    "Campus Lake",
+    "Touch of Nature Outdoor Education Center",
+    "Banterra Center",
+    "Downtown Carbondale"
+  ],
+  "nearby_cities": [
+    {"name":"Murphysboro","slug":"murphysboro-il"},
+    {"name":"Carterville","slug":"carterville-il"},
+    {"name":"Herrin","slug":"herrin-il"},
+    {"name":"Marion","slug":"marion-il"},
+    {"name":"Makanda","slug":"makanda-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"education-healthcare",
+  "housing_profile":"college-town",
+  "growth_pattern":"stable-growth",
+  "service_environment":"southern-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Carol Stream",
+  "slug": "carol-stream-il",
+  "county": "DuPage County",
+  "population": 39540,
+  "zip_codes": [
+    "60188"
+  ],
+  "landmarks": [
+    "Armstrong Park",
+    "McCaslin Park",
+    "Memorial Park",
+    "Carol Stream Town Center",
+    "Ross Ferraro Town Center"
+  ],
+  "nearby_cities": [
+    {"name":"Wheaton","slug":"wheaton-il"},
+    {"name":"Bloomingdale","slug":"bloomingdale-il"},
+    {"name":"Glendale Heights","slug":"glendale-heights-il"},
+    {"name":"Hanover Park","slug":"hanover-park-il"},
+    {"name":"West Chicago","slug":"west-chicago-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Carpentersville",
+  "slug": "carpentersville-il",
+  "county": "Kane County",
+  "population": 37710,
+  "zip_codes": [
+    "60110"
+  ],
+  "landmarks": [
+    "Fox River",
+    "Carpenter Park",
+    "Meadowdale Shopping Center",
+    "Otto Engineering Campus",
+    "Dundee Township Park"
+  ],
+  "nearby_cities": [
+    {"name":"Algonquin","slug":"algonquin-il"},
+    {"name":"East Dundee","slug":"east-dundee-il"},
+    {"name":"West Dundee","slug":"west-dundee-il"},
+    {"name":"Elgin","slug":"elgin-il"},
+    {"name":"Lake in the Hills","slug":"lake-in-the-hills-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"manufacturing-retail",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"fox-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Cary",
+  "slug": "cary-il",
+  "county": "McHenry County",
+  "population": 18310,
+  "zip_codes": [
+    "60013"
+  ],
+  "landmarks": [
+    "Lions Park",
+    "Cary Country Club",
+    "Fox River",
+    "Cary Metra Station",
+    "Fel-Pro RRR Conservation Area"
+  ],
+  "nearby_cities": [
+    {"name":"Crystal Lake","slug":"crystal-lake-il"},
+    {"name":"Algonquin","slug":"algonquin-il"},
+    {"name":"Fox River Grove","slug":"fox-river-grove-il"},
+    {"name":"Lake in the Hills","slug":"lake-in-the-hills-il"},
+    {"name":"Barrington","slug":"barrington-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-northwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Centralia",
+  "slug": "centralia-il",
+  "county": "Marion County",
+  "population": 12160,
+  "zip_codes": [
+    "62801"
+  ],
+  "landmarks": [
+    "Centralia Carillon",
+    "Foundation Park",
+    "Centralia Cultural Society",
+    "Raccoon Lake",
+    "Fairview Park"
+  ],
+  "nearby_cities": [
+    {"name":"Salem","slug":"salem-il"},
+    {"name":"Sandoval","slug":"sandoval-il"},
+    {"name":"Wamac","slug":"wamac-il"},
+    {"name":"Carlyle","slug":"carlyle-il"},
+    {"name":"Nashville","slug":"nashville-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"rail-transportation",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"south-central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Champaign",
+  "slug": "champaign-il",
+  "county": "Champaign County",
+  "population": 89750,
+  "zip_codes": [
+    "61820",
+    "61821",
+    "61822",
+    "61824",
+    "61825",
+    "61826"
+  ],
+  "landmarks": [
+    "University of Illinois Urbana-Champaign",
+    "State Farm Center",
+    "Krannert Art Museum",
+    "Hessel Park",
+    "Downtown Champaign"
+  ],
+  "nearby_cities": [
+    {"name":"Urbana","slug":"urbana-il"},
+    {"name":"Savoy","slug":"savoy-il"},
+    {"name":"Mahomet","slug":"mahomet-il"},
+    {"name":"St. Joseph","slug":"st-joseph-il"},
+    {"name":"Tolono","slug":"tolono-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-research",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Charleston",
+  "slug": "charleston-il",
+  "county": "Coles County",
+  "population": 17030,
+  "zip_codes": [
+    "61920"
+  ],
+  "landmarks": [
+    "Eastern Illinois University",
+    "Fox Ridge State Park",
+    "Lincoln Log Cabin State Historic Site",
+    "Morton Park",
+    "Downtown Charleston"
+  ],
+  "nearby_cities": [
+    {"name":"Mattoon","slug":"mattoon-il"},
+    {"name":"Oakland","slug":"oakland-il"},
+    {"name":"Arcola","slug":"arcola-il"},
+    {"name":"Tuscola","slug":"tuscola-il"},
+    {"name":"Paris","slug":"paris-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-healthcare",
+  "housing_profile":"college-town",
+  "growth_pattern":"stable-growth",
+  "service_environment":"east-central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Chatham",
+  "slug": "chatham-il",
+  "county": "Sangamon County",
+  "population": 15320,
+  "zip_codes": [
+    "62629"
+  ],
+  "landmarks": [
+    "Community Park",
+    "Chatham Community Library",
+    "Southwind Park",
+    "Interurban Trail",
+    "Chatham Railroad Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Springfield","slug":"springfield-il"},
+    {"name":"Rochester","slug":"rochester-il"},
+    {"name":"Auburn","slug":"auburn-il"},
+    {"name":"Glenarm","slug":"glenarm-il"},
+    {"name":"New Berlin","slug":"new-berlin-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"springfield-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Chicago",
+  "slug": "chicago-il",
+  "county": "Cook County",
+  "population": 2664500,
+  "zip_codes": [
+    "60601",
+    "60602",
+    "60603",
+    "60604",
+    "60605",
+    "60606",
+    "60607",
+    "60608",
+    "60609",
+    "60610"
+  ],
+  "landmarks": [
+    "Millennium Park",
+    "Navy Pier",
+    "Willis Tower",
+    "Wrigley Field",
+    "Museum Campus"
+  ],
+  "nearby_cities": [
+    {"name":"Cicero","slug":"cicero-il"},
+    {"name":"Oak Park","slug":"oak-park-il"},
+    {"name":"Evanston","slug":"evanston-il"},
+    {"name":"Skokie","slug":"skokie-il"},
+    {"name":"Berwyn","slug":"berwyn-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lakefront",
+  "economy_type":"finance-technology",
+  "housing_profile":"major-urban",
+  "growth_pattern":"mature-growth",
+  "service_environment":"chicago-metro",
+  "property_mix":"high-density-mixed-use"
+},
+{
+  "city": "Chicago Heights",
+  "slug": "chicago-heights-il",
+  "county": "Cook County",
+  "population": 27290,
+  "zip_codes": [
+    "60411"
+  ],
+  "landmarks": [
+    "Bloom Township Center",
+    "Veterans Memorial Park",
+    "Chicago Heights Park District",
+    "Prairie State College",
+    "Jones Memorial Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"South Chicago Heights","slug":"south-chicago-heights-il"},
+    {"name":"Park Forest","slug":"park-forest-il"},
+    {"name":"Homewood","slug":"homewood-il"},
+    {"name":"Ford Heights","slug":"ford-heights-il"},
+    {"name":"Steger","slug":"steger-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-south-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Chicago Ridge",
+  "slug": "chicago-ridge-il",
+  "county": "Cook County",
+  "population": 14130,
+  "zip_codes": [
+    "60415"
+  ],
+  "landmarks": [
+    "Chicago Ridge Mall",
+    "Freedom Park",
+    "Ridge Central Elementary Area",
+    "Frontage Road Business District",
+    "Our Lady of Ridgeland Parish"
+  ],
+  "nearby_cities": [
+    {"name":"Oak Lawn","slug":"oak-lawn-il"},
+    {"name":"Worth","slug":"worth-il"},
+    {"name":"Bridgeview","slug":"bridgeview-il"},
+    {"name":"Hometown","slug":"hometown-il"},
+    {"name":"Palos Hills","slug":"palos-hills-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-southwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Cicero",
+  "slug": "cicero-il",
+  "county": "Cook County",
+  "population": 85070,
+  "zip_codes": [
+    "60804"
+  ],
+  "landmarks": [
+    "Hawthorne Works Museum",
+    "Cicero Community Park",
+    "Morton College",
+    "Cermak Road Corridor",
+    "Town Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Berwyn","slug":"berwyn-il"},
+    {"name":"Chicago","slug":"chicago-il"},
+    {"name":"Lyons","slug":"lyons-il"},
+    {"name":"Stickney","slug":"stickney-il"},
+    {"name":"Oak Park","slug":"oak-park-il"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"manufacturing-retail",
+  "housing_profile":"major-urban",
+  "growth_pattern":"mature-growth",
+  "service_environment":"chicago-metro",
+  "property_mix":"high-density-mixed-use"
+},
+{
+  "city": "Collinsville",
+  "slug": "collinsville-il",
+  "county": "Madison County",
+  "population": 24590,
+  "zip_codes": [
+    "62234"
+  ],
+  "landmarks": [
+    "World's Largest Catsup Bottle",
+    "Gateway Convention Center",
+    "Cahokia Mounds",
+    "Splash City Family Waterpark",
+    "Collinsville Memorial Library"
+  ],
+  "nearby_cities": [
+    {"name":"Maryville","slug":"maryville-il"},
+    {"name":"Edwardsville","slug":"edwardsville-il"},
+    {"name":"Fairview Heights","slug":"fairview-heights-il"},
+    {"name":"Caseyville","slug":"caseyville-il"},
+    {"name":"Pontoon Beach","slug":"pontoon-beach-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"tourism-logistics",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"st-louis-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Country Club Hills",
+  "slug": "country-club-hills-il",
+  "county": "Cook County",
+  "population": 16690,
+  "zip_codes": [
+    "60478"
+  ],
+  "landmarks": [
+    "Country Club Hills Amphitheater",
+    "Atkin Park",
+    "Meadowview Park",
+    "City Hall Complex",
+    "Crawford Avenue Commercial District"
+  ],
+  "nearby_cities": [
+    {"name":"Tinley Park","slug":"tinley-park-il"},
+    {"name":"Matteson","slug":"matteson-il"},
+    {"name":"Oak Forest","slug":"oak-forest-il"},
+    {"name":"Hazel Crest","slug":"hazel-crest-il"},
+    {"name":"Markham","slug":"markham-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"retail-healthcare",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-south-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Crystal Lake",
+  "slug": "crystal-lake-il",
+  "county": "McHenry County",
+  "population": 40380,
+  "zip_codes": [
+    "60012",
+    "60014",
+    "60039"
+  ],
+  "landmarks": [
+    "Three Oaks Recreation Area",
+    "Main Beach",
+    "Veterans Acres Park",
+    "Crystal Lake Park District Nature Center",
+    "Downtown Crystal Lake"
+  ],
+  "nearby_cities": [
+    {"name":"Lake in the Hills","slug":"lake-in-the-hills-il"},
+    {"name":"Cary","slug":"cary-il"},
+    {"name":"Algonquin","slug":"algonquin-il"},
+    {"name":"Woodstock","slug":"woodstock-il"},
+    {"name":"McHenry","slug":"mchenry-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glacial-plains",
+  "economy_type":"healthcare-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-northwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Danville",
+  "slug": "danville-il",
+  "county": "Vermilion County",
+  "population": 28580,
+  "zip_codes": [
+    "61832",
+    "61834"
+  ],
+  "landmarks": [
+    "David S. Palmer Arena",
+    "Vermilion County Museum",
+    "Kickapoo State Recreation Area",
+    "Ellsworth Park",
+    "Downtown Danville"
+  ],
+  "nearby_cities": [
+    {"name":"Tilton","slug":"tilton-il"},
+    {"name":"Westville","slug":"westville-il"},
+    {"name":"Catlin","slug":"catlin-il"},
+    {"name":"Georgetown","slug":"georgetown-il"},
+    {"name":"Rossville","slug":"rossville-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"healthcare-manufacturing",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"east-central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Darien",
+  "slug": "darien-il",
+  "county": "DuPage County",
+  "population": 22140,
+  "zip_codes": [
+    "60561"
+  ],
+  "landmarks": [
+    "Waterfall Glen Forest Preserve",
+    "Darien Community Park",
+    "Oldfield Oaks Forest Preserve",
+    "Darien Sportsplex",
+    "Plainfield Road Business Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Downers Grove","slug":"downers-grove-il"},
+    {"name":"Woodridge","slug":"woodridge-il"},
+    {"name":"Willowbrook","slug":"willowbrook-il"},
+    {"name":"Westmont","slug":"westmont-il"},
+    {"name":"Burr Ridge","slug":"burr-ridge-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Decatur",
+  "slug": "decatur-il",
+  "county": "Macon County",
+  "population": 69420,
+  "zip_codes": [
+    "62521",
+    "62522",
+    "62523",
+    "62526"
+  ],
+  "landmarks": [
+    "Scovill Zoo",
+    "Lake Decatur",
+    "Children's Museum of Illinois",
+    "Nelson Park",
+    "Devon Lakeshore Amphitheater"
+  ],
+  "nearby_cities": [
+    {"name":"Forsyth","slug":"forsyth-il"},
+    {"name":"Mount Zion","slug":"mount-zion-il"},
+    {"name":"Long Creek","slug":"long-creek-il"},
+    {"name":"Maroa","slug":"maroa-il"},
+    {"name":"Harristown","slug":"harristown-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture-manufacturing",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "DeKalb",
+  "slug": "dekalb-il",
+  "county": "DeKalb County",
+  "population": 40290,
+  "zip_codes": [
+    "60115"
+  ],
+  "landmarks": [
+    "Northern Illinois University",
+    "Egyptian Theatre",
+    "Hopkins Park",
+    "River Heights Golf Course",
+    "Downtown DeKalb"
+  ],
+  "nearby_cities": [
+    {"name":"Sycamore","slug":"sycamore-il"},
+    {"name":"Cortland","slug":"cortland-il"},
+    {"name":"Genoa","slug":"genoa-il"},
+    {"name":"Rochelle","slug":"rochelle-il"},
+    {"name":"Malta","slug":"malta-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-manufacturing",
+  "housing_profile":"college-town",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dekalb-area",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Des Plaines",
+  "slug": "des-plaines-il",
+  "county": "Cook County",
+  "population": 58610,
+  "zip_codes": [
+    "60016",
+    "60017",
+    "60018"
+  ],
+  "landmarks": [
+    "Rivers Casino",
+    "Lake Park",
+    "Des Plaines History Center",
+    "Maine West High School",
+    "Des Plaines River Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Park Ridge","slug":"park-ridge-il"},
+    {"name":"Mount Prospect","slug":"mount-prospect-il"},
+    {"name":"Rosemont","slug":"rosemont-il"},
+    {"name":"Niles","slug":"niles-il"},
+    {"name":"Glenview","slug":"glenview-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"hospitality-logistics",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-northwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Dixon",
+  "slug": "dixon-il",
+  "county": "Lee County",
+  "population": 15340,
+  "zip_codes": [
+    "61021"
+  ],
+  "landmarks": [
+    "Ronald Reagan Boyhood Home",
+    "Lowell Park",
+    "Dixon Historic Center",
+    "Rock River",
+    "Northwest Territory Historic Center"
+  ],
+  "nearby_cities": [
+    {"name":"Sterling","slug":"sterling-il"},
+    {"name":"Rock Falls","slug":"rock-falls-il"},
+    {"name":"Amboy","slug":"amboy-il"},
+    {"name":"Oregon","slug":"oregon-il"},
+    {"name":"Franklin Grove","slug":"franklin-grove-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"healthcare-agriculture",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"north-central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Dolton",
+  "slug": "dolton-il",
+  "county": "Cook County",
+  "population": 21370,
+  "zip_codes": [
+    "60419"
+  ],
+  "landmarks": [
+    "Dolton Park District",
+    "Lake Victory",
+    "Dolton Village Hall",
+    "Dolton Prairie",
+    "Sibley Boulevard Business District"
+  ],
+  "nearby_cities": [
+    {"name":"Calumet City","slug":"calumet-city-il"},
+    {"name":"South Holland","slug":"south-holland-il"},
+    {"name":"Riverdale","slug":"riverdale-il"},
+    {"name":"Harvey","slug":"harvey-il"},
+    {"name":"Lansing","slug":"lansing-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-plain",
+  "economy_type":"retail-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-south-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Downers Grove",
+  "slug": "downers-grove-il",
+  "county": "DuPage County",
+  "population": 50180,
+  "zip_codes": [
+    "60515",
+    "60516"
+  ],
+  "landmarks": [
+    "Morton Arboretum",
+    "Fishel Park",
+    "Downers Grove Museum",
+    "Belmont Prairie",
+    "Downtown Downers Grove"
+  ],
+  "nearby_cities": [
+    {"name":"Lisle","slug":"lisle-il"},
+    {"name":"Westmont","slug":"westmont-il"},
+    {"name":"Darien","slug":"darien-il"},
+    {"name":"Woodridge","slug":"woodridge-il"},
+    {"name":"Lombard","slug":"lombard-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"professional-services-healthcare",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "East Moline",
+  "slug": "east-moline-il",
+  "county": "Rock Island County",
+  "population": 21040,
+  "zip_codes": [
+    "61244"
+  ],
+  "landmarks": [
+    "The Rust Belt",
+    "Great River Trail",
+    "Empire Park",
+    "Mississippi River",
+    "Short Hills Country Club"
+  ],
+  "nearby_cities": [
+    {"name":"Moline","slug":"moline-il"},
+    {"name":"Silvis","slug":"silvis-il"},
+    {"name":"Rock Island","slug":"rock-island-il"},
+    {"name":"Bettendorf","slug":"bettendorf-ia"},
+    {"name":"Davenport","slug":"davenport-ia"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"quad-cities",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "East Peoria",
+  "slug": "east-peoria-il",
+  "county": "Tazewell County",
+  "population": 22910,
+  "zip_codes": [
+    "61611"
+  ],
+  "landmarks": [
+    "Par-A-Dice Hotel Casino",
+    "Levee District",
+    "Fondulac Park",
+    "EastSide Centre",
+    "Illinois River Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Peoria","slug":"peoria-il"},
+    {"name":"Washington","slug":"washington-il"},
+    {"name":"Morton","slug":"morton-il"},
+    {"name":"Creve Coeur","slug":"creve-coeur-il"},
+    {"name":"Pekin","slug":"pekin-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"gaming-retail",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-peoria",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "East St. Louis",
+  "slug": "east-st-louis-il",
+  "county": "St. Clair County",
+  "population": 18010,
+  "zip_codes": [
+    "62201",
+    "62202",
+    "62203",
+    "62204",
+    "62205",
+    "62206",
+    "62207"
+  ],
+  "landmarks": [
+    "Malcolm W. Martin Memorial Park",
+    "Gateway Geyser",
+    "Eads Bridge",
+    "Casino Queen",
+    "Mississippi River"
+  ],
+  "nearby_cities": [
+    {"name":"Cahokia Heights","slug":"cahokia-heights-il"},
+    {"name":"Fairmont City","slug":"fairmont-city-il"},
+    {"name":"Washington Park","slug":"washington-park-il"},
+    {"name":"Sauget","slug":"sauget-il"},
+    {"name":"St. Louis","slug":"st-louis-mo"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"river-floodplain",
+  "economy_type":"logistics-transportation",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"mature-growth",
+  "service_environment":"st-louis-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Edwardsville",
+  "slug": "edwardsville-il",
+  "county": "Madison County",
+  "population": 26880,
+  "zip_codes": [
+    "62025",
+    "62026"
+  ],
+  "landmarks": [
+    "Southern Illinois University Edwardsville",
+    "Watershed Nature Center",
+    "Edwardsville City Park",
+    "MCT Trails",
+    "Downtown Edwardsville"
+  ],
+  "nearby_cities": [
+    {"name":"Glen Carbon","slug":"glen-carbon-il"},
+    {"name":"Collinsville","slug":"collinsville-il"},
+    {"name":"Maryville","slug":"maryville-il"},
+    {"name":"Troy","slug":"troy-il"},
+    {"name":"Wood River","slug":"wood-river-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"education-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"st-louis-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Effingham",
+  "slug": "effingham-il",
+  "county": "Effingham County",
+  "population": 12360,
+  "zip_codes": [
+    "62401"
+  ],
+  "landmarks": [
+    "Cross at the Crossroads",
+    "Mid America Motorworks Museum",
+    "Evergreen Hollow Park",
+    "Lake Sara",
+    "Effingham Performance Center"
+  ],
+  "nearby_cities": [
+    {"name":"Altamont","slug":"altamont-il"},
+    {"name":"Teutopolis","slug":"teutopolis-il"},
+    {"name":"Vandalia","slug":"vandalia-il"},
+    {"name":"Mattoon","slug":"mattoon-il"},
+    {"name":"Shelbyville","slug":"shelbyville-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"rolling-plains",
+  "economy_type":"logistics-hospitality",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"south-central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Elgin",
+  "slug": "elgin-il",
+  "county": "Kane County",
+  "population": 114800,
+  "zip_codes": [
+    "60120",
+    "60121",
+    "60123",
+    "60124"
+  ],
+  "landmarks": [
+    "Grand Victoria Casino",
+    "Fox River Trail",
+    "Lords Park",
+    "Hemmens Cultural Center",
+    "Gail Borden Public Library"
+  ],
+  "nearby_cities": [
+    {"name":"South Elgin","slug":"south-elgin-il"},
+    {"name":"Bartlett","slug":"bartlett-il"},
+    {"name":"Carpentersville","slug":"carpentersville-il"},
+    {"name":"Streamwood","slug":"streamwood-il"},
+    {"name":"West Dundee","slug":"west-dundee-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"fox-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Elmhurst",
+  "slug": "elmhurst-il",
+  "county": "DuPage County",
+  "population": 45680,
+  "zip_codes": [
+    "60126"
+  ],
+  "landmarks": [
+    "Elmhurst Art Museum",
+    "Wilder Park",
+    "Lizzadro Museum of Lapidary Art",
+    "Elmhurst University",
+    "York Theatre"
+  ],
+  "nearby_cities": [
+    {"name":"Villa Park","slug":"villa-park-il"},
+    {"name":"Oak Brook","slug":"oak-brook-il"},
+    {"name":"Addison","slug":"addison-il"},
+    {"name":"Bensenville","slug":"bensenville-il"},
+    {"name":"Lombard","slug":"lombard-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"healthcare-professional-services",
+  "housing_profile":"affluent-suburban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Evanston",
+  "slug": "evanston-il",
+  "county": "Cook County",
+  "population": 78410,
+  "zip_codes": [
+    "60201",
+    "60202",
+    "60203",
+    "60208"
+  ],
+  "landmarks": [
+    "Northwestern University",
+    "Grosse Point Lighthouse",
+    "Ryan Field",
+    "Lake Michigan",
+    "Downtown Evanston"
+  ],
+  "nearby_cities": [
+    {"name":"Skokie","slug":"skokie-il"},
+    {"name":"Wilmette","slug":"wilmette-il"},
+    {"name":"Chicago","slug":"chicago-il"},
+    {"name":"Lincolnwood","slug":"lincolnwood-il"},
+    {"name":"Morton Grove","slug":"morton-grove-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lakefront",
+  "economy_type":"education-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-north-shore",
+  "property_mix":"high-density-mixed-use"
+},
+{
+  "city": "Fairview Heights",
+  "slug": "fairview-heights-il",
+  "county": "St. Clair County",
+  "population": 15780,
+  "zip_codes": [
+    "62208"
+  ],
+  "landmarks": [
+    "St. Clair Square",
+    "Moody Park",
+    "Stonewolf Golf Club",
+    "Pleasant Ridge Park",
+    "Lincoln Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Belleville","slug":"belleville-il"},
+    {"name":"O'Fallon","slug":"ofallon-il"},
+    {"name":"Collinsville","slug":"collinsville-il"},
+    {"name":"Swansea","slug":"swansea-il"},
+    {"name":"Shiloh","slug":"shiloh-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"retail-healthcare",
+  "housing_profile":"suburban-commercial",
+  "growth_pattern":"steady-growth",
+  "service_environment":"st-louis-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Freeport",
+  "slug": "freeport-il",
+  "county": "Stephenson County",
+  "population": 23940,
+  "zip_codes": [
+    "61032"
+  ],
+  "landmarks": [
+    "Krape Park",
+    "Lincoln-Douglas Debate Square",
+    "Little Cubs Field",
+    "Stephenson County Historical Museum",
+    "Oakdale Nature Preserve"
+  ],
+  "nearby_cities": [
+    {"name":"Lena","slug":"lena-il"},
+    {"name":"Orangeville","slug":"orangeville-il"},
+    {"name":"Pearl City","slug":"pearl-city-il"},
+    {"name":"Rock City","slug":"rock-city-il"},
+    {"name":"Dakota","slug":"dakota-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"rolling-hills",
+  "economy_type":"manufacturing-agriculture",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"northwest-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Galesburg",
+  "slug": "galesburg-il",
+  "county": "Knox County",
+  "population": 29810,
+  "zip_codes": [
+    "61401",
+    "61402"
+  ],
+  "landmarks": [
+    "Knox College",
+    "Discovery Depot Children's Museum",
+    "Lake Storey Park",
+    "Carl Sandburg State Historic Site",
+    "Downtown Galesburg"
+  ],
+  "nearby_cities": [
+    {"name":"East Galesburg","slug":"east-galesburg-il"},
+    {"name":"Knoxville","slug":"knoxville-il"},
+    {"name":"Monmouth","slug":"monmouth-il"},
+    {"name":"Abingdon","slug":"abingdon-il"},
+    {"name":"Canton","slug":"canton-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"rolling-plains",
+  "economy_type":"education-healthcare",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"west-central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Geneva",
+  "slug": "geneva-il",
+  "county": "Kane County",
+  "population": 21940,
+  "zip_codes": [
+    "60134"
+  ],
+  "landmarks": [
+    "Fabyan Villa Museum",
+    "Fabyan Windmill",
+    "Geneva History Museum",
+    "Fox River Trail",
+    "Downtown Geneva"
+  ],
+  "nearby_cities": [
+    {"name":"St. Charles","slug":"st-charles-il"},
+    {"name":"Batavia","slug":"batavia-il"},
+    {"name":"West Chicago","slug":"west-chicago-il"},
+    {"name":"Aurora","slug":"aurora-il"},
+    {"name":"South Elgin","slug":"south-elgin-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"retail-tourism",
+  "housing_profile":"affluent-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"fox-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Glen Carbon",
+  "slug": "glen-carbon-il",
+  "county": "Madison County",
+  "population": 13920,
+  "zip_codes": [
+    "62034"
+  ],
+  "landmarks": [
+    "Miner Park",
+    "The Gardens at SIUE",
+    "Ronald J. Foster Heritage Trail",
+    "Schon Park",
+    "Glen Carbon Centennial Library"
+  ],
+  "nearby_cities": [
+    {"name":"Edwardsville","slug":"edwardsville-il"},
+    {"name":"Maryville","slug":"maryville-il"},
+    {"name":"Troy","slug":"troy-il"},
+    {"name":"Collinsville","slug":"collinsville-il"},
+    {"name":"Pontoon Beach","slug":"pontoon-beach-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"education-professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"st-louis-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Glen Ellyn",
+  "slug": "glen-ellyn-il",
+  "county": "DuPage County",
+  "population": 28940,
+  "zip_codes": [
+    "60137"
+  ],
+  "landmarks": [
+    "Lake Ellyn Park",
+    "Village Links Golf Course",
+    "College of DuPage",
+    "Stacy's Tavern Museum",
+    "Downtown Glen Ellyn"
+  ],
+  "nearby_cities": [
+    {"name":"Lombard","slug":"lombard-il"},
+    {"name":"Wheaton","slug":"wheaton-il"},
+    {"name":"Carol Stream","slug":"carol-stream-il"},
+    {"name":"Lisle","slug":"lisle-il"},
+    {"name":"Winfield","slug":"winfield-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-professional-services",
+  "housing_profile":"affluent-suburban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Glendale Heights",
+  "slug": "glendale-heights-il",
+  "county": "DuPage County",
+  "population": 33680,
+  "zip_codes": [
+    "60139"
+  ],
+  "landmarks": [
+    "Camera Park",
+    "GH2O Aquatic Center",
+    "Glendale Lakes Golf Club",
+    "Sports Hub",
+    "Heritage Park"
+  ],
+  "nearby_cities": [
+    {"name":"Carol Stream","slug":"carol-stream-il"},
+    {"name":"Bloomingdale","slug":"bloomingdale-il"},
+    {"name":"Glen Ellyn","slug":"glen-ellyn-il"},
+    {"name":"Addison","slug":"addison-il"},
+    {"name":"Lombard","slug":"lombard-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Glenview",
+  "slug": "glenview-il",
+  "county": "Cook County",
+  "population": 48560,
+  "zip_codes": [
+    "60025",
+    "60026"
+  ],
+  "landmarks": [
+    "The Glen Town Center",
+    "Kohl Children's Museum",
+    "Gallery Park",
+    "Chicago Botanic Garden",
+    "Flick Park"
+  ],
+  "nearby_cities": [
+    {"name":"Northbrook","slug":"northbrook-il"},
+    {"name":"Northfield","slug":"northfield-il"},
+    {"name":"Des Plaines","slug":"des-plaines-il"},
+    {"name":"Niles","slug":"niles-il"},
+    {"name":"Wilmette","slug":"wilmette-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"healthcare-corporate-services",
+  "housing_profile":"affluent-suburban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-north-shore",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Granite City",
+  "slug": "granite-city-il",
+  "county": "Madison County",
+  "population": 27380,
+  "zip_codes": [
+    "62040"
+  ],
+  "landmarks": [
+    "Wilson Park",
+    "Granite City Steel",
+    "Gateway Regional Medical Center",
+    "Chain of Rocks Bridge",
+    "Worthen Park"
+  ],
+  "nearby_cities": [
+    {"name":"Madison","slug":"madison-il"},
+    {"name":"Pontoon Beach","slug":"pontoon-beach-il"},
+    {"name":"Collinsville","slug":"collinsville-il"},
+    {"name":"Edwardsville","slug":"edwardsville-il"},
+    {"name":"St. Louis","slug":"st-louis-mo"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"river-floodplain",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"st-louis-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Gurnee",
+  "slug": "gurnee-il",
+  "county": "Lake County",
+  "population": 30760,
+  "zip_codes": [
+    "60031"
+  ],
+  "landmarks": [
+    "Six Flags Great America",
+    "Gurnee Mills",
+    "Ravinia Green Country Club",
+    "Des Plaines River Trail",
+    "Hunt Club Park"
+  ],
+  "nearby_cities": [
+    {"name":"Waukegan","slug":"waukegan-il"},
+    {"name":"Libertyville","slug":"libertyville-il"},
+    {"name":"Lindenhurst","slug":"lindenhurst-il"},
+    {"name":"Grayslake","slug":"grayslake-il"},
+    {"name":"Park City","slug":"park-city-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"glacial-plains",
+  "economy_type":"tourism-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-north-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Hanover Park",
+  "slug": "hanover-park-il",
+  "county": "Cook County",
+  "population": 38190,
+  "zip_codes": [
+    "60133"
+  ],
+  "landmarks": [
+    "Seafari Springs Aquatic Center",
+    "Community Park",
+    "Mallard Lake Forest Preserve",
+    "Ontarioville Park",
+    "Hanover Park Metra Station"
+  ],
+  "nearby_cities": [
+    {"name":"Bartlett","slug":"bartlett-il"},
+    {"name":"Streamwood","slug":"streamwood-il"},
+    {"name":"Carol Stream","slug":"carol-stream-il"},
+    {"name":"Schaumburg","slug":"schaumburg-il"},
+    {"name":"Bloomingdale","slug":"bloomingdale-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Harvey",
+  "slug": "harvey-il",
+  "county": "Cook County",
+  "population": 20910,
+  "zip_codes": [
+    "60426"
+  ],
+  "landmarks": [
+    "Harvey Community Center",
+    "Ingalls Memorial Hospital",
+    "Harvey Park",
+    "Dixmoor Prairie",
+    "South Suburban College Area"
+  ],
+  "nearby_cities": [
+    {"name":"Dolton","slug":"dolton-il"},
+    {"name":"Markham","slug":"markham-il"},
+    {"name":"Phoenix","slug":"phoenix-il"},
+    {"name":"Hazel Crest","slug":"hazel-crest-il"},
+    {"name":"South Holland","slug":"south-holland-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"healthcare-logistics",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-south-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Highland Park",
+  "slug": "highland-park-il",
+  "county": "Lake County",
+  "population": 30640,
+  "zip_codes": [
+    "60035"
+  ],
+  "landmarks": [
+    "Ravinia Festival",
+    "Rosewood Beach",
+    "Fort Sheridan Forest Preserve",
+    "Downtown Highland Park",
+    "Moraine Park"
+  ],
+  "nearby_cities": [
+    {"name":"Highwood","slug":"highwood-il"},
+    {"name":"Deerfield","slug":"deerfield-il"},
+    {"name":"Lake Forest","slug":"lake-forest-il"},
+    {"name":"Northbrook","slug":"northbrook-il"},
+    {"name":"Glencoe","slug":"glencoe-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lakefront",
+  "economy_type":"professional-services-retail",
+  "housing_profile":"affluent-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-north-shore",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Hoffman Estates",
+  "slug": "hoffman-estates-il",
+  "county": "Cook County",
+  "population": 52140,
+  "zip_codes": [
+    "60169",
+    "60179",
+    "60192",
+    "60195"
+  ],
+  "landmarks": [
+    "NOW Arena",
+    "Poplar Creek Trail",
+    "Hilldale Golf Club",
+    "Paul Douglas Forest Preserve",
+    "Bell Works Chicagoland"
+  ],
+  "nearby_cities": [
+    {"name":"Schaumburg","slug":"schaumburg-il"},
+    {"name":"South Barrington","slug":"south-barrington-il"},
+    {"name":"Palatine","slug":"palatine-il"},
+    {"name":"Elgin","slug":"elgin-il"},
+    {"name":"Streamwood","slug":"streamwood-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"corporate-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-northwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Homer Glen",
+  "slug": "homer-glen-il",
+  "county": "Will County",
+  "population": 24780,
+  "zip_codes": [
+    "60491"
+  ],
+  "landmarks": [
+    "Messenger Marsh Forest Preserve",
+    "Heritage Park",
+    "Hadley Valley Preserve",
+    "Homer Glen Heroes Trail",
+    "Old Oak Country Club"
+  ],
+  "nearby_cities": [
+    {"name":"Orland Park","slug":"orland-park-il"},
+    {"name":"Lockport","slug":"lockport-il"},
+    {"name":"New Lenox","slug":"new-lenox-il"},
+    {"name":"Lemont","slug":"lemont-il"},
+    {"name":"Mokena","slug":"mokena-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"rolling-plains",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-southwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Huntley",
+  "slug": "huntley-il",
+  "county": "McHenry County",
+  "population": 28190,
+  "zip_codes": [
+    "60142"
+  ],
+  "landmarks": [
+    "Deicke Park",
+    "Pinecrest Golf Club",
+    "Downtown Huntley",
+    "Huntley Outlet Center Area",
+    "Sun City Huntley"
+  ],
+  "nearby_cities": [
+    {"name":"Lake in the Hills","slug":"lake-in-the-hills-il"},
+    {"name":"Algonquin","slug":"algonquin-il"},
+    {"name":"Crystal Lake","slug":"crystal-lake-il"},
+    {"name":"Hampshire","slug":"hampshire-il"},
+    {"name":"Gilberts","slug":"gilberts-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"healthcare-retail",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"chicago-northwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Jacksonville",
+  "slug": "jacksonville-il",
+  "county": "Morgan County",
+  "population": 17120,
+  "zip_codes": [
+    "62650"
+  ],
+  "landmarks": [
+    "Illinois College",
+    "Jacksonville Community Park",
+    "Nichols Park",
+    "Governor Duncan Mansion",
+    "Lake Jacksonville"
+  ],
+  "nearby_cities": [
+    {"name":"South Jacksonville","slug":"south-jacksonville-il"},
+    {"name":"Murrayville","slug":"murrayville-il"},
+    {"name":"Alexander","slug":"alexander-il"},
+    {"name":"Virginia","slug":"virginia-il"},
+    {"name":"Chapin","slug":"chapin-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"rolling-plains",
+  "economy_type":"education-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"west-central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Joliet",
+  "slug": "joliet-il",
+  "county": "Will County",
+  "population": 150490,
+  "zip_codes": [
+    "60431",
+    "60432",
+    "60433",
+    "60435",
+    "60436"
+  ],
+  "landmarks": [
+    "Rialto Square Theatre",
+    "Harrah's Joliet Casino",
+    "Joliet Area Historical Museum",
+    "Route 66 Raceway",
+    "Chicagoland Speedway"
+  ],
+  "nearby_cities": [
+    {"name":"Shorewood","slug":"shorewood-il"},
+    {"name":"Plainfield","slug":"plainfield-il"},
+    {"name":"Crest Hill","slug":"crest-hill-il"},
+    {"name":"Lockport","slug":"lockport-il"},
+    {"name":"New Lenox","slug":"new-lenox-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"logistics-manufacturing",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"joliet-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Kankakee",
+  "slug": "kankakee-il",
+  "county": "Kankakee County",
+  "population": 26140,
+  "zip_codes": [
+    "60901"
+  ],
+  "landmarks": [
+    "Kankakee River State Park",
+    "B. Harley Bradley House",
+    "Kankakee County Museum",
+    "Civic Auditorium",
+    "Bird Park"
+  ],
+  "nearby_cities": [
+    {"name":"Bradley","slug":"bradley-il"},
+    {"name":"Bourbonnais","slug":"bourbonnais-il"},
+    {"name":"Manteno","slug":"manteno-il"},
+    {"name":"Peotone","slug":"peotone-il"},
+    {"name":"Momence","slug":"momence-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"healthcare-manufacturing",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"kankakee-area",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lake Forest",
+  "slug": "lake-forest-il",
+  "county": "Lake County",
+  "population": 19670,
+  "zip_codes": [
+    "60045"
+  ],
+  "landmarks": [
+    "Lake Forest College",
+    "Market Square",
+    "Elawa Farm",
+    "Forest Park Beach",
+    "Open Lands Lakeshore Preserve"
+  ],
+  "nearby_cities": [
+    {"name":"Highland Park","slug":"highland-park-il"},
+    {"name":"Lake Bluff","slug":"lake-bluff-il"},
+    {"name":"Libertyville","slug":"libertyville-il"},
+    {"name":"Deerfield","slug":"deerfield-il"},
+    {"name":"North Chicago","slug":"north-chicago-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lakefront",
+  "economy_type":"finance-professional-services",
+  "housing_profile":"affluent-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-north-shore",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lake in the Hills",
+  "slug": "lake-in-the-hills-il",
+  "county": "McHenry County",
+  "population": 28820,
+  "zip_codes": [
+    "60156"
+  ],
+  "landmarks": [
+    "Sunset Park",
+    "Indian Trail Beach",
+    "Barbara Key Park",
+    "Boulder Ridge Country Club",
+    "Lake in the Hills Village Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Algonquin","slug":"algonquin-il"},
+    {"name":"Crystal Lake","slug":"crystal-lake-il"},
+    {"name":"Huntley","slug":"huntley-il"},
+    {"name":"Cary","slug":"cary-il"},
+    {"name":"Carpentersville","slug":"carpentersville-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"glacial-plains",
+  "economy_type":"retail-professional-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-northwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lansing",
+  "slug": "lansing-il",
+  "county": "Cook County",
+  "population": 27960,
+  "zip_codes": [
+    "60438"
+  ],
+  "landmarks": [
+    "Lan-Oak Park",
+    "Fox Pointe",
+    "Veterans Memorial Park",
+    "Brownell Woods",
+    "Lan-Oak Sports Complex"
+  ],
+  "nearby_cities": [
+    {"name":"Calumet City","slug":"calumet-city-il"},
+    {"name":"South Holland","slug":"south-holland-il"},
+    {"name":"Dolton","slug":"dolton-il"},
+    {"name":"Munster","slug":"munster-in"},
+    {"name":"Dyer","slug":"dyer-in"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"lake-plain",
+  "economy_type":"healthcare-retail",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-south-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Libertyville",
+  "slug": "libertyville-il",
+  "county": "Lake County",
+  "population": 20930,
+  "zip_codes": [
+    "60048"
+  ],
+  "landmarks": [
+    "Independence Grove Forest Preserve",
+    "Cook Memorial Park",
+    "Downtown Libertyville",
+    "Lambs Farm",
+    "Adler Arts Center"
+  ],
+  "nearby_cities": [
+    {"name":"Mundelein","slug":"mundelein-il"},
+    {"name":"Vernon Hills","slug":"vernon-hills-il"},
+    {"name":"Lake Forest","slug":"lake-forest-il"},
+    {"name":"Grayslake","slug":"grayslake-il"},
+    {"name":"Gurnee","slug":"gurnee-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"glacial-plains",
+  "economy_type":"healthcare-professional-services",
+  "housing_profile":"affluent-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-north-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lincoln",
+  "slug": "lincoln-il",
+  "county": "Logan County",
+  "population": 13230,
+  "zip_codes": [
+    "62656"
+  ],
+  "landmarks": [
+    "Lincoln Heritage Museum",
+    "Postville Courthouse State Historic Site",
+    "Edward Madigan State Fish and Wildlife Area",
+    "Logan County Fairgrounds",
+    "Scully Park"
+  ],
+  "nearby_cities": [
+    {"name":"Atlanta","slug":"atlanta-il"},
+    {"name":"Mount Pulaski","slug":"mount-pulaski-il"},
+    {"name":"Elkhart","slug":"elkhart-il"},
+    {"name":"Mason City","slug":"mason-city-il"},
+    {"name":"Bloomington","slug":"bloomington-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"government-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lisle",
+  "slug": "lisle-il",
+  "county": "DuPage County",
+  "population": 24480,
+  "zip_codes": [
+    "60532"
+  ],
+  "landmarks": [
+    "The Morton Arboretum",
+    "Sea Lion Aquatic Park",
+    "Four Lakes Recreation Area",
+    "Downtown Lisle",
+    "Benedictine University"
+  ],
+  "nearby_cities": [
+    {"name":"Naperville","slug":"naperville-il"},
+    {"name":"Downers Grove","slug":"downers-grove-il"},
+    {"name":"Wheaton","slug":"wheaton-il"},
+    {"name":"Woodridge","slug":"woodridge-il"},
+    {"name":"Glen Ellyn","slug":"glen-ellyn-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-professional-services",
+  "housing_profile":"affluent-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lockport",
+  "slug": "lockport-il",
+  "county": "Will County",
+  "population": 27080,
+  "zip_codes": [
+    "60441"
+  ],
+  "landmarks": [
+    "Illinois State Museum Lockport Gallery",
+    "Gaylord Building Historic Site",
+    "Illinois and Michigan Canal",
+    "Dellwood Park",
+    "Lockport Prairie Nature Preserve"
+  ],
+  "nearby_cities": [
+    {"name":"Joliet","slug":"joliet-il"},
+    {"name":"Homer Glen","slug":"homer-glen-il"},
+    {"name":"Lemont","slug":"lemont-il"},
+    {"name":"Crest Hill","slug":"crest-hill-il"},
+    {"name":"New Lenox","slug":"new-lenox-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"logistics-professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-southwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lombard",
+  "slug": "lombard-il",
+  "county": "DuPage County",
+  "population": 44280,
+  "zip_codes": [
+    "60148"
+  ],
+  "landmarks": [
+    "Lilacia Park",
+    "Yorktown Center",
+    "Lombard Historical Society",
+    "Madison Meadow Park",
+    "Great Western Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Villa Park","slug":"villa-park-il"},
+    {"name":"Glen Ellyn","slug":"glen-ellyn-il"},
+    {"name":"Downers Grove","slug":"downers-grove-il"},
+    {"name":"Elmhurst","slug":"elmhurst-il"},
+    {"name":"Addison","slug":"addison-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"retail-professional-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Loves Park",
+  "slug": "loves-park-il",
+  "county": "Winnebago County",
+  "population": 23810,
+  "zip_codes": [
+    "61111",
+    "61115"
+  ],
+  "landmarks": [
+    "Rock Cut State Park",
+    "Rivets Stadium",
+    "Rock River Recreation Path",
+    "Volcano Falls Adventure Park",
+    "Martin Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Rockford","slug":"rockford-il"},
+    {"name":"Machesney Park","slug":"machesney-park-il"},
+    {"name":"Belvidere","slug":"belvidere-il"},
+    {"name":"Roscoe","slug":"roscoe-il"},
+    {"name":"Cherry Valley","slug":"cherry-valley-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"regional-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"rockford-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Machesney Park",
+  "slug": "machesney-park-il",
+  "county": "Winnebago County",
+  "population": 22980,
+  "zip_codes": [
+    "61115"
+  ],
+  "landmarks": [
+    "Machesney Town Center",
+    "Rock Cut State Park",
+    "Harlem Community Center",
+    "Rock River",
+    "Machesney Park Mall Area"
+  ],
+  "nearby_cities": [
+    {"name":"Loves Park","slug":"loves-park-il"},
+    {"name":"Rockford","slug":"rockford-il"},
+    {"name":"Roscoe","slug":"roscoe-il"},
+    {"name":"Belvidere","slug":"belvidere-il"},
+    {"name":"South Beloit","slug":"south-beloit-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"manufacturing-retail",
+  "housing_profile":"regional-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"rockford-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Macomb",
+  "slug": "macomb-il",
+  "county": "McDonough County",
+  "population": 15210,
+  "zip_codes": [
+    "61455"
+  ],
+  "landmarks": [
+    "Western Illinois University",
+    "Spring Lake Park",
+    "Western Illinois Museum",
+    "Chandler Park",
+    "Hanson Field"
+  ],
+  "nearby_cities": [
+    {"name":"Colchester","slug":"colchester-il"},
+    {"name":"Bushnell","slug":"bushnell-il"},
+    {"name":"Blandinsville","slug":"blandinsville-il"},
+    {"name":"Tennessee","slug":"tennessee-il"},
+    {"name":"Industry","slug":"industry-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"rolling-plains",
+  "economy_type":"education-healthcare",
+  "housing_profile":"college-town",
+  "growth_pattern":"stable-growth",
+  "service_environment":"west-central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Marion",
+  "slug": "marion-il",
+  "county": "Williamson County",
+  "population": 16570,
+  "zip_codes": [
+    "62959"
+  ],
+  "landmarks": [
+    "Crab Orchard National Wildlife Refuge",
+    "Marion Cultural and Civic Center",
+    "Illinois Star Centre Mall",
+    "Rent One Park",
+    "Tower Square Plaza"
+  ],
+  "nearby_cities": [
+    {"name":"Herrin","slug":"herrin-il"},
+    {"name":"Carterville","slug":"carterville-il"},
+    {"name":"Carbondale","slug":"carbondale-il"},
+    {"name":"Johnston City","slug":"johnston-city-il"},
+    {"name":"Energy","slug":"energy-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"healthcare-retail",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southern-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Mattoon",
+  "slug": "mattoon-il",
+  "county": "Coles County",
+  "population": 16510,
+  "zip_codes": [
+    "61938"
+  ],
+  "landmarks": [
+    "Peterson Park",
+    "Lake Mattoon",
+    "Mattoon Depot",
+    "Burgess-Osborne Auditorium",
+    "Douglas-Hart Nature Center"
+  ],
+  "nearby_cities": [
+    {"name":"Charleston","slug":"charleston-il"},
+    {"name":"Sullivan","slug":"sullivan-il"},
+    {"name":"Tuscola","slug":"tuscola-il"},
+    {"name":"Effingham","slug":"effingham-il"},
+    {"name":"Neoga","slug":"neoga-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"manufacturing-transportation",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"east-central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Matteson",
+  "slug": "matteson-il",
+  "county": "Cook County",
+  "population": 19280,
+  "zip_codes": [
+    "60443"
+  ],
+  "landmarks": [
+    "Lincoln Mall Redevelopment District",
+    "Matteson Community Center",
+    "Woodgate Park",
+    "Matteson Metra Station",
+    "Oakwood Recreation Center"
+  ],
+  "nearby_cities": [
+    {"name":"Park Forest","slug":"park-forest-il"},
+    {"name":"Country Club Hills","slug":"country-club-hills-il"},
+    {"name":"Richton Park","slug":"richton-park-il"},
+    {"name":"Tinley Park","slug":"tinley-park-il"},
+    {"name":"Frankfort","slug":"frankfort-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"retail-logistics",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-south-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Maywood",
+  "slug": "maywood-il",
+  "county": "Cook County",
+  "population": 23210,
+  "zip_codes": [
+    "60153"
+  ],
+  "landmarks": [
+    "Loyola University Medical Center",
+    "Maywood Park",
+    "Veterans Memorial Park",
+    "Maywood Public Library",
+    "Roosevelt Road Business District"
+  ],
+  "nearby_cities": [
+    {"name":"Melrose Park","slug":"melrose-park-il"},
+    {"name":"Broadview","slug":"broadview-il"},
+    {"name":"Forest Park","slug":"forest-park-il"},
+    {"name":"Bellwood","slug":"bellwood-il"},
+    {"name":"Oak Park","slug":"oak-park-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"healthcare-professional-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "McHenry",
+  "slug": "mchenry-il",
+  "county": "McHenry County",
+  "population": 27960,
+  "zip_codes": [
+    "60050",
+    "60051"
+  ],
+  "landmarks": [
+    "McHenry Riverwalk",
+    "Petersen Park",
+    "Moraine Hills State Park",
+    "Fox River",
+    "Veterans Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Johnsburg","slug":"johnsburg-il"},
+    {"name":"Crystal Lake","slug":"crystal-lake-il"},
+    {"name":"Wonder Lake","slug":"wonder-lake-il"},
+    {"name":"Lakemoor","slug":"lakemoor-il"},
+    {"name":"Island Lake","slug":"island-lake-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-lakes",
+  "economy_type":"retail-tourism",
+  "housing_profile":"regional-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-northwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Melrose Park",
+  "slug": "melrose-park-il",
+  "county": "Cook County",
+  "population": 24780,
+  "zip_codes": [
+    "60160",
+    "60161",
+    "60164"
+  ],
+  "landmarks": [
+    "Frank Lloyd Wright Home Studio District",
+    "Bulger Park",
+    "Stevenson Park",
+    "Winston Plaza",
+    "West Lake Street Business Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Maywood","slug":"maywood-il"},
+    {"name":"River Grove","slug":"river-grove-il"},
+    {"name":"Elmwood Park","slug":"elmwood-park-il"},
+    {"name":"Bellwood","slug":"bellwood-il"},
+    {"name":"Franklin Park","slug":"franklin-park-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Moline",
+  "slug": "moline-il",
+  "county": "Rock Island County",
+  "population": 42460,
+  "zip_codes": [
+    "61265",
+    "61266"
+  ],
+  "landmarks": [
+    "John Deere Pavilion",
+    "Vibrant Arena at The MARK",
+    "Ben Butterworth Parkway",
+    "TaxSlayer Center",
+    "Mississippi Riverfront"
+  ],
+  "nearby_cities": [
+    {"name":"Rock Island","slug":"rock-island-il"},
+    {"name":"East Moline","slug":"east-moline-il"},
+    {"name":"Silvis","slug":"silvis-il"},
+    {"name":"Bettendorf","slug":"bettendorf-ia"},
+    {"name":"Davenport","slug":"davenport-ia"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"manufacturing-corporate-services",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"quad-cities",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Monmouth",
+  "slug": "monmouth-il",
+  "county": "Warren County",
+  "population": 8970,
+  "zip_codes": [
+    "61462"
+  ],
+  "landmarks": [
+    "Monmouth College",
+    "Buchanan Center for the Arts",
+    "Citizens Lake & Park",
+    "Warren County History Museum",
+    "Pattee Plaza"
+  ],
+  "nearby_cities": [
+    {"name":"Galesburg","slug":"galesburg-il"},
+    {"name":"Macomb","slug":"macomb-il"},
+    {"name":"Roseville","slug":"roseville-il"},
+    {"name":"Kirkwood","slug":"kirkwood-il"},
+    {"name":"Cameron","slug":"cameron-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"rolling-plains",
+  "economy_type":"education-agriculture",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"west-central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Morton",
+  "slug": "morton-il",
+  "county": "Tazewell County",
+  "population": 17640,
+  "zip_codes": [
+    "61550"
+  ],
+  "landmarks": [
+    "Pumpkin Capital Welcome Center",
+    "Freedom Hall",
+    "Northwood Park",
+    "Potter Park",
+    "Birkey's Farm Store Museum"
+  ],
+  "nearby_cities": [
+    {"name":"East Peoria","slug":"east-peoria-il"},
+    {"name":"Peoria","slug":"peoria-il"},
+    {"name":"Washington","slug":"washington-il"},
+    {"name":"Pekin","slug":"pekin-il"},
+    {"name":"Groveland","slug":"groveland-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"manufacturing-agriculture",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-peoria",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Mount Prospect",
+  "slug": "mount-prospect-il",
+  "county": "Cook County",
+  "population": 56590,
+  "zip_codes": [
+    "60056"
+  ],
+  "landmarks": [
+    "Randhurst Village",
+    "Lions Memorial Park",
+    "Mount Prospect Golf Club",
+    "Busse Woods",
+    "Downtown Mount Prospect"
+  ],
+  "nearby_cities": [
+    {"name":"Des Plaines","slug":"des-plaines-il"},
+    {"name":"Arlington Heights","slug":"arlington-heights-il"},
+    {"name":"Prospect Heights","slug":"prospect-heights-il"},
+    {"name":"Elk Grove Village","slug":"elk-grove-village-il"},
+    {"name":"Rolling Meadows","slug":"rolling-meadows-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"healthcare-corporate-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-northwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Mundelein",
+  "slug": "mundelein-il",
+  "county": "Lake County",
+  "population": 32080,
+  "zip_codes": [
+    "60060"
+  ],
+  "landmarks": [
+    "Diamond Lake",
+    "Kracklauer Park",
+    "Barefoot Bay Aquatic Center",
+    "Mundelein Park & Recreation District",
+    "Tighthead Brewing Company"
+  ],
+  "nearby_cities": [
+    {"name":"Libertyville","slug":"libertyville-il"},
+    {"name":"Vernon Hills","slug":"vernon-hills-il"},
+    {"name":"Grayslake","slug":"grayslake-il"},
+    {"name":"Lake Zurich","slug":"lake-zurich-il"},
+    {"name":"Wauconda","slug":"wauconda-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"glacial-plains",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-north-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Naperville",
+  "slug": "naperville-il",
+  "county": "DuPage County",
+  "population": 150250,
+  "zip_codes": [
+    "60540",
+    "60563",
+    "60564",
+    "60565"
+  ],
+  "landmarks": [
+    "Naperville Riverwalk",
+    "Naper Settlement",
+    "Centennial Beach",
+    "DuPage Children's Museum",
+    "Downtown Naperville"
+  ],
+  "nearby_cities": [
+    {"name":"Aurora","slug":"aurora-il"},
+    {"name":"Lisle","slug":"lisle-il"},
+    {"name":"Warrenville","slug":"warrenville-il"},
+    {"name":"Woodridge","slug":"woodridge-il"},
+    {"name":"Bolingbrook","slug":"bolingbrook-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"technology-healthcare",
+  "housing_profile":"affluent-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Normal",
+  "slug": "normal-il",
+  "county": "McLean County",
+  "population": 52920,
+  "zip_codes": [
+    "61761",
+    "61790"
+  ],
+  "landmarks": [
+    "Illinois State University",
+    "Children's Discovery Museum",
+    "Constitution Trail",
+    "Uptown Normal",
+    "Maxwell Park"
+  ],
+  "nearby_cities": [
+    {"name":"Bloomington","slug":"bloomington-il"},
+    {"name":"Downs","slug":"downs-il"},
+    {"name":"Hudson","slug":"hudson-il"},
+    {"name":"Towanda","slug":"towanda-il"},
+    {"name":"Lexington","slug":"lexington-il"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-insurance",
+  "housing_profile":"college-town",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "North Chicago",
+  "slug": "north-chicago-il",
+  "county": "Lake County",
+  "population": 30240,
+  "zip_codes": [
+    "60064",
+    "60086"
+  ],
+  "landmarks": [
+    "Naval Station Great Lakes",
+    "Rosalind Franklin University",
+    "Foss Park",
+    "Greenbelt Forest Preserve",
+    "North Chicago Veterans Affairs Medical Center"
+  ],
+  "nearby_cities": [
+    {"name":"Waukegan","slug":"waukegan-il"},
+    {"name":"Lake Bluff","slug":"lake-bluff-il"},
+    {"name":"Libertyville","slug":"libertyville-il"},
+    {"name":"Gurnee","slug":"gurnee-il"},
+    {"name":"Lake Forest","slug":"lake-forest-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lakefront",
+  "economy_type":"military-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-north-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Northbrook",
+  "slug": "northbrook-il",
+  "county": "Cook County",
+  "population": 35280,
+  "zip_codes": [
+    "60062",
+    "60065"
+  ],
+  "landmarks": [
+    "Chicago Botanic Garden",
+    "Techny Prairie Park",
+    "Northbrook Court",
+    "Village Green Park",
+    "Sportsman's Country Club"
+  ],
+  "nearby_cities": [
+    {"name":"Glenview","slug":"glenview-il"},
+    {"name":"Deerfield","slug":"deerfield-il"},
+    {"name":"Northfield","slug":"northfield-il"},
+    {"name":"Highland Park","slug":"highland-park-il"},
+    {"name":"Prospect Heights","slug":"prospect-heights-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"corporate-professional-services",
+  "housing_profile":"affluent-suburban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-north-shore",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Oak Lawn",
+  "slug": "oak-lawn-il",
+  "county": "Cook County",
+  "population": 56710,
+  "zip_codes": [
+    "60453",
+    "60454"
+  ],
+  "landmarks": [
+    "Chicago Ridge Mall",
+    "Oak Lawn Pavilion",
+    "Centennial Park",
+    "Advocate Christ Medical Center",
+    "Lake Shore Park"
+  ],
+  "nearby_cities": [
+    {"name":"Evergreen Park","slug":"evergreen-park-il"},
+    {"name":"Chicago Ridge","slug":"chicago-ridge-il"},
+    {"name":"Bridgeview","slug":"bridgeview-il"},
+    {"name":"Burbank","slug":"burbank-il"},
+    {"name":"Hometown","slug":"hometown-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"healthcare-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-southwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Oak Park",
+  "slug": "oak-park-il",
+  "county": "Cook County",
+  "population": 54010,
+  "zip_codes": [
+    "60301",
+    "60302",
+    "60304"
+  ],
+  "landmarks": [
+    "Frank Lloyd Wright Home and Studio",
+    "Ernest Hemingway Birthplace Museum",
+    "Scoville Park",
+    "Oak Park Conservatory",
+    "Pleasant Home"
+  ],
+  "nearby_cities": [
+    {"name":"Chicago","slug":"chicago-il"},
+    {"name":"Berwyn","slug":"berwyn-il"},
+    {"name":"Forest Park","slug":"forest-park-il"},
+    {"name":"River Forest","slug":"river-forest-il"},
+    {"name":"Maywood","slug":"maywood-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-professional-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"mature-growth",
+  "service_environment":"chicago-metro",
+  "property_mix":"high-density-mixed-use"
+},
+{
+  "city": "O'Fallon",
+  "slug": "ofallon-il",
+  "county": "St. Clair County",
+  "population": 33280,
+  "zip_codes": [
+    "62269"
+  ],
+  "landmarks": [
+    "O'Fallon Family Sports Park",
+    "Rock Springs Park",
+    "St. Clair Bowl",
+    "O'Fallon Community Park",
+    "Downtown O'Fallon"
+  ],
+  "nearby_cities": [
+    {"name":"Shiloh","slug":"shiloh-il"},
+    {"name":"Fairview Heights","slug":"fairview-heights-il"},
+    {"name":"Swansea","slug":"swansea-il"},
+    {"name":"Belleville","slug":"belleville-il"},
+    {"name":"Scott Air Force Base","slug":"scott-air-force-base-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"healthcare-defense",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"st-louis-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Orland Park",
+  "slug": "orland-park-il",
+  "county": "Cook County",
+  "population": 58990,
+  "zip_codes": [
+    "60462",
+    "60467"
+  ],
+  "landmarks": [
+    "Orland Square Mall",
+    "Centennial Park",
+    "Lake Sedgewick",
+    "Marcus Orland Park Cinema",
+    "Centennial Park Aquatic Center"
+  ],
+  "nearby_cities": [
+    {"name":"Tinley Park","slug":"tinley-park-il"},
+    {"name":"Homer Glen","slug":"homer-glen-il"},
+    {"name":"Palos Heights","slug":"palos-heights-il"},
+    {"name":"Mokena","slug":"mokena-il"},
+    {"name":"Oak Forest","slug":"oak-forest-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"retail-healthcare",
+  "housing_profile":"affluent-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-southwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Oswego",
+  "slug": "oswego-il",
+  "county": "Kendall County",
+  "population": 35680,
+  "zip_codes": [
+    "60543"
+  ],
+  "landmarks": [
+    "Hudson Crossing Park",
+    "Fox Bend Golf Course",
+    "Prairie Point Community Park",
+    "Downtown Oswego",
+    "Fox River"
+  ],
+  "nearby_cities": [
+    {"name":"Aurora","slug":"aurora-il"},
+    {"name":"Montgomery","slug":"montgomery-il"},
+    {"name":"Yorkville","slug":"yorkville-il"},
+    {"name":"Naperville","slug":"naperville-il"},
+    {"name":"Plainfield","slug":"plainfield-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"professional-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"fox-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Palatine",
+  "slug": "palatine-il",
+  "county": "Cook County",
+  "population": 67540,
+  "zip_codes": [
+    "60067",
+    "60074",
+    "60078",
+    "60095"
+  ],
+  "landmarks": [
+    "Deer Grove Forest Preserve",
+    "Downtown Palatine",
+    "Twin Lakes Recreation Area",
+    "Palatine Hills Golf Course",
+    "Harper College"
+  ],
+  "nearby_cities": [
+    {"name":"Arlington Heights","slug":"arlington-heights-il"},
+    {"name":"Rolling Meadows","slug":"rolling-meadows-il"},
+    {"name":"Hoffman Estates","slug":"hoffman-estates-il"},
+    {"name":"Inverness","slug":"inverness-il"},
+    {"name":"Buffalo Grove","slug":"buffalo-grove-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-corporate-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-northwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Park Forest",
+  "slug": "park-forest-il",
+  "county": "Cook County",
+  "population": 21480,
+  "zip_codes": [
+    "60466"
+  ],
+  "landmarks": [
+    "Central Park",
+    "Freedom Hall Performing Arts Center",
+    "Somonauk Nature Preserve",
+    "Park Forest Aqua Center",
+    "Downtown Park Forest"
+  ],
+  "nearby_cities": [
+    {"name":"Matteson","slug":"matteson-il"},
+    {"name":"Richton Park","slug":"richton-park-il"},
+    {"name":"Chicago Heights","slug":"chicago-heights-il"},
+    {"name":"University Park","slug":"university-park-il"},
+    {"name":"Country Club Hills","slug":"country-club-hills-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-healthcare",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-south-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Pekin",
+  "slug": "pekin-il",
+  "county": "Tazewell County",
+  "population": 31820,
+  "zip_codes": [
+    "61554",
+    "61555"
+  ],
+  "landmarks": [
+    "Mineral Springs Park",
+    "McNaughton Park",
+    "DragonLand Water Park",
+    "Avanti's Dome",
+    "Pekin Riverfront"
+  ],
+  "nearby_cities": [
+    {"name":"East Peoria","slug":"east-peoria-il"},
+    {"name":"Morton","slug":"morton-il"},
+    {"name":"Peoria","slug":"peoria-il"},
+    {"name":"Creve Coeur","slug":"creve-coeur-il"},
+    {"name":"North Pekin","slug":"north-pekin-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"greater-peoria",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Peoria",
+  "slug": "peoria-il",
+  "county": "Peoria County",
+  "population": 111850,
+  "zip_codes": [
+    "61602",
+    "61603",
+    "61604",
+    "61605",
+    "61606",
+    "61614",
+    "61615"
+  ],
+  "landmarks": [
+    "Peoria Riverfront Museum",
+    "Peoria Zoo",
+    "Grandview Drive",
+    "Dozer Park",
+    "Luthy Botanical Garden"
+  ],
+  "nearby_cities": [
+    {"name":"East Peoria","slug":"east-peoria-il"},
+    {"name":"West Peoria","slug":"west-peoria-il"},
+    {"name":"Pekin","slug":"pekin-il"},
+    {"name":"Washington","slug":"washington-il"},
+    {"name":"Morton","slug":"morton-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"healthcare-manufacturing",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-peoria",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Plainfield",
+  "slug": "plainfield-il",
+  "county": "Will County",
+  "population": 45420,
+  "zip_codes": [
+    "60544",
+    "60585",
+    "60586"
+  ],
+  "landmarks": [
+    "Downtown Plainfield",
+    "Lake Renwick Preserve",
+    "Settlers' Park",
+    "Plainfield Riverfront",
+    "Gregory B. Bott Park"
+  ],
+  "nearby_cities": [
+    {"name":"Joliet","slug":"joliet-il"},
+    {"name":"Naperville","slug":"naperville-il"},
+    {"name":"Oswego","slug":"oswego-il"},
+    {"name":"Shorewood","slug":"shorewood-il"},
+    {"name":"Bolingbrook","slug":"bolingbrook-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"professional-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"chicago-southwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Prospect Heights",
+  "slug": "prospect-heights-il",
+  "county": "Cook County",
+  "population": 16540,
+  "zip_codes": [
+    "60070"
+  ],
+  "landmarks": [
+    "Isaak Walton Park",
+    "Prospect Heights City Hall",
+    "Rob Roy Golf Course",
+    "School Street Business District",
+    "Claire Lane Park"
+  ],
+  "nearby_cities": [
+    {"name":"Mount Prospect","slug":"mount-prospect-il"},
+    {"name":"Arlington Heights","slug":"arlington-heights-il"},
+    {"name":"Wheeling","slug":"wheeling-il"},
+    {"name":"Northbrook","slug":"northbrook-il"},
+    {"name":"Buffalo Grove","slug":"buffalo-grove-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-northwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Quincy",
+  "slug": "quincy-il",
+  "county": "Adams County",
+  "population": 39580,
+  "zip_codes": [
+    "62301",
+    "62305",
+    "62306"
+  ],
+  "landmarks": [
+    "Villa Kathrine",
+    "Quincy Museum",
+    "Washington Park",
+    "Oakley-Lindsay Center",
+    "Mississippi Riverfront"
+  ],
+  "nearby_cities": [
+    {"name":"Mendon","slug":"mendon-il"},
+    {"name":"Payson","slug":"payson-il"},
+    {"name":"Hamilton","slug":"hamilton-il"},
+    {"name":"West Quincy","slug":"west-quincy-mo"},
+    {"name":"Canton","slug":"canton-mo"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-bluffs",
+  "economy_type":"healthcare-manufacturing",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"west-central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rantoul",
+  "slug": "rantoul-il",
+  "county": "Champaign County",
+  "population": 12190,
+  "zip_codes": [
+    "61866"
+  ],
+  "landmarks": [
+    "Chanute Air Museum",
+    "Wabash Park",
+    "Glenwood Park",
+    "Rantoul Family Sports Complex",
+    "Downtown Rantoul"
+  ],
+  "nearby_cities": [
+    {"name":"Champaign","slug":"champaign-il"},
+    {"name":"Paxton","slug":"paxton-il"},
+    {"name":"Gifford","slug":"gifford-il"},
+    {"name":"Thomasboro","slug":"thomasboro-il"},
+    {"name":"Ludlow","slug":"ludlow-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"logistics-manufacturing",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"east-central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rock Island",
+  "slug": "rock-island-il",
+  "county": "Rock Island County",
+  "population": 37410,
+  "zip_codes": [
+    "61201",
+    "61204"
+  ],
+  "landmarks": [
+    "Rock Island Arsenal",
+    "Augustana College",
+    "Schwiebert Riverfront Park",
+    "Circa '21 Dinner Playhouse",
+    "Black Hawk State Historic Site"
+  ],
+  "nearby_cities": [
+    {"name":"Moline","slug":"moline-il"},
+    {"name":"East Moline","slug":"east-moline-il"},
+    {"name":"Silvis","slug":"silvis-il"},
+    {"name":"Davenport","slug":"davenport-ia"},
+    {"name":"Bettendorf","slug":"bettendorf-ia"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"manufacturing-defense",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"quad-cities",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rockford",
+  "slug": "rockford-il",
+  "county": "Winnebago County",
+  "population": 148660,
+  "zip_codes": [
+    "61101",
+    "61102",
+    "61103",
+    "61104",
+    "61107",
+    "61108",
+    "61109",
+    "61112",
+    "61114"
+  ],
+  "landmarks": [
+    "Anderson Japanese Gardens",
+    "Nicholas Conservatory",
+    "Burpee Museum of Natural History",
+    "Coronado Performing Arts Center",
+    "Klehm Arboretum"
+  ],
+  "nearby_cities": [
+    {"name":"Loves Park","slug":"loves-park-il"},
+    {"name":"Machesney Park","slug":"machesney-park-il"},
+    {"name":"Belvidere","slug":"belvidere-il"},
+    {"name":"Cherry Valley","slug":"cherry-valley-il"},
+    {"name":"Roscoe","slug":"roscoe-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"rockford-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rolling Meadows",
+  "slug": "rolling-meadows-il",
+  "county": "Cook County",
+  "population": 24480,
+  "zip_codes": [
+    "60008"
+  ],
+  "landmarks": [
+    "Kimball Hill Park",
+    "Rolling Meadows Park District",
+    "Meadowbrook Park",
+    "Nelson Sports Complex",
+    "Creekside Park"
+  ],
+  "nearby_cities": [
+    {"name":"Arlington Heights","slug":"arlington-heights-il"},
+    {"name":"Palatine","slug":"palatine-il"},
+    {"name":"Mount Prospect","slug":"mount-prospect-il"},
+    {"name":"Schaumburg","slug":"schaumburg-il"},
+    {"name":"Prospect Heights","slug":"prospect-heights-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"corporate-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-northwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Romeoville",
+  "slug": "romeoville-il",
+  "county": "Will County",
+  "population": 39710,
+  "zip_codes": [
+    "60446"
+  ],
+  "landmarks": [
+    "Isle a la Cache Museum",
+    "Lewis University Airport",
+    "Volunteer Park",
+    "Mistwood Golf Club",
+    "Centennial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Bolingbrook","slug":"bolingbrook-il"},
+    {"name":"Joliet","slug":"joliet-il"},
+    {"name":"Plainfield","slug":"plainfield-il"},
+    {"name":"Lockport","slug":"lockport-il"},
+    {"name":"Lemont","slug":"lemont-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"logistics-warehousing",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"chicago-southwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "St. Charles",
+  "slug": "st-charles-il",
+  "county": "Kane County",
+  "population": 33410,
+  "zip_codes": [
+    "60174",
+    "60175"
+  ],
+  "landmarks": [
+    "Arcada Theatre",
+    "Pottawatomie Park",
+    "Fox River Trail",
+    "Hotel Baker",
+    "Downtown St. Charles"
+  ],
+  "nearby_cities": [
+    {"name":"Geneva","slug":"geneva-il"},
+    {"name":"Batavia","slug":"batavia-il"},
+    {"name":"South Elgin","slug":"south-elgin-il"},
+    {"name":"West Chicago","slug":"west-chicago-il"},
+    {"name":"Elgin","slug":"elgin-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"retail-tourism",
+  "housing_profile":"affluent-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"fox-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Schaumburg",
+  "slug": "schaumburg-il",
+  "county": "Cook County",
+  "population": 78320,
+  "zip_codes": [
+    "60159",
+    "60173",
+    "60193",
+    "60194",
+    "60195"
+  ],
+  "landmarks": [
+    "Woodfield Mall",
+    "Legoland Discovery Center",
+    "Schaumburg Convention Center",
+    "Spring Valley Nature Center",
+    "Trickster Cultural Center"
+  ],
+  "nearby_cities": [
+    {"name":"Hoffman Estates","slug":"hoffman-estates-il"},
+    {"name":"Rolling Meadows","slug":"rolling-meadows-il"},
+    {"name":"Palatine","slug":"palatine-il"},
+    {"name":"Elk Grove Village","slug":"elk-grove-village-il"},
+    {"name":"Hanover Park","slug":"hanover-park-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"corporate-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-northwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Shorewood",
+  "slug": "shorewood-il",
+  "county": "Will County",
+  "population": 18360,
+  "zip_codes": [
+    "60404"
+  ],
+  "landmarks": [
+    "Hammel Woods",
+    "Towne Center",
+    "Shorewood Village Hall",
+    "River Crossing Park",
+    "Shorewood-Troy Public Library"
+  ],
+  "nearby_cities": [
+    {"name":"Joliet","slug":"joliet-il"},
+    {"name":"Plainfield","slug":"plainfield-il"},
+    {"name":"Minooka","slug":"minooka-il"},
+    {"name":"Channahon","slug":"channahon-il"},
+    {"name":"Romeoville","slug":"romeoville-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"joliet-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Skokie",
+  "slug": "skokie-il",
+  "county": "Cook County",
+  "population": 67420,
+  "zip_codes": [
+    "60076",
+    "60077"
+  ],
+  "landmarks": [
+    "Westfield Old Orchard",
+    "Illinois Holocaust Museum",
+    "Emily Oaks Nature Center",
+    "Skokie Northshore Sculpture Park",
+    "North Shore Center for the Performing Arts"
+  ],
+  "nearby_cities": [
+    {"name":"Evanston","slug":"evanston-il"},
+    {"name":"Lincolnwood","slug":"lincolnwood-il"},
+    {"name":"Niles","slug":"niles-il"},
+    {"name":"Morton Grove","slug":"morton-grove-il"},
+    {"name":"Wilmette","slug":"wilmette-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"healthcare-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-north-shore",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "South Elgin",
+  "slug": "south-elgin-il",
+  "county": "Kane County",
+  "population": 23710,
+  "zip_codes": [
+    "60177"
+  ],
+  "landmarks": [
+    "Fox River Trolley Museum",
+    "Panton Mill Park",
+    "SEBA Park",
+    "Fox River Trail",
+    "Village Hall Campus"
+  ],
+  "nearby_cities": [
+    {"name":"Elgin","slug":"elgin-il"},
+    {"name":"St. Charles","slug":"st-charles-il"},
+    {"name":"Geneva","slug":"geneva-il"},
+    {"name":"Bartlett","slug":"bartlett-il"},
+    {"name":"Wayne","slug":"wayne-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"fox-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "South Holland",
+  "slug": "south-holland-il",
+  "county": "Cook County",
+  "population": 21680,
+  "zip_codes": [
+    "60473"
+  ],
+  "landmarks": [
+    "Veterans Memorial Park",
+    "South Holland Community Center",
+    "Pace Park",
+    "Gouwens Park",
+    "South Holland Historical Society"
+  ],
+  "nearby_cities": [
+    {"name":"Dolton","slug":"dolton-il"},
+    {"name":"Lansing","slug":"lansing-il"},
+    {"name":"Harvey","slug":"harvey-il"},
+    {"name":"Calumet City","slug":"calumet-city-il"},
+    {"name":"Homewood","slug":"homewood-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"healthcare-professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-south-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Springfield",
+  "slug": "springfield-il",
+  "county": "Sangamon County",
+  "population": 114510,
+  "zip_codes": [
+    "62701",
+    "62702",
+    "62703",
+    "62704",
+    "62707",
+    "62711"
+  ],
+  "landmarks": [
+    "Abraham Lincoln Presidential Library and Museum",
+    "Illinois State Capitol",
+    "Lincoln Home National Historic Site",
+    "Washington Park",
+    "Henson Robinson Zoo"
+  ],
+  "nearby_cities": [
+    {"name":"Chatham","slug":"chatham-il"},
+    {"name":"Rochester","slug":"rochester-il"},
+    {"name":"Sherman","slug":"sherman-il"},
+    {"name":"Jerome","slug":"jerome-il"},
+    {"name":"Leland Grove","slug":"leland-grove-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"rolling-plains",
+  "economy_type":"government-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"capital-region",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Sterling",
+  "slug": "sterling-il",
+  "county": "Whiteside County",
+  "population": 14610,
+  "zip_codes": [
+    "61081"
+  ],
+  "landmarks": [
+    "Sinnissippi Park",
+    "Dillon Home Museum",
+    "Sterling Riverfront",
+    "Westwood Sports Complex",
+    "Rock River"
+  ],
+  "nearby_cities": [
+    {"name":"Rock Falls","slug":"rock-falls-il"},
+    {"name":"Dixon","slug":"dixon-il"},
+    {"name":"Morrison","slug":"morrison-il"},
+    {"name":"Prophetstown","slug":"prophetstown-il"},
+    {"name":"Milledgeville","slug":"milledgeville-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"manufacturing-agriculture",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"northwest-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Streamwood",
+  "slug": "streamwood-il",
+  "county": "Cook County",
+  "population": 38280,
+  "zip_codes": [
+    "60107"
+  ],
+  "landmarks": [
+    "Hoosier Grove Park",
+    "Bode Lake",
+    "Poplar Creek Forest Preserve",
+    "Streamwood Oaks Golf Club",
+    "Veterans Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Bartlett","slug":"bartlett-il"},
+    {"name":"Hanover Park","slug":"hanover-park-il"},
+    {"name":"Schaumburg","slug":"schaumburg-il"},
+    {"name":"Elgin","slug":"elgin-il"},
+    {"name":"Hoffman Estates","slug":"hoffman-estates-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-northwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Sycamore",
+  "slug": "sycamore-il",
+  "county": "DeKalb County",
+  "population": 18370,
+  "zip_codes": [
+    "60178"
+  ],
+  "landmarks": [
+    "Sycamore Historic District",
+    "Sycamore Park District",
+    "DeKalb County Courthouse",
+    "Sycamore Speedway",
+    "Sargent Park"
+  ],
+  "nearby_cities": [
+    {"name":"DeKalb","slug":"dekalb-il"},
+    {"name":"Genoa","slug":"genoa-il"},
+    {"name":"Cortland","slug":"cortland-il"},
+    {"name":"Maple Park","slug":"maple-park-il"},
+    {"name":"Kirkland","slug":"kirkland-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture-manufacturing",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dekalb-area",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Tinley Park",
+  "slug": "tinley-park-il",
+  "county": "Cook County",
+  "population": 55180,
+  "zip_codes": [
+    "60477",
+    "60487"
+  ],
+  "landmarks": [
+    "Credit Union 1 Amphitheatre",
+    "Downtown Tinley Park",
+    "Centennial Park",
+    "White Water Canyon Water Park",
+    "Tinley Park Convention Center"
+  ],
+  "nearby_cities": [
+    {"name":"Orland Park","slug":"orland-park-il"},
+    {"name":"Oak Forest","slug":"oak-forest-il"},
+    {"name":"Mokena","slug":"mokena-il"},
+    {"name":"Frankfort","slug":"frankfort-il"},
+    {"name":"Matteson","slug":"matteson-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"retail-entertainment",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-southwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Urbana",
+  "slug": "urbana-il",
+  "county": "Champaign County",
+  "population": 38360,
+  "zip_codes": [
+    "61801",
+    "61802",
+    "61803"
+  ],
+  "landmarks": [
+    "University of Illinois Arboretum",
+    "Krannert Center for the Performing Arts",
+    "Meadowbrook Park",
+    "Spurlock Museum",
+    "Downtown Urbana"
+  ],
+  "nearby_cities": [
+    {"name":"Champaign","slug":"champaign-il"},
+    {"name":"Savoy","slug":"savoy-il"},
+    {"name":"St. Joseph","slug":"st-joseph-il"},
+    {"name":"Mahomet","slug":"mahomet-il"},
+    {"name":"Tolono","slug":"tolono-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-research",
+  "housing_profile":"college-town",
+  "growth_pattern":"steady-growth",
+  "service_environment":"east-central-illinois",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Vernon Hills",
+  "slug": "vernon-hills-il",
+  "county": "Lake County",
+  "population": 26890,
+  "zip_codes": [
+    "60061"
+  ],
+  "landmarks": [
+    "Hawthorn Mall",
+    "Century Park",
+    "Cuneo Mansion and Gardens",
+    "Vernon Hills Athletic Complex",
+    "Big Bear Lake"
+  ],
+  "nearby_cities": [
+    {"name":"Libertyville","slug":"libertyville-il"},
+    {"name":"Mundelein","slug":"mundelein-il"},
+    {"name":"Lincolnshire","slug":"lincolnshire-il"},
+    {"name":"Buffalo Grove","slug":"buffalo-grove-il"},
+    {"name":"Lake Forest","slug":"lake-forest-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"glacial-plains",
+  "economy_type":"retail-corporate-services",
+  "housing_profile":"affluent-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-north-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Villa Park",
+  "slug": "villa-park-il",
+  "county": "DuPage County",
+  "population": 21790,
+  "zip_codes": [
+    "60181"
+  ],
+  "landmarks": [
+    "Lufkin Park",
+    "Ardmore Business District",
+    "Sugar Creek Golf Course",
+    "Iowa Community Center",
+    "Prairie Path"
+  ],
+  "nearby_cities": [
+    {"name":"Elmhurst","slug":"elmhurst-il"},
+    {"name":"Lombard","slug":"lombard-il"},
+    {"name":"Oak Brook","slug":"oak-brook-il"},
+    {"name":"Addison","slug":"addison-il"},
+    {"name":"Glen Ellyn","slug":"glen-ellyn-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Warrenville",
+  "slug": "warrenville-il",
+  "county": "DuPage County",
+  "population": 13890,
+  "zip_codes": [
+    "60555"
+  ],
+  "landmarks": [
+    "Blackwell Forest Preserve",
+    "St. James Farm",
+    "Cerny Park",
+    "Cantera Business District",
+    "Illinois Prairie Path"
+  ],
+  "nearby_cities": [
+    {"name":"Naperville","slug":"naperville-il"},
+    {"name":"Winfield","slug":"winfield-il"},
+    {"name":"West Chicago","slug":"west-chicago-il"},
+    {"name":"Wheaton","slug":"wheaton-il"},
+    {"name":"Lisle","slug":"lisle-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"technology-professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Washington",
+  "slug": "washington-il",
+  "county": "Tazewell County",
+  "population": 16390,
+  "zip_codes": [
+    "61571"
+  ],
+  "landmarks": [
+    "Washington Park District",
+    "Five Points Washington",
+    "Washington Historical Society",
+    "Sunnyland Plaza",
+    "South Park"
+  ],
+  "nearby_cities": [
+    {"name":"East Peoria","slug":"east-peoria-il"},
+    {"name":"Peoria","slug":"peoria-il"},
+    {"name":"Morton","slug":"morton-il"},
+    {"name":"Metamora","slug":"metamora-il"},
+    {"name":"Eureka","slug":"eureka-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"healthcare-professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-peoria",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Waukegan",
+  "slug": "waukegan-il",
+  "county": "Lake County",
+  "population": 87680,
+  "zip_codes": [
+    "60079",
+    "60085",
+    "60087"
+  ],
+  "landmarks": [
+    "Waukegan Harbor",
+    "Genesee Theatre",
+    "Illinois Beach State Park",
+    "Bowen Park",
+    "Waukegan Municipal Beach"
+  ],
+  "nearby_cities": [
+    {"name":"North Chicago","slug":"north-chicago-il"},
+    {"name":"Gurnee","slug":"gurnee-il"},
+    {"name":"Park City","slug":"park-city-il"},
+    {"name":"Zion","slug":"zion-il"},
+    {"name":"Lake Bluff","slug":"lake-bluff-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lakefront",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-north-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "West Chicago",
+  "slug": "west-chicago-il",
+  "county": "DuPage County",
+  "population": 25840,
+  "zip_codes": [
+    "60185",
+    "60186"
+  ],
+  "landmarks": [
+    "Reed-Keppler Park",
+    "Kline Creek Farm",
+    "West Chicago City Museum",
+    "Prairie Landing Golf Club",
+    "DuPage Airport"
+  ],
+  "nearby_cities": [
+    {"name":"Winfield","slug":"winfield-il"},
+    {"name":"Warrenville","slug":"warrenville-il"},
+    {"name":"Geneva","slug":"geneva-il"},
+    {"name":"St. Charles","slug":"st-charles-il"},
+    {"name":"Carol Stream","slug":"carol-stream-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Wheaton",
+  "slug": "wheaton-il",
+  "county": "DuPage County",
+  "population": 53410,
+  "zip_codes": [
+    "60187",
+    "60189"
+  ],
+  "landmarks": [
+    "Cantigny Park",
+    "Wheaton College",
+    "Cosley Zoo",
+    "Lincoln Marsh",
+    "Downtown Wheaton"
+  ],
+  "nearby_cities": [
+    {"name":"Winfield","slug":"winfield-il"},
+    {"name":"Glen Ellyn","slug":"glen-ellyn-il"},
+    {"name":"Carol Stream","slug":"carol-stream-il"},
+    {"name":"Warrenville","slug":"warrenville-il"},
+    {"name":"Lisle","slug":"lisle-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-healthcare",
+  "housing_profile":"affluent-suburban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Wheeling",
+  "slug": "wheeling-il",
+  "county": "Cook County",
+  "population": 39320,
+  "zip_codes": [
+    "60090"
+  ],
+  "landmarks": [
+    "Heritage Park",
+    "Chicago Executive Airport",
+    "Potawatomi Woods",
+    "Restaurant Row",
+    "Wheeling Town Center"
+  ],
+  "nearby_cities": [
+    {"name":"Buffalo Grove","slug":"buffalo-grove-il"},
+    {"name":"Prospect Heights","slug":"prospect-heights-il"},
+    {"name":"Arlington Heights","slug":"arlington-heights-il"},
+    {"name":"Northbrook","slug":"northbrook-il"},
+    {"name":"Mount Prospect","slug":"mount-prospect-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"hospitality-logistics",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-northwest-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Wilmette",
+  "slug": "wilmette-il",
+  "county": "Cook County",
+  "population": 27510,
+  "zip_codes": [
+    "60091"
+  ],
+  "landmarks": [
+    "Bahá'í House of Worship",
+    "Gillson Park",
+    "Wilmette Harbor",
+    "Wilmette Golf Club",
+    "Michigan Shores Club"
+  ],
+  "nearby_cities": [
+    {"name":"Evanston","slug":"evanston-il"},
+    {"name":"Kenilworth","slug":"kenilworth-il"},
+    {"name":"Winnetka","slug":"winnetka-il"},
+    {"name":"Glenview","slug":"glenview-il"},
+    {"name":"Skokie","slug":"skokie-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"lakefront",
+  "economy_type":"professional-services",
+  "housing_profile":"affluent-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-north-shore",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Winfield",
+  "slug": "winfield-il",
+  "county": "DuPage County",
+  "population": 9940,
+  "zip_codes": [
+    "60190"
+  ],
+  "landmarks": [
+    "Northwestern Medicine Central DuPage Hospital",
+    "Cantigny Park",
+    "West Branch Forest Preserve",
+    "Winfield Mounds Forest Preserve",
+    "Prairie Path"
+  ],
+  "nearby_cities": [
+    {"name":"Wheaton","slug":"wheaton-il"},
+    {"name":"West Chicago","slug":"west-chicago-il"},
+    {"name":"Carol Stream","slug":"carol-stream-il"},
+    {"name":"Warrenville","slug":"warrenville-il"},
+    {"name":"Glen Ellyn","slug":"glen-ellyn-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"healthcare",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Wood Dale",
+  "slug": "wood-dale-il",
+  "county": "DuPage County",
+  "population": 13490,
+  "zip_codes": [
+    "60191"
+  ],
+  "landmarks": [
+    "Salt Creek Golf Club",
+    "White Oaks Nature Center",
+    "Wood Dale Grove Forest Preserve",
+    "Community Park",
+    "Irving Park Road Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Bensenville","slug":"bensenville-il"},
+    {"name":"Addison","slug":"addison-il"},
+    {"name":"Elmhurst","slug":"elmhurst-il"},
+    {"name":"Itasca","slug":"itasca-il"},
+    {"name":"Elk Grove Village","slug":"elk-grove-village-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"logistics-manufacturing",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Woodridge",
+  "slug": "woodridge-il",
+  "county": "DuPage County",
+  "population": 34210,
+  "zip_codes": [
+    "60517"
+  ],
+  "landmarks": [
+    "Seven Bridges Golf Club",
+    "Cypress Cove Family Aquatic Park",
+    "Greene Valley Forest Preserve",
+    "Castaldo Park",
+    "Village Greens"
+  ],
+  "nearby_cities": [
+    {"name":"Downers Grove","slug":"downers-grove-il"},
+    {"name":"Lisle","slug":"lisle-il"},
+    {"name":"Darien","slug":"darien-il"},
+    {"name":"Bolingbrook","slug":"bolingbrook-il"},
+    {"name":"Naperville","slug":"naperville-il"}
+  ],
+  "city_type":"village",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"professional-services-technology",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"chicago-west-suburbs",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Yorkville",
+  "slug": "yorkville-il",
+  "county": "Kendall County",
+  "population": 22590,
+  "zip_codes": [
+    "60560"
+  ],
+  "landmarks": [
+    "Silver Springs State Fish and Wildlife Area",
+    "Raging Waves Waterpark",
+    "Bicentennial Riverfront Park",
+    "Fox River",
+    "Kendall County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Oswego","slug":"oswego-il"},
+    {"name":"Plano","slug":"plano-il"},
+    {"name":"Montgomery","slug":"montgomery-il"},
+    {"name":"Sugar Grove","slug":"sugar-grove-il"},
+    {"name":"Bristol","slug":"bristol-il"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"fox-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Zion",
+  "slug": "zion-il",
+  "county": "Lake County",
+  "population": 24210,
+  "zip_codes": [
+    "60099"
+  ],
+  "landmarks": [
+    "Illinois Beach State Park",
+    "Zion Park District",
+    "Shiloh Park",
+    "Zion-Benton Public Library",
+    "North Dunes Nature Preserve"
+  ],
+  "nearby_cities": [
+    {"name":"Winthrop Harbor","slug":"winthrop-harbor-il"},
+    {"name":"Waukegan","slug":"waukegan-il"},
+    {"name":"Beach Park","slug":"beach-park-il"},
+    {"name":"Pleasant Prairie","slug":"pleasant-prairie-wi"},
+    {"name":"Kenosha","slug":"kenosha-wi"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"lakefront",
+  "economy_type":"healthcare-manufacturing",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"chicago-north-suburbs",
+  "property_mix":"mixed-use"
+}
+
+
+  
+  
+]

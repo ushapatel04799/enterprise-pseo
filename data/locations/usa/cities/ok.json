@@ -1,0 +1,2559 @@
+[
+
+{
+  "city": "Oklahoma City",
+  "slug": "oklahoma-city-ok",
+  "county": "Oklahoma County",
+  "population": 702767,
+  "zip_codes": [
+    "73102",
+    "73103",
+    "73104",
+    "73105",
+    "73106"
+  ],
+  "landmarks": [
+    "Oklahoma State Capitol",
+    "Bricktown Entertainment District",
+    "Scissortail Park",
+    "National Cowboy & Western Heritage Museum",
+    "Oklahoma City National Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Edmond","slug":"edmond-ok"},
+    {"name":"Moore","slug":"moore-ok"},
+    {"name":"Midwest City","slug":"midwest-city-ok"},
+    {"name":"Yukon","slug":"yukon-ok"},
+    {"name":"Del City","slug":"del-city-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"government-energy-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Tulsa",
+  "slug": "tulsa-ok",
+  "county": "Tulsa County",
+  "population": 413066,
+  "zip_codes": [
+    "74103",
+    "74104",
+    "74105",
+    "74107",
+    "74112"
+  ],
+  "landmarks": [
+    "Gathering Place",
+    "BOK Center",
+    "Philbrook Museum of Art",
+    "Tulsa Zoo",
+    "Woodward Park"
+  ],
+  "nearby_cities": [
+    {"name":"Broken Arrow","slug":"broken-arrow-ok"},
+    {"name":"Owasso","slug":"owasso-ok"},
+    {"name":"Sand Springs","slug":"sand-springs-ok"},
+    {"name":"Jenks","slug":"jenks-ok"},
+    {"name":"Bixby","slug":"bixby-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"prairie",
+  "economy_type":"energy-aerospace-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"green-country",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Norman",
+  "slug": "norman-ok",
+  "county": "Cleveland County",
+  "population": 130046,
+  "zip_codes": [
+    "73019",
+    "73026",
+    "73069",
+    "73071",
+    "73072"
+  ],
+  "landmarks": [
+    "University of Oklahoma",
+    "Gaylord Family Oklahoma Memorial Stadium",
+    "Sam Noble Museum",
+    "Lake Thunderbird State Park",
+    "Downtown Norman"
+  ],
+  "nearby_cities": [
+    {"name":"Moore","slug":"moore-ok"},
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Newcastle","slug":"newcastle-ok"},
+    {"name":"Noble","slug":"noble-ok"},
+    {"name":"Yukon","slug":"yukon-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"education-research",
+  "housing_profile":"college-town",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Broken Arrow",
+  "slug": "broken-arrow-ok",
+  "county": "Tulsa County",
+  "population": 119194,
+  "zip_codes": [
+    "74011",
+    "74012",
+    "74014"
+  ],
+  "landmarks": [
+    "Rose District",
+    "Broken Arrow Performing Arts Center",
+    "Ray Harral Nature Park",
+    "Veterans Park",
+    "Events Park"
+  ],
+  "nearby_cities": [
+    {"name":"Tulsa","slug":"tulsa-ok"},
+    {"name":"Bixby","slug":"bixby-ok"},
+    {"name":"Jenks","slug":"jenks-ok"},
+    {"name":"Coweta","slug":"coweta-ok"},
+    {"name":"Owasso","slug":"owasso-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"prairie",
+  "economy_type":"retail-healthcare",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"tulsa-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Edmond",
+  "slug": "edmond-ok",
+  "county": "Oklahoma County",
+  "population": 98694,
+  "zip_codes": [
+    "73003",
+    "73012",
+    "73013",
+    "73025",
+    "73034"
+  ],
+  "landmarks": [
+    "University of Central Oklahoma",
+    "Arcadia Lake",
+    "Mitch Park",
+    "Downtown Edmond",
+    "Pelican Bay Aquatic Center"
+  ],
+  "nearby_cities": [
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Guthrie","slug":"guthrie-ok"},
+    {"name":"Yukon","slug":"yukon-ok"},
+    {"name":"Moore","slug":"moore-ok"},
+    {"name":"Midwest City","slug":"midwest-city-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"education-healthcare",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lawton",
+  "slug": "lawton-ok",
+  "county": "Comanche County",
+  "population": 90130,
+  "zip_codes": [
+    "73501",
+    "73505",
+    "73507"
+  ],
+  "landmarks": [
+    "Fort Sill",
+    "Museum of the Great Plains",
+    "Medicine Park",
+    "Elmer Thomas Park",
+    "Comanche National Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Duncan","slug":"duncan-ok"},
+    {"name":"Cache","slug":"cache-ok"},
+    {"name":"Elgin","slug":"elgin-ok"},
+    {"name":"Chickasha","slug":"chickasha-ok"},
+    {"name":"Altus","slug":"altus-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"military-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southwest-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Moore",
+  "slug": "moore-ok",
+  "county": "Cleveland County",
+  "population": 63340,
+  "zip_codes": [
+    "73160",
+    "73170"
+  ],
+  "landmarks": [
+    "Buck Thomas Park",
+    "Veterans Memorial Park",
+    "The Station Recreation Center",
+    "Central Park",
+    "Moore Warren Theatre"
+  ],
+  "nearby_cities": [
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Norman","slug":"norman-ok"},
+    {"name":"Del City","slug":"del-city-ok"},
+    {"name":"Midwest City","slug":"midwest-city-ok"},
+    {"name":"Yukon","slug":"yukon-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Midwest City",
+  "slug": "midwest-city-ok",
+  "county": "Oklahoma County",
+  "population": 58210,
+  "zip_codes": [
+    "73110",
+    "73130"
+  ],
+  "landmarks": [
+    "Joe B. Barnes Regional Park",
+    "Tinker Air Force Base",
+    "Charles J. Johnson Central Park",
+    "Regional Hospital",
+    "Town Center Plaza"
+  ],
+  "nearby_cities": [
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Del City","slug":"del-city-ok"},
+    {"name":"Moore","slug":"moore-ok"},
+    {"name":"Edmond","slug":"edmond-ok"},
+    {"name":"Choctaw","slug":"choctaw-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"military-aviation",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Enid",
+  "slug": "enid-ok",
+  "county": "Garfield County",
+  "population": 49910,
+  "zip_codes": [
+    "73701",
+    "73703"
+  ],
+  "landmarks": [
+    "Leonardo's Children's Museum",
+    "Government Springs Park",
+    "Stride Bank Center",
+    "Railroad Museum of Oklahoma",
+    "Downtown Enid"
+  ],
+  "nearby_cities": [
+    {"name":"Stillwater","slug":"stillwater-ok"},
+    {"name":"Ponca City","slug":"ponca-city-ok"},
+    {"name":"Kingfisher","slug":"kingfisher-ok"},
+    {"name":"Guthrie","slug":"guthrie-ok"},
+    {"name":"Perry","slug":"perry-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"prairie",
+  "economy_type":"agriculture-manufacturing",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"north-central-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Stillwater",
+  "slug": "stillwater-ok",
+  "county": "Payne County",
+  "population": 49210,
+  "zip_codes": [
+    "74074",
+    "74075"
+  ],
+  "landmarks": [
+    "Oklahoma State University",
+    "Boomer Lake Park",
+    "National Wrestling Hall of Fame",
+    "The Botanic Garden at OSU",
+    "Downtown Stillwater"
+  ],
+  "nearby_cities": [
+    {"name":"Perry","slug":"perry-ok"},
+    {"name":"Guthrie","slug":"guthrie-ok"},
+    {"name":"Cushing","slug":"cushing-ok"},
+    {"name":"Enid","slug":"enid-ok"},
+    {"name":"Edmond","slug":"edmond-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"prairie",
+  "economy_type":"education-research",
+  "housing_profile":"college-town",
+  "growth_pattern":"steady-growth",
+  "service_environment":"north-central-oklahoma",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Muskogee",
+  "slug": "muskogee-ok",
+  "county": "Muskogee County",
+  "population": 36280,
+  "zip_codes": [
+    "74401",
+    "74403"
+  ],
+  "landmarks": [
+    "Honor Heights Park",
+    "The Castle of Muskogee",
+    "Five Civilized Tribes Museum",
+    "River Country Water Park",
+    "Muskogee Civic Center"
+  ],
+  "nearby_cities": [
+    {"name":"Fort Gibson","slug":"fort-gibson-ok"},
+    {"name":"Wagoner","slug":"wagoner-ok"},
+    {"name":"Coweta","slug":"coweta-ok"},
+    {"name":"Broken Arrow","slug":"broken-arrow-ok"},
+    {"name":"Tahlequah","slug":"tahlequah-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Bartlesville",
+  "slug": "bartlesville-ok",
+  "county": "Washington County",
+  "population": 37290,
+  "zip_codes": [
+    "74003",
+    "74006"
+  ],
+  "landmarks": [
+    "Price Tower",
+    "Woolaroc Museum & Wildlife Preserve",
+    "Kiddie Park",
+    "Downtown Bartlesville",
+    "Sooner Park"
+  ],
+  "nearby_cities": [
+    {"name":"Owasso","slug":"owasso-ok"},
+    {"name":"Skiatook","slug":"skiatook-ok"},
+    {"name":"Collinsville","slug":"collinsville-ok"},
+    {"name":"Dewey","slug":"dewey-ok"},
+    {"name":"Nowata","slug":"nowata-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"prairie",
+  "economy_type":"energy-manufacturing",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"northeast-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Ardmore",
+  "slug": "ardmore-ok",
+  "county": "Carter County",
+  "population": 24760,
+  "zip_codes": [
+    "73401",
+    "73402"
+  ],
+  "landmarks": [
+    "Lake Murray State Park",
+    "Greater Southwest Historical Museum",
+    "Central Park",
+    "Ardmore Convention Center",
+    "Downtown Ardmore"
+  ],
+  "nearby_cities": [
+    {"name":"Durant","slug":"durant-ok"},
+    {"name":"Ada","slug":"ada-ok"},
+    {"name":"Duncan","slug":"duncan-ok"},
+    {"name":"Pauls Valley","slug":"pauls-valley-ok"},
+    {"name":"Sulphur","slug":"sulphur-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"south-central-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Owasso",
+  "slug": "owasso-ok",
+  "county": "Tulsa County",
+  "population": 39740,
+  "zip_codes": [
+    "74055"
+  ],
+  "landmarks": [
+    "Redbud Valley Nature Preserve",
+    "Rayola Park",
+    "Owasso Sports Park",
+    "Smith Farm Marketplace",
+    "Downtown Owasso"
+  ],
+  "nearby_cities": [
+    {"name":"Tulsa","slug":"tulsa-ok"},
+    {"name":"Collinsville","slug":"collinsville-ok"},
+    {"name":"Broken Arrow","slug":"broken-arrow-ok"},
+    {"name":"Skiatook","slug":"skiatook-ok"},
+    {"name":"Bartlesville","slug":"bartlesville-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"prairie",
+  "economy_type":"retail-healthcare",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"tulsa-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Ponca City",
+  "slug": "ponca-city-ok",
+  "county": "Kay County",
+  "population": 24520,
+  "zip_codes": [
+    "74601",
+    "74604"
+  ],
+  "landmarks": [
+    "Marland Mansion",
+    "Pioneer Woman Museum",
+    "Lake Ponca",
+    "Cann Memorial Gardens",
+    "Downtown Ponca City"
+  ],
+  "nearby_cities": [
+    {"name":"Blackwell","slug":"blackwell-ok"},
+    {"name":"Perry","slug":"perry-ok"},
+    {"name":"Stillwater","slug":"stillwater-ok"},
+    {"name":"Enid","slug":"enid-ok"},
+    {"name":"Arkansas City","slug":"arkansas-city-ks"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"prairie",
+  "economy_type":"energy-manufacturing",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"north-central-oklahoma",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Shawnee",
+  "slug": "shawnee-ok",
+  "county": "Pottawatomie County",
+  "population": 31950,
+  "zip_codes": [
+    "74801",
+    "74804"
+  ],
+  "landmarks": [
+    "Mabee-Gerrer Museum of Art",
+    "Shawnee Mall",
+    "Shawnee Twin Lakes",
+    "Heart of Oklahoma Exposition Center",
+    "Downtown Shawnee"
+  ],
+  "nearby_cities": [
+    {"name":"Tecumseh","slug":"tecumseh-ok"},
+    {"name":"Choctaw","slug":"choctaw-ok"},
+    {"name":"Midwest City","slug":"midwest-city-ok"},
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Seminole","slug":"seminole-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"healthcare-education",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Yukon",
+  "slug": "yukon-ok",
+  "county": "Canadian County",
+  "population": 27580,
+  "zip_codes": [
+    "73099",
+    "73085"
+  ],
+  "landmarks": [
+    "Chisholm Trail Park",
+    "Mollie Spencer Farm",
+    "Yukon City Park",
+    "Express Clydesdales Barn",
+    "Downtown Yukon"
+  ],
+  "nearby_cities": [
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Mustang","slug":"mustang-ok"},
+    {"name":"Bethany","slug":"bethany-ok"},
+    {"name":"Edmond","slug":"edmond-ok"},
+    {"name":"El Reno","slug":"el-reno-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Del City",
+  "slug": "del-city-ok",
+  "county": "Oklahoma County",
+  "population": 21040,
+  "zip_codes": [
+    "73115",
+    "73135"
+  ],
+  "landmarks": [
+    "Eagle Harbor Aquatic Center",
+    "Ray Trent Park",
+    "Del City Community Center",
+    "Tinker Air Force Base Area",
+    "Del City Town Center"
+  ],
+  "nearby_cities": [
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Midwest City","slug":"midwest-city-ok"},
+    {"name":"Moore","slug":"moore-ok"},
+    {"name":"Choctaw","slug":"choctaw-ok"},
+    {"name":"Edmond","slug":"edmond-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"military-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Jenks",
+  "slug": "jenks-ok",
+  "county": "Tulsa County",
+  "population": 27230,
+  "zip_codes": [
+    "74037"
+  ],
+  "landmarks": [
+    "Oklahoma Aquarium",
+    "RiverWalk Crossing",
+    "Downtown Jenks",
+    "Jenks Riverfront",
+    "Veterans Park"
+  ],
+  "nearby_cities": [
+    {"name":"Tulsa","slug":"tulsa-ok"},
+    {"name":"Broken Arrow","slug":"broken-arrow-ok"},
+    {"name":"Bixby","slug":"bixby-ok"},
+    {"name":"Sand Springs","slug":"sand-springs-ok"},
+    {"name":"Owasso","slug":"owasso-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"prairie",
+  "economy_type":"tourism-retail",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"tulsa-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Duncan",
+  "slug": "duncan-ok",
+  "county": "Stephens County",
+  "population": 22580,
+  "zip_codes": [
+    "73533",
+    "73534"
+  ],
+  "landmarks": [
+    "Chisholm Trail Heritage Center",
+    "Fuqua Park",
+    "The Palace Theatre",
+    "Downtown Duncan",
+    "Stephens County Fairgrounds"
+  ],
+  "nearby_cities": [
+    {"name":"Lawton","slug":"lawton-ok"},
+    {"name":"Ardmore","slug":"ardmore-ok"},
+    {"name":"Chickasha","slug":"chickasha-ok"},
+    {"name":"Marlow","slug":"marlow-ok"},
+    {"name":"Comanche","slug":"comanche-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"energy-manufacturing",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southwest-oklahoma",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Bixby",
+  "slug": "bixby-ok",
+  "county": "Tulsa County",
+  "population": 31420,
+  "zip_codes": [
+    "74008"
+  ],
+  "landmarks": [
+    "Washington Irving Memorial Park",
+    "Bentley Park Sports Complex",
+    "Charley Young Event Park",
+    "Downtown Bixby",
+    "Arkansas River Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Tulsa","slug":"tulsa-ok"},
+    {"name":"Broken Arrow","slug":"broken-arrow-ok"},
+    {"name":"Jenks","slug":"jenks-ok"},
+    {"name":"Glenpool","slug":"glenpool-ok"},
+    {"name":"Coweta","slug":"coweta-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"prairie",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"tulsa-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Ada",
+  "slug": "ada-ok",
+  "county": "Pontotoc County",
+  "population": 16780,
+  "zip_codes": [
+    "74820",
+    "74821"
+  ],
+  "landmarks": [
+    "East Central University",
+    "Wintersmith Park",
+    "McSwain Theatre",
+    "Pontotoc County Courthouse",
+    "Downtown Ada"
+  ],
+  "nearby_cities": [
+    {"name":"Shawnee","slug":"shawnee-ok"},
+    {"name":"Ardmore","slug":"ardmore-ok"},
+    {"name":"Seminole","slug":"seminole-ok"},
+    {"name":"Pauls Valley","slug":"pauls-valley-ok"},
+    {"name":"Sulphur","slug":"sulphur-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"education-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"south-central-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Sapulpa",
+  "slug": "sapulpa-ok",
+  "county": "Creek County",
+  "population": 22510,
+  "zip_codes": [
+    "74066",
+    "74067"
+  ],
+  "landmarks": [
+    "Waite Phillips-Barnsdall Filling Station Museum",
+    "Route 66 Historical Village",
+    "Kelly Lane Park",
+    "Downtown Sapulpa",
+    "Creek County Fairgrounds"
+  ],
+  "nearby_cities": [
+    {"name":"Tulsa","slug":"tulsa-ok"},
+    {"name":"Sand Springs","slug":"sand-springs-ok"},
+    {"name":"Jenks","slug":"jenks-ok"},
+    {"name":"Bixby","slug":"bixby-ok"},
+    {"name":"Glenpool","slug":"glenpool-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"manufacturing-retail",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"tulsa-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Sand Springs",
+  "slug": "sand-springs-ok",
+  "county": "Tulsa County",
+  "population": 19860,
+  "zip_codes": [
+    "74063"
+  ],
+  "landmarks": [
+    "Keystone Ancient Forest",
+    "Case Community Park",
+    "Downtown Sand Springs",
+    "Keystone State Park",
+    "Charles Page Library"
+  ],
+  "nearby_cities": [
+    {"name":"Tulsa","slug":"tulsa-ok"},
+    {"name":"Sapulpa","slug":"sapulpa-ok"},
+    {"name":"Jenks","slug":"jenks-ok"},
+    {"name":"Owasso","slug":"owasso-ok"},
+    {"name":"Skiatook","slug":"skiatook-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"tulsa-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "McAlester",
+  "slug": "mcalester-ok",
+  "county": "Pittsburg County",
+  "population": 18360,
+  "zip_codes": [
+    "74501",
+    "74502"
+  ],
+  "landmarks": [
+    "Chadick Park",
+    "Oklahoma State Penitentiary Museum",
+    "Downtown McAlester",
+    "Gerrard Ardeneum",
+    "Southeast Expo Center"
+  ],
+  "nearby_cities": [
+    {"name":"Eufaula","slug":"eufaula-ok"},
+    {"name":"Muskogee","slug":"muskogee-ok"},
+    {"name":"Durant","slug":"durant-ok"},
+    {"name":"Ada","slug":"ada-ok"},
+    {"name":"Henryetta","slug":"henryetta-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"government-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southeast-oklahoma",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Durant",
+  "slug": "durant-ok",
+  "county": "Bryan County",
+  "population": 19540,
+  "zip_codes": [
+    "74701",
+    "74702"
+  ],
+  "landmarks": [
+    "Choctaw Casino & Resort",
+    "Southeastern Oklahoma State University",
+    "Three Valley Museum",
+    "Downtown Durant",
+    "Carl Albert Park"
+  ],
+  "nearby_cities": [
+    {"name":"Ardmore","slug":"ardmore-ok"},
+    {"name":"McAlester","slug":"mcalester-ok"},
+    {"name":"Ada","slug":"ada-ok"},
+    {"name":"Denison","slug":"denison-tx"},
+    {"name":"Sherman","slug":"sherman-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"gaming-education",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southeast-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Bethany",
+  "slug": "bethany-ok",
+  "county": "Oklahoma County",
+  "population": 19410,
+  "zip_codes": [
+    "73008"
+  ],
+  "landmarks": [
+    "Southern Nazarene University",
+    "Eldon Lyon Park",
+    "Downtown Bethany",
+    "Bethany Library",
+    "Ripper Park"
+  ],
+  "nearby_cities": [
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Yukon","slug":"yukon-ok"},
+    {"name":"Warr Acres","slug":"warr-acres-ok"},
+    {"name":"Mustang","slug":"mustang-ok"},
+    {"name":"Edmond","slug":"edmond-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"education-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Mustang",
+  "slug": "mustang-ok",
+  "county": "Canadian County",
+  "population": 24560,
+  "zip_codes": [
+    "73064"
+  ],
+  "landmarks": [
+    "Wild Horse Park",
+    "Mustang Town Center",
+    "Mustang Community Center",
+    "Mustang Sports Complex",
+    "Downtown Mustang"
+  ],
+  "nearby_cities": [
+    {"name":"Yukon","slug":"yukon-ok"},
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Bethany","slug":"bethany-ok"},
+    {"name":"Moore","slug":"moore-ok"},
+    {"name":"El Reno","slug":"el-reno-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Glenpool",
+  "slug": "glenpool-ok",
+  "county": "Tulsa County",
+  "population": 15280,
+  "zip_codes": [
+    "74033"
+  ],
+  "landmarks": [
+    "Black Gold Park",
+    "Glenpool Conference Center",
+    "Historic Glenn Pool Oil Field",
+    "Downtown Glenpool",
+    "Jenkins Park"
+  ],
+  "nearby_cities": [
+    {"name":"Jenks","slug":"jenks-ok"},
+    {"name":"Bixby","slug":"bixby-ok"},
+    {"name":"Tulsa","slug":"tulsa-ok"},
+    {"name":"Sapulpa","slug":"sapulpa-ok"},
+    {"name":"Broken Arrow","slug":"broken-arrow-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"prairie",
+  "economy_type":"energy-retail",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"tulsa-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "El Reno",
+  "slug": "el-reno-ok",
+  "county": "Canadian County",
+  "population": 17180,
+  "zip_codes": [
+    "73036"
+  ],
+  "landmarks": [
+    "Fort Reno",
+    "Canadian County Historical Museum",
+    "Lake El Reno",
+    "Downtown El Reno",
+    "Heroes Plaza"
+  ],
+  "nearby_cities": [
+    {"name":"Yukon","slug":"yukon-ok"},
+    {"name":"Mustang","slug":"mustang-ok"},
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Bethany","slug":"bethany-ok"},
+    {"name":"Weatherford","slug":"weatherford-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"agriculture-manufacturing",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-oklahoma",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Claremore",
+  "slug": "claremore-ok",
+  "county": "Rogers County",
+  "population": 19410,
+  "zip_codes": [
+    "74017",
+    "74018",
+    "74019"
+  ],
+  "landmarks": [
+    "Will Rogers Memorial Museum",
+    "Claremore Lake",
+    "Rogers State University",
+    "Downtown Claremore",
+    "JM Davis Arms & Historical Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Owasso","slug":"owasso-ok"},
+    {"name":"Tulsa","slug":"tulsa-ok"},
+    {"name":"Collinsville","slug":"collinsville-ok"},
+    {"name":"Catoosa","slug":"catoosa-ok"},
+    {"name":"Skiatook","slug":"skiatook-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"education-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"northeast-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Chickasha",
+  "slug": "chickasha-ok",
+  "county": "Grady County",
+  "population": 16680,
+  "zip_codes": [
+    "73018",
+    "73023"
+  ],
+  "landmarks": [
+    "University of Science and Arts of Oklahoma",
+    "Shannon Springs Park",
+    "Grady County Fairgrounds",
+    "Downtown Chickasha",
+    "Leg Lamp Display"
+  ],
+  "nearby_cities": [
+    {"name":"Lawton","slug":"lawton-ok"},
+    {"name":"Mustang","slug":"mustang-ok"},
+    {"name":"Yukon","slug":"yukon-ok"},
+    {"name":"El Reno","slug":"el-reno-ok"},
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"agriculture-education",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Tahlequah",
+  "slug": "tahlequah-ok",
+  "county": "Cherokee County",
+  "population": 17160,
+  "zip_codes": [
+    "74464",
+    "74465"
+  ],
+  "landmarks": [
+    "Northeastern State University",
+    "Cherokee National History Museum",
+    "Illinois River",
+    "Downtown Tahlequah",
+    "Cherokee Heritage Center"
+  ],
+  "nearby_cities": [
+    {"name":"Muskogee","slug":"muskogee-ok"},
+    {"name":"Broken Arrow","slug":"broken-arrow-ok"},
+    {"name":"Fort Gibson","slug":"fort-gibson-ok"},
+    {"name":"Sallisaw","slug":"sallisaw-ok"},
+    {"name":"Stilwell","slug":"stilwell-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"education-tourism",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"eastern-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Altus",
+  "slug": "altus-ok",
+  "county": "Jackson County",
+  "population": 18650,
+  "zip_codes": [
+    "73521",
+    "73522"
+  ],
+  "landmarks": [
+    "Altus Air Force Base",
+    "Museum of the Western Prairie",
+    "Quartz Mountain Nature Park",
+    "Downtown Altus",
+    "City Reservoir"
+  ],
+  "nearby_cities": [
+    {"name":"Lawton","slug":"lawton-ok"},
+    {"name":"Duncan","slug":"duncan-ok"},
+    {"name":"Elk City","slug":"elk-city-ok"},
+    {"name":"Mangum","slug":"mangum-ok"},
+    {"name":"Hobart","slug":"hobart-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"military-agriculture",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"southwest-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Weatherford",
+  "slug": "weatherford-ok",
+  "county": "Custer County",
+  "population": 12390,
+  "zip_codes": [
+    "73096"
+  ],
+  "landmarks": [
+    "Southwestern Oklahoma State University",
+    "Stafford Air & Space Museum",
+    "Heartland Museum",
+    "Downtown Weatherford",
+    "Centennial Park"
+  ],
+  "nearby_cities": [
+    {"name":"El Reno","slug":"el-reno-ok"},
+    {"name":"Yukon","slug":"yukon-ok"},
+    {"name":"Clinton","slug":"clinton-ok"},
+    {"name":"Elk City","slug":"elk-city-ok"},
+    {"name":"Hydro","slug":"hydro-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"education-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"western-oklahoma",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Catoosa",
+  "slug": "catoosa-ok",
+  "county": "Rogers County",
+  "population": 7420,
+  "zip_codes": [
+    "74015"
+  ],
+  "landmarks": [
+    "Blue Whale of Catoosa",
+    "Hard Rock Hotel & Casino Tulsa",
+    "Catoosa Historical Museum",
+    "Port of Catoosa",
+    "Cherokee Casino Catoosa"
+  ],
+  "nearby_cities": [
+    {"name":"Tulsa","slug":"tulsa-ok"},
+    {"name":"Broken Arrow","slug":"broken-arrow-ok"},
+    {"name":"Claremore","slug":"claremore-ok"},
+    {"name":"Owasso","slug":"owasso-ok"},
+    {"name":"Verdigris","slug":"verdigris-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"gaming-logistics",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"tulsa-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Collinsville",
+  "slug": "collinsville-ok",
+  "county": "Tulsa County",
+  "population": 7490,
+  "zip_codes": [
+    "74021"
+  ],
+  "landmarks": [
+    "Veterans Community Center",
+    "Downtown Collinsville",
+    "City Park",
+    "Collinsville Historical Museum",
+    "Main Street District"
+  ],
+  "nearby_cities": [
+    {"name":"Owasso","slug":"owasso-ok"},
+    {"name":"Claremore","slug":"claremore-ok"},
+    {"name":"Tulsa","slug":"tulsa-ok"},
+    {"name":"Skiatook","slug":"skiatook-ok"},
+    {"name":"Bartlesville","slug":"bartlesville-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"prairie",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"tulsa-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Seminole",
+  "slug": "seminole-ok",
+  "county": "Seminole County",
+  "population": 7250,
+  "zip_codes": [
+    "74868"
+  ],
+  "landmarks": [
+    "Jasmine Moran Children's Museum",
+    "Seminole State College",
+    "Downtown Seminole",
+    "Seminole Municipal Park",
+    "Seminole Nation Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Shawnee","slug":"shawnee-ok"},
+    {"name":"Ada","slug":"ada-ok"},
+    {"name":"Tecumseh","slug":"tecumseh-ok"},
+    {"name":"Holdenville","slug":"holdenville-ok"},
+    {"name":"Prague","slug":"prague-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"education-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Sallisaw",
+  "slug": "sallisaw-ok",
+  "county": "Sequoyah County",
+  "population": 8870,
+  "zip_codes": [
+    "74955"
+  ],
+  "landmarks": [
+    "Sequoyah's Cabin Museum",
+    "Jay Reynolds Park",
+    "Downtown Sallisaw",
+    "Stanley Tubbs Memorial Library",
+    "Brushy Lake State Park"
+  ],
+  "nearby_cities": [
+    {"name":"Tahlequah","slug":"tahlequah-ok"},
+    {"name":"Muskogee","slug":"muskogee-ok"},
+    {"name":"Fort Smith","slug":"fort-smith-ar"},
+    {"name":"Roland","slug":"roland-ok"},
+    {"name":"Vian","slug":"vian-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"government-retail",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"eastern-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Elk City",
+  "slug": "elk-city-ok",
+  "county": "Beckham County",
+  "population": 11560,
+  "zip_codes": [
+    "73644",
+    "73648"
+  ],
+  "landmarks": [
+    "National Route 66 Museum",
+    "Ackley Park",
+    "Old Town Museum Complex",
+    "Elk City Lake",
+    "Downtown Elk City"
+  ],
+  "nearby_cities": [
+    {"name":"Weatherford","slug":"weatherford-ok"},
+    {"name":"Clinton","slug":"clinton-ok"},
+    {"name":"Altus","slug":"altus-ok"},
+    {"name":"Sayre","slug":"sayre-ok"},
+    {"name":"El Reno","slug":"el-reno-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"tourism-transportation",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"western-oklahoma",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Wagoner",
+  "slug": "wagoner-ok",
+  "county": "Wagoner County",
+  "population": 8640,
+  "zip_codes": [
+    "74467"
+  ],
+  "landmarks": [
+    "Sequoyah Bay State Park",
+    "Wagoner City Park",
+    "Downtown Wagoner",
+    "Wagoner Civic Center",
+    "Sequoyah Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Coweta","slug":"coweta-ok"},
+    {"name":"Muskogee","slug":"muskogee-ok"},
+    {"name":"Broken Arrow","slug":"broken-arrow-ok"},
+    {"name":"Tahlequah","slug":"tahlequah-ok"},
+    {"name":"Pryor Creek","slug":"pryor-creek-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"government-retail",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"eastern-oklahoma",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Vinita",
+  "slug": "vinita-ok",
+  "county": "Craig County",
+  "population": 5278,
+  "zip_codes": [
+    "74301"
+  ],
+  "landmarks": [
+    "Eastern Trails Museum",
+    "Craig County Courthouse",
+    "Downtown Vinita",
+    "Will Rogers Turnpike Service Plaza",
+    "Attucks Park"
+  ],
+  "nearby_cities": [
+    {"name":"Pryor Creek","slug":"pryor-creek-ok"},
+    {"name":"Claremore","slug":"claremore-ok"},
+    {"name":"Miami","slug":"miami-ok"},
+    {"name":"Catoosa","slug":"catoosa-ok"},
+    {"name":"Tulsa","slug":"tulsa-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"retail-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"northeast-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Miami",
+  "slug": "miami-ok",
+  "county": "Ottawa County",
+  "population": 12700,
+  "zip_codes": [
+    "74354",
+    "74355"
+  ],
+  "landmarks": [
+    "Route 66 Vintage Iron Motorcycle Museum",
+    "Coleman Theatre",
+    "Buffalo Run Casino",
+    "Northeastern Oklahoma A&M College",
+    "Downtown Miami"
+  ],
+  "nearby_cities": [
+    {"name":"Vinita","slug":"vinita-ok"},
+    {"name":"Pryor Creek","slug":"pryor-creek-ok"},
+    {"name":"Claremore","slug":"claremore-ok"},
+    {"name":"Joplin","slug":"joplin-mo"},
+    {"name":"Commerce","slug":"commerce-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"gaming-tourism",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"northeast-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Perry",
+  "slug": "perry-ok",
+  "county": "Noble County",
+  "population": 5125,
+  "zip_codes": [
+    "73077"
+  ],
+  "landmarks": [
+    "Cherokee Strip Museum",
+    "Perry Town Square",
+    "Downtown Perry",
+    "Lions Park",
+    "Perry Golf Club"
+  ],
+  "nearby_cities": [
+    {"name":"Stillwater","slug":"stillwater-ok"},
+    {"name":"Guthrie","slug":"guthrie-ok"},
+    {"name":"Ponca City","slug":"ponca-city-ok"},
+    {"name":"Enid","slug":"enid-ok"},
+    {"name":"Edmond","slug":"edmond-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"agriculture-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"north-central-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Choctaw",
+  "slug": "choctaw-ok",
+  "county": "Oklahoma County",
+  "population": 12810,
+  "zip_codes": [
+    "73020"
+  ],
+  "landmarks": [
+    "Choctaw Creek Park",
+    "Choctaw City Hall",
+    "Downtown Choctaw",
+    "Ten Acre Lake",
+    "Choctaw Library"
+  ],
+  "nearby_cities": [
+    {"name":"Midwest City","slug":"midwest-city-ok"},
+    {"name":"Del City","slug":"del-city-ok"},
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Shawnee","slug":"shawnee-ok"},
+    {"name":"Moore","slug":"moore-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Warr Acres",
+  "slug": "warr-acres-ok",
+  "county": "Oklahoma County",
+  "population": 10155,
+  "zip_codes": [
+    "73122"
+  ],
+  "landmarks": [
+    "Warr Acres City Hall",
+    "Kiwanis Park",
+    "Downtown Warr Acres",
+    "Veterans Memorial Park",
+    "MacArthur Park"
+  ],
+  "nearby_cities": [
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Bethany","slug":"bethany-ok"},
+    {"name":"Yukon","slug":"yukon-ok"},
+    {"name":"Edmond","slug":"edmond-ok"},
+    {"name":"Mustang","slug":"mustang-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"retail-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Commerce",
+  "slug": "commerce-ok",
+  "county": "Ottawa County",
+  "population": 2445,
+  "zip_codes": [
+    "74339"
+  ],
+  "landmarks": [
+    "Mickey Mantle Childhood Home",
+    "Commerce Main Street",
+    "Commerce Community Center",
+    "Commerce City Hall",
+    "Veterans Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Miami","slug":"miami-ok"},
+    {"name":"Vinita","slug":"vinita-ok"},
+    {"name":"Picher","slug":"picher-ok"},
+    {"name":"Joplin","slug":"joplin-mo"},
+    {"name":"Quapaw","slug":"quapaw-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"services-tourism",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"northeast-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Henryetta",
+  "slug": "henryetta-ok",
+  "county": "Okmulgee County",
+  "population": 5735,
+  "zip_codes": [
+    "74437"
+  ],
+  "landmarks": [
+    "Nichols Park",
+    "Henryetta Territorial Museum",
+    "Downtown Henryetta",
+    "Henryetta Golf Course",
+    "Jim Hall Lake"
+  ],
+  "nearby_cities": [
+    {"name":"Okmulgee","slug":"okmulgee-ok"},
+    {"name":"McAlester","slug":"mcalester-ok"},
+    {"name":"Muskogee","slug":"muskogee-ok"},
+    {"name":"Seminole","slug":"seminole-ok"},
+    {"name":"Checotah","slug":"checotah-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Okmulgee",
+  "slug": "okmulgee-ok",
+  "county": "Okmulgee County",
+  "population": 11670,
+  "zip_codes": [
+    "74447"
+  ],
+  "landmarks": [
+    "Creek Council House Museum",
+    "Okmulgee Lake",
+    "Hawthorn Park",
+    "Downtown Okmulgee",
+    "Oklahoma State University Institute of Technology"
+  ],
+  "nearby_cities": [
+    {"name":"Henryetta","slug":"henryetta-ok"},
+    {"name":"Muskogee","slug":"muskogee-ok"},
+    {"name":"Bixby","slug":"bixby-ok"},
+    {"name":"Tulsa","slug":"tulsa-ok"},
+    {"name":"Glenpool","slug":"glenpool-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"education-government",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"eastern-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Skiatook",
+  "slug": "skiatook-ok",
+  "county": "Tulsa County",
+  "population": 8235,
+  "zip_codes": [
+    "74070"
+  ],
+  "landmarks": [
+    "Skiatook Lake",
+    "CrossTimbers Marina",
+    "Central Park",
+    "Downtown Skiatook",
+    "Skiatook Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Owasso","slug":"owasso-ok"},
+    {"name":"Tulsa","slug":"tulsa-ok"},
+    {"name":"Collinsville","slug":"collinsville-ok"},
+    {"name":"Claremore","slug":"claremore-ok"},
+    {"name":"Sand Springs","slug":"sand-springs-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"prairie",
+  "economy_type":"tourism-retail",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"tulsa-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Tecumseh",
+  "slug": "tecumseh-ok",
+  "county": "Pottawatomie County",
+  "population": 6665,
+  "zip_codes": [
+    "74873"
+  ],
+  "landmarks": [
+    "Pottawatomie County Courthouse",
+    "Downtown Tecumseh",
+    "Tecumseh City Lake",
+    "Shawnee Twin Lakes",
+    "Tecumseh Municipal Park"
+  ],
+  "nearby_cities": [
+    {"name":"Shawnee","slug":"shawnee-ok"},
+    {"name":"Choctaw","slug":"choctaw-ok"},
+    {"name":"Seminole","slug":"seminole-ok"},
+    {"name":"Ada","slug":"ada-ok"},
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"government-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-oklahoma",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Woodward",
+  "slug": "woodward-ok",
+  "county": "Woodward County",
+  "population": 12185,
+  "zip_codes": [
+    "73801",
+    "73802"
+  ],
+  "landmarks": [
+    "Crystal Beach Park",
+    "Plains Indians & Pioneers Museum",
+    "Boiling Springs State Park",
+    "Downtown Woodward",
+    "Woodward Conference Center"
+  ],
+  "nearby_cities": [
+    {"name":"Enid","slug":"enid-ok"},
+    {"name":"Weatherford","slug":"weatherford-ok"},
+    {"name":"Elk City","slug":"elk-city-ok"},
+    {"name":"Alva","slug":"alva-ok"},
+    {"name":"Guymon","slug":"guymon-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"energy-agriculture",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"northwest-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Guymon",
+  "slug": "guymon-ok",
+  "county": "Texas County",
+  "population": 12860,
+  "zip_codes": [
+    "73942"
+  ],
+  "landmarks": [
+    "No Man's Land Museum",
+    "Thompson Park",
+    "Downtown Guymon",
+    "Guymon Municipal Airport",
+    "Sunset Lake"
+  ],
+  "nearby_cities": [
+    {"name":"Woodward","slug":"woodward-ok"},
+    {"name":"Liberal","slug":"liberal-ks"},
+    {"name":"Dalhart","slug":"dalhart-tx"},
+    {"name":"Hooker","slug":"hooker-ok"},
+    {"name":"Goodwell","slug":"goodwell-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"high-plains",
+  "economy_type":"agriculture-energy",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"oklahoma-panhandle",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Marlow",
+  "slug": "marlow-ok",
+  "county": "Stephens County",
+  "population": 4660,
+  "zip_codes": [
+    "73055"
+  ],
+  "landmarks": [
+    "Redbud Park",
+    "Marlow Outlaw Cave",
+    "Downtown Marlow",
+    "Marlow City Hall",
+    "Lake Humphreys"
+  ],
+  "nearby_cities": [
+    {"name":"Duncan","slug":"duncan-ok"},
+    {"name":"Lawton","slug":"lawton-ok"},
+    {"name":"Chickasha","slug":"chickasha-ok"},
+    {"name":"Altus","slug":"altus-ok"},
+    {"name":"Elgin","slug":"elgin-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"southwest-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Anadarko",
+  "slug": "anadarko-ok",
+  "county": "Caddo County",
+  "population": 5760,
+  "zip_codes": [
+    "73005"
+  ],
+  "landmarks": [
+    "Southern Plains Indian Museum",
+    "National Hall of Fame for Famous American Indians",
+    "Randlett Park",
+    "Downtown Anadarko",
+    "Caddo County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Chickasha","slug":"chickasha-ok"},
+    {"name":"Lawton","slug":"lawton-ok"},
+    {"name":"El Reno","slug":"el-reno-ok"},
+    {"name":"Mustang","slug":"mustang-ok"},
+    {"name":"Weatherford","slug":"weatherford-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"government-tourism",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Checotah",
+  "slug": "checotah-ok",
+  "county": "McIntosh County",
+  "population": 3245,
+  "zip_codes": [
+    "74426"
+  ],
+  "landmarks": [
+    "Lake Eufaula State Park",
+    "Downtown Checotah",
+    "Katy Depot",
+    "Checotah Sports Complex",
+    "Carrie Underwood Hometown Monument"
+  ],
+  "nearby_cities": [
+    {"name":"McAlester","slug":"mcalester-ok"},
+    {"name":"Muskogee","slug":"muskogee-ok"},
+    {"name":"Henryetta","slug":"henryetta-ok"},
+    {"name":"Eufaula","slug":"eufaula-ok"},
+    {"name":"Okmulgee","slug":"okmulgee-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"tourism-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-oklahoma",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Eufaula",
+  "slug": "eufaula-ok",
+  "county": "McIntosh County",
+  "population": 2850,
+  "zip_codes": [
+    "74432"
+  ],
+  "landmarks": [
+    "Lake Eufaula State Park",
+    "Creek Nation Heritage Center",
+    "Downtown Eufaula",
+    "Eufaula Cove Marina",
+    "Nichols Point"
+  ],
+  "nearby_cities": [
+    {"name":"Checotah","slug":"checotah-ok"},
+    {"name":"McAlester","slug":"mcalester-ok"},
+    {"name":"Henryetta","slug":"henryetta-ok"},
+    {"name":"Muskogee","slug":"muskogee-ok"},
+    {"name":"Stigler","slug":"stigler-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"tourism-recreation",
+  "housing_profile":"lakefront-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Blackwell",
+  "slug": "blackwell-ok",
+  "county": "Kay County",
+  "population": 6960,
+  "zip_codes": [
+    "74631"
+  ],
+  "landmarks": [
+    "Top of Oklahoma Historical Museum",
+    "Blackwell Event Center",
+    "Legion Park",
+    "Downtown Blackwell",
+    "Blackwell Fairgrounds"
+  ],
+  "nearby_cities": [
+    {"name":"Ponca City","slug":"ponca-city-ok"},
+    {"name":"Perry","slug":"perry-ok"},
+    {"name":"Enid","slug":"enid-ok"},
+    {"name":"Arkansas City","slug":"arkansas-city-ks"},
+    {"name":"Newkirk","slug":"newkirk-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"manufacturing-agriculture",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"north-central-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Harrah",
+  "slug": "harrah-ok",
+  "county": "Oklahoma County",
+  "population": 6260,
+  "zip_codes": [
+    "73045"
+  ],
+  "landmarks": [
+    "Harrah Heritage Park",
+    "Harrah Sports Complex",
+    "Downtown Harrah",
+    "Harrah Historical Museum",
+    "Harrah Lake Area"
+  ],
+  "nearby_cities": [
+    {"name":"Choctaw","slug":"choctaw-ok"},
+    {"name":"Midwest City","slug":"midwest-city-ok"},
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Shawnee","slug":"shawnee-ok"},
+    {"name":"Jones","slug":"jones-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Elgin",
+  "slug": "elgin-ok",
+  "county": "Comanche County",
+  "population": 3480,
+  "zip_codes": [
+    "73538"
+  ],
+  "landmarks": [
+    "Elgin Community Center",
+    "Veterans Memorial Park",
+    "Downtown Elgin",
+    "Elgin City Park",
+    "Mountain View Trailhead"
+  ],
+  "nearby_cities": [
+    {"name":"Lawton","slug":"lawton-ok"},
+    {"name":"Cache","slug":"cache-ok"},
+    {"name":"Duncan","slug":"duncan-ok"},
+    {"name":"Marlow","slug":"marlow-ok"},
+    {"name":"Anadarko","slug":"anadarko-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"military-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southwest-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Newkirk",
+  "slug": "newkirk-ok",
+  "county": "Kay County",
+  "population": 2215,
+  "zip_codes": [
+    "74647"
+  ],
+  "landmarks": [
+    "Kay County Courthouse",
+    "Downtown Newkirk",
+    "7 Clans First Council Casino",
+    "Newkirk City Park",
+    "Historic Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Blackwell","slug":"blackwell-ok"},
+    {"name":"Ponca City","slug":"ponca-city-ok"},
+    {"name":"Arkansas City","slug":"arkansas-city-ks"},
+    {"name":"Perry","slug":"perry-ok"},
+    {"name":"Enid","slug":"enid-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"government-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"north-central-oklahoma",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Cushing",
+  "slug": "cushing-ok",
+  "county": "Payne County",
+  "population": 7860,
+  "zip_codes": [
+    "74023"
+  ],
+  "landmarks": [
+    "Pipeline Crossroads Museum",
+    "Memorial Park",
+    "Downtown Cushing",
+    "Cushing Aquatic Center",
+    "Cushing Lake"
+  ],
+  "nearby_cities": [
+    {"name":"Stillwater","slug":"stillwater-ok"},
+    {"name":"Perry","slug":"perry-ok"},
+    {"name":"Drumright","slug":"drumright-ok"},
+    {"name":"Yale","slug":"yale-ok"},
+    {"name":"Guthrie","slug":"guthrie-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"prairie",
+  "economy_type":"energy-oil-storage",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"north-central-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Newcastle",
+  "slug": "newcastle-ok",
+  "county": "McClain County",
+  "population": 10820,
+  "zip_codes": [
+    "73065"
+  ],
+  "landmarks": [
+    "Veterans Park",
+    "Newcastle Community Center",
+    "Downtown Newcastle",
+    "Earlywine Creek Area",
+    "Newcastle Sports Complex"
+  ],
+  "nearby_cities": [
+    {"name":"Norman","slug":"norman-ok"},
+    {"name":"Moore","slug":"moore-ok"},
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Mustang","slug":"mustang-ok"},
+    {"name":"Tuttle","slug":"tuttle-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Noble",
+  "slug": "noble-ok",
+  "county": "Cleveland County",
+  "population": 7240,
+  "zip_codes": [
+    "73068"
+  ],
+  "landmarks": [
+    "Veterans Memorial Park",
+    "Downtown Noble",
+    "Noble Public Library",
+    "Canadian River Area",
+    "Rose Rock Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Norman","slug":"norman-ok"},
+    {"name":"Moore","slug":"moore-ok"},
+    {"name":"Newcastle","slug":"newcastle-ok"},
+    {"name":"Purcell","slug":"purcell-ok"},
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Kingfisher",
+  "slug": "kingfisher-ok",
+  "county": "Kingfisher County",
+  "population": 5030,
+  "zip_codes": [
+    "73750"
+  ],
+  "landmarks": [
+    "Chisholm Trail Museum",
+    "Kingfisher City Park",
+    "Downtown Kingfisher",
+    "Kingfisher Golf Course",
+    "Kingfisher County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Enid","slug":"enid-ok"},
+    {"name":"El Reno","slug":"el-reno-ok"},
+    {"name":"Yukon","slug":"yukon-ok"},
+    {"name":"Guthrie","slug":"guthrie-ok"},
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"agriculture-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Grove",
+  "slug": "grove-ok",
+  "county": "Delaware County",
+  "population": 7150,
+  "zip_codes": [
+    "74344",
+    "74345"
+  ],
+  "landmarks": [
+    "Grand Lake O' the Cherokees",
+    "Lendonwood Gardens",
+    "Har-Ber Village Museum",
+    "Wolf Creek Park",
+    "Downtown Grove"
+  ],
+  "nearby_cities": [
+    {"name":"Miami","slug":"miami-ok"},
+    {"name":"Vinita","slug":"vinita-ok"},
+    {"name":"Pryor Creek","slug":"pryor-creek-ok"},
+    {"name":"Jay","slug":"jay-ok"},
+    {"name":"Afton","slug":"afton-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"tourism-retail",
+  "housing_profile":"lakefront-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"northeast-oklahoma",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Pauls Valley",
+  "slug": "pauls-valley-ok",
+  "county": "Garvin County",
+  "population": 6160,
+  "zip_codes": [
+    "73075"
+  ],
+  "landmarks": [
+    "Toy & Action Figure Museum",
+    "Wacker Park",
+    "Downtown Pauls Valley",
+    "Santa Fe Depot Museum",
+    "Garvin County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Ardmore","slug":"ardmore-ok"},
+    {"name":"Ada","slug":"ada-ok"},
+    {"name":"Purcell","slug":"purcell-ok"},
+    {"name":"Norman","slug":"norman-ok"},
+    {"name":"Newcastle","slug":"newcastle-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"government-retail",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"south-central-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Tuttle",
+  "slug": "tuttle-ok",
+  "county": "Grady County",
+  "population": 7830,
+  "zip_codes": [
+    "73089"
+  ],
+  "landmarks": [
+    "Tiger Safari Zoological Park",
+    "Schrock Park",
+    "Downtown Tuttle",
+    "Tuttle Sports Complex",
+    "Tuttle City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Newcastle","slug":"newcastle-ok"},
+    {"name":"Mustang","slug":"mustang-ok"},
+    {"name":"Yukon","slug":"yukon-ok"},
+    {"name":"Chickasha","slug":"chickasha-ok"},
+    {"name":"Moore","slug":"moore-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Purcell",
+  "slug": "purcell-ok",
+  "county": "McClain County",
+  "population": 6465,
+  "zip_codes": [
+    "73080"
+  ],
+  "landmarks": [
+    "McClain County Courthouse",
+    "Lake Purcell",
+    "Downtown Purcell",
+    "Purcell City Lake",
+    "Veterans Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Newcastle","slug":"newcastle-ok"},
+    {"name":"Norman","slug":"norman-ok"},
+    {"name":"Noble","slug":"noble-ok"},
+    {"name":"Pauls Valley","slug":"pauls-valley-ok"},
+    {"name":"Moore","slug":"moore-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"government-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"south-central-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Cache",
+  "slug": "cache-ok",
+  "county": "Comanche County",
+  "population": 2945,
+  "zip_codes": [
+    "73527"
+  ],
+  "landmarks": [
+    "Wichita Mountains Wildlife Refuge",
+    "Cache City Park",
+    "Downtown Cache",
+    "Quanah Parker Lake",
+    "Cache Sports Complex"
+  ],
+  "nearby_cities": [
+    {"name":"Lawton","slug":"lawton-ok"},
+    {"name":"Elgin","slug":"elgin-ok"},
+    {"name":"Altus","slug":"altus-ok"},
+    {"name":"Duncan","slug":"duncan-ok"},
+    {"name":"Anadarko","slug":"anadarko-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"tourism-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"southwest-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Jay",
+  "slug": "jay-ok",
+  "county": "Delaware County",
+  "population": 2525,
+  "zip_codes": [
+    "74346"
+  ],
+  "landmarks": [
+    "Delaware County Courthouse",
+    "Jay City Park",
+    "Downtown Jay",
+    "Lake Eucha",
+    "Delaware County Fairgrounds"
+  ],
+  "nearby_cities": [
+    {"name":"Grove","slug":"grove-ok"},
+    {"name":"Miami","slug":"miami-ok"},
+    {"name":"Vinita","slug":"vinita-ok"},
+    {"name":"Pryor Creek","slug":"pryor-creek-ok"},
+    {"name":"Siloam Springs","slug":"siloam-springs-ar"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"government-retail",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"northeast-oklahoma",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Poteau",
+  "slug": "poteau-ok",
+  "county": "Le Flore County",
+  "population": 8915,
+  "zip_codes": [
+    "74953"
+  ],
+  "landmarks": [
+    "Cavanal Hill",
+    "Le Flore County Courthouse",
+    "Twyman Park",
+    "Downtown Poteau",
+    "Potato Hills Scenic Area"
+  ],
+  "nearby_cities": [
+    {"name":"Sallisaw","slug":"sallisaw-ok"},
+    {"name":"Muskogee","slug":"muskogee-ok"},
+    {"name":"Fort Smith","slug":"fort-smith-ar"},
+    {"name":"Spiro","slug":"spiro-ok"},
+    {"name":"Heavener","slug":"heavener-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"government-retail",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southeast-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Heavener",
+  "slug": "heavener-ok",
+  "county": "Le Flore County",
+  "population": 3225,
+  "zip_codes": [
+    "74937"
+  ],
+  "landmarks": [
+    "Heavener Runestone Park",
+    "Heavener City Lake",
+    "Downtown Heavener",
+    "Runestone Museum",
+    "Heavener City Park"
+  ],
+  "nearby_cities": [
+    {"name":"Poteau","slug":"poteau-ok"},
+    {"name":"Spiro","slug":"spiro-ok"},
+    {"name":"Sallisaw","slug":"sallisaw-ok"},
+    {"name":"Fort Smith","slug":"fort-smith-ar"},
+    {"name":"Mena","slug":"mena-ar"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"ouachita-mountains",
+  "economy_type":"forestry-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"southeast-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Stigler",
+  "slug": "stigler-ok",
+  "county": "Haskell County",
+  "population": 2685,
+  "zip_codes": [
+    "74462"
+  ],
+  "landmarks": [
+    "Haskell County Courthouse",
+    "Stigler City Park",
+    "Downtown Stigler",
+    "Lake Eufaula Area",
+    "Old Military Road"
+  ],
+  "nearby_cities": [
+    {"name":"Eufaula","slug":"eufaula-ok"},
+    {"name":"McAlester","slug":"mcalester-ok"},
+    {"name":"Poteau","slug":"poteau-ok"},
+    {"name":"Sallisaw","slug":"sallisaw-ok"},
+    {"name":"Muskogee","slug":"muskogee-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"government-agriculture",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"southeast-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Roland",
+  "slug": "roland-ok",
+  "county": "Sequoyah County",
+  "population": 3210,
+  "zip_codes": [
+    "74954"
+  ],
+  "landmarks": [
+    "Roland Heritage Center",
+    "Roland City Park",
+    "Downtown Roland",
+    "Arkansas River Corridor",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Sallisaw","slug":"sallisaw-ok"},
+    {"name":"Fort Smith","slug":"fort-smith-ar"},
+    {"name":"Muskogee","slug":"muskogee-ok"},
+    {"name":"Poteau","slug":"poteau-ok"},
+    {"name":"Tahlequah","slug":"tahlequah-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-hills",
+  "economy_type":"retail-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"eastern-oklahoma",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Holdenville",
+  "slug": "holdenville-ok",
+  "county": "Hughes County",
+  "population": 5480,
+  "zip_codes": [
+    "74848"
+  ],
+  "landmarks": [
+    "Creek Nation Community Hospital",
+    "Stroup Park",
+    "Downtown Holdenville",
+    "Holdenville Lake",
+    "Hughes County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Seminole","slug":"seminole-ok"},
+    {"name":"Ada","slug":"ada-ok"},
+    {"name":"Henryetta","slug":"henryetta-ok"},
+    {"name":"McAlester","slug":"mcalester-ok"},
+    {"name":"Shawnee","slug":"shawnee-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"government-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-oklahoma",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "The Village",
+  "slug": "the-village-ok",
+  "county": "Oklahoma County",
+  "population": 9226,
+  "zip_codes": [
+    "73120"
+  ],
+  "landmarks": [
+    "Duffner Park",
+    "The Village Library",
+    "Village City Hall",
+    "Casady Square",
+    "Burdick Park"
+  ],
+  "nearby_cities": [
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Edmond","slug":"edmond-ok"},
+    {"name":"Warr Acres","slug":"warr-acres-ok"},
+    {"name":"Bethany","slug":"bethany-ok"},
+    {"name":"Nichols Hills","slug":"nichols-hills-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"residential-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Piedmont",
+  "slug": "piedmont-ok",
+  "county": "Canadian County",
+  "population": 9829,
+  "zip_codes": [
+    "73078"
+  ],
+  "landmarks": [
+    "Piedmont Community Park",
+    "Veterans Memorial",
+    "Downtown Piedmont",
+    "Piedmont Sports Complex",
+    "City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Yukon","slug":"yukon-ok"},
+    {"name":"Mustang","slug":"mustang-ok"},
+    {"name":"El Reno","slug":"el-reno-ok"},
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Kingfisher","slug":"kingfisher-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Nichols Hills",
+  "slug": "nichols-hills-ok",
+  "county": "Oklahoma County",
+  "population": 3835,
+  "zip_codes": [
+    "73116"
+  ],
+  "landmarks": [
+    "Nichols Hills Plaza",
+    "Grand Boulevard Park",
+    "Nichols Hills City Hall",
+    "Oklahoma City Golf & Country Club",
+    "Kite Park"
+  ],
+  "nearby_cities": [
+    {"name":"The Village","slug":"the-village-ok"},
+    {"name":"Oklahoma City","slug":"oklahoma-city-ok"},
+    {"name":"Edmond","slug":"edmond-ok"},
+    {"name":"Bethany","slug":"bethany-ok"},
+    {"name":"Warr Acres","slug":"warr-acres-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"great-plains",
+  "economy_type":"professional-services",
+  "housing_profile":"luxury-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"oklahoma-metro",
+  "property_mix":"residential"
+}
+]

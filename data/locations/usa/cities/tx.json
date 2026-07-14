@@ -1,0 +1,6093 @@
+[
+
+{
+  "city": "Abilene",
+  "slug": "abilene-tx",
+  "county": "Taylor County",
+  "population": 129050,
+  "zip_codes": [
+    "79601",
+    "79602",
+    "79603",
+    "79605",
+    "79606",
+    "79607"
+  ],
+  "landmarks": [
+    "Abilene Zoo",
+    "Frontier Texas!",
+    "Grace Museum",
+    "Abilene State Park",
+    "Taylor County Expo Center"
+  ],
+  "nearby_cities": [
+    {"name":"Clyde","slug":"clyde-tx"},
+    {"name":"Buffalo Gap","slug":"buffalo-gap-tx"},
+    {"name":"Tuscola","slug":"tuscola-tx"},
+    {"name":"Merkel","slug":"merkel-tx"},
+    {"name":"Anson","slug":"anson-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"rolling-plains",
+  "economy_type":"healthcare-education",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"west-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Addison",
+  "slug": "addison-tx",
+  "county": "Dallas County",
+  "population": 16810,
+  "zip_codes": [
+    "75001"
+  ],
+  "landmarks": [
+    "Addison Circle Park",
+    "Addison Airport",
+    "Vitruvian Park",
+    "Addison Conference Centre",
+    "WaterTower Theatre"
+  ],
+  "nearby_cities": [
+    {"name":"Dallas","slug":"dallas-tx"},
+    {"name":"Farmers Branch","slug":"farmers-branch-tx"},
+    {"name":"Carrollton","slug":"carrollton-tx"},
+    {"name":"Richardson","slug":"richardson-tx"},
+    {"name":"Plano","slug":"plano-tx"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"business-services",
+  "housing_profile":"urban-mixed",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Alamo",
+  "slug": "alamo-tx",
+  "county": "Hidalgo County",
+  "population": 20020,
+  "zip_codes": [
+    "78516"
+  ],
+  "landmarks": [
+    "Alamo Nature Park",
+    "Alamo City Hall",
+    "Quinta Mazatlan Area",
+    "Downtown Alamo",
+    "Alamo Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"McAllen","slug":"mcallen-tx"},
+    {"name":"Pharr","slug":"pharr-tx"},
+    {"name":"San Juan","slug":"san-juan-tx"},
+    {"name":"Donna","slug":"donna-tx"},
+    {"name":"Weslaco","slug":"weslaco-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rio-grande-valley",
+  "economy_type":"retail-services",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"rio-grande-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Alice",
+  "slug": "alice-tx",
+  "county": "Jim Wells County",
+  "population": 18480,
+  "zip_codes": [
+    "78332",
+    "78333"
+  ],
+  "landmarks": [
+    "South Texas Museum",
+    "Alice Municipal Golf Course",
+    "Jim Wells County Courthouse",
+    "Downtown Alice",
+    "Anderson Park"
+  ],
+  "nearby_cities": [
+    {"name":"Kingsville","slug":"kingsville-tx"},
+    {"name":"Robstown","slug":"robstown-tx"},
+    {"name":"Orange Grove","slug":"orange-grove-tx"},
+    {"name":"Premont","slug":"premont-tx"},
+    {"name":"San Diego","slug":"san-diego-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"south-texas-plains",
+  "economy_type":"energy-agriculture",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"south-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Allen",
+  "slug": "allen-tx",
+  "county": "Collin County",
+  "population": 111620,
+  "zip_codes": [
+    "75002",
+    "75013"
+  ],
+  "landmarks": [
+    "Allen Premium Outlets",
+    "Credit Union of Texas Event Center",
+    "Celebration Park",
+    "Watters Creek",
+    "Allen Eagle Stadium"
+  ],
+  "nearby_cities": [
+    {"name":"Plano","slug":"plano-tx"},
+    {"name":"McKinney","slug":"mckinney-tx"},
+    {"name":"Frisco","slug":"frisco-tx"},
+    {"name":"Fairview","slug":"fairview-tx"},
+    {"name":"Lucas","slug":"lucas-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"technology-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Alvin",
+  "slug": "alvin-tx",
+  "county": "Brazoria County",
+  "population": 27980,
+  "zip_codes": [
+    "77511",
+    "77512"
+  ],
+  "landmarks": [
+    "Bayou Wildlife Zoo",
+    "National Oak Park",
+    "Alvin Historical Museum",
+    "Marguerite Rogers House Museum",
+    "Briscoe Park"
+  ],
+  "nearby_cities": [
+    {"name":"Pearland","slug":"pearland-tx"},
+    {"name":"Manvel","slug":"manvel-tx"},
+    {"name":"Friendswood","slug":"friendswood-tx"},
+    {"name":"Santa Fe","slug":"santa-fe-tx"},
+    {"name":"Liverpool","slug":"liverpool-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Amarillo",
+  "slug": "amarillo-tx",
+  "county": "Potter County",
+  "population": 202410,
+  "zip_codes": [
+    "79101",
+    "79102",
+    "79103",
+    "79106",
+    "79109",
+    "79118",
+    "79119",
+    "79124"
+  ],
+  "landmarks": [
+    "Cadillac Ranch",
+    "Palo Duro Canyon State Park",
+    "American Quarter Horse Hall of Fame",
+    "Amarillo Botanical Gardens",
+    "Wonderland Amusement Park"
+  ],
+  "nearby_cities": [
+    {"name":"Canyon","slug":"canyon-tx"},
+    {"name":"Bushland","slug":"bushland-tx"},
+    {"name":"Panhandle","slug":"panhandle-tx"},
+    {"name":"Claude","slug":"claude-tx"},
+    {"name":"Borger","slug":"borger-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"high-plains",
+  "economy_type":"healthcare-energy",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"texas-panhandle",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Andrews",
+  "slug": "andrews-tx",
+  "county": "Andrews County",
+  "population": 14080,
+  "zip_codes": [
+    "79714"
+  ],
+  "landmarks": [
+    "Ace Arena",
+    "Lakeside Park",
+    "Andrews County Courthouse",
+    "Andrews City Park",
+    "Permian Basin Area"
+  ],
+  "nearby_cities": [
+    {"name":"Midland","slug":"midland-tx"},
+    {"name":"Odessa","slug":"odessa-tx"},
+    {"name":"Seminole","slug":"seminole-tx"},
+    {"name":"Monahans","slug":"monahans-tx"},
+    {"name":"Kermit","slug":"kermit-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"permian-basin",
+  "economy_type":"oil-and-gas",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"west-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Angleton",
+  "slug": "angleton-tx",
+  "county": "Brazoria County",
+  "population": 19960,
+  "zip_codes": [
+    "77515",
+    "77516"
+  ],
+  "landmarks": [
+    "Brazoria County Courthouse",
+    "Brazoria County Historical Museum",
+    "Freedom Park",
+    "Angleton Recreation Center",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Lake Jackson","slug":"lake-jackson-tx"},
+    {"name":"Clute","slug":"clute-tx"},
+    {"name":"Richwood","slug":"richwood-tx"},
+    {"name":"Alvin","slug":"alvin-tx"},
+    {"name":"Freeport","slug":"freeport-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"government-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Anna",
+  "slug": "anna-tx",
+  "county": "Collin County",
+  "population": 27320,
+  "zip_codes": [
+    "75409"
+  ],
+  "landmarks": [
+    "Slayter Creek Park",
+    "Natural Springs Park",
+    "Anna Municipal Complex",
+    "Sherley Heritage Park",
+    "Downtown Anna"
+  ],
+  "nearby_cities": [
+    {"name":"Melissa","slug":"melissa-tx"},
+    {"name":"McKinney","slug":"mckinney-tx"},
+    {"name":"Van Alstyne","slug":"van-alstyne-tx"},
+    {"name":"Princeton","slug":"princeton-tx"},
+    {"name":"Celina","slug":"celina-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"residential-services",
+  "housing_profile":"rapid-growth-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Aransas Pass",
+  "slug": "aransas-pass-tx",
+  "county": "San Patricio County",
+  "population": 8620,
+  "zip_codes": [
+    "78335",
+    "78336"
+  ],
+  "landmarks": [
+    "Conn Brown Harbor",
+    "Redfish Bay",
+    "Aransas Pass Aquatic Center",
+    "Community Park",
+    "Conn Brown Harbor Observation Tower"
+  ],
+  "nearby_cities": [
+    {"name":"Rockport","slug":"rockport-tx"},
+    {"name":"Port Aransas","slug":"port-aransas-tx"},
+    {"name":"Ingleside","slug":"ingleside-tx"},
+    {"name":"Portland","slug":"portland-tx"},
+    {"name":"Corpus Christi","slug":"corpus-christi-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"tourism-maritime",
+  "housing_profile":"coastal-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"coastal-bend",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Arlington",
+  "slug": "arlington-tx",
+  "county": "Tarrant County",
+  "population": 397270,
+  "zip_codes": [
+    "76001",
+    "76002",
+    "76005",
+    "76006",
+    "76010",
+    "76011",
+    "76012",
+    "76013",
+    "76014",
+    "76015",
+    "76016",
+    "76017",
+    "76018"
+  ],
+  "landmarks": [
+    "AT&T Stadium",
+    "Globe Life Field",
+    "Six Flags Over Texas",
+    "Hurricane Harbor",
+    "University of Texas at Arlington"
+  ],
+  "nearby_cities": [
+    {"name":"Grand Prairie","slug":"grand-prairie-tx"},
+    {"name":"Mansfield","slug":"mansfield-tx"},
+    {"name":"Fort Worth","slug":"fort-worth-tx"},
+    {"name":"Kennedale","slug":"kennedale-tx"},
+    {"name":"Euless","slug":"euless-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"entertainment-education",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Athens",
+  "slug": "athens-tx",
+  "county": "Henderson County",
+  "population": 12930,
+  "zip_codes": [
+    "75751",
+    "75752"
+  ],
+  "landmarks": [
+    "Texas Freshwater Fisheries Center",
+    "Cain Center YMCA",
+    "Henderson County Courthouse",
+    "Kiwanis Park",
+    "East Texas Arboretum"
+  ],
+  "nearby_cities": [
+    {"name":"Gun Barrel City","slug":"gun-barrel-city-tx"},
+    {"name":"Malakoff","slug":"malakoff-tx"},
+    {"name":"Mabank","slug":"mabank-tx"},
+    {"name":"Canton","slug":"canton-tx"},
+    {"name":"Palestine","slug":"palestine-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"east-texas-woodlands",
+  "economy_type":"healthcare-retail",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"east-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Atascocita",
+  "slug": "atascocita-tx",
+  "county": "Harris County",
+  "population": 88900,
+  "zip_codes": [
+    "77338",
+    "77346"
+  ],
+  "landmarks": [
+    "Lake Houston",
+    "Atascocita Park",
+    "Eagle Springs",
+    "Atascocita Golf Club",
+    "Lindsay/Lyons Park"
+  ],
+  "nearby_cities": [
+    {"name":"Humble","slug":"humble-tx"},
+    {"name":"Houston","slug":"houston-tx"},
+    {"name":"Kingwood","slug":"kingwood-tx"},
+    {"name":"Crosby","slug":"crosby-tx"},
+    {"name":"Sheldon","slug":"sheldon-tx"}
+  ],
+  "city_type":"census-designated-place",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"residential-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Austin",
+  "slug": "austin-tx",
+  "county": "Travis County",
+  "population": 979880,
+  "zip_codes": [
+    "73301",
+    "78701",
+    "78702",
+    "78703",
+    "78704",
+    "78705",
+    "78717",
+    "78723",
+    "78731",
+    "78735",
+    "78741",
+    "78745",
+    "78748",
+    "78749",
+    "78758",
+    "78759"
+  ],
+  "landmarks": [
+    "Texas State Capitol",
+    "Zilker Park",
+    "Lady Bird Lake",
+    "Barton Springs Pool",
+    "University of Texas at Austin"
+  ],
+  "nearby_cities": [
+    {"name":"Round Rock","slug":"round-rock-tx"},
+    {"name":"Pflugerville","slug":"pflugerville-tx"},
+    {"name":"Cedar Park","slug":"cedar-park-tx"},
+    {"name":"Bee Cave","slug":"bee-cave-tx"},
+    {"name":"Lakeway","slug":"lakeway-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"texas-hill-country",
+  "economy_type":"technology-government",
+  "housing_profile":"major-urban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"austin-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Balch Springs",
+  "slug": "balch-springs-tx",
+  "county": "Dallas County",
+  "population": 27840,
+  "zip_codes": [
+    "75180",
+    "75181"
+  ],
+  "landmarks": [
+    "Balch Springs Recreation Center",
+    "Oak Ridge Park",
+    "Balch Springs Library",
+    "City Hall",
+    "Cheyenne Park"
+  ],
+  "nearby_cities": [
+    {"name":"Mesquite","slug":"mesquite-tx"},
+    {"name":"Dallas","slug":"dallas-tx"},
+    {"name":"Seagoville","slug":"seagoville-tx"},
+    {"name":"Sunnyvale","slug":"sunnyvale-tx"},
+    {"name":"Garland","slug":"garland-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Bay City",
+  "slug": "bay-city-tx",
+  "county": "Matagorda County",
+  "population": 17710,
+  "zip_codes": [
+    "77414"
+  ],
+  "landmarks": [
+    "Matagorda County Museum",
+    "Le Tulle Park",
+    "Colorado River",
+    "Bay City Civic Center",
+    "Matagorda County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"West Columbia","slug":"west-columbia-tx"},
+    {"name":"Sweeny","slug":"sweeny-tx"},
+    {"name":"Palacios","slug":"palacios-tx"},
+    {"name":"Lake Jackson","slug":"lake-jackson-tx"},
+    {"name":"Freeport","slug":"freeport-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"agriculture-energy",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"gulf-coast",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Baytown",
+  "slug": "baytown-tx",
+  "county": "Harris County",
+  "population": 83900,
+  "zip_codes": [
+    "77520",
+    "77521",
+    "77522",
+    "77523"
+  ],
+  "landmarks": [
+    "Houston Raceway Park",
+    "Baytown Nature Center",
+    "Lynchburg Ferry",
+    "Pirates Bay Waterpark",
+    "San Jacinto Mall Area"
+  ],
+  "nearby_cities": [
+    {"name":"La Porte","slug":"la-porte-tx"},
+    {"name":"Mont Belvieu","slug":"mont-belvieu-tx"},
+    {"name":"Crosby","slug":"crosby-tx"},
+    {"name":"Channelview","slug":"channelview-tx"},
+    {"name":"Deer Park","slug":"deer-park-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"petrochemical-manufacturing",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Beaumont",
+  "slug": "beaumont-tx",
+  "county": "Jefferson County",
+  "population": 113430,
+  "zip_codes": [
+    "77701",
+    "77702",
+    "77703",
+    "77705",
+    "77706",
+    "77707",
+    "77708"
+  ],
+  "landmarks": [
+    "Spindletop-Gladys City Boomtown Museum",
+    "McFaddin-Ward House",
+    "Art Museum of Southeast Texas",
+    "Cattail Marsh",
+    "Ford Park"
+  ],
+  "nearby_cities": [
+    {"name":"Nederland","slug":"nederland-tx"},
+    {"name":"Port Neches","slug":"port-neches-tx"},
+    {"name":"Groves","slug":"groves-tx"},
+    {"name":"Lumberton","slug":"lumberton-tx"},
+    {"name":"Orange","slug":"orange-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"energy-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"golden-triangle",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Bedford",
+  "slug": "bedford-tx",
+  "county": "Tarrant County",
+  "population": 50010,
+  "zip_codes": [
+    "76021",
+    "76022"
+  ],
+  "landmarks": [
+    "Boys Ranch Park",
+    "Old Bedford School",
+    "Generations Park",
+    "Bedford Public Library",
+    "City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Hurst","slug":"hurst-tx"},
+    {"name":"Euless","slug":"euless-tx"},
+    {"name":"Colleyville","slug":"colleyville-tx"},
+    {"name":"North Richland Hills","slug":"north-richland-hills-tx"},
+    {"name":"Grapevine","slug":"grapevine-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Bee Cave",
+  "slug": "bee-cave-tx",
+  "county": "Travis County",
+  "population": 9310,
+  "zip_codes": [
+    "78738"
+  ],
+  "landmarks": [
+    "Hill Country Galleria",
+    "Bee Cave Central Park",
+    "Bee Cave Public Library",
+    "City Hall",
+    "Falconhead Golf Club"
+  ],
+  "nearby_cities": [
+    {"name":"Austin","slug":"austin-tx"},
+    {"name":"Lakeway","slug":"lakeway-tx"},
+    {"name":"West Lake Hills","slug":"west-lake-hills-tx"},
+    {"name":"Dripping Springs","slug":"dripping-springs-tx"},
+    {"name":"Rollingwood","slug":"rollingwood-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"texas-hill-country",
+  "economy_type":"retail-services",
+  "housing_profile":"upscale-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"austin-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Bellaire",
+  "slug": "bellaire-tx",
+  "county": "Harris County",
+  "population": 17360,
+  "zip_codes": [
+    "77401"
+  ],
+  "landmarks": [
+    "Bellaire Town Square",
+    "Evelyn's Park",
+    "Nature Discovery Center",
+    "Bellaire Zindler Park",
+    "Bellaire City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Houston","slug":"houston-tx"},
+    {"name":"West University Place","slug":"west-university-place-tx"},
+    {"name":"Southside Place","slug":"southside-place-tx"},
+    {"name":"Meyerland","slug":"meyerland-tx"},
+    {"name":"Missouri City","slug":"missouri-city-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"professional-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Belton",
+  "slug": "belton-tx",
+  "county": "Bell County",
+  "population": 24540,
+  "zip_codes": [
+    "76513"
+  ],
+  "landmarks": [
+    "Bell County Courthouse",
+    "Belton Lake",
+    "Yettie Polk Park",
+    "University of Mary Hardin-Baylor",
+    "Lena Armstrong Public Library"
+  ],
+  "nearby_cities": [
+    {"name":"Temple","slug":"temple-tx"},
+    {"name":"Killeen","slug":"killeen-tx"},
+    {"name":"Salado","slug":"salado-tx"},
+    {"name":"Morgan's Point Resort","slug":"morgans-point-resort-tx"},
+    {"name":"Harker Heights","slug":"harker-heights-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"education-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"killeen-temple-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Benbrook",
+  "slug": "benbrook-tx",
+  "county": "Tarrant County",
+  "population": 24670,
+  "zip_codes": [
+    "76109",
+    "76116",
+    "76126",
+    "76132"
+  ],
+  "landmarks": [
+    "Benbrook Lake",
+    "Dutch Branch Park",
+    "Benbrook Stables",
+    "Whitestone Golf Club",
+    "Benbrook YMCA"
+  ],
+  "nearby_cities": [
+    {"name":"Fort Worth","slug":"fort-worth-tx"},
+    {"name":"Crowley","slug":"crowley-tx"},
+    {"name":"Aledo","slug":"aledo-tx"},
+    {"name":"White Settlement","slug":"white-settlement-tx"},
+    {"name":"Burleson","slug":"burleson-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"residential-retail",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Big Spring",
+  "slug": "big-spring-tx",
+  "county": "Howard County",
+  "population": 25580,
+  "zip_codes": [
+    "79720",
+    "79721"
+  ],
+  "landmarks": [
+    "Big Spring State Park",
+    "Heritage Museum of Big Spring",
+    "Comanche Trail Park",
+    "Scenic Mountain Medical Center",
+    "Hangar 25 Air Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Coahoma","slug":"coahoma-tx"},
+    {"name":"Forsan","slug":"forsan-tx"},
+    {"name":"Stanton","slug":"stanton-tx"},
+    {"name":"Colorado City","slug":"colorado-city-tx"},
+    {"name":"Midland","slug":"midland-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"permian-basin",
+  "economy_type":"energy-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"west-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Brownsville",
+  "slug": "brownsville-tx",
+  "county": "Cameron County",
+  "population": 189230,
+  "zip_codes": [
+    "78520",
+    "78521",
+    "78522",
+    "78523",
+    "78526"
+  ],
+  "landmarks": [
+    "Gladys Porter Zoo",
+    "Palo Alto Battlefield National Historical Park",
+    "Historic Brownsville Museum",
+    "Resaca de la Palma State Park",
+    "Brownsville Sports Park"
+  ],
+  "nearby_cities": [
+    {"name":"Los Fresnos","slug":"los-fresnos-tx"},
+    {"name":"San Benito","slug":"san-benito-tx"},
+    {"name":"Harlingen","slug":"harlingen-tx"},
+    {"name":"Port Isabel","slug":"port-isabel-tx"},
+    {"name":"South Padre Island","slug":"south-padre-island-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rio-grande-valley",
+  "economy_type":"international-trade",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"rio-grande-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Brownwood",
+  "slug": "brownwood-tx",
+  "county": "Brown County",
+  "population": 18480,
+  "zip_codes": [
+    "76801",
+    "76802",
+    "76803"
+  ],
+  "landmarks": [
+    "Lake Brownwood",
+    "Howard Payne University",
+    "Brown County Museum of History",
+    "Gordon Wood Stadium",
+    "Downtown Brownwood"
+  ],
+  "nearby_cities": [
+    {"name":"Early","slug":"early-tx"},
+    {"name":"Bangs","slug":"bangs-tx"},
+    {"name":"Comanche","slug":"comanche-tx"},
+    {"name":"Coleman","slug":"coleman-tx"},
+    {"name":"Brady","slug":"brady-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"education-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Bryan",
+  "slug": "bryan-tx",
+  "county": "Brazos County",
+  "population": 90500,
+  "zip_codes": [
+    "77801",
+    "77802",
+    "77803",
+    "77807",
+    "77808"
+  ],
+  "landmarks": [
+    "Historic Downtown Bryan",
+    "Lake Walk",
+    "Brazos Valley Museum of Natural History",
+    "Travis Bryan Midtown Park",
+    "Messina Hof Winery"
+  ],
+  "nearby_cities": [
+    {"name":"College Station","slug":"college-station-tx"},
+    {"name":"Kurten","slug":"kurten-tx"},
+    {"name":"Navasota","slug":"navasota-tx"},
+    {"name":"Hearne","slug":"hearne-tx"},
+    {"name":"Caldwell","slug":"caldwell-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"post-oak-savanna",
+  "economy_type":"education-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"bryan-college-station",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Burkburnett",
+  "slug": "burkburnett-tx",
+  "county": "Wichita County",
+  "population": 11080,
+  "zip_codes": [
+    "76354"
+  ],
+  "landmarks": [
+    "Boomtown Bay Family Aquatic Center",
+    "Burkburnett Sports Complex",
+    "Friendship Park",
+    "Downtown Burkburnett",
+    "City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Wichita Falls","slug":"wichita-falls-tx"},
+    {"name":"Iowa Park","slug":"iowa-park-tx"},
+    {"name":"Electra","slug":"electra-tx"},
+    {"name":"Henrietta","slug":"henrietta-tx"},
+    {"name":"Lawton","slug":"lawton-ok"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"north-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Burleson",
+  "slug": "burleson-tx",
+  "county": "Johnson County",
+  "population": 52870,
+  "zip_codes": [
+    "76028",
+    "76097"
+  ],
+  "landmarks": [
+    "Chisenhall Fields",
+    "Bailey Lake Park",
+    "Russell Farm Art Center",
+    "Hidden Creek Golf Course",
+    "Old Town Burleson"
+  ],
+  "nearby_cities": [
+    {"name":"Fort Worth","slug":"fort-worth-tx"},
+    {"name":"Crowley","slug":"crowley-tx"},
+    {"name":"Joshua","slug":"joshua-tx"},
+    {"name":"Benbrook","slug":"benbrook-tx"},
+    {"name":"Mansfield","slug":"mansfield-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"retail-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Canyon",
+  "slug": "canyon-tx",
+  "county": "Randall County",
+  "population": 15080,
+  "zip_codes": [
+    "79015",
+    "79016"
+  ],
+  "landmarks": [
+    "Palo Duro Canyon State Park",
+    "West Texas A&M University",
+    "Panhandle-Plains Historical Museum",
+    "Buffalo Stadium",
+    "Conner Park"
+  ],
+  "nearby_cities": [
+    {"name":"Amarillo","slug":"amarillo-tx"},
+    {"name":"Bushland","slug":"bushland-tx"},
+    {"name":"Claude","slug":"claude-tx"},
+    {"name":"Umbarger","slug":"umbarger-tx"},
+    {"name":"Happy","slug":"happy-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"high-plains",
+  "economy_type":"education-tourism",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"texas-panhandle",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Cedar Hill",
+  "slug": "cedar-hill-tx",
+  "county": "Dallas County",
+  "population": 49890,
+  "zip_codes": [
+    "75104",
+    "75106"
+  ],
+  "landmarks": [
+    "Cedar Hill State Park",
+    "Joe Pool Lake",
+    "Dogwood Canyon Audubon Center",
+    "Hillside Village",
+    "Penn Farm Agricultural History Center"
+  ],
+  "nearby_cities": [
+    {"name":"Dallas","slug":"dallas-tx"},
+    {"name":"DeSoto","slug":"desoto-tx"},
+    {"name":"Duncanville","slug":"duncanville-tx"},
+    {"name":"Midlothian","slug":"midlothian-tx"},
+    {"name":"Grand Prairie","slug":"grand-prairie-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"retail-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Cedar Park",
+  "slug": "cedar-park-tx",
+  "county": "Williamson County",
+  "population": 81460,
+  "zip_codes": [
+    "78613",
+    "78630",
+    "78641"
+  ],
+  "landmarks": [
+    "H-E-B Center at Cedar Park",
+    "Brushy Creek Lake Park",
+    "Veterans Memorial Park",
+    "Lakeline Park",
+    "Elizabeth Milburn Park"
+  ],
+  "nearby_cities": [
+    {"name":"Austin","slug":"austin-tx"},
+    {"name":"Leander","slug":"leander-tx"},
+    {"name":"Round Rock","slug":"round-rock-tx"},
+    {"name":"Georgetown","slug":"georgetown-tx"},
+    {"name":"Lakeway","slug":"lakeway-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"texas-hill-country",
+  "economy_type":"technology-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"austin-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Celina",
+  "slug": "celina-tx",
+  "county": "Collin County",
+  "population": 43820,
+  "zip_codes": [
+    "75009"
+  ],
+  "landmarks": [
+    "Historic Downtown Celina",
+    "Old Celina Park",
+    "Founders Station Park",
+    "Celina Town Square",
+    "Moore Park"
+  ],
+  "nearby_cities": [
+    {"name":"Prosper","slug":"prosper-tx"},
+    {"name":"Anna","slug":"anna-tx"},
+    {"name":"Frisco","slug":"frisco-tx"},
+    {"name":"McKinney","slug":"mckinney-tx"},
+    {"name":"Gunter","slug":"gunter-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"residential-services",
+  "housing_profile":"rapid-growth-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Channelview",
+  "slug": "channelview-tx",
+  "county": "Harris County",
+  "population": 43450,
+  "zip_codes": [
+    "77530"
+  ],
+  "landmarks": [
+    "San Jacinto Battleground",
+    "Channelview Community Center",
+    "Sterling Green Park",
+    "Old River Terrace",
+    "Jacinto City Nature Area"
+  ],
+  "nearby_cities": [
+    {"name":"Houston","slug":"houston-tx"},
+    {"name":"Baytown","slug":"baytown-tx"},
+    {"name":"Crosby","slug":"crosby-tx"},
+    {"name":"Jacinto City","slug":"jacinto-city-tx"},
+    {"name":"Deer Park","slug":"deer-park-tx"}
+  ],
+  "city_type":"census-designated-place",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"petrochemical-logistics",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Cibolo",
+  "slug": "cibolo-tx",
+  "county": "Guadalupe County",
+  "population": 32780,
+  "zip_codes": [
+    "78108"
+  ],
+  "landmarks": [
+    "Niemietz Park",
+    "Schlather Park",
+    "Cibolo Nature Center",
+    "Veterans Memorial Park",
+    "Cibolo City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Schertz","slug":"schertz-tx"},
+    {"name":"Selma","slug":"selma-tx"},
+    {"name":"Universal City","slug":"universal-city-tx"},
+    {"name":"New Braunfels","slug":"new-braunfels-tx"},
+    {"name":"Converse","slug":"converse-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"san-antonio-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Cleburne",
+  "slug": "cleburne-tx",
+  "county": "Johnson County",
+  "population": 32690,
+  "zip_codes": [
+    "76031",
+    "76033"
+  ],
+  "landmarks": [
+    "Plaza Theatre Company",
+    "Layland Museum",
+    "Cleburne State Park",
+    "Chisholm Trail Outdoor Museum",
+    "Johnson County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Burleson","slug":"burleson-tx"},
+    {"name":"Joshua","slug":"joshua-tx"},
+    {"name":"Keene","slug":"keene-tx"},
+    {"name":"Alvarado","slug":"alvarado-tx"},
+    {"name":"Granbury","slug":"granbury-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Cloverleaf",
+  "slug": "cloverleaf-tx",
+  "county": "Harris County",
+  "population": 24980,
+  "zip_codes": [
+    "77015"
+  ],
+  "landmarks": [
+    "Cloverleaf Park",
+    "North Shore Rotary Park",
+    "Cloverleaf Community Center",
+    "Market Street Corridor",
+    "Wood Forest Shopping Area"
+  ],
+  "nearby_cities": [
+    {"name":"Houston","slug":"houston-tx"},
+    {"name":"Jacinto City","slug":"jacinto-city-tx"},
+    {"name":"Channelview","slug":"channelview-tx"},
+    {"name":"Galena Park","slug":"galena-park-tx"},
+    {"name":"Pasadena","slug":"pasadena-tx"}
+  ],
+  "city_type":"census-designated-place",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"residential-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "College Station",
+  "slug": "college-station-tx",
+  "county": "Brazos County",
+  "population": 129890,
+  "zip_codes": [
+    "77840",
+    "77845"
+  ],
+  "landmarks": [
+    "Texas A&M University",
+    "Kyle Field",
+    "George H. W. Bush Presidential Library",
+    "Research Park",
+    "Wolf Pen Creek Park"
+  ],
+  "nearby_cities": [
+    {"name":"Bryan","slug":"bryan-tx"},
+    {"name":"Navasota","slug":"navasota-tx"},
+    {"name":"Kurten","slug":"kurten-tx"},
+    {"name":"Caldwell","slug":"caldwell-tx"},
+    {"name":"Hearne","slug":"hearne-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"post-oak-savanna",
+  "economy_type":"education-research",
+  "housing_profile":"major-urban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"bryan-college-station",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Colleyville",
+  "slug": "colleyville-tx",
+  "county": "Tarrant County",
+  "population": 26980,
+  "zip_codes": [
+    "76034"
+  ],
+  "landmarks": [
+    "Colleyville Nature Center",
+    "Sparger Park",
+    "City Hall",
+    "Colleyville Public Library",
+    "McPherson Park"
+  ],
+  "nearby_cities": [
+    {"name":"Grapevine","slug":"grapevine-tx"},
+    {"name":"Bedford","slug":"bedford-tx"},
+    {"name":"Hurst","slug":"hurst-tx"},
+    {"name":"Southlake","slug":"southlake-tx"},
+    {"name":"Euless","slug":"euless-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"professional-services",
+  "housing_profile":"upscale-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Conroe",
+  "slug": "conroe-tx",
+  "county": "Montgomery County",
+  "population": 108250,
+  "zip_codes": [
+    "77301",
+    "77302",
+    "77303",
+    "77304",
+    "77305",
+    "77306",
+    "77384"
+  ],
+  "landmarks": [
+    "Lake Conroe",
+    "Crighton Theatre",
+    "Heritage Museum of Montgomery County",
+    "Candy Cane Park",
+    "Lone Star Convention Center"
+  ],
+  "nearby_cities": [
+    {"name":"Willis","slug":"willis-tx"},
+    {"name":"The Woodlands","slug":"the-woodlands-tx"},
+    {"name":"Montgomery","slug":"montgomery-tx"},
+    {"name":"Shenandoah","slug":"shenandoah-tx"},
+    {"name":"Oak Ridge North","slug":"oak-ridge-north-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"piney-woods",
+  "economy_type":"healthcare-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Converse",
+  "slug": "converse-tx",
+  "county": "Bexar County",
+  "population": 30470,
+  "zip_codes": [
+    "78109"
+  ],
+  "landmarks": [
+    "North Park",
+    "Converse City Park",
+    "Converse City Hall",
+    "Veterans Memorial Park",
+    "Converse Public Library"
+  ],
+  "nearby_cities": [
+    {"name":"San Antonio","slug":"san-antonio-tx"},
+    {"name":"Universal City","slug":"universal-city-tx"},
+    {"name":"Live Oak","slug":"live-oak-tx"},
+    {"name":"Schertz","slug":"schertz-tx"},
+    {"name":"Cibolo","slug":"cibolo-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"san-antonio-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Coppell",
+  "slug": "coppell-tx",
+  "county": "Dallas County",
+  "population": 43210,
+  "zip_codes": [
+    "75019",
+    "75099"
+  ],
+  "landmarks": [
+    "Andrew Brown Park",
+    "Coppell Nature Park",
+    "Biodiversity Education Center",
+    "Coppell Arts Center",
+    "Old Town Coppell"
+  ],
+  "nearby_cities": [
+    {"name":"Irving","slug":"irving-tx"},
+    {"name":"Grapevine","slug":"grapevine-tx"},
+    {"name":"Lewisville","slug":"lewisville-tx"},
+    {"name":"Carrollton","slug":"carrollton-tx"},
+    {"name":"Flower Mound","slug":"flower-mound-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"technology-logistics",
+  "housing_profile":"upscale-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Corpus Christi",
+  "slug": "corpus-christi-tx",
+  "county": "Nueces County",
+  "population": 316600,
+  "zip_codes": [
+    "78401",
+    "78404",
+    "78405",
+    "78411",
+    "78412",
+    "78413",
+    "78414",
+    "78415",
+    "78418"
+  ],
+  "landmarks": [
+    "USS Lexington Museum",
+    "Texas State Aquarium",
+    "Padre Island National Seashore",
+    "Corpus Christi Marina",
+    "Selena Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Portland","slug":"portland-tx"},
+    {"name":"Robstown","slug":"robstown-tx"},
+    {"name":"Aransas Pass","slug":"aransas-pass-tx"},
+    {"name":"Ingleside","slug":"ingleside-tx"},
+    {"name":"Port Aransas","slug":"port-aransas-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"port-tourism",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"coastal-bend",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Corsicana",
+  "slug": "corsicana-tx",
+  "county": "Navarro County",
+  "population": 25890,
+  "zip_codes": [
+    "75109",
+    "75110",
+    "75151"
+  ],
+  "landmarks": [
+    "Pioneer Village",
+    "Navarro County Courthouse",
+    "Cook Center Planetarium",
+    "Jester Park",
+    "Pearce Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Ennis","slug":"ennis-tx"},
+    {"name":"Waxahachie","slug":"waxahachie-tx"},
+    {"name":"Athens","slug":"athens-tx"},
+    {"name":"Mexia","slug":"mexia-tx"},
+    {"name":"Kerens","slug":"kerens-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"north-central-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Crosby",
+  "slug": "crosby-tx",
+  "county": "Harris County",
+  "population": 13180,
+  "zip_codes": [
+    "77532"
+  ],
+  "landmarks": [
+    "Crosby Fairgrounds",
+    "Newport Golf Club",
+    "Crosby Sports Complex",
+    "Crosby Community Center",
+    "San Jacinto River"
+  ],
+  "nearby_cities": [
+    {"name":"Channelview","slug":"channelview-tx"},
+    {"name":"Baytown","slug":"baytown-tx"},
+    {"name":"Atascocita","slug":"atascocita-tx"},
+    {"name":"Humble","slug":"humble-tx"},
+    {"name":"Houston","slug":"houston-tx"}
+  ],
+  "city_type":"census-designated-place",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"industrial-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Crowley",
+  "slug": "crowley-tx",
+  "county": "Tarrant County",
+  "population": 19540,
+  "zip_codes": [
+    "76036"
+  ],
+  "landmarks": [
+    "Bicentennial Park",
+    "Crowley Recreation Center",
+    "City Hall",
+    "Harry S. Teeter Park",
+    "Crowley Public Library"
+  ],
+  "nearby_cities": [
+    {"name":"Fort Worth","slug":"fort-worth-tx"},
+    {"name":"Burleson","slug":"burleson-tx"},
+    {"name":"Benbrook","slug":"benbrook-tx"},
+    {"name":"Everman","slug":"everman-tx"},
+    {"name":"Joshua","slug":"joshua-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Dallas",
+  "slug": "dallas-tx",
+  "county": "Dallas County",
+  "population": 1304370,
+  "zip_codes": [
+    "75201",
+    "75204",
+    "75206",
+    "75214",
+    "75219",
+    "75225",
+    "75230",
+    "75240",
+    "75243",
+    "75248"
+  ],
+  "landmarks": [
+    "Dealey Plaza",
+    "Reunion Tower",
+    "Dallas Arboretum and Botanical Garden",
+    "Perot Museum of Nature and Science",
+    "Dallas Museum of Art"
+  ],
+  "nearby_cities": [
+    {"name":"Irving","slug":"irving-tx"},
+    {"name":"Garland","slug":"garland-tx"},
+    {"name":"Mesquite","slug":"mesquite-tx"},
+    {"name":"Richardson","slug":"richardson-tx"},
+    {"name":"Addison","slug":"addison-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"finance-technology",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "DeSoto",
+  "slug": "desoto-tx",
+  "county": "Dallas County",
+  "population": 57210,
+  "zip_codes": [
+    "75115",
+    "75123"
+  ],
+  "landmarks": [
+    "Grimes Park",
+    "DeSoto Town Center",
+    "Windmill Hill Nature Preserve",
+    "DeSoto Public Library",
+    "City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Dallas","slug":"dallas-tx"},
+    {"name":"Cedar Hill","slug":"cedar-hill-tx"},
+    {"name":"Duncanville","slug":"duncanville-tx"},
+    {"name":"Lancaster","slug":"lancaster-tx"},
+    {"name":"Glenn Heights","slug":"glenn-heights-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"healthcare-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Deer Park",
+  "slug": "deer-park-tx",
+  "county": "Harris County",
+  "population": 34190,
+  "zip_codes": [
+    "77536"
+  ],
+  "landmarks": [
+    "Dow Park",
+    "Battleground Golf Course",
+    "San Jacinto Monument",
+    "Jimmy Burke Activity Center",
+    "Deer Park Nature Preserve"
+  ],
+  "nearby_cities": [
+    {"name":"Pasadena","slug":"pasadena-tx"},
+    {"name":"La Porte","slug":"la-porte-tx"},
+    {"name":"Baytown","slug":"baytown-tx"},
+    {"name":"Channelview","slug":"channelview-tx"},
+    {"name":"Houston","slug":"houston-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"petrochemical-manufacturing",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Del Rio",
+  "slug": "del-rio-tx",
+  "county": "Val Verde County",
+  "population": 34980,
+  "zip_codes": [
+    "78840",
+    "78841"
+  ],
+  "landmarks": [
+    "Amistad National Recreation Area",
+    "Whitehead Memorial Museum",
+    "Val Verde Winery",
+    "San Felipe Springs",
+    "Laughlin Air Force Base"
+  ],
+  "nearby_cities": [
+    {"name":"Brackettville","slug":"brackettville-tx"},
+    {"name":"Comstock","slug":"comstock-tx"},
+    {"name":"Eagle Pass","slug":"eagle-pass-tx"},
+    {"name":"Uvalde","slug":"uvalde-tx"},
+    {"name":"Sonora","slug":"sonora-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"edwards-plateau",
+  "economy_type":"government-tourism",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southwest-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Denton",
+  "slug": "denton-tx",
+  "county": "Denton County",
+  "population": 160140,
+  "zip_codes": [
+    "76201",
+    "76203",
+    "76205",
+    "76207",
+    "76208",
+    "76209",
+    "76210"
+  ],
+  "landmarks": [
+    "University of North Texas",
+    "Texas Woman's University",
+    "Courthouse-on-the-Square Museum",
+    "Ray Roberts Lake State Park",
+    "Denton Square"
+  ],
+  "nearby_cities": [
+    {"name":"Corinth","slug":"corinth-tx"},
+    {"name":"Highland Village","slug":"highland-village-tx"},
+    {"name":"Lewisville","slug":"lewisville-tx"},
+    {"name":"Argyle","slug":"argyle-tx"},
+    {"name":"Little Elm","slug":"little-elm-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"education-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Dickinson",
+  "slug": "dickinson-tx",
+  "county": "Galveston County",
+  "population": 21080,
+  "zip_codes": [
+    "77539"
+  ],
+  "landmarks": [
+    "Paul Hopkins Park",
+    "Bayou Wildlife Area",
+    "Dickinson Historic Railroad Center",
+    "Lobit Park",
+    "Dickinson Bayou"
+  ],
+  "nearby_cities": [
+    {"name":"League City","slug":"league-city-tx"},
+    {"name":"Texas City","slug":"texas-city-tx"},
+    {"name":"Santa Fe","slug":"santa-fe-tx"},
+    {"name":"Friendswood","slug":"friendswood-tx"},
+    {"name":"La Marque","slug":"la-marque-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Donna",
+  "slug": "donna-tx",
+  "county": "Hidalgo County",
+  "population": 16780,
+  "zip_codes": [
+    "78537"
+  ],
+  "landmarks": [
+    "Donna Hooks Fletcher Museum",
+    "Bennie LaPrade Stadium",
+    "Donna City Hall",
+    "Donna Municipal Park",
+    "Downtown Donna"
+  ],
+  "nearby_cities": [
+    {"name":"Alamo","slug":"alamo-tx"},
+    {"name":"Weslaco","slug":"weslaco-tx"},
+    {"name":"Mercedes","slug":"mercedes-tx"},
+    {"name":"Pharr","slug":"pharr-tx"},
+    {"name":"San Juan","slug":"san-juan-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rio-grande-valley",
+  "economy_type":"retail-services",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"rio-grande-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Dumas",
+  "slug": "dumas-tx",
+  "county": "Moore County",
+  "population": 14570,
+  "zip_codes": [
+    "79029"
+  ],
+  "landmarks": [
+    "Window on the Plains Museum",
+    "McDade Park",
+    "Moore County Courthouse",
+    "Evelyn Theater",
+    "Dumas Aquatic Park"
+  ],
+  "nearby_cities": [
+    {"name":"Sunray","slug":"sunray-tx"},
+    {"name":"Cactus","slug":"cactus-tx"},
+    {"name":"Borger","slug":"borger-tx"},
+    {"name":"Dalhart","slug":"dalhart-tx"},
+    {"name":"Amarillo","slug":"amarillo-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"high-plains",
+  "economy_type":"agriculture-energy",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"texas-panhandle",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Duncanville",
+  "slug": "duncanville-tx",
+  "county": "Dallas County",
+  "population": 39810,
+  "zip_codes": [
+    "75116",
+    "75137",
+    "75138"
+  ],
+  "landmarks": [
+    "Armstrong Park",
+    "Lakeside Park",
+    "Duncanville Fieldhouse",
+    "International Museum of Cultures",
+    "Duncanville Public Library"
+  ],
+  "nearby_cities": [
+    {"name":"Dallas","slug":"dallas-tx"},
+    {"name":"DeSoto","slug":"desoto-tx"},
+    {"name":"Cedar Hill","slug":"cedar-hill-tx"},
+    {"name":"Grand Prairie","slug":"grand-prairie-tx"},
+    {"name":"Lancaster","slug":"lancaster-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"retail-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Eagle Pass",
+  "slug": "eagle-pass-tx",
+  "county": "Maverick County",
+  "population": 28810,
+  "zip_codes": [
+    "78852",
+    "78853"
+  ],
+  "landmarks": [
+    "Fort Duncan Museum",
+    "Maverick County Lake",
+    "Kickapoo Lucky Eagle Casino",
+    "International Bridge",
+    "Main Plaza"
+  ],
+  "nearby_cities": [
+    {"name":"Del Rio","slug":"del-rio-tx"},
+    {"name":"Uvalde","slug":"uvalde-tx"},
+    {"name":"Carrizo Springs","slug":"carrizo-springs-tx"},
+    {"name":"Crystal City","slug":"crystal-city-tx"},
+    {"name":"Brackettville","slug":"brackettville-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"south-texas-plains",
+  "economy_type":"border-trade",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southwest-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Edinburg",
+  "slug": "edinburg-tx",
+  "county": "Hidalgo County",
+  "population": 106210,
+  "zip_codes": [
+    "78539",
+    "78540",
+    "78541",
+    "78542"
+  ],
+  "landmarks": [
+    "University of Texas Rio Grande Valley",
+    "Museum of South Texas History",
+    "Bert Ogden Arena",
+    "Edinburg Municipal Park",
+    "Freddy Gonzalez Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"McAllen","slug":"mcallen-tx"},
+    {"name":"Pharr","slug":"pharr-tx"},
+    {"name":"Mission","slug":"mission-tx"},
+    {"name":"San Juan","slug":"san-juan-tx"},
+    {"name":"Alamo","slug":"alamo-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rio-grande-valley",
+  "economy_type":"education-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"rio-grande-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "El Paso",
+  "slug": "el-paso-tx",
+  "county": "El Paso County",
+  "population": 678960,
+  "zip_codes": [
+    "79901",
+    "79902",
+    "79903",
+    "79904",
+    "79905",
+    "79907",
+    "79912",
+    "79915",
+    "79924",
+    "79925",
+    "79928",
+    "79934",
+    "79936",
+    "79938"
+  ],
+  "landmarks": [
+    "Franklin Mountains State Park",
+    "Wyler Aerial Tramway",
+    "Plaza Theatre",
+    "El Paso Museum of Art",
+    "Sun Bowl Stadium"
+  ],
+  "nearby_cities": [
+    {"name":"Socorro","slug":"socorro-tx"},
+    {"name":"Horizon City","slug":"horizon-city-tx"},
+    {"name":"Anthony","slug":"anthony-tx"},
+    {"name":"Canutillo","slug":"canutillo-tx"},
+    {"name":"San Elizario","slug":"san-elizario-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"desert",
+  "terrain":"chihuahuan-desert",
+  "economy_type":"military-logistics",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"el-paso-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Ennis",
+  "slug": "ennis-tx",
+  "county": "Ellis County",
+  "population": 23420,
+  "zip_codes": [
+    "75119",
+    "75120"
+  ],
+  "landmarks": [
+    "Bluebonnet Trails",
+    "Galaxy Drive-In Theatre",
+    "Ennis Railroad Museum",
+    "Veterans Memorial Park",
+    "Downtown Ennis"
+  ],
+  "nearby_cities": [
+    {"name":"Waxahachie","slug":"waxahachie-tx"},
+    {"name":"Corsicana","slug":"corsicana-tx"},
+    {"name":"Ferris","slug":"ferris-tx"},
+    {"name":"Palmer","slug":"palmer-tx"},
+    {"name":"Midlothian","slug":"midlothian-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Euless",
+  "slug": "euless-tx",
+  "county": "Tarrant County",
+  "population": 61380,
+  "zip_codes": [
+    "76039",
+    "76040"
+  ],
+  "landmarks": [
+    "Texas Star Golf Course",
+    "Bob Eden Park",
+    "Heritage Park",
+    "Euless Family Life Center",
+    "McCormick Park"
+  ],
+  "nearby_cities": [
+    {"name":"Bedford","slug":"bedford-tx"},
+    {"name":"Hurst","slug":"hurst-tx"},
+    {"name":"Grapevine","slug":"grapevine-tx"},
+    {"name":"Irving","slug":"irving-tx"},
+    {"name":"Colleyville","slug":"colleyville-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"aviation-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Farmers Branch",
+  "slug": "farmers-branch-tx",
+  "county": "Dallas County",
+  "population": 36970,
+  "zip_codes": [
+    "75234",
+    "75244"
+  ],
+  "landmarks": [
+    "Farmers Branch Historical Park",
+    "Rawhide Park",
+    "The Rose Gardens",
+    "Farmers Branch Aquatics Center",
+    "City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Addison","slug":"addison-tx"},
+    {"name":"Carrollton","slug":"carrollton-tx"},
+    {"name":"Dallas","slug":"dallas-tx"},
+    {"name":"Irving","slug":"irving-tx"},
+    {"name":"Coppell","slug":"coppell-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"business-services",
+  "housing_profile":"urban-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Ferris",
+  "slug": "ferris-tx",
+  "county": "Ellis County",
+  "population": 5310,
+  "zip_codes": [
+    "75125"
+  ],
+  "landmarks": [
+    "Ferris Downtown",
+    "Ferris City Hall",
+    "Mutz Park",
+    "Ferris Public Library",
+    "Brick Festival Grounds"
+  ],
+  "nearby_cities": [
+    {"name":"Ennis","slug":"ennis-tx"},
+    {"name":"Lancaster","slug":"lancaster-tx"},
+    {"name":"Wilmer","slug":"wilmer-tx"},
+    {"name":"Hutchins","slug":"hutchins-tx"},
+    {"name":"Palmer","slug":"palmer-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"small-city-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Flower Mound",
+  "slug": "flower-mound-tx",
+  "county": "Denton County",
+  "population": 79920,
+  "zip_codes": [
+    "75022",
+    "75027",
+    "75028"
+  ],
+  "landmarks": [
+    "Grapevine Lake",
+    "Twin Coves Park",
+    "Heritage Park",
+    "The River Walk at Central Park",
+    "Murrell Park"
+  ],
+  "nearby_cities": [
+    {"name":"Lewisville","slug":"lewisville-tx"},
+    {"name":"Highland Village","slug":"highland-village-tx"},
+    {"name":"Coppell","slug":"coppell-tx"},
+    {"name":"Grapevine","slug":"grapevine-tx"},
+    {"name":"Southlake","slug":"southlake-tx"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"professional-services",
+  "housing_profile":"upscale-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Forney",
+  "slug": "forney-tx",
+  "county": "Kaufman County",
+  "population": 32380,
+  "zip_codes": [
+    "75126"
+  ],
+  "landmarks": [
+    "Spellman Museum of Forney History",
+    "Forney Community Park",
+    "Mulberry Park",
+    "Downtown Forney",
+    "Forney City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Mesquite","slug":"mesquite-tx"},
+    {"name":"Terrell","slug":"terrell-tx"},
+    {"name":"Sunnyvale","slug":"sunnyvale-tx"},
+    {"name":"Heartland","slug":"heartland-tx"},
+    {"name":"Rockwall","slug":"rockwall-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"retail-services",
+  "housing_profile":"rapid-growth-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Fort Hood",
+  "slug": "fort-hood-tx",
+  "county": "Bell County",
+  "population": 29120,
+  "zip_codes": [
+    "76544",
+    "76548"
+  ],
+  "landmarks": [
+    "Fort Hood Military Installation",
+    "III Armored Corps Headquarters",
+    "1st Cavalry Division Museum",
+    "Fort Hood Visitor Center",
+    "Warrior Way Exchange"
+  ],
+  "nearby_cities": [
+    {"name":"Killeen","slug":"killeen-tx"},
+    {"name":"Harker Heights","slug":"harker-heights-tx"},
+    {"name":"Copperas Cove","slug":"copperas-cove-tx"},
+    {"name":"Belton","slug":"belton-tx"},
+    {"name":"Nolanville","slug":"nolanville-tx"}
+  ],
+  "city_type":"census-designated-place",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"military-government",
+  "housing_profile":"military-community",
+  "growth_pattern":"stable-growth",
+  "service_environment":"killeen-temple-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Fort Stockton",
+  "slug": "fort-stockton-tx",
+  "county": "Pecos County",
+  "population": 8600,
+  "zip_codes": [
+    "79735"
+  ],
+  "landmarks": [
+    "Historic Fort Stockton",
+    "Paisano Pete",
+    "Annie Riggs Memorial Museum",
+    "Comanche Springs",
+    "James Rooney Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Monahans","slug":"monahans-tx"},
+    {"name":"Fort Davis","slug":"fort-davis-tx"},
+    {"name":"Alpine","slug":"alpine-tx"},
+    {"name":"Odessa","slug":"odessa-tx"},
+    {"name":"Pecos","slug":"pecos-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"arid",
+  "terrain":"chihuahuan-desert",
+  "economy_type":"energy-tourism",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"west-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Fort Worth",
+  "slug": "fort-worth-tx",
+  "county": "Tarrant County",
+  "population": 989880,
+  "zip_codes": [
+    "76102",
+    "76104",
+    "76107",
+    "76109",
+    "76110",
+    "76116",
+    "76119",
+    "76123",
+    "76131",
+    "76137"
+  ],
+  "landmarks": [
+    "Fort Worth Stockyards",
+    "Sundance Square",
+    "Fort Worth Zoo",
+    "Kimbell Art Museum",
+    "Fort Worth Botanic Garden"
+  ],
+  "nearby_cities": [
+    {"name":"Arlington","slug":"arlington-tx"},
+    {"name":"Benbrook","slug":"benbrook-tx"},
+    {"name":"North Richland Hills","slug":"north-richland-hills-tx"},
+    {"name":"Haltom City","slug":"haltom-city-tx"},
+    {"name":"Saginaw","slug":"saginaw-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"finance-aviation",
+  "housing_profile":"major-urban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Freeport",
+  "slug": "freeport-tx",
+  "county": "Brazoria County",
+  "population": 10790,
+  "zip_codes": [
+    "77541",
+    "77542"
+  ],
+  "landmarks": [
+    "Port Freeport",
+    "Brazos River Harbor",
+    "Freeport Municipal Park",
+    "Freeport Historical Museum",
+    "Surfside Beach Gateway"
+  ],
+  "nearby_cities": [
+    {"name":"Lake Jackson","slug":"lake-jackson-tx"},
+    {"name":"Clute","slug":"clute-tx"},
+    {"name":"Angleton","slug":"angleton-tx"},
+    {"name":"Richwood","slug":"richwood-tx"},
+    {"name":"Surfside Beach","slug":"surfside-beach-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"port-industrial",
+  "housing_profile":"coastal-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"gulf-coast",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Friendswood",
+  "slug": "friendswood-tx",
+  "county": "Galveston County",
+  "population": 41870,
+  "zip_codes": [
+    "77546",
+    "77549"
+  ],
+  "landmarks": [
+    "Centennial Park",
+    "1776 Memorial Park",
+    "Stevenson Park",
+    "Friendswood Historical Society Museum",
+    "Friendswood City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"League City","slug":"league-city-tx"},
+    {"name":"Pearland","slug":"pearland-tx"},
+    {"name":"Alvin","slug":"alvin-tx"},
+    {"name":"Dickinson","slug":"dickinson-tx"},
+    {"name":"Webster","slug":"webster-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"healthcare-professional-services",
+  "housing_profile":"upscale-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Frisco",
+  "slug": "frisco-tx",
+  "county": "Collin County",
+  "population": 234560,
+  "zip_codes": [
+    "75033",
+    "75034",
+    "75035",
+    "75036"
+  ],
+  "landmarks": [
+    "The Star",
+    "Toyota Stadium",
+    "National Videogame Museum",
+    "Frisco Commons Park",
+    "Riders Field"
+  ],
+  "nearby_cities": [
+    {"name":"Plano","slug":"plano-tx"},
+    {"name":"McKinney","slug":"mckinney-tx"},
+    {"name":"Prosper","slug":"prosper-tx"},
+    {"name":"Little Elm","slug":"little-elm-tx"},
+    {"name":"The Colony","slug":"the-colony-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"technology-sports",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Galena Park",
+  "slug": "galena-park-tx",
+  "county": "Harris County",
+  "population": 10840,
+  "zip_codes": [
+    "77547"
+  ],
+  "landmarks": [
+    "Galena Park ISD Stadium",
+    "William B. Travis Park",
+    "Galena Park City Hall",
+    "Jacinto City Industrial Corridor",
+    "Galena Manor Park"
+  ],
+  "nearby_cities": [
+    {"name":"Houston","slug":"houston-tx"},
+    {"name":"Jacinto City","slug":"jacinto-city-tx"},
+    {"name":"Pasadena","slug":"pasadena-tx"},
+    {"name":"Channelview","slug":"channelview-tx"},
+    {"name":"Cloverleaf","slug":"cloverleaf-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"industrial-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Garland",
+  "slug": "garland-tx",
+  "county": "Dallas County",
+  "population": 247480,
+  "zip_codes": [
+    "75040",
+    "75041",
+    "75042",
+    "75043",
+    "75044"
+  ],
+  "landmarks": [
+    "Firewheel Town Center",
+    "Hawaiian Waters Garland",
+    "Granville Arts Center",
+    "Spring Creek Forest Preserve",
+    "Downtown Garland Square"
+  ],
+  "nearby_cities": [
+    {"name":"Dallas","slug":"dallas-tx"},
+    {"name":"Richardson","slug":"richardson-tx"},
+    {"name":"Mesquite","slug":"mesquite-tx"},
+    {"name":"Sachse","slug":"sachse-tx"},
+    {"name":"Rowlett","slug":"rowlett-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"manufacturing-retail",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Georgetown",
+  "slug": "georgetown-tx",
+  "county": "Williamson County",
+  "population": 96710,
+  "zip_codes": [
+    "78626",
+    "78627",
+    "78628",
+    "78633"
+  ],
+  "landmarks": [
+    "Georgetown Square",
+    "Inner Space Cavern",
+    "Blue Hole Park",
+    "San Gabriel Park",
+    "Southwestern University"
+  ],
+  "nearby_cities": [
+    {"name":"Round Rock","slug":"round-rock-tx"},
+    {"name":"Cedar Park","slug":"cedar-park-tx"},
+    {"name":"Leander","slug":"leander-tx"},
+    {"name":"Liberty Hill","slug":"liberty-hill-tx"},
+    {"name":"Jarrell","slug":"jarrell-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"texas-hill-country",
+  "economy_type":"education-healthcare",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"austin-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Grand Prairie",
+  "slug": "grand-prairie-tx",
+  "county": "Dallas County",
+  "population": 202130,
+  "zip_codes": [
+    "75050",
+    "75051",
+    "75052",
+    "75054"
+  ],
+  "landmarks": [
+    "EpicCentral",
+    "Lone Star Park",
+    "Ripley's Believe It or Not! Grand Prairie",
+    "Traders Village",
+    "Joe Pool Lake"
+  ],
+  "nearby_cities": [
+    {"name":"Arlington","slug":"arlington-tx"},
+    {"name":"Irving","slug":"irving-tx"},
+    {"name":"Dallas","slug":"dallas-tx"},
+    {"name":"Cedar Hill","slug":"cedar-hill-tx"},
+    {"name":"Mansfield","slug":"mansfield-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"entertainment-logistics",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Greenville",
+  "slug": "greenville-tx",
+  "county": "Hunt County",
+  "population": 30780,
+  "zip_codes": [
+    "75401",
+    "75402",
+    "75403",
+    "75404"
+  ],
+  "landmarks": [
+    "Audie Murphy/American Cotton Museum",
+    "Downtown Greenville",
+    "Graham Park",
+    "Hunt County Courthouse",
+    "Warren Park"
+  ],
+  "nearby_cities": [
+    {"name":"Royse City","slug":"royse-city-tx"},
+    {"name":"Commerce","slug":"commerce-tx"},
+    {"name":"Caddo Mills","slug":"caddo-mills-tx"},
+    {"name":"Rockwall","slug":"rockwall-tx"},
+    {"name":"Sulphur Springs","slug":"sulphur-springs-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"northeast-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Groves",
+  "slug": "groves-tx",
+  "county": "Jefferson County",
+  "population": 15520,
+  "zip_codes": [
+    "77619"
+  ],
+  "landmarks": [
+    "Lion's Park",
+    "Port Arthur LNG Corridor",
+    "Groves Public Library",
+    "Groves City Hall",
+    "Bossley Park"
+  ],
+  "nearby_cities": [
+    {"name":"Port Arthur","slug":"port-arthur-tx"},
+    {"name":"Nederland","slug":"nederland-tx"},
+    {"name":"Port Neches","slug":"port-neches-tx"},
+    {"name":"Beaumont","slug":"beaumont-tx"},
+    {"name":"Bridge City","slug":"bridge-city-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"petrochemical-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"golden-triangle",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Harlingen",
+  "slug": "harlingen-tx",
+  "county": "Cameron County",
+  "population": 72010,
+  "zip_codes": [
+    "78550",
+    "78551",
+    "78552"
+  ],
+  "landmarks": [
+    "Valley International Airport",
+    "Hugh Ramsey Nature Park",
+    "Harlingen Arts & Heritage Museum",
+    "Lon C. Hill Park",
+    "Iwo Jima Memorial Museum"
+  ],
+  "nearby_cities": [
+    {"name":"San Benito","slug":"san-benito-tx"},
+    {"name":"Brownsville","slug":"brownsville-tx"},
+    {"name":"Los Fresnos","slug":"los-fresnos-tx"},
+    {"name":"La Feria","slug":"la-feria-tx"},
+    {"name":"Mercedes","slug":"mercedes-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rio-grande-valley",
+  "economy_type":"healthcare-aviation",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"rio-grande-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Harker Heights",
+  "slug": "harker-heights-tx",
+  "county": "Bell County",
+  "population": 34690,
+  "zip_codes": [
+    "76548"
+  ],
+  "landmarks": [
+    "Purser Family Park",
+    "Stillhouse Hollow Lake",
+    "Carl Levin Park",
+    "Harker Heights Community Park",
+    "Marketplace Shopping Center"
+  ],
+  "nearby_cities": [
+    {"name":"Killeen","slug":"killeen-tx"},
+    {"name":"Fort Hood","slug":"fort-hood-tx"},
+    {"name":"Belton","slug":"belton-tx"},
+    {"name":"Nolanville","slug":"nolanville-tx"},
+    {"name":"Copperas Cove","slug":"copperas-cove-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"military-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"killeen-temple-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Haltom City",
+  "slug": "haltom-city-tx",
+  "county": "Tarrant County",
+  "population": 46090,
+  "zip_codes": [
+    "76117",
+    "76137"
+  ],
+  "landmarks": [
+    "Broadway Park",
+    "Buffalo Ridge Park",
+    "Haltom City Public Library",
+    "City Hall",
+    "Whites Branch Park"
+  ],
+  "nearby_cities": [
+    {"name":"Fort Worth","slug":"fort-worth-tx"},
+    {"name":"North Richland Hills","slug":"north-richland-hills-tx"},
+    {"name":"Watauga","slug":"watauga-tx"},
+    {"name":"Richland Hills","slug":"richland-hills-tx"},
+    {"name":"Hurst","slug":"hurst-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"manufacturing-retail",
+  "housing_profile":"urban-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Highland Village",
+  "slug": "highland-village-tx",
+  "county": "Denton County",
+  "population": 16390,
+  "zip_codes": [
+    "75077"
+  ],
+  "landmarks": [
+    "The Shops at Highland Village",
+    "Pilot Knoll Park",
+    "Doubletree Ranch Park",
+    "Copperas Branch Park",
+    "Unity Park"
+  ],
+  "nearby_cities": [
+    {"name":"Lewisville","slug":"lewisville-tx"},
+    {"name":"Flower Mound","slug":"flower-mound-tx"},
+    {"name":"Denton","slug":"denton-tx"},
+    {"name":"Corinth","slug":"corinth-tx"},
+    {"name":"Lake Dallas","slug":"lake-dallas-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"retail-services",
+  "housing_profile":"upscale-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Highlands",
+  "slug": "highlands-tx",
+  "county": "Harris County",
+  "population": 8300,
+  "zip_codes": [
+    "77562"
+  ],
+  "landmarks": [
+    "San Jacinto River",
+    "Highlands Reservoir",
+    "Highlands Community Center",
+    "Moncrief Park",
+    "Highlands City Plaza"
+  ],
+  "nearby_cities": [
+    {"name":"Baytown","slug":"baytown-tx"},
+    {"name":"Channelview","slug":"channelview-tx"},
+    {"name":"Crosby","slug":"crosby-tx"},
+    {"name":"Houston","slug":"houston-tx"},
+    {"name":"Mont Belvieu","slug":"mont-belvieu-tx"}
+  ],
+  "city_type":"census-designated-place",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"industrial-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Houston",
+  "slug": "houston-tx",
+  "county": "Harris County",
+  "population": 2314200,
+  "zip_codes": [
+    "77002",
+    "77003",
+    "77004",
+    "77005",
+    "77006",
+    "77007",
+    "77008",
+    "77019",
+    "77024",
+    "77056"
+  ],
+  "landmarks": [
+    "Space Center Houston",
+    "Museum District",
+    "Houston Zoo",
+    "Discovery Green",
+    "Minute Maid Park"
+  ],
+  "nearby_cities": [
+    {"name":"Bellaire","slug":"bellaire-tx"},
+    {"name":"Pasadena","slug":"pasadena-tx"},
+    {"name":"Pearland","slug":"pearland-tx"},
+    {"name":"Missouri City","slug":"missouri-city-tx"},
+    {"name":"Sugar Land","slug":"sugar-land-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"energy-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Humble",
+  "slug": "humble-tx",
+  "county": "Harris County",
+  "population": 16480,
+  "zip_codes": [
+    "77338",
+    "77346",
+    "77347"
+  ],
+  "landmarks": [
+    "Deerbrook Mall",
+    "Hirsch Memorial Park",
+    "Humble Museum",
+    "Schott Park",
+    "Humble Civic Center"
+  ],
+  "nearby_cities": [
+    {"name":"Atascocita","slug":"atascocita-tx"},
+    {"name":"Houston","slug":"houston-tx"},
+    {"name":"Kingwood","slug":"kingwood-tx"},
+    {"name":"Crosby","slug":"crosby-tx"},
+    {"name":"Aldine","slug":"aldine-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Hurst",
+  "slug": "hurst-tx",
+  "county": "Tarrant County",
+  "population": 40710,
+  "zip_codes": [
+    "76053",
+    "76054"
+  ],
+  "landmarks": [
+    "North East Mall",
+    "Chisholm Park",
+    "Hurst Conference Center",
+    "Hurst Public Library",
+    "Echo Hills Park"
+  ],
+  "nearby_cities": [
+    {"name":"Bedford","slug":"bedford-tx"},
+    {"name":"Euless","slug":"euless-tx"},
+    {"name":"North Richland Hills","slug":"north-richland-hills-tx"},
+    {"name":"Colleyville","slug":"colleyville-tx"},
+    {"name":"Fort Worth","slug":"fort-worth-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"retail-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Irving",
+  "slug": "irving-tx",
+  "county": "Dallas County",
+  "population": 257240,
+  "zip_codes": [
+    "75014",
+    "75015",
+    "75038",
+    "75039",
+    "75060",
+    "75061",
+    "75062",
+    "75063"
+  ],
+  "landmarks": [
+    "Toyota Music Factory",
+    "Mandalay Canal Walk",
+    "Las Colinas",
+    "Irving Arts Center",
+    "Mustangs at Las Colinas"
+  ],
+  "nearby_cities": [
+    {"name":"Dallas","slug":"dallas-tx"},
+    {"name":"Grand Prairie","slug":"grand-prairie-tx"},
+    {"name":"Coppell","slug":"coppell-tx"},
+    {"name":"Euless","slug":"euless-tx"},
+    {"name":"Farmers Branch","slug":"farmers-branch-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"technology-aviation",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Jacinto City",
+  "slug": "jacinto-city-tx",
+  "county": "Harris County",
+  "population": 10210,
+  "zip_codes": [
+    "77029"
+  ],
+  "landmarks": [
+    "Jacinto City Town Center",
+    "Jacinto City Park",
+    "City Hall",
+    "Herman Brown Park",
+    "Jacinto City Library"
+  ],
+  "nearby_cities": [
+    {"name":"Houston","slug":"houston-tx"},
+    {"name":"Galena Park","slug":"galena-park-tx"},
+    {"name":"Channelview","slug":"channelview-tx"},
+    {"name":"Cloverleaf","slug":"cloverleaf-tx"},
+    {"name":"Pasadena","slug":"pasadena-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"industrial-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Katy",
+  "slug": "katy-tx",
+  "county": "Harris County",
+  "population": 24260,
+  "zip_codes": [
+    "77449",
+    "77450",
+    "77493",
+    "77494"
+  ],
+  "landmarks": [
+    "Katy Mills",
+    "Mary Jo Peckham Park",
+    "Katy Heritage Museum",
+    "Typhoon Texas Waterpark",
+    "Historic Downtown Katy"
+  ],
+  "nearby_cities": [
+    {"name":"Houston","slug":"houston-tx"},
+    {"name":"Cinco Ranch","slug":"cinco-ranch-tx"},
+    {"name":"Brookshire","slug":"brookshire-tx"},
+    {"name":"Fulshear","slug":"fulshear-tx"},
+    {"name":"Sealy","slug":"sealy-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"retail-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Keller",
+  "slug": "keller-tx",
+  "county": "Tarrant County",
+  "population": 47890,
+  "zip_codes": [
+    "76244",
+    "76248"
+  ],
+  "landmarks": [
+    "The Keller Pointe",
+    "Bear Creek Park",
+    "Keller Town Center",
+    "Johnson Road Park",
+    "Sky Creek Ranch Golf Club"
+  ],
+  "nearby_cities": [
+    {"name":"Southlake","slug":"southlake-tx"},
+    {"name":"North Richland Hills","slug":"north-richland-hills-tx"},
+    {"name":"Roanoke","slug":"roanoke-tx"},
+    {"name":"Watauga","slug":"watauga-tx"},
+    {"name":"Fort Worth","slug":"fort-worth-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"professional-services",
+  "housing_profile":"upscale-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Kerrville",
+  "slug": "kerrville-tx",
+  "county": "Kerr County",
+  "population": 25460,
+  "zip_codes": [
+    "78028",
+    "78029"
+  ],
+  "landmarks": [
+    "The Coming King Sculpture Prayer Garden",
+    "Louise Hays Park",
+    "Museum of Western Art",
+    "Riverside Nature Center",
+    "Schreiner University"
+  ],
+  "nearby_cities": [
+    {"name":"Fredericksburg","slug":"fredericksburg-tx"},
+    {"name":"Boerne","slug":"boerne-tx"},
+    {"name":"Comfort","slug":"comfort-tx"},
+    {"name":"Ingram","slug":"ingram-tx"},
+    {"name":"Bandera","slug":"bandera-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"texas-hill-country",
+  "economy_type":"tourism-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"hill-country",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Killeen",
+  "slug": "killeen-tx",
+  "county": "Bell County",
+  "population": 159650,
+  "zip_codes": [
+    "76540",
+    "76541",
+    "76542",
+    "76543",
+    "76549"
+  ],
+  "landmarks": [
+    "Killeen Mall",
+    "Lions Club Park",
+    "Andy K. Wells Hike and Bike Trail",
+    "Killeen Civic and Conference Center",
+    "Stonetree Golf Club"
+  ],
+  "nearby_cities": [
+    {"name":"Fort Hood","slug":"fort-hood-tx"},
+    {"name":"Harker Heights","slug":"harker-heights-tx"},
+    {"name":"Copperas Cove","slug":"copperas-cove-tx"},
+    {"name":"Belton","slug":"belton-tx"},
+    {"name":"Nolanville","slug":"nolanville-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"military-services",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"killeen-temple-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Kingsville",
+  "slug": "kingsville-tx",
+  "county": "Kleberg County",
+  "population": 25360,
+  "zip_codes": [
+    "78363",
+    "78364"
+  ],
+  "landmarks": [
+    "King Ranch Museum",
+    "Texas A&M University-Kingsville",
+    "Dick Kleberg Park",
+    "John E. Conner Museum",
+    "Downtown Kingsville"
+  ],
+  "nearby_cities": [
+    {"name":"Alice","slug":"alice-tx"},
+    {"name":"Bishop","slug":"bishop-tx"},
+    {"name":"Robstown","slug":"robstown-tx"},
+    {"name":"Corpus Christi","slug":"corpus-christi-tx"},
+    {"name":"Premont","slug":"premont-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"south-texas-plains",
+  "economy_type":"education-agriculture",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"south-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "La Feria",
+  "slug": "la-feria-tx",
+  "county": "Cameron County",
+  "population": 7330,
+  "zip_codes": [
+    "78559"
+  ],
+  "landmarks": [
+    "Veterans Memorial Park",
+    "La Feria Nature Center",
+    "La Feria City Hall",
+    "Downtown La Feria",
+    "Sports Complex"
+  ],
+  "nearby_cities": [
+    {"name":"Harlingen","slug":"harlingen-tx"},
+    {"name":"Mercedes","slug":"mercedes-tx"},
+    {"name":"Weslaco","slug":"weslaco-tx"},
+    {"name":"Donna","slug":"donna-tx"},
+    {"name":"Los Fresnos","slug":"los-fresnos-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rio-grande-valley",
+  "economy_type":"agriculture-retail",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"rio-grande-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "La Marque",
+  "slug": "la-marque-tx",
+  "county": "Galveston County",
+  "population": 18710,
+  "zip_codes": [
+    "77568"
+  ],
+  "landmarks": [
+    "Mac McGaffey Highland Bayou Park",
+    "Highlands Bayou",
+    "La Marque City Hall",
+    "MacNaughton Park",
+    "College of the Mainland"
+  ],
+  "nearby_cities": [
+    {"name":"Texas City","slug":"texas-city-tx"},
+    {"name":"Dickinson","slug":"dickinson-tx"},
+    {"name":"Santa Fe","slug":"santa-fe-tx"},
+    {"name":"League City","slug":"league-city-tx"},
+    {"name":"Galveston","slug":"galveston-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"education-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "La Porte",
+  "slug": "la-porte-tx",
+  "county": "Harris County",
+  "population": 35980,
+  "zip_codes": [
+    "77571",
+    "77572"
+  ],
+  "landmarks": [
+    "Sylvan Beach Park",
+    "San Jacinto Monument",
+    "Five Points Plaza",
+    "Little Cedar Bayou Park",
+    "La Porte Wave Pool"
+  ],
+  "nearby_cities": [
+    {"name":"Deer Park","slug":"deer-park-tx"},
+    {"name":"Baytown","slug":"baytown-tx"},
+    {"name":"Pasadena","slug":"pasadena-tx"},
+    {"name":"Seabrook","slug":"seabrook-tx"},
+    {"name":"Houston","slug":"houston-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"petrochemical-port",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lake Jackson",
+  "slug": "lake-jackson-tx",
+  "county": "Brazoria County",
+  "population": 28670,
+  "zip_codes": [
+    "77566"
+  ],
+  "landmarks": [
+    "Sea Center Texas",
+    "MacLEAN Park",
+    "Brazos Mall",
+    "Lake Jackson Historical Museum",
+    "Dow Centennial Bottomlands Preserve"
+  ],
+  "nearby_cities": [
+    {"name":"Clute","slug":"clute-tx"},
+    {"name":"Freeport","slug":"freeport-tx"},
+    {"name":"Richwood","slug":"richwood-tx"},
+    {"name":"Angleton","slug":"angleton-tx"},
+    {"name":"Surfside Beach","slug":"surfside-beach-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"petrochemical-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"gulf-coast",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lakeway",
+  "slug": "lakeway-tx",
+  "county": "Travis County",
+  "population": 19790,
+  "zip_codes": [
+    "78734",
+    "78738"
+  ],
+  "landmarks": [
+    "Lakeway City Park",
+    "Lake Travis",
+    "Hamilton Greenbelt",
+    "Lakeway Resort and Spa",
+    "Yaupon Golf Course"
+  ],
+  "nearby_cities": [
+    {"name":"Bee Cave","slug":"bee-cave-tx"},
+    {"name":"Austin","slug":"austin-tx"},
+    {"name":"West Lake Hills","slug":"west-lake-hills-tx"},
+    {"name":"Dripping Springs","slug":"dripping-springs-tx"},
+    {"name":"Cedar Park","slug":"cedar-park-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"texas-hill-country",
+  "economy_type":"tourism-services",
+  "housing_profile":"upscale-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"austin-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lancaster",
+  "slug": "lancaster-tx",
+  "county": "Dallas County",
+  "population": 43560,
+  "zip_codes": [
+    "75134",
+    "75146"
+  ],
+  "landmarks": [
+    "Bear Creek Nature Park",
+    "Lancaster Historic Town Square",
+    "Lancaster Community Park",
+    "Lancaster Recreation Center",
+    "City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Dallas","slug":"dallas-tx"},
+    {"name":"DeSoto","slug":"desoto-tx"},
+    {"name":"Duncanville","slug":"duncanville-tx"},
+    {"name":"Ferris","slug":"ferris-tx"},
+    {"name":"Wilmer","slug":"wilmer-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"logistics-manufacturing",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Laredo",
+  "slug": "laredo-tx",
+  "county": "Webb County",
+  "population": 260650,
+  "zip_codes": [
+    "78040",
+    "78041",
+    "78043",
+    "78045",
+    "78046"
+  ],
+  "landmarks": [
+    "San Agustin Plaza",
+    "Republic of the Rio Grande Museum",
+    "Lake Casa Blanca International State Park",
+    "Mall del Norte",
+    "Laredo International Bridge"
+  ],
+  "nearby_cities": [
+    {"name":"Rio Bravo","slug":"rio-bravo-tx"},
+    {"name":"El Cenizo","slug":"el-cenizo-tx"},
+    {"name":"Zapata","slug":"zapata-tx"},
+    {"name":"Cotulla","slug":"cotulla-tx"},
+    {"name":"Hebbronville","slug":"hebbronville-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"south-texas-plains",
+  "economy_type":"international-trade",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"south-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "League City",
+  "slug": "league-city-tx",
+  "county": "Galveston County",
+  "population": 121420,
+  "zip_codes": [
+    "77573",
+    "77574"
+  ],
+  "landmarks": [
+    "League Park",
+    "Helen's Garden",
+    "Big League Dreams Sports Park",
+    "Walter Hall Park",
+    "Historic League City District"
+  ],
+  "nearby_cities": [
+    {"name":"Friendswood","slug":"friendswood-tx"},
+    {"name":"Dickinson","slug":"dickinson-tx"},
+    {"name":"Webster","slug":"webster-tx"},
+    {"name":"Kemah","slug":"kemah-tx"},
+    {"name":"Clear Lake Shores","slug":"clear-lake-shores-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"healthcare-aerospace",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Leander",
+  "slug": "leander-tx",
+  "county": "Williamson County",
+  "population": 86600,
+  "zip_codes": [
+    "78641",
+    "78645",
+    "78646"
+  ],
+  "landmarks": [
+    "Devine Lake Park",
+    "Lakewood Park",
+    "Robin Bledsoe Park",
+    "Leander Station",
+    "Crystal Falls Golf Club"
+  ],
+  "nearby_cities": [
+    {"name":"Cedar Park","slug":"cedar-park-tx"},
+    {"name":"Georgetown","slug":"georgetown-tx"},
+    {"name":"Liberty Hill","slug":"liberty-hill-tx"},
+    {"name":"Round Rock","slug":"round-rock-tx"},
+    {"name":"Austin","slug":"austin-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"texas-hill-country",
+  "economy_type":"technology-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"austin-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lewisville",
+  "slug": "lewisville-tx",
+  "county": "Denton County",
+  "population": 114430,
+  "zip_codes": [
+    "75029",
+    "75057",
+    "75067",
+    "75077"
+  ],
+  "landmarks": [
+    "Lewisville Lake",
+    "Wayne Ferguson Plaza",
+    "LLELA Nature Preserve",
+    "Toyota of Lewisville Railroad Park",
+    "Medical City Lewisville"
+  ],
+  "nearby_cities": [
+    {"name":"Flower Mound","slug":"flower-mound-tx"},
+    {"name":"Highland Village","slug":"highland-village-tx"},
+    {"name":"Coppell","slug":"coppell-tx"},
+    {"name":"The Colony","slug":"the-colony-tx"},
+    {"name":"Carrollton","slug":"carrollton-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"logistics-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Little Elm",
+  "slug": "little-elm-tx",
+  "county": "Denton County",
+  "population": 59350,
+  "zip_codes": [
+    "75068"
+  ],
+  "landmarks": [
+    "Little Elm Park",
+    "Lakefront at Little Elm",
+    "Hydrous Wake Park",
+    "The Cove at The Lakefront",
+    "Cottonwood Creek Marina"
+  ],
+  "nearby_cities": [
+    {"name":"Frisco","slug":"frisco-tx"},
+    {"name":"The Colony","slug":"the-colony-tx"},
+    {"name":"Prosper","slug":"prosper-tx"},
+    {"name":"Lewisville","slug":"lewisville-tx"},
+    {"name":"Oak Point","slug":"oak-point-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"tourism-residential",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Longview",
+  "slug": "longview-tx",
+  "county": "Gregg County",
+  "population": 83420,
+  "zip_codes": [
+    "75601",
+    "75602",
+    "75603",
+    "75604",
+    "75605"
+  ],
+  "landmarks": [
+    "Longview World of Wonders",
+    "Paul Boorman Trail",
+    "Gregg County Historical Museum",
+    "Lear Park",
+    "Longview Arboretum"
+  ],
+  "nearby_cities": [
+    {"name":"Kilgore","slug":"kilgore-tx"},
+    {"name":"Hallsville","slug":"hallsville-tx"},
+    {"name":"Gladewater","slug":"gladewater-tx"},
+    {"name":"Marshall","slug":"marshall-tx"},
+    {"name":"White Oak","slug":"white-oak-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"east-texas-piney-woods",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"east-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lubbock",
+  "slug": "lubbock-tx",
+  "county": "Lubbock County",
+  "population": 267120,
+  "zip_codes": [
+    "79401",
+    "79403",
+    "79407",
+    "79410",
+    "79413",
+    "79416",
+    "79423",
+    "79424"
+  ],
+  "landmarks": [
+    "Texas Tech University",
+    "Buddy Holly Center",
+    "National Ranching Heritage Center",
+    "Mackenzie Park",
+    "Silent Wings Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Wolfforth","slug":"wolfforth-tx"},
+    {"name":"Shallowater","slug":"shallowater-tx"},
+    {"name":"Slaton","slug":"slaton-tx"},
+    {"name":"Abernathy","slug":"abernathy-tx"},
+    {"name":"Lubbock County","slug":"lubbock-county-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"high-plains",
+  "economy_type":"education-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"west-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lufkin",
+  "slug": "lufkin-tx",
+  "county": "Angelina County",
+  "population": 34480,
+  "zip_codes": [
+    "75901",
+    "75902",
+    "75903",
+    "75904"
+  ],
+  "landmarks": [
+    "Ellen Trout Zoo",
+    "Museum of East Texas",
+    "Texas Forestry Museum",
+    "Angelina College",
+    "Kit McConnico Park"
+  ],
+  "nearby_cities": [
+    {"name":"Nacogdoches","slug":"nacogdoches-tx"},
+    {"name":"Diboll","slug":"diboll-tx"},
+    {"name":"Hudson","slug":"hudson-tx"},
+    {"name":"Huntington","slug":"huntington-tx"},
+    {"name":"Zavalla","slug":"zavalla-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"east-texas-piney-woods",
+  "economy_type":"healthcare-manufacturing",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"east-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Mansfield",
+  "slug": "mansfield-tx",
+  "county": "Tarrant County",
+  "population": 81340,
+  "zip_codes": [
+    "76063"
+  ],
+  "landmarks": [
+    "Hawaiian Falls Mansfield",
+    "Elmer W. Oliver Nature Park",
+    "Historic Downtown Mansfield",
+    "Katherine Rose Memorial Park",
+    "Mansfield National Golf Club"
+  ],
+  "nearby_cities": [
+    {"name":"Arlington","slug":"arlington-tx"},
+    {"name":"Grand Prairie","slug":"grand-prairie-tx"},
+    {"name":"Burleson","slug":"burleson-tx"},
+    {"name":"Cedar Hill","slug":"cedar-hill-tx"},
+    {"name":"Kennedale","slug":"kennedale-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"retail-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Marshall",
+  "slug": "marshall-tx",
+  "county": "Harrison County",
+  "population": 23180,
+  "zip_codes": [
+    "75670",
+    "75671",
+    "75672"
+  ],
+  "landmarks": [
+    "Michelson Museum of Art",
+    "Starr Family Home State Historic Site",
+    "Harrison County Courthouse",
+    "Downtown Marshall",
+    "Maverick Stadium"
+  ],
+  "nearby_cities": [
+    {"name":"Longview","slug":"longview-tx"},
+    {"name":"Hallsville","slug":"hallsville-tx"},
+    {"name":"Jefferson","slug":"jefferson-tx"},
+    {"name":"Carthage","slug":"carthage-tx"},
+    {"name":"Waskom","slug":"waskom-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"east-texas-piney-woods",
+  "economy_type":"education-government",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"east-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "McAllen",
+  "slug": "mcallen-tx",
+  "county": "Hidalgo County",
+  "population": 145820,
+  "zip_codes": [
+    "78501",
+    "78503",
+    "78504",
+    "78505"
+  ],
+  "landmarks": [
+    "Quinta Mazatlan",
+    "La Plaza Mall",
+    "McAllen Nature Center",
+    "International Museum of Art & Science",
+    "McAllen Convention Center"
+  ],
+  "nearby_cities": [
+    {"name":"Edinburg","slug":"edinburg-tx"},
+    {"name":"Mission","slug":"mission-tx"},
+    {"name":"Pharr","slug":"pharr-tx"},
+    {"name":"Alamo","slug":"alamo-tx"},
+    {"name":"San Juan","slug":"san-juan-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rio-grande-valley",
+  "economy_type":"healthcare-retail",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"rio-grande-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "McKinney",
+  "slug": "mckinney-tx",
+  "county": "Collin County",
+  "population": 214810,
+  "zip_codes": [
+    "75069",
+    "75070",
+    "75071",
+    "75072"
+  ],
+  "landmarks": [
+    "Historic Downtown McKinney",
+    "Heard Natural Science Museum",
+    "Towne Lake Park",
+    "Erwin Park",
+    "Collin County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Allen","slug":"allen-tx"},
+    {"name":"Frisco","slug":"frisco-tx"},
+    {"name":"Plano","slug":"plano-tx"},
+    {"name":"Melissa","slug":"melissa-tx"},
+    {"name":"Princeton","slug":"princeton-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"technology-healthcare",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Mercedes",
+  "slug": "mercedes-tx",
+  "county": "Hidalgo County",
+  "population": 16690,
+  "zip_codes": [
+    "78570"
+  ],
+  "landmarks": [
+    "Rio Grande Valley Premium Outlets",
+    "Mercedes Livestock Showgrounds",
+    "Hester Park",
+    "Mercedes Historic District",
+    "City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Weslaco","slug":"weslaco-tx"},
+    {"name":"La Feria","slug":"la-feria-tx"},
+    {"name":"Donna","slug":"donna-tx"},
+    {"name":"Harlingen","slug":"harlingen-tx"},
+    {"name":"Edcouch","slug":"edcouch-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rio-grande-valley",
+  "economy_type":"retail-tourism",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"rio-grande-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Mesquite",
+  "slug": "mesquite-tx",
+  "county": "Dallas County",
+  "population": 149980,
+  "zip_codes": [
+    "75149",
+    "75150",
+    "75181",
+    "75185"
+  ],
+  "landmarks": [
+    "Mesquite Championship Rodeo",
+    "Town East Mall",
+    "Samuell Farm",
+    "Paschall Park",
+    "Mesquite Arts Center"
+  ],
+  "nearby_cities": [
+    {"name":"Dallas","slug":"dallas-tx"},
+    {"name":"Garland","slug":"garland-tx"},
+    {"name":"Balch Springs","slug":"balch-springs-tx"},
+    {"name":"Forney","slug":"forney-tx"},
+    {"name":"Sunnyvale","slug":"sunnyvale-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"manufacturing-retail",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Mexia",
+  "slug": "mexia-tx",
+  "county": "Limestone County",
+  "population": 6990,
+  "zip_codes": [
+    "76667"
+  ],
+  "landmarks": [
+    "Confederate Reunion Grounds State Historic Site",
+    "Fort Parker State Park",
+    "Mexia City Park",
+    "Limestone County Fairgrounds",
+    "Downtown Mexia"
+  ],
+  "nearby_cities": [
+    {"name":"Groesbeck","slug":"groesbeck-tx"},
+    {"name":"Teague","slug":"teague-tx"},
+    {"name":"Fairfield","slug":"fairfield-tx"},
+    {"name":"Corsicana","slug":"corsicana-tx"},
+    {"name":"Wortham","slug":"wortham-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"agriculture-manufacturing",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Midland",
+  "slug": "midland-tx",
+  "county": "Midland County",
+  "population": 138830,
+  "zip_codes": [
+    "79701",
+    "79703",
+    "79705",
+    "79706",
+    "79707"
+  ],
+  "landmarks": [
+    "Permian Basin Petroleum Museum",
+    "Wagner Noël Performing Arts Center",
+    "Sibley Nature Center",
+    "George W. Bush Childhood Home",
+    "Hogan Park"
+  ],
+  "nearby_cities": [
+    {"name":"Odessa","slug":"odessa-tx"},
+    {"name":"Andrews","slug":"andrews-tx"},
+    {"name":"Gardendale","slug":"gardendale-tx"},
+    {"name":"Greenwood","slug":"greenwood-tx"},
+    {"name":"Stanton","slug":"stanton-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"permian-basin",
+  "economy_type":"oil-and-gas",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"west-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Midlothian",
+  "slug": "midlothian-tx",
+  "county": "Ellis County",
+  "population": 38720,
+  "zip_codes": [
+    "76065"
+  ],
+  "landmarks": [
+    "Mockingbird Nature Park",
+    "Midlothian Community Park",
+    "Hawkins Spring Park",
+    "Downtown Midlothian",
+    "Midlothian Conference Center"
+  ],
+  "nearby_cities": [
+    {"name":"Waxahachie","slug":"waxahachie-tx"},
+    {"name":"Cedar Hill","slug":"cedar-hill-tx"},
+    {"name":"Mansfield","slug":"mansfield-tx"},
+    {"name":"Venus","slug":"venus-tx"},
+    {"name":"Ennis","slug":"ennis-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Mission",
+  "slug": "mission-tx",
+  "county": "Hidalgo County",
+  "population": 88420,
+  "zip_codes": [
+    "78572",
+    "78573",
+    "78574"
+  ],
+  "landmarks": [
+    "Bentsen-Rio Grande Valley State Park",
+    "National Butterfly Center",
+    "Mission Hike and Bike Trails",
+    "Anzalduas Park",
+    "Mission Event Center"
+  ],
+  "nearby_cities": [
+    {"name":"McAllen","slug":"mcallen-tx"},
+    {"name":"Palmhurst","slug":"palmhurst-tx"},
+    {"name":"Alton","slug":"alton-tx"},
+    {"name":"Edinburg","slug":"edinburg-tx"},
+    {"name":"Pharr","slug":"pharr-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rio-grande-valley",
+  "economy_type":"healthcare-retail",
+  "housing_profile":"major-urban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"rio-grande-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Missouri City",
+  "slug": "missouri-city-tx",
+  "county": "Fort Bend County",
+  "population": 74820,
+  "zip_codes": [
+    "77459",
+    "77489"
+  ],
+  "landmarks": [
+    "Buffalo Run Park",
+    "Missouri City Recreation & Tennis Center",
+    "Community Park",
+    "Freedom Tree Park",
+    "Missouri City City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Sugar Land","slug":"sugar-land-tx"},
+    {"name":"Houston","slug":"houston-tx"},
+    {"name":"Stafford","slug":"stafford-tx"},
+    {"name":"Pearland","slug":"pearland-tx"},
+    {"name":"Fresno","slug":"fresno-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"professional-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Monahans",
+  "slug": "monahans-tx",
+  "county": "Ward County",
+  "population": 8390,
+  "zip_codes": [
+    "79756"
+  ],
+  "landmarks": [
+    "Monahans Sandhills State Park",
+    "Million Barrel Museum",
+    "Hill Park",
+    "Ward County Event Center",
+    "Downtown Monahans"
+  ],
+  "nearby_cities": [
+    {"name":"Kermit","slug":"kermit-tx"},
+    {"name":"Pecos","slug":"pecos-tx"},
+    {"name":"Odessa","slug":"odessa-tx"},
+    {"name":"Fort Stockton","slug":"fort-stockton-tx"},
+    {"name":"Andrews","slug":"andrews-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"arid",
+  "terrain":"permian-basin",
+  "economy_type":"oil-and-gas",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"west-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Mount Pleasant",
+  "slug": "mount-pleasant-tx",
+  "county": "Titus County",
+  "population": 16790,
+  "zip_codes": [
+    "75455",
+    "75456"
+  ],
+  "landmarks": [
+    "Titus County Courthouse",
+    "Heritage Park Village",
+    "Lake Bob Sandlin",
+    "Dellwood Park",
+    "Modern Western Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Pittsburg","slug":"pittsburg-tx"},
+    {"name":"Mount Vernon","slug":"mount-vernon-tx"},
+    {"name":"Daingerfield","slug":"daingerfield-tx"},
+    {"name":"Gilmer","slug":"gilmer-tx"},
+    {"name":"Winnsboro","slug":"winnsboro-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"east-texas-piney-woods",
+  "economy_type":"manufacturing-agriculture",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"northeast-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Murphy",
+  "slug": "murphy-tx",
+  "county": "Collin County",
+  "population": 21480,
+  "zip_codes": [
+    "75094"
+  ],
+  "landmarks": [
+    "Murphy Central Park",
+    "Murphy Marketplace",
+    "Breland Park",
+    "City Hall",
+    "Aviary Park"
+  ],
+  "nearby_cities": [
+    {"name":"Plano","slug":"plano-tx"},
+    {"name":"Wylie","slug":"wylie-tx"},
+    {"name":"Sachse","slug":"sachse-tx"},
+    {"name":"Parker","slug":"parker-tx"},
+    {"name":"Richardson","slug":"richardson-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"professional-services",
+  "housing_profile":"upscale-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Nacogdoches",
+  "slug": "nacogdoches-tx",
+  "county": "Nacogdoches County",
+  "population": 33020,
+  "zip_codes": [
+    "75961",
+    "75962",
+    "75963",
+    "75964",
+    "75965"
+  ],
+  "landmarks": [
+    "Stephen F. Austin State University",
+    "Ruby M. Mize Azalea Garden",
+    "Millard's Crossing Historic Village",
+    "Lanana Creek Trail",
+    "Old Stone Fort Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Lufkin","slug":"lufkin-tx"},
+    {"name":"Diboll","slug":"diboll-tx"},
+    {"name":"Center","slug":"center-tx"},
+    {"name":"Hudson","slug":"hudson-tx"},
+    {"name":"Garrison","slug":"garrison-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"east-texas-piney-woods",
+  "economy_type":"education-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"east-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Nederland",
+  "slug": "nederland-tx",
+  "county": "Jefferson County",
+  "population": 17720,
+  "zip_codes": [
+    "77627"
+  ],
+  "landmarks": [
+    "Boston Avenue Historic District",
+    "Doornbos Heritage Museum",
+    "Tex Ritter Park",
+    "Nederland City Hall",
+    "Central Mall Area"
+  ],
+  "nearby_cities": [
+    {"name":"Port Neches","slug":"port-neches-tx"},
+    {"name":"Groves","slug":"groves-tx"},
+    {"name":"Beaumont","slug":"beaumont-tx"},
+    {"name":"Port Arthur","slug":"port-arthur-tx"},
+    {"name":"Bridge City","slug":"bridge-city-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"petrochemical-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"golden-triangle",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "New Braunfels",
+  "slug": "new-braunfels-tx",
+  "county": "Comal County",
+  "population": 118980,
+  "zip_codes": [
+    "78130",
+    "78131",
+    "78132"
+  ],
+  "landmarks": [
+    "Schlitterbahn Waterpark",
+    "Gruene Historic District",
+    "Landa Park",
+    "Comal River",
+    "Natural Bridge Caverns"
+  ],
+  "nearby_cities": [
+    {"name":"San Marcos","slug":"san-marcos-tx"},
+    {"name":"Cibolo","slug":"cibolo-tx"},
+    {"name":"Schertz","slug":"schertz-tx"},
+    {"name":"Seguin","slug":"seguin-tx"},
+    {"name":"Canyon Lake","slug":"canyon-lake-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"texas-hill-country",
+  "economy_type":"tourism-healthcare",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"san-antonio-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "North Richland Hills",
+  "slug": "north-richland-hills-tx",
+  "county": "Tarrant County",
+  "population": 71340,
+  "zip_codes": [
+    "76117",
+    "76180",
+    "76182"
+  ],
+  "landmarks": [
+    "NRH2O Family Water Park",
+    "Iron Horse Golf Course",
+    "Adventure World Playground",
+    "Walker's Creek Park",
+    "NRH Centre"
+  ],
+  "nearby_cities": [
+    {"name":"Hurst","slug":"hurst-tx"},
+    {"name":"Watauga","slug":"watauga-tx"},
+    {"name":"Keller","slug":"keller-tx"},
+    {"name":"Richland Hills","slug":"richland-hills-tx"},
+    {"name":"Fort Worth","slug":"fort-worth-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"retail-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Odessa",
+  "slug": "odessa-tx",
+  "county": "Ector County",
+  "population": 114430,
+  "zip_codes": [
+    "79760",
+    "79761",
+    "79762",
+    "79763",
+    "79764",
+    "79765",
+    "79766"
+  ],
+  "landmarks": [
+    "Ellen Noël Art Museum",
+    "Presidential Museum and Leadership Library",
+    "Music City Mall",
+    "Chris Kyle Memorial Plaza",
+    "McKinney Park"
+  ],
+  "nearby_cities": [
+    {"name":"Midland","slug":"midland-tx"},
+    {"name":"Andrews","slug":"andrews-tx"},
+    {"name":"Monahans","slug":"monahans-tx"},
+    {"name":"Gardendale","slug":"gardendale-tx"},
+    {"name":"Goldsmith","slug":"goldsmith-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"permian-basin",
+  "economy_type":"oil-and-gas",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"west-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Orange",
+  "slug": "orange-tx",
+  "county": "Orange County",
+  "population": 19020,
+  "zip_codes": [
+    "77630",
+    "77631",
+    "77632"
+  ],
+  "landmarks": [
+    "Stark Museum of Art",
+    "Shangri La Botanical Gardens",
+    "Heritage House Museum",
+    "Orange Riverfront Boardwalk",
+    "Navy Park"
+  ],
+  "nearby_cities": [
+    {"name":"Bridge City","slug":"bridge-city-tx"},
+    {"name":"Vidor","slug":"vidor-tx"},
+    {"name":"Beaumont","slug":"beaumont-tx"},
+    {"name":"Nederland","slug":"nederland-tx"},
+    {"name":"Port Arthur","slug":"port-arthur-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"manufacturing-port",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"golden-triangle",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Palestine",
+  "slug": "palestine-tx",
+  "county": "Anderson County",
+  "population": 18680,
+  "zip_codes": [
+    "75801",
+    "75802",
+    "75803"
+  ],
+  "landmarks": [
+    "Texas State Railroad",
+    "Museum for East Texas Culture",
+    "Davey Dogwood Park",
+    "Historic Downtown Palestine",
+    "Anderson County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Athens","slug":"athens-tx"},
+    {"name":"Jacksonville","slug":"jacksonville-tx"},
+    {"name":"Elkhart","slug":"elkhart-tx"},
+    {"name":"Buffalo","slug":"buffalo-tx"},
+    {"name":"Crockett","slug":"crockett-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"east-texas-piney-woods",
+  "economy_type":"healthcare-tourism",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"east-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Paris",
+  "slug": "paris-tx",
+  "county": "Lamar County",
+  "population": 24790,
+  "zip_codes": [
+    "75460",
+    "75461",
+    "75462"
+  ],
+  "landmarks": [
+    "Eiffel Tower with Cowboy Hat",
+    "Sam Bell Maxey House",
+    "Lamar County Courthouse",
+    "Trail de Paris",
+    "Culbertson Fountain"
+  ],
+  "nearby_cities": [
+    {"name":"Reno","slug":"reno-tx"},
+    {"name":"Powderly","slug":"powderly-tx"},
+    {"name":"Clarksville","slug":"clarksville-tx"},
+    {"name":"Bonham","slug":"bonham-tx"},
+    {"name":"Mount Pleasant","slug":"mount-pleasant-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"northeast-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Pasadena",
+  "slug": "pasadena-tx",
+  "county": "Harris County",
+  "population": 151950,
+  "zip_codes": [
+    "77502",
+    "77503",
+    "77504",
+    "77505",
+    "77506",
+    "77507",
+    "77508"
+  ],
+  "landmarks": [
+    "Armand Bayou Nature Center",
+    "Pasadena Convention Center",
+    "Strawberry Park",
+    "iT'Z Family Food & Fun",
+    "Pasadena Historical Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Houston","slug":"houston-tx"},
+    {"name":"Deer Park","slug":"deer-park-tx"},
+    {"name":"La Porte","slug":"la-porte-tx"},
+    {"name":"South Houston","slug":"south-houston-tx"},
+    {"name":"Galena Park","slug":"galena-park-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"petrochemical-manufacturing",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Pearland",
+  "slug": "pearland-tx",
+  "county": "Brazoria County",
+  "population": 131450,
+  "zip_codes": [
+    "77581",
+    "77584",
+    "77588"
+  ],
+  "landmarks": [
+    "Pearland Town Center",
+    "Centennial Park",
+    "Shadow Creek Ranch Nature Trail",
+    "Independence Park",
+    "Sri Meenakshi Temple"
+  ],
+  "nearby_cities": [
+    {"name":"Houston","slug":"houston-tx"},
+    {"name":"Friendswood","slug":"friendswood-tx"},
+    {"name":"Manvel","slug":"manvel-tx"},
+    {"name":"Missouri City","slug":"missouri-city-tx"},
+    {"name":"Alvin","slug":"alvin-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"healthcare-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Pecos",
+  "slug": "pecos-tx",
+  "county": "Reeves County",
+  "population": 12640,
+  "zip_codes": [
+    "79772"
+  ],
+  "landmarks": [
+    "West of the Pecos Museum",
+    "Maxey Park Zoo",
+    "Buck Jackson Rodeo Arena",
+    "Memory Lane Car Museum",
+    "Cyclone Ballparks"
+  ],
+  "nearby_cities": [
+    {"name":"Monahans","slug":"monahans-tx"},
+    {"name":"Fort Stockton","slug":"fort-stockton-tx"},
+    {"name":"Kermit","slug":"kermit-tx"},
+    {"name":"Odessa","slug":"odessa-tx"},
+    {"name":"Van Horn","slug":"van-horn-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"arid",
+  "terrain":"chihuahuan-desert",
+  "economy_type":"energy-transportation",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"west-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Pharr",
+  "slug": "pharr-tx",
+  "county": "Hidalgo County",
+  "population": 80190,
+  "zip_codes": [
+    "78577"
+  ],
+  "landmarks": [
+    "Pharr Events Center",
+    "Smitty's Juke Box Museum",
+    "Fireman's Park",
+    "Pharr Aquatic Center",
+    "Downtown Pharr"
+  ],
+  "nearby_cities": [
+    {"name":"McAllen","slug":"mcallen-tx"},
+    {"name":"Edinburg","slug":"edinburg-tx"},
+    {"name":"San Juan","slug":"san-juan-tx"},
+    {"name":"Alamo","slug":"alamo-tx"},
+    {"name":"Mission","slug":"mission-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rio-grande-valley",
+  "economy_type":"international-trade",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"rio-grande-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Plano",
+  "slug": "plano-tx",
+  "county": "Collin County",
+  "population": 290190,
+  "zip_codes": [
+    "75023",
+    "75024",
+    "75025",
+    "75074",
+    "75075",
+    "75093",
+    "75094"
+  ],
+  "landmarks": [
+    "Legacy West",
+    "Arbor Hills Nature Preserve",
+    "The Shops at Legacy",
+    "Oak Point Park",
+    "Heritage Farmstead Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Richardson","slug":"richardson-tx"},
+    {"name":"Allen","slug":"allen-tx"},
+    {"name":"Frisco","slug":"frisco-tx"},
+    {"name":"McKinney","slug":"mckinney-tx"},
+    {"name":"Murphy","slug":"murphy-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"technology-finance",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Port Arthur",
+  "slug": "port-arthur-tx",
+  "county": "Jefferson County",
+  "population": 55780,
+  "zip_codes": [
+    "77640",
+    "77641",
+    "77642"
+  ],
+  "landmarks": [
+    "Museum of the Gulf Coast",
+    "Sea Rim State Park",
+    "Sabine Pass Battleground",
+    "Port Arthur Seawall",
+    "Babe Didrikson Zaharias Memorial Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Nederland","slug":"nederland-tx"},
+    {"name":"Groves","slug":"groves-tx"},
+    {"name":"Port Neches","slug":"port-neches-tx"},
+    {"name":"Bridge City","slug":"bridge-city-tx"},
+    {"name":"Orange","slug":"orange-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"petrochemical-port",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"golden-triangle",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Port Neches",
+  "slug": "port-neches-tx",
+  "county": "Jefferson County",
+  "population": 13120,
+  "zip_codes": [
+    "77651"
+  ],
+  "landmarks": [
+    "Port Neches Park",
+    "RiverFront Park",
+    "Port Neches City Hall",
+    "Port Neches Public Library",
+    "Hebert Avenue District"
+  ],
+  "nearby_cities": [
+    {"name":"Nederland","slug":"nederland-tx"},
+    {"name":"Groves","slug":"groves-tx"},
+    {"name":"Port Arthur","slug":"port-arthur-tx"},
+    {"name":"Beaumont","slug":"beaumont-tx"},
+    {"name":"Bridge City","slug":"bridge-city-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"petrochemical-industrial",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"golden-triangle",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Portland",
+  "slug": "portland-tx",
+  "county": "San Patricio County",
+  "population": 22240,
+  "zip_codes": [
+    "78374"
+  ],
+  "landmarks": [
+    "Sunset Lake Park",
+    "Portland Community Center",
+    "Bayside Park",
+    "Northshore Country Club",
+    "Portland Municipal Park"
+  ],
+  "nearby_cities": [
+    {"name":"Corpus Christi","slug":"corpus-christi-tx"},
+    {"name":"Aransas Pass","slug":"aransas-pass-tx"},
+    {"name":"Ingleside","slug":"ingleside-tx"},
+    {"name":"Gregory","slug":"gregory-tx"},
+    {"name":"Port Aransas","slug":"port-aransas-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"petrochemical-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"coastal-bend",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Princeton",
+  "slug": "princeton-tx",
+  "county": "Collin County",
+  "population": 28540,
+  "zip_codes": [
+    "75407"
+  ],
+  "landmarks": [
+    "J.M. Caldwell Sr. Community Park",
+    "Princeton Municipal Center",
+    "Veterans Memorial Park",
+    "Princeton City Hall",
+    "Lake Lavon"
+  ],
+  "nearby_cities": [
+    {"name":"McKinney","slug":"mckinney-tx"},
+    {"name":"Allen","slug":"allen-tx"},
+    {"name":"Melissa","slug":"melissa-tx"},
+    {"name":"Farmersville","slug":"farmersville-tx"},
+    {"name":"Lowry Crossing","slug":"lowry-crossing-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"residential-services",
+  "housing_profile":"rapid-growth-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Prosper",
+  "slug": "prosper-tx",
+  "county": "Collin County",
+  "population": 41810,
+  "zip_codes": [
+    "75078"
+  ],
+  "landmarks": [
+    "Frontier Park",
+    "Windsong Ranch",
+    "Prosper Town Hall",
+    "Founders Fest Grounds",
+    "Prosper Community Library"
+  ],
+  "nearby_cities": [
+    {"name":"Frisco","slug":"frisco-tx"},
+    {"name":"Celina","slug":"celina-tx"},
+    {"name":"McKinney","slug":"mckinney-tx"},
+    {"name":"Little Elm","slug":"little-elm-tx"},
+    {"name":"Aubrey","slug":"aubrey-tx"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"professional-services",
+  "housing_profile":"upscale-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Richardson",
+  "slug": "richardson-tx",
+  "county": "Dallas County",
+  "population": 120980,
+  "zip_codes": [
+    "75080",
+    "75081",
+    "75082",
+    "75083"
+  ],
+  "landmarks": [
+    "CityLine",
+    "University of Texas at Dallas",
+    "Eisemann Center",
+    "Breckinridge Park",
+    "Cottonwood Park"
+  ],
+  "nearby_cities": [
+    {"name":"Plano","slug":"plano-tx"},
+    {"name":"Garland","slug":"garland-tx"},
+    {"name":"Dallas","slug":"dallas-tx"},
+    {"name":"Murphy","slug":"murphy-tx"},
+    {"name":"Addison","slug":"addison-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"technology-telecommunications",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Richland Hills",
+  "slug": "richland-hills-tx",
+  "county": "Tarrant County",
+  "population": 8380,
+  "zip_codes": [
+    "76118"
+  ],
+  "landmarks": [
+    "Richland Hills City Hall",
+    "Kate Baker Park",
+    "Rosebud Park",
+    "Richland Tennis Center",
+    "Richland Hills Public Library"
+  ],
+  "nearby_cities": [
+    {"name":"North Richland Hills","slug":"north-richland-hills-tx"},
+    {"name":"Hurst","slug":"hurst-tx"},
+    {"name":"Fort Worth","slug":"fort-worth-tx"},
+    {"name":"Haltom City","slug":"haltom-city-tx"},
+    {"name":"Bedford","slug":"bedford-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rio Bravo",
+  "slug": "rio-bravo-tx",
+  "county": "Webb County",
+  "population": 5300,
+  "zip_codes": [
+    "78046"
+  ],
+  "landmarks": [
+    "Rio Bravo City Hall",
+    "Rio Bravo Park",
+    "Rio Grande River",
+    "Veterans Memorial",
+    "Community Recreation Area"
+  ],
+  "nearby_cities": [
+    {"name":"Laredo","slug":"laredo-tx"},
+    {"name":"El Cenizo","slug":"el-cenizo-tx"},
+    {"name":"Zapata","slug":"zapata-tx"},
+    {"name":"Hebbronville","slug":"hebbronville-tx"},
+    {"name":"Cotulla","slug":"cotulla-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"south-texas-plains",
+  "economy_type":"border-services",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"south-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rockwall",
+  "slug": "rockwall-tx",
+  "county": "Rockwall County",
+  "population": 52280,
+  "zip_codes": [
+    "75032",
+    "75087"
+  ],
+  "landmarks": [
+    "Lake Ray Hubbard",
+    "The Harbor Rockwall",
+    "Harry Myers Park",
+    "Rockwall County Courthouse",
+    "Shenaniganz Entertainment Center"
+  ],
+  "nearby_cities": [
+    {"name":"Royse City","slug":"royse-city-tx"},
+    {"name":"Heath","slug":"heath-tx"},
+    {"name":"Rowlett","slug":"rowlett-tx"},
+    {"name":"Forney","slug":"forney-tx"},
+    {"name":"Fate","slug":"fate-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"professional-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rosenberg",
+  "slug": "rosenberg-tx",
+  "county": "Fort Bend County",
+  "population": 40380,
+  "zip_codes": [
+    "77469",
+    "77471"
+  ],
+  "landmarks": [
+    "Rosenberg Railroad Museum",
+    "Seabourne Creek Nature Park",
+    "Historic Downtown Rosenberg",
+    "Fort Bend County Fairgrounds",
+    "Sunrise Meadows Park"
+  ],
+  "nearby_cities": [
+    {"name":"Richmond","slug":"richmond-tx"},
+    {"name":"Sugar Land","slug":"sugar-land-tx"},
+    {"name":"Needville","slug":"needville-tx"},
+    {"name":"Fulshear","slug":"fulshear-tx"},
+    {"name":"Pleak","slug":"pleak-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"transportation-retail",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Round Rock",
+  "slug": "round-rock-tx",
+  "county": "Williamson County",
+  "population": 133890,
+  "zip_codes": [
+    "78664",
+    "78665",
+    "78680",
+    "78681",
+    "78682"
+  ],
+  "landmarks": [
+    "Dell Diamond",
+    "Round Rock Premium Outlets",
+    "Old Settlers Park",
+    "Round Rock Donuts",
+    "Kalahari Resorts Texas"
+  ],
+  "nearby_cities": [
+    {"name":"Georgetown","slug":"georgetown-tx"},
+    {"name":"Pflugerville","slug":"pflugerville-tx"},
+    {"name":"Austin","slug":"austin-tx"},
+    {"name":"Cedar Park","slug":"cedar-park-tx"},
+    {"name":"Leander","slug":"leander-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"texas-hill-country",
+  "economy_type":"technology-healthcare",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"austin-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rowlett",
+  "slug": "rowlett-tx",
+  "county": "Dallas County",
+  "population": 67650,
+  "zip_codes": [
+    "75030",
+    "75088",
+    "75089"
+  ],
+  "landmarks": [
+    "Lake Ray Hubbard",
+    "Pecan Grove Park",
+    "Rowlett Nature Trail",
+    "Wet Zone Waterpark",
+    "Heron Bay Marina"
+  ],
+  "nearby_cities": [
+    {"name":"Garland","slug":"garland-tx"},
+    {"name":"Rockwall","slug":"rockwall-tx"},
+    {"name":"Sachse","slug":"sachse-tx"},
+    {"name":"Mesquite","slug":"mesquite-tx"},
+    {"name":"Wylie","slug":"wylie-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"professional-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Royse City",
+  "slug": "royse-city-tx",
+  "county": "Rockwall County",
+  "population": 22010,
+  "zip_codes": [
+    "75189"
+  ],
+  "landmarks": [
+    "Historic Downtown Royse City",
+    "Bulldog Stadium",
+    "Walker Hawk Sports Complex",
+    "City Hall",
+    "Old Town Plaza"
+  ],
+  "nearby_cities": [
+    {"name":"Rockwall","slug":"rockwall-tx"},
+    {"name":"Fate","slug":"fate-tx"},
+    {"name":"Greenville","slug":"greenville-tx"},
+    {"name":"McLendon-Chisholm","slug":"mclendon-chisholm-tx"},
+    {"name":"Josephine","slug":"josephine-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"residential-services",
+  "housing_profile":"rapid-growth-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Sachse",
+  "slug": "sachse-tx",
+  "county": "Dallas County",
+  "population": 29180,
+  "zip_codes": [
+    "75048"
+  ],
+  "landmarks": [
+    "Heritage Park",
+    "Salmon Park",
+    "Sachse Public Library",
+    "J.K. Sachse Park",
+    "City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Rowlett","slug":"rowlett-tx"},
+    {"name":"Wylie","slug":"wylie-tx"},
+    {"name":"Murphy","slug":"murphy-tx"},
+    {"name":"Garland","slug":"garland-tx"},
+    {"name":"Richardson","slug":"richardson-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Saginaw",
+  "slug": "saginaw-tx",
+  "county": "Tarrant County",
+  "population": 25060,
+  "zip_codes": [
+    "76131",
+    "76179"
+  ],
+  "landmarks": [
+    "Willow Creek Park",
+    "Saginaw Recreation Center",
+    "William Houston Park",
+    "Highland Station Park",
+    "City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Fort Worth","slug":"fort-worth-tx"},
+    {"name":"Blue Mound","slug":"blue-mound-tx"},
+    {"name":"Haslet","slug":"haslet-tx"},
+    {"name":"Lake Worth","slug":"lake-worth-tx"},
+    {"name":"North Richland Hills","slug":"north-richland-hills-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"logistics-manufacturing",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "San Angelo",
+  "slug": "san-angelo-tx",
+  "county": "Tom Green County",
+  "population": 99890,
+  "zip_codes": [
+    "76901",
+    "76903",
+    "76904",
+    "76905"
+  ],
+  "landmarks": [
+    "San Angelo State Park",
+    "Fort Concho National Historic Landmark",
+    "International Water Lily Garden",
+    "Miss Hattie's Bordello Museum",
+    "The Chicken Farm Art Center"
+  ],
+  "nearby_cities": [
+    {"name":"Grape Creek","slug":"grape-creek-tx"},
+    {"name":"Miles","slug":"miles-tx"},
+    {"name":"Ballinger","slug":"ballinger-tx"},
+    {"name":"Sonora","slug":"sonora-tx"},
+    {"name":"Brady","slug":"brady-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"edwards-plateau",
+  "economy_type":"healthcare-education",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"west-central-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "San Antonio",
+  "slug": "san-antonio-tx",
+  "county": "Bexar County",
+  "population": 1492500,
+  "zip_codes": [
+    "78201",
+    "78205",
+    "78209",
+    "78216",
+    "78228",
+    "78230",
+    "78240",
+    "78245",
+    "78249",
+    "78258"
+  ],
+  "landmarks": [
+    "The Alamo",
+    "San Antonio River Walk",
+    "SeaWorld San Antonio",
+    "San Antonio Zoo",
+    "The Pearl District"
+  ],
+  "nearby_cities": [
+    {"name":"Converse","slug":"converse-tx"},
+    {"name":"Live Oak","slug":"live-oak-tx"},
+    {"name":"Leon Valley","slug":"leon-valley-tx"},
+    {"name":"Helotes","slug":"helotes-tx"},
+    {"name":"Schertz","slug":"schertz-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"texas-hill-country",
+  "economy_type":"military-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"san-antonio-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "San Benito",
+  "slug": "san-benito-tx",
+  "county": "Cameron County",
+  "population": 24870,
+  "zip_codes": [
+    "78586"
+  ],
+  "landmarks": [
+    "ResacaFest Grounds",
+    "Freddy Fender Museum",
+    "Heavin Memorial Park",
+    "San Benito Historical Museum",
+    "Downtown San Benito"
+  ],
+  "nearby_cities": [
+    {"name":"Harlingen","slug":"harlingen-tx"},
+    {"name":"Brownsville","slug":"brownsville-tx"},
+    {"name":"Los Fresnos","slug":"los-fresnos-tx"},
+    {"name":"Rio Hondo","slug":"rio-hondo-tx"},
+    {"name":"La Feria","slug":"la-feria-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rio-grande-valley",
+  "economy_type":"agriculture-retail",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"rio-grande-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "San Juan",
+  "slug": "san-juan-tx",
+  "county": "Hidalgo County",
+  "population": 37680,
+  "zip_codes": [
+    "78589"
+  ],
+  "landmarks": [
+    "Basilica of Our Lady of San Juan del Valle",
+    "San Juan Municipal Park",
+    "City Hall",
+    "H-E-B Park Area",
+    "Downtown San Juan"
+  ],
+  "nearby_cities": [
+    {"name":"Pharr","slug":"pharr-tx"},
+    {"name":"Alamo","slug":"alamo-tx"},
+    {"name":"McAllen","slug":"mcallen-tx"},
+    {"name":"Edinburg","slug":"edinburg-tx"},
+    {"name":"Donna","slug":"donna-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rio-grande-valley",
+  "economy_type":"retail-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"rio-grande-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "San Marcos",
+  "slug": "san-marcos-tx",
+  "county": "Hays County",
+  "population": 71880,
+  "zip_codes": [
+    "78666",
+    "78667"
+  ],
+  "landmarks": [
+    "Texas State University",
+    "San Marcos River",
+    "Wonder World Cave",
+    "Rio Vista Park",
+    "San Marcos Premium Outlets"
+  ],
+  "nearby_cities": [
+    {"name":"New Braunfels","slug":"new-braunfels-tx"},
+    {"name":"Kyle","slug":"kyle-tx"},
+    {"name":"Buda","slug":"buda-tx"},
+    {"name":"Lockhart","slug":"lockhart-tx"},
+    {"name":"Wimberley","slug":"wimberley-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"texas-hill-country",
+  "economy_type":"education-tourism",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"austin-san-antonio-corridor",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Schertz",
+  "slug": "schertz-tx",
+  "county": "Guadalupe County",
+  "population": 43760,
+  "zip_codes": [
+    "78108",
+    "78154"
+  ],
+  "landmarks": [
+    "Pickrell Park",
+    "Crescent Bend Nature Park",
+    "Schertz Civic Center",
+    "Schertz Public Library",
+    "Downtown Schertz"
+  ],
+  "nearby_cities": [
+    {"name":"Cibolo","slug":"cibolo-tx"},
+    {"name":"Universal City","slug":"universal-city-tx"},
+    {"name":"Converse","slug":"converse-tx"},
+    {"name":"New Braunfels","slug":"new-braunfels-tx"},
+    {"name":"San Antonio","slug":"san-antonio-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"texas-hill-country",
+  "economy_type":"military-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"san-antonio-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Seguin",
+  "slug": "seguin-tx",
+  "county": "Guadalupe County",
+  "population": 31980,
+  "zip_codes": [
+    "78155",
+    "78156"
+  ],
+  "landmarks": [
+    "ZDT's Amusement Park",
+    "Max Starcke Park",
+    "Sebastopol House Historic Site",
+    "Guadalupe River",
+    "Texas Lutheran University"
+  ],
+  "nearby_cities": [
+    {"name":"New Braunfels","slug":"new-braunfels-tx"},
+    {"name":"Schertz","slug":"schertz-tx"},
+    {"name":"Cibolo","slug":"cibolo-tx"},
+    {"name":"San Marcos","slug":"san-marcos-tx"},
+    {"name":"Gonzales","slug":"gonzales-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"texas-hill-country",
+  "economy_type":"manufacturing-education",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"san-antonio-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Sherman",
+  "slug": "sherman-tx",
+  "county": "Grayson County",
+  "population": 48560,
+  "zip_codes": [
+    "75090",
+    "75091",
+    "75092"
+  ],
+  "landmarks": [
+    "Sherman Town Center",
+    "Herman Baker Park",
+    "Harber Wildlife Museum",
+    "Grayson County Courthouse",
+    "Austin College"
+  ],
+  "nearby_cities": [
+    {"name":"Denison","slug":"denison-tx"},
+    {"name":"Howe","slug":"howe-tx"},
+    {"name":"Van Alstyne","slug":"van-alstyne-tx"},
+    {"name":"Whitesboro","slug":"whitesboro-tx"},
+    {"name":"Pottsboro","slug":"pottsboro-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"north-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Socorro",
+  "slug": "socorro-tx",
+  "county": "El Paso County",
+  "population": 38040,
+  "zip_codes": [
+    "79927"
+  ],
+  "landmarks": [
+    "Rio Bosque Wetlands Park",
+    "Bulldog Championship Park",
+    "Socorro Mission",
+    "Rio Vista Farm",
+    "Socorro Independent School District Complex"
+  ],
+  "nearby_cities": [
+    {"name":"El Paso","slug":"el-paso-tx"},
+    {"name":"Horizon City","slug":"horizon-city-tx"},
+    {"name":"San Elizario","slug":"san-elizario-tx"},
+    {"name":"Clint","slug":"clint-tx"},
+    {"name":"Fabens","slug":"fabens-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"desert",
+  "terrain":"chihuahuan-desert",
+  "economy_type":"government-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"el-paso-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "South Houston",
+  "slug": "south-houston-tx",
+  "county": "Harris County",
+  "population": 17640,
+  "zip_codes": [
+    "77587"
+  ],
+  "landmarks": [
+    "South Houston Municipal Park",
+    "South Houston City Hall",
+    "Matthys Park",
+    "South Houston Public Library",
+    "Mills Bennett Park"
+  ],
+  "nearby_cities": [
+    {"name":"Houston","slug":"houston-tx"},
+    {"name":"Pasadena","slug":"pasadena-tx"},
+    {"name":"Galena Park","slug":"galena-park-tx"},
+    {"name":"Deer Park","slug":"deer-park-tx"},
+    {"name":"Bellaire","slug":"bellaire-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"industrial-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Southlake",
+  "slug": "southlake-tx",
+  "county": "Tarrant County",
+  "population": 32110,
+  "zip_codes": [
+    "76092"
+  ],
+  "landmarks": [
+    "Southlake Town Square",
+    "Bicentennial Park",
+    "Bob Jones Nature Center",
+    "Dragon Stadium",
+    "Liberty Park"
+  ],
+  "nearby_cities": [
+    {"name":"Grapevine","slug":"grapevine-tx"},
+    {"name":"Colleyville","slug":"colleyville-tx"},
+    {"name":"Keller","slug":"keller-tx"},
+    {"name":"Flower Mound","slug":"flower-mound-tx"},
+    {"name":"Westlake","slug":"westlake-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"professional-services",
+  "housing_profile":"upscale-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Stafford",
+  "slug": "stafford-tx",
+  "county": "Fort Bend County",
+  "population": 17890,
+  "zip_codes": [
+    "77477",
+    "77497"
+  ],
+  "landmarks": [
+    "Stafford Centre",
+    "Gordon Fountain Lake Park",
+    "Stafford City Hall",
+    "Vaccaro Manor Park",
+    "Stafford Centre Performing Arts Theatre"
+  ],
+  "nearby_cities": [
+    {"name":"Sugar Land","slug":"sugar-land-tx"},
+    {"name":"Missouri City","slug":"missouri-city-tx"},
+    {"name":"Houston","slug":"houston-tx"},
+    {"name":"Bellaire","slug":"bellaire-tx"},
+    {"name":"Meadows Place","slug":"meadows-place-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"business-services",
+  "housing_profile":"urban-suburban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Stephenville",
+  "slug": "stephenville-tx",
+  "county": "Erath County",
+  "population": 22350,
+  "zip_codes": [
+    "76401",
+    "76402"
+  ],
+  "landmarks": [
+    "Tarleton State University",
+    "Stephenville City Park",
+    "Bosque River Trail",
+    "Downtown Stephenville",
+    "Erath County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Granbury","slug":"granbury-tx"},
+    {"name":"Dublin","slug":"dublin-tx"},
+    {"name":"Glen Rose","slug":"glen-rose-tx"},
+    {"name":"Hico","slug":"hico-tx"},
+    {"name":"Weatherford","slug":"weatherford-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"education-agriculture",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"north-central-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Sugar Land",
+  "slug": "sugar-land-tx",
+  "county": "Fort Bend County",
+  "population": 111030,
+  "zip_codes": [
+    "77478",
+    "77479",
+    "77487",
+    "77496",
+    "77498"
+  ],
+  "landmarks": [
+    "Smart Financial Centre",
+    "Sugar Land Town Square",
+    "Constellation Field",
+    "Houston Museum of Natural Science at Sugar Land",
+    "Cullinan Park"
+  ],
+  "nearby_cities": [
+    {"name":"Missouri City","slug":"missouri-city-tx"},
+    {"name":"Stafford","slug":"stafford-tx"},
+    {"name":"Richmond","slug":"richmond-tx"},
+    {"name":"Rosenberg","slug":"rosenberg-tx"},
+    {"name":"Pearland","slug":"pearland-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"healthcare-finance",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Temple",
+  "slug": "temple-tx",
+  "county": "Bell County",
+  "population": 94420,
+  "zip_codes": [
+    "76501",
+    "76502",
+    "76503",
+    "76504",
+    "76505"
+  ],
+  "landmarks": [
+    "Baylor Scott & White Medical Center",
+    "Temple Railroad & Heritage Museum",
+    "Miller Park",
+    "Lions Junction Family Water Park",
+    "Temple Mall"
+  ],
+  "nearby_cities": [
+    {"name":"Belton","slug":"belton-tx"},
+    {"name":"Killeen","slug":"killeen-tx"},
+    {"name":"Harker Heights","slug":"harker-heights-tx"},
+    {"name":"Troy","slug":"troy-tx"},
+    {"name":"Salado","slug":"salado-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"healthcare-education",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"killeen-temple-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Terrell",
+  "slug": "terrell-tx",
+  "county": "Kaufman County",
+  "population": 18940,
+  "zip_codes": [
+    "75160",
+    "75161"
+  ],
+  "landmarks": [
+    "Tanger Outlets Terrell",
+    "No. 1 British Flying Training School Museum",
+    "Ben Gill Park",
+    "Terrell Heritage Museum",
+    "Terrell Municipal Airport"
+  ],
+  "nearby_cities": [
+    {"name":"Forney","slug":"forney-tx"},
+    {"name":"Kaufman","slug":"kaufman-tx"},
+    {"name":"Rockwall","slug":"rockwall-tx"},
+    {"name":"Royse City","slug":"royse-city-tx"},
+    {"name":"Mesquite","slug":"mesquite-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"manufacturing-retail",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Texarkana",
+  "slug": "texarkana-tx",
+  "county": "Bowie County",
+  "population": 36780,
+  "zip_codes": [
+    "75501",
+    "75503",
+    "75504",
+    "75505"
+  ],
+  "landmarks": [
+    "Perot Theatre",
+    "Draughon-Moore Ace of Clubs House",
+    "Spring Lake Park",
+    "Discovery Place Museum",
+    "State Line Post Office"
+  ],
+  "nearby_cities": [
+    {"name":"Wake Village","slug":"wake-village-tx"},
+    {"name":"Nash","slug":"nash-tx"},
+    {"name":"New Boston","slug":"new-boston-tx"},
+    {"name":"Atlanta","slug":"atlanta-tx"},
+    {"name":"Hooks","slug":"hooks-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"piney-woods",
+  "economy_type":"transportation-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"ark-la-tex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Texas City",
+  "slug": "texas-city-tx",
+  "county": "Galveston County",
+  "population": 52580,
+  "zip_codes": [
+    "77590",
+    "77591",
+    "77592"
+  ],
+  "landmarks": [
+    "Texas City Dike",
+    "Bay Street Park",
+    "Nessler Park",
+    "Texas City Museum",
+    "Rainbow Bridge Viewpoint"
+  ],
+  "nearby_cities": [
+    {"name":"La Marque","slug":"la-marque-tx"},
+    {"name":"Galveston","slug":"galveston-tx"},
+    {"name":"Dickinson","slug":"dickinson-tx"},
+    {"name":"League City","slug":"league-city-tx"},
+    {"name":"Santa Fe","slug":"santa-fe-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"petrochemical-port",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "The Colony",
+  "slug": "the-colony-tx",
+  "county": "Denton County",
+  "population": 47560,
+  "zip_codes": [
+    "75056"
+  ],
+  "landmarks": [
+    "Grandscape",
+    "Hawaiian Falls The Colony",
+    "Stewart Creek Park",
+    "The Tribute Golf Links",
+    "Lava Cantina"
+  ],
+  "nearby_cities": [
+    {"name":"Frisco","slug":"frisco-tx"},
+    {"name":"Lewisville","slug":"lewisville-tx"},
+    {"name":"Plano","slug":"plano-tx"},
+    {"name":"Little Elm","slug":"little-elm-tx"},
+    {"name":"Carrollton","slug":"carrollton-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"retail-entertainment",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Tyler",
+  "slug": "tyler-tx",
+  "county": "Smith County",
+  "population": 109330,
+  "zip_codes": [
+    "75701",
+    "75702",
+    "75703",
+    "75704",
+    "75706",
+    "75707",
+    "75708",
+    "75709"
+  ],
+  "landmarks": [
+    "Tyler Rose Garden",
+    "Caldwell Zoo",
+    "Discovery Science Place",
+    "Tyler State Park",
+    "Downtown Tyler"
+  ],
+  "nearby_cities": [
+    {"name":"Whitehouse","slug":"whitehouse-tx"},
+    {"name":"Lindale","slug":"lindale-tx"},
+    {"name":"Bullard","slug":"bullard-tx"},
+    {"name":"Kilgore","slug":"kilgore-tx"},
+    {"name":"Jacksonville","slug":"jacksonville-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"east-texas-piney-woods",
+  "economy_type":"healthcare-education",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"east-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Universal City",
+  "slug": "universal-city-tx",
+  "county": "Bexar County",
+  "population": 20780,
+  "zip_codes": [
+    "78148"
+  ],
+  "landmarks": [
+    "Universal City Park",
+    "Universal City Library",
+    "Cibolo Creek Trail",
+    "City Hall",
+    "Randolph Air Force Base Gateway"
+  ],
+  "nearby_cities": [
+    {"name":"Live Oak","slug":"live-oak-tx"},
+    {"name":"Schertz","slug":"schertz-tx"},
+    {"name":"Converse","slug":"converse-tx"},
+    {"name":"San Antonio","slug":"san-antonio-tx"},
+    {"name":"Selma","slug":"selma-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"texas-hill-country",
+  "economy_type":"military-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"san-antonio-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "University Park",
+  "slug": "university-park-tx",
+  "county": "Dallas County",
+  "population": 25720,
+  "zip_codes": [
+    "75205",
+    "75225"
+  ],
+  "landmarks": [
+    "Southern Methodist University",
+    "Snider Plaza",
+    "Goar Park",
+    "Curtis Park",
+    "George W. Bush Presidential Center"
+  ],
+  "nearby_cities": [
+    {"name":"Dallas","slug":"dallas-tx"},
+    {"name":"Highland Park","slug":"highland-park-tx"},
+    {"name":"Irving","slug":"irving-tx"},
+    {"name":"Richardson","slug":"richardson-tx"},
+    {"name":"Farmers Branch","slug":"farmers-branch-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"education-professional-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Uvalde",
+  "slug": "uvalde-tx",
+  "county": "Uvalde County",
+  "population": 15490,
+  "zip_codes": [
+    "78801",
+    "78802"
+  ],
+  "landmarks": [
+    "John Nance Garner Museum",
+    "Memorial Golf Course",
+    "Cook's Slough Sanctuary",
+    "Honey Bowl Stadium",
+    "Uvalde Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Del Rio","slug":"del-rio-tx"},
+    {"name":"Eagle Pass","slug":"eagle-pass-tx"},
+    {"name":"Sabinal","slug":"sabinal-tx"},
+    {"name":"Hondo","slug":"hondo-tx"},
+    {"name":"Carrizo Springs","slug":"carrizo-springs-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"edwards-plateau",
+  "economy_type":"agriculture-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"southwest-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Victoria",
+  "slug": "victoria-tx",
+  "county": "Victoria County",
+  "population": 65480,
+  "zip_codes": [
+    "77901",
+    "77904",
+    "77905"
+  ],
+  "landmarks": [
+    "Riverside Park",
+    "Texas Zoo",
+    "Museum of the Coastal Bend",
+    "Children's Discovery Museum",
+    "Riverside Golf Course"
+  ],
+  "nearby_cities": [
+    {"name":"Port Lavaca","slug":"port-lavaca-tx"},
+    {"name":"Cuero","slug":"cuero-tx"},
+    {"name":"Edna","slug":"edna-tx"},
+    {"name":"Yoakum","slug":"yoakum-tx"},
+    {"name":"Bloomington","slug":"bloomington-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"healthcare-manufacturing",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"south-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Waco",
+  "slug": "waco-tx",
+  "county": "McLennan County",
+  "population": 145430,
+  "zip_codes": [
+    "76701",
+    "76704",
+    "76705",
+    "76706",
+    "76707",
+    "76708",
+    "76710",
+    "76711",
+    "76712"
+  ],
+  "landmarks": [
+    "Magnolia Market at the Silos",
+    "Cameron Park",
+    "Baylor University",
+    "Dr Pepper Museum",
+    "Waco Mammoth National Monument"
+  ],
+  "nearby_cities": [
+    {"name":"Bellmead","slug":"bellmead-tx"},
+    {"name":"Woodway","slug":"woodway-tx"},
+    {"name":"Hewitt","slug":"hewitt-tx"},
+    {"name":"Robinson","slug":"robinson-tx"},
+    {"name":"Lacy-Lakeview","slug":"lacy-lakeview-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"education-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Wake Village",
+  "slug": "wake-village-tx",
+  "county": "Bowie County",
+  "population": 5560,
+  "zip_codes": [
+    "75501"
+  ],
+  "landmarks": [
+    "Wake Village City Hall",
+    "Kings Highway Park",
+    "Wake Village Community Center",
+    "Veterans Memorial Park",
+    "Red River Army Depot Gateway"
+  ],
+  "nearby_cities": [
+    {"name":"Texarkana","slug":"texarkana-tx"},
+    {"name":"Nash","slug":"nash-tx"},
+    {"name":"New Boston","slug":"new-boston-tx"},
+    {"name":"Atlanta","slug":"atlanta-tx"},
+    {"name":"Hooks","slug":"hooks-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"piney-woods",
+  "economy_type":"government-services",
+  "housing_profile":"small-city-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"ark-la-tex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Watauga",
+  "slug": "watauga-tx",
+  "county": "Tarrant County",
+  "population": 24890,
+  "zip_codes": [
+    "76137",
+    "76148"
+  ],
+  "landmarks": [
+    "Capp Smith Park",
+    "Foster Village Park",
+    "Watauga Public Library",
+    "Watauga City Hall",
+    "Whitley Road Park"
+  ],
+  "nearby_cities": [
+    {"name":"North Richland Hills","slug":"north-richland-hills-tx"},
+    {"name":"Keller","slug":"keller-tx"},
+    {"name":"Haltom City","slug":"haltom-city-tx"},
+    {"name":"Saginaw","slug":"saginaw-tx"},
+    {"name":"Fort Worth","slug":"fort-worth-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Waxahachie",
+  "slug": "waxahachie-tx",
+  "county": "Ellis County",
+  "population": 44540,
+  "zip_codes": [
+    "75165",
+    "75167",
+    "75168"
+  ],
+  "landmarks": [
+    "Ellis County Courthouse",
+    "Munster Mansion",
+    "Getzendaner Memorial Park",
+    "Scarborough Renaissance Festival",
+    "Waxahachie Sports Complex"
+  ],
+  "nearby_cities": [
+    {"name":"Midlothian","slug":"midlothian-tx"},
+    {"name":"Red Oak","slug":"red-oak-tx"},
+    {"name":"Ennis","slug":"ennis-tx"},
+    {"name":"Mansfield","slug":"mansfield-tx"},
+    {"name":"Ferris","slug":"ferris-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Weatherford",
+  "slug": "weatherford-tx",
+  "county": "Parker County",
+  "population": 36510,
+  "zip_codes": [
+    "76086",
+    "76087",
+    "76088"
+  ],
+  "landmarks": [
+    "Chandor Gardens",
+    "Historic Downtown Weatherford",
+    "First Monday Trade Days",
+    "Parker County Courthouse",
+    "Lake Weatherford"
+  ],
+  "nearby_cities": [
+    {"name":"Aledo","slug":"aledo-tx"},
+    {"name":"Willow Park","slug":"willow-park-tx"},
+    {"name":"Hudson Oaks","slug":"hudson-oaks-tx"},
+    {"name":"Fort Worth","slug":"fort-worth-tx"},
+    {"name":"Springtown","slug":"springtown-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"retail-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Webster",
+  "slug": "webster-tx",
+  "county": "Harris County",
+  "population": 12320,
+  "zip_codes": [
+    "77598"
+  ],
+  "landmarks": [
+    "Baybrook Mall",
+    "NASA Bypass Corridor",
+    "Texas Avenue Park",
+    "Webster Civic Center",
+    "Clear Creek Trail"
+  ],
+  "nearby_cities": [
+    {"name":"League City","slug":"league-city-tx"},
+    {"name":"Friendswood","slug":"friendswood-tx"},
+    {"name":"Nassau Bay","slug":"nassau-bay-tx"},
+    {"name":"Seabrook","slug":"seabrook-tx"},
+    {"name":"Houston","slug":"houston-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"gulf-coastal-plain",
+  "economy_type":"healthcare-aerospace",
+  "housing_profile":"urban-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-houston",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Weslaco",
+  "slug": "weslaco-tx",
+  "county": "Hidalgo County",
+  "population": 41980,
+  "zip_codes": [
+    "78596",
+    "78599"
+  ],
+  "landmarks": [
+    "Estero Llano Grande State Park",
+    "Weslaco Museum",
+    "Gibson Park",
+    "Valley Nature Center",
+    "Downtown Weslaco"
+  ],
+  "nearby_cities": [
+    {"name":"Mercedes","slug":"mercedes-tx"},
+    {"name":"Donna","slug":"donna-tx"},
+    {"name":"Pharr","slug":"pharr-tx"},
+    {"name":"Harlingen","slug":"harlingen-tx"},
+    {"name":"La Feria","slug":"la-feria-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rio-grande-valley",
+  "economy_type":"retail-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"rio-grande-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "West Lake Hills",
+  "slug": "west-lake-hills-tx",
+  "county": "Travis County",
+  "population": 34700,
+  "zip_codes": [
+    "78746"
+  ],
+  "landmarks": [
+    "Wild Basin Wilderness Preserve",
+    "Bee Creek Greenbelt",
+    "Rollingwood Park",
+    "Westlake High School",
+    "City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Austin","slug":"austin-tx"},
+    {"name":"Lakeway","slug":"lakeway-tx"},
+    {"name":"Bee Cave","slug":"bee-cave-tx"},
+    {"name":"Rollingwood","slug":"rollingwood-tx"},
+    {"name":"Cedar Park","slug":"cedar-park-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"texas-hill-country",
+  "economy_type":"professional-services",
+  "housing_profile":"upscale-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"austin-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "White Settlement",
+  "slug": "white-settlement-tx",
+  "county": "Tarrant County",
+  "population": 18540,
+  "zip_codes": [
+    "76108"
+  ],
+  "landmarks": [
+    "Veterans Park",
+    "SplashDayz Water Park",
+    "White Settlement Public Library",
+    "Central Park",
+    "City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Fort Worth","slug":"fort-worth-tx"},
+    {"name":"Westworth Village","slug":"westworth-village-tx"},
+    {"name":"Benbrook","slug":"benbrook-tx"},
+    {"name":"Lake Worth","slug":"lake-worth-tx"},
+    {"name":"River Oaks","slug":"river-oaks-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"cross-timbers",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Whitehouse",
+  "slug": "whitehouse-tx",
+  "county": "Smith County",
+  "population": 9300,
+  "zip_codes": [
+    "75791"
+  ],
+  "landmarks": [
+    "Whitehouse City Park",
+    "Cain Center",
+    "Whitehouse Nature Trail",
+    "City Hall",
+    "Starrville Historic Area"
+  ],
+  "nearby_cities": [
+    {"name":"Tyler","slug":"tyler-tx"},
+    {"name":"Bullard","slug":"bullard-tx"},
+    {"name":"Troup","slug":"troup-tx"},
+    {"name":"Lindale","slug":"lindale-tx"},
+    {"name":"Jacksonville","slug":"jacksonville-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"east-texas-piney-woods",
+  "economy_type":"education-services",
+  "housing_profile":"small-city-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"east-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Wichita Falls",
+  "slug": "wichita-falls-tx",
+  "county": "Wichita County",
+  "population": 102870,
+  "zip_codes": [
+    "76301",
+    "76302",
+    "76306",
+    "76308",
+    "76309",
+    "76310"
+  ],
+  "landmarks": [
+    "Lucy Park",
+    "River Bend Nature Center",
+    "The Falls",
+    "Midwestern State University",
+    "Wichita Falls Museum of Art"
+  ],
+  "nearby_cities": [
+    {"name":"Burkburnett","slug":"burkburnett-tx"},
+    {"name":"Iowa Park","slug":"iowa-park-tx"},
+    {"name":"Henrietta","slug":"henrietta-tx"},
+    {"name":"Sheppard Air Force Base","slug":"sheppard-afb-tx"},
+    {"name":"Electra","slug":"electra-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"rolling-plains",
+  "economy_type":"healthcare-military",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"north-texas",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Wilmer",
+  "slug": "wilmer-tx",
+  "county": "Dallas County",
+  "population": 6040,
+  "zip_codes": [
+    "75172"
+  ],
+  "landmarks": [
+    "Wilmer City Hall",
+    "Wilmer Community Park",
+    "Wilmer Public Library",
+    "Union Pacific Dallas Intermodal Terminal",
+    "Sunridge Business Park"
+  ],
+  "nearby_cities": [
+    {"name":"Lancaster","slug":"lancaster-tx"},
+    {"name":"Hutchins","slug":"hutchins-tx"},
+    {"name":"Ferris","slug":"ferris-tx"},
+    {"name":"Dallas","slug":"dallas-tx"},
+    {"name":"DeSoto","slug":"desoto-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"logistics-industrial",
+  "housing_profile":"small-city-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Wylie",
+  "slug": "wylie-tx",
+  "county": "Collin County",
+  "population": 60390,
+  "zip_codes": [
+    "75098"
+  ],
+  "landmarks": [
+    "Founders Park",
+    "Olde City Park",
+    "Lavon Lake",
+    "Wylie Recreation Center",
+    "Historic Downtown Wylie"
+  ],
+  "nearby_cities": [
+    {"name":"Sachse","slug":"sachse-tx"},
+    {"name":"Murphy","slug":"murphy-tx"},
+    {"name":"Plano","slug":"plano-tx"},
+    {"name":"Rowlett","slug":"rowlett-tx"},
+    {"name":"Princeton","slug":"princeton-tx"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-subtropical",
+  "terrain":"blackland-prairie",
+  "economy_type":"professional-services",
+  "housing_profile":"major-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"dallas-fort-worth-metroplex",
+  "property_mix":"mixed-use"
+}
+]

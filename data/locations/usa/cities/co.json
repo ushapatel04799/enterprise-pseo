@@ -1,0 +1,1317 @@
+[
+{
+  "city": "Denver",
+  "slug": "denver-co",
+  "county": "Denver County",
+  "population": 716000,
+  "zip_codes": ["80202","80203","80204","80205","80206"],
+  "landmarks": [
+    "Union Station",
+    "Red Rocks Amphitheatre",
+    "Denver Art Museum",
+    "Coors Field",
+    "City Park"
+  ],
+  "nearby_cities": [
+    {"name":"Aurora","slug":"aurora-co"},
+    {"name":"Lakewood","slug":"lakewood-co"},
+    {"name":"Thornton","slug":"thornton-co"},
+    {"name":"Westminster","slug":"westminster-co"},
+    {"name":"Arvada","slug":"arvada-co"}
+  ],
+  "city_type": "state-capital-metro",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "government-finance",
+  "housing_profile": "urban-mixed",
+  "growth_pattern": "metro-growth",
+  "service_environment": "front-range-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Colorado Springs",
+  "slug": "colorado-springs-co",
+  "county": "El Paso County",
+  "population": 495000,
+  "zip_codes": ["80903","80904","80905","80906","80918"],
+  "landmarks": [
+    "Garden of the Gods",
+    "Pikes Peak",
+    "U.S. Air Force Academy",
+    "Cheyenne Mountain Zoo",
+    "Downtown Colorado Springs"
+  ],
+  "nearby_cities": [
+    {"name":"Fountain","slug":"fountain-co"},
+    {"name":"Monument","slug":"monument-co"},
+    {"name":"Pueblo","slug":"pueblo-co"},
+    {"name":"Castle Rock","slug":"castle-rock-co"},
+    {"name":"Woodland Park","slug":"woodland-park-co"}
+  ],
+  "city_type": "military-tourism-hub",
+  "climate_zone": "semi-arid",
+  "terrain": "foothills",
+  "economy_type": "defense-tourism",
+  "housing_profile": "family-residential",
+  "growth_pattern": "high-growth",
+  "service_environment": "front-range-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Aurora",
+  "slug": "aurora-co",
+  "county": "Arapahoe County",
+  "population": 401000,
+  "zip_codes": ["80010","80011","80012","80013","80014"],
+  "landmarks": [
+    "Cherry Creek State Park",
+    "Aurora Reservoir",
+    "Stanley Marketplace",
+    "Town Center at Aurora",
+    "Morrison Nature Center"
+  ],
+  "nearby_cities": [
+    {"name":"Denver","slug":"denver-co"},
+    {"name":"Centennial","slug":"centennial-co"},
+    {"name":"Parker","slug":"parker-co"},
+    {"name":"Englewood","slug":"englewood-co"},
+    {"name":"Commerce City","slug":"commerce-city-co"}
+  ],
+  "city_type": "metro-growth-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "healthcare-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "denver-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Fort Collins",
+  "slug": "fort-collins-co",
+  "county": "Larimer County",
+  "population": 171000,
+  "zip_codes": ["80521","80524","80525","80526","80528"],
+  "landmarks": [
+    "Colorado State University",
+    "Old Town Fort Collins",
+    "Horsetooth Reservoir",
+    "Spring Canyon Park",
+    "Cache la Poudre River"
+  ],
+  "nearby_cities": [
+    {"name":"Loveland","slug":"loveland-co"},
+    {"name":"Windsor","slug":"windsor-co"},
+    {"name":"Greeley","slug":"greeley-co"},
+    {"name":"Timnath","slug":"timnath-co"},
+    {"name":"Berthoud","slug":"berthoud-co"}
+  ],
+  "city_type": "university-innovation-city",
+  "climate_zone": "semi-arid",
+  "terrain": "foothills-plains",
+  "economy_type": "education-technology",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "innovation-growth",
+  "service_environment": "northern-front-range",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lakewood",
+  "slug": "lakewood-co",
+  "county": "Jefferson County",
+  "population": 157000,
+  "zip_codes": ["80214","80215","80226","80227","80228"],
+  "landmarks": [
+    "Bear Creek Lake Park",
+    "Belmar",
+    "William F. Hayden Park",
+    "Green Mountain",
+    "Lakewood Heritage Center"
+  ],
+  "nearby_cities": [
+    {"name":"Denver","slug":"denver-co"},
+    {"name":"Golden","slug":"golden-co"},
+    {"name":"Wheat Ridge","slug":"wheat-ridge-co"},
+    {"name":"Littleton","slug":"littleton-co"},
+    {"name":"Arvada","slug":"arvada-co"}
+  ],
+  "city_type": "front-range-suburban-city",
+  "climate_zone": "semi-arid",
+  "terrain": "foothills",
+  "economy_type": "professional-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "denver-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Thornton",
+  "slug": "thornton-co",
+  "county": "Adams County",
+  "population": 145000,
+  "zip_codes": ["80229","80233","80241","80602"],
+  "landmarks": [
+    "Carpenter Park",
+    "Trail Winds Park",
+    "Margaret Carpenter Recreation Center",
+    "Eastlake Reservoir",
+    "Thornton Town Center"
+  ],
+  "nearby_cities": [
+    {"name":"Denver","slug":"denver-co"},
+    {"name":"Westminster","slug":"westminster-co"},
+    {"name":"Northglenn","slug":"northglenn-co"},
+    {"name":"Broomfield","slug":"broomfield-co"},
+    {"name":"Brighton","slug":"brighton-co"}
+  ],
+  "city_type": "metro-growth-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "denver-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Arvada",
+  "slug": "arvada-co",
+  "county": "Jefferson County",
+  "population": 124000,
+  "zip_codes": ["80002","80003","80004","80005","80007"],
+  "landmarks": [
+    "Olde Town Arvada",
+    "Ralston Creek Trail",
+    "Majestic View Park",
+    "Two Ponds National Wildlife Refuge",
+    "Arvada Center"
+  ],
+  "nearby_cities": [
+    {"name":"Denver","slug":"denver-co"},
+    {"name":"Lakewood","slug":"lakewood-co"},
+    {"name":"Westminster","slug":"westminster-co"},
+    {"name":"Golden","slug":"golden-co"},
+    {"name":"Wheat Ridge","slug":"wheat-ridge-co"}
+  ],
+  "city_type": "historic-suburban-city",
+  "climate_zone": "semi-arid",
+  "terrain": "foothills-plains",
+  "economy_type": "professional-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "denver-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Westminster",
+  "slug": "westminster-co",
+  "county": "Adams County",
+  "population": 117000,
+  "zip_codes": ["80020","80021","80031"],
+  "landmarks": [
+    "Standley Lake",
+    "Butterfly Pavilion",
+    "Westminster Promenade",
+    "Big Dry Creek Trail",
+    "City Park"
+  ],
+  "nearby_cities": [
+    {"name":"Thornton","slug":"thornton-co"},
+    {"name":"Arvada","slug":"arvada-co"},
+    {"name":"Broomfield","slug":"broomfield-co"},
+    {"name":"Denver","slug":"denver-co"},
+    {"name":"Northglenn","slug":"northglenn-co"}
+  ],
+  "city_type": "front-range-suburban-hub",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "denver-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Pueblo",
+  "slug": "pueblo-co",
+  "county": "Pueblo County",
+  "population": 113000,
+  "zip_codes": ["81001","81003","81004","81005","81008"],
+  "landmarks": [
+    "Historic Arkansas Riverwalk",
+    "Pueblo Zoo",
+    "Lake Pueblo State Park",
+    "Union Avenue Historic District",
+    "Pueblo Convention Center"
+  ],
+  "nearby_cities": [
+    {"name":"Colorado Springs","slug":"colorado-springs-co"},
+    {"name":"Fountain","slug":"fountain-co"},
+    {"name":"Canon City","slug":"canon-city-co"},
+    {"name":"Trinidad","slug":"trinidad-co"},
+    {"name":"Pueblo West","slug":"pueblo-west-co"}
+  ],
+  "city_type": "southern-colorado-hub",
+  "climate_zone": "semi-arid",
+  "terrain": "river-valley",
+  "economy_type": "manufacturing-logistics",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "southern-colorado-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Greeley",
+  "slug": "greeley-co",
+  "county": "Weld County",
+  "population": 114000,
+  "zip_codes": ["80631","80634"],
+  "landmarks": [
+    "University of Northern Colorado",
+    "Island Grove Park",
+    "Downtown Greeley",
+    "Poudre River Trail",
+    "Greeley History Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Fort Collins","slug":"fort-collins-co"},
+    {"name":"Loveland","slug":"loveland-co"},
+    {"name":"Windsor","slug":"windsor-co"},
+    {"name":"Evans","slug":"evans-co"},
+    {"name":"Johnstown","slug":"johnstown-co"}
+  ],
+  "city_type": "university-agriculture-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "agriculture-education",
+  "housing_profile": "family-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "northern-colorado-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Boulder",
+  "slug": "boulder-co",
+  "county": "Boulder County",
+  "population": 108000,
+  "zip_codes": ["80301","80302","80303","80304","80305"],
+  "landmarks": [
+    "Pearl Street Mall",
+    "University of Colorado Boulder",
+    "Chautauqua Park",
+    "Flatirons",
+    "Boulder Creek Path"
+  ],
+  "nearby_cities": [
+    {"name":"Longmont","slug":"longmont-co"},
+    {"name":"Louisville","slug":"louisville-co"},
+    {"name":"Lafayette","slug":"lafayette-co"},
+    {"name":"Broomfield","slug":"broomfield-co"},
+    {"name":"Superior","slug":"superior-co"}
+  ],
+  "city_type": "innovation-university-city",
+  "climate_zone": "semi-arid",
+  "terrain": "foothills",
+  "economy_type": "technology-research",
+  "housing_profile": "professional-residential",
+  "growth_pattern": "innovation-growth",
+  "service_environment": "front-range-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Longmont",
+  "slug": "longmont-co",
+  "county": "Boulder County",
+  "population": 101000,
+  "zip_codes": ["80501","80503","80504"],
+  "landmarks": [
+    "Roosevelt Park",
+    "Union Reservoir",
+    "Downtown Longmont",
+    "St. Vrain Greenway",
+    "Longmont Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Boulder","slug":"boulder-co"},
+    {"name":"Loveland","slug":"loveland-co"},
+    {"name":"Berthoud","slug":"berthoud-co"},
+    {"name":"Erie","slug":"erie-co"},
+    {"name":"Firestone","slug":"firestone-co"}
+  ],
+  "city_type": "technology-growth-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains-foothills",
+  "economy_type": "technology-manufacturing",
+  "housing_profile": "family-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "northern-front-range",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Loveland",
+  "slug": "loveland-co",
+  "county": "Larimer County",
+  "population": 82000,
+  "zip_codes": ["80537","80538"],
+  "landmarks": [
+    "Boyd Lake State Park",
+    "Benson Sculpture Garden",
+    "Downtown Loveland",
+    "Devil's Backbone",
+    "Chapungu Sculpture Park"
+  ],
+  "nearby_cities": [
+    {"name":"Fort Collins","slug":"fort-collins-co"},
+    {"name":"Greeley","slug":"greeley-co"},
+    {"name":"Longmont","slug":"longmont-co"},
+    {"name":"Berthoud","slug":"berthoud-co"},
+    {"name":"Windsor","slug":"windsor-co"}
+  ],
+  "city_type": "arts-recreation-city",
+  "climate_zone": "semi-arid",
+  "terrain": "foothills-plains",
+  "economy_type": "manufacturing-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "northern-colorado-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Castle Rock",
+  "slug": "castle-rock-co",
+  "county": "Douglas County",
+  "population": 84000,
+  "zip_codes": ["80104","80108","80109"],
+  "landmarks": [
+    "Castle Rock Outlets",
+    "Philip S. Miller Park",
+    "Rock Park",
+    "Castlewood Canyon",
+    "Downtown Castle Rock"
+  ],
+  "nearby_cities": [
+    {"name":"Parker","slug":"parker-co"},
+    {"name":"Highlands Ranch","slug":"highlands-ranch-co"},
+    {"name":"Denver","slug":"denver-co"},
+    {"name":"Colorado Springs","slug":"colorado-springs-co"},
+    {"name":"Lone Tree","slug":"lone-tree-co"}
+  ],
+  "city_type": "master-planned-growth-city",
+  "climate_zone": "semi-arid",
+  "terrain": "foothills",
+  "economy_type": "retail-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "high-growth",
+  "service_environment": "front-range-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Centennial",
+  "slug": "centennial-co",
+  "county": "Arapahoe County",
+  "population": 109000,
+  "zip_codes": ["80015","80016","80111","80112","80122"],
+  "landmarks": [
+    "Cherry Creek State Park",
+    "The Streets at SouthGlenn",
+    "Centennial Center Park",
+    "Arapahoe Park",
+    "Willow Creek Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Aurora","slug":"aurora-co"},
+    {"name":"Parker","slug":"parker-co"},
+    {"name":"Englewood","slug":"englewood-co"},
+    {"name":"Littleton","slug":"littleton-co"},
+    {"name":"Lone Tree","slug":"lone-tree-co"}
+  ],
+  "city_type": "professional-suburban-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "technology-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "denver-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Parker",
+  "slug": "parker-co",
+  "county": "Douglas County",
+  "population": 65000,
+  "zip_codes": ["80134","80138"],
+  "landmarks": [
+    "Parker Arts Center",
+    "O'Brien Park",
+    "Cherry Creek Trail",
+    "Parker Fieldhouse",
+    "Downtown Parker"
+  ],
+  "nearby_cities": [
+    {"name":"Centennial","slug":"centennial-co"},
+    {"name":"Aurora","slug":"aurora-co"},
+    {"name":"Castle Rock","slug":"castle-rock-co"},
+    {"name":"Lone Tree","slug":"lone-tree-co"},
+    {"name":"Highlands Ranch","slug":"highlands-ranch-co"}
+  ],
+  "city_type": "master-planned-suburban-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "professional-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "high-growth",
+  "service_environment": "denver-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Highlands Ranch",
+  "slug": "highlands-ranch-co",
+  "county": "Douglas County",
+  "population": 108000,
+  "zip_codes": ["80126","80129","80130"],
+  "landmarks": [
+    "Highlands Ranch Mansion",
+    "Redstone Park",
+    "Civic Green Park",
+    "Backcountry Wilderness Area",
+    "Highlands Ranch Town Center"
+  ],
+  "nearby_cities": [
+    {"name":"Littleton","slug":"littleton-co"},
+    {"name":"Centennial","slug":"centennial-co"},
+    {"name":"Lone Tree","slug":"lone-tree-co"},
+    {"name":"Castle Rock","slug":"castle-rock-co"},
+    {"name":"Parker","slug":"parker-co"}
+  ],
+  "city_type": "planned-community-hub",
+  "climate_zone": "semi-arid",
+  "terrain": "rolling-plains",
+  "economy_type": "professional-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "mature-growth",
+  "service_environment": "denver-market",
+  "property_mix": "single-family-dominant"
+},
+
+{
+  "city": "Littleton",
+  "slug": "littleton-co",
+  "county": "Arapahoe County",
+  "population": 47000,
+  "zip_codes": ["80120","80121","80122","80123","80127","80128"],
+  "landmarks": [
+    "Historic Downtown Littleton",
+    "Hudson Gardens",
+    "South Platte Park",
+    "Chatfield State Park",
+    "Breckenridge Brewery"
+  ],
+  "nearby_cities": [
+    {"name":"Englewood","slug":"englewood-co"},
+    {"name":"Centennial","slug":"centennial-co"},
+    {"name":"Highlands Ranch","slug":"highlands-ranch-co"},
+    {"name":"Lakewood","slug":"lakewood-co"},
+    {"name":"Denver","slug":"denver-co"}
+  ],
+  "city_type": "historic-suburban-city",
+  "climate_zone": "semi-arid",
+  "terrain": "foothills-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "denver-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Englewood",
+  "slug": "englewood-co",
+  "county": "Arapahoe County",
+  "population": 36000,
+  "zip_codes": ["80110","80113"],
+  "landmarks": [
+    "Swedish Medical Center",
+    "Englewood CityCenter",
+    "Belleview Park",
+    "Museum of Outdoor Arts",
+    "Broken Tee Golf Course"
+  ],
+  "nearby_cities": [
+    {"name":"Denver","slug":"denver-co"},
+    {"name":"Littleton","slug":"littleton-co"},
+    {"name":"Centennial","slug":"centennial-co"},
+    {"name":"Sheridan","slug":"sheridan-co"},
+    {"name":"Greenwood Village","slug":"greenwood-village-co"}
+  ],
+  "city_type": "medical-commercial-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "healthcare-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "infill-growth",
+  "service_environment": "denver-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Broomfield",
+  "slug": "broomfield-co",
+  "county": "Broomfield County",
+  "population": 78000,
+  "zip_codes": ["80020","80021","80023","80038"],
+  "landmarks": [
+    "FlatIron Crossing",
+    "Broomfield Commons",
+    "Bay Aquatic Park",
+    "Paul Derda Recreation Center",
+    "Anthem Community Park"
+  ],
+  "nearby_cities": [
+    {"name":"Westminster","slug":"westminster-co"},
+    {"name":"Thornton","slug":"thornton-co"},
+    {"name":"Boulder","slug":"boulder-co"},
+    {"name":"Louisville","slug":"louisville-co"},
+    {"name":"Erie","slug":"erie-co"}
+  ],
+  "city_type": "technology-corridor-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "technology-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "front-range-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Windsor",
+  "slug": "windsor-co",
+  "county": "Weld County",
+  "population": 40000,
+  "zip_codes": ["80550"],
+  "landmarks": [
+    "Boardwalk Park",
+    "Windsor Lake",
+    "Eastman Park",
+    "Downtown Windsor",
+    "RainDance National Golf Course"
+  ],
+  "nearby_cities": [
+    {"name":"Fort Collins","slug":"fort-collins-co"},
+    {"name":"Loveland","slug":"loveland-co"},
+    {"name":"Greeley","slug":"greeley-co"},
+    {"name":"Timnath","slug":"timnath-co"},
+    {"name":"Severance","slug":"severance-co"}
+  ],
+  "city_type": "northern-growth-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "services-construction",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "high-growth",
+  "service_environment": "northern-colorado-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Louisville",
+  "slug": "louisville-co",
+  "county": "Boulder County",
+  "population": 22000,
+  "zip_codes": ["80027"],
+  "landmarks": [
+    "Historic Downtown Louisville",
+    "Coal Creek Trail",
+    "Davidson Mesa",
+    "Memory Square Park",
+    "Louisville Sports Complex"
+  ],
+  "nearby_cities": [
+    {"name":"Boulder","slug":"boulder-co"},
+    {"name":"Lafayette","slug":"lafayette-co"},
+    {"name":"Superior","slug":"superior-co"},
+    {"name":"Broomfield","slug":"broomfield-co"},
+    {"name":"Erie","slug":"erie-co"}
+  ],
+  "city_type": "high-amenity-community",
+  "climate_zone": "semi-arid",
+  "terrain": "foothills-plains",
+  "economy_type": "technology-services",
+  "housing_profile": "professional-residential",
+  "growth_pattern": "premium-growth",
+  "service_environment": "boulder-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lafayette",
+  "slug": "lafayette-co",
+  "county": "Boulder County",
+  "population": 32000,
+  "zip_codes": ["80026"],
+  "landmarks": [
+    "Waneka Lake Park",
+    "Old Town Lafayette",
+    "Coal Creek Trail",
+    "Festival Plaza",
+    "Great Outdoors Waterpark"
+  ],
+  "nearby_cities": [
+    {"name":"Louisville","slug":"louisville-co"},
+    {"name":"Boulder","slug":"boulder-co"},
+    {"name":"Erie","slug":"erie-co"},
+    {"name":"Superior","slug":"superior-co"},
+    {"name":"Broomfield","slug":"broomfield-co"}
+  ],
+  "city_type": "front-range-community-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "boulder-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Erie",
+  "slug": "erie-co",
+  "county": "Weld County",
+  "population": 35000,
+  "zip_codes": ["80516"],
+  "landmarks": [
+    "Coal Creek Park",
+    "Erie Community Center",
+    "Thomas Reservoir",
+    "Historic Briggs Street",
+    "Erie Sports Park"
+  ],
+  "nearby_cities": [
+    {"name":"Lafayette","slug":"lafayette-co"},
+    {"name":"Louisville","slug":"louisville-co"},
+    {"name":"Broomfield","slug":"broomfield-co"},
+    {"name":"Longmont","slug":"longmont-co"},
+    {"name":"Thornton","slug":"thornton-co"}
+  ],
+  "city_type": "master-planned-growth-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "construction-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "hyper-growth",
+  "service_environment": "front-range-market",
+  "property_mix": "single-family-dominant"
+},
+{
+  "city": "Brighton",
+  "slug": "brighton-co",
+  "county": "Adams County",
+  "population": 43000,
+  "zip_codes": ["80601","80602","80603"],
+  "landmarks": [
+    "Barr Lake State Park",
+    "Historic Downtown Brighton",
+    "Brighton Oasis Family Aquatic Park",
+    "Bromley Hishinuma Farm",
+    "Veterans Park"
+  ],
+  "nearby_cities": [
+    {"name":"Thornton","slug":"thornton-co"},
+    {"name":"Commerce City","slug":"commerce-city-co"},
+    {"name":"Northglenn","slug":"northglenn-co"},
+    {"name":"Erie","slug":"erie-co"},
+    {"name":"Denver","slug":"denver-co"}
+  ],
+  "city_type": "front-range-growth-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "agriculture-logistics",
+  "housing_profile": "family-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "denver-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Northglenn",
+  "slug": "northglenn-co",
+  "county": "Adams County",
+  "population": 39000,
+  "zip_codes": ["80233","80234","80260"],
+  "landmarks": [
+    "EB Rains Jr Memorial Park",
+    "Webster Lake",
+    "Boondocks Food & Fun",
+    "Northglenn Recreation Center",
+    "Northglenn Marketplace"
+  ],
+  "nearby_cities": [
+    {"name":"Thornton","slug":"thornton-co"},
+    {"name":"Westminster","slug":"westminster-co"},
+    {"name":"Denver","slug":"denver-co"},
+    {"name":"Broomfield","slug":"broomfield-co"},
+    {"name":"Brighton","slug":"brighton-co"}
+  ],
+  "city_type": "metro-suburban-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "denver-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Commerce City",
+  "slug": "commerce-city-co",
+  "county": "Adams County",
+  "population": 68000,
+  "zip_codes": ["80022","80037"],
+  "landmarks": [
+    "Dick's Sporting Goods Park",
+    "Rocky Mountain Arsenal",
+    "Pioneer Park",
+    "Buffalo Run Golf Course",
+    "Commerce City Civic Center"
+  ],
+  "nearby_cities": [
+    {"name":"Denver","slug":"denver-co"},
+    {"name":"Aurora","slug":"aurora-co"},
+    {"name":"Brighton","slug":"brighton-co"},
+    {"name":"Thornton","slug":"thornton-co"},
+    {"name":"Northglenn","slug":"northglenn-co"}
+  ],
+  "city_type": "industrial-logistics-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "logistics-manufacturing",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "high-growth",
+  "service_environment": "denver-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Golden",
+  "slug": "golden-co",
+  "county": "Jefferson County",
+  "population": 21000,
+  "zip_codes": ["80401","80403"],
+  "landmarks": [
+    "Colorado School of Mines",
+    "Lookout Mountain",
+    "Coors Brewery",
+    "Clear Creek Trail",
+    "Downtown Golden"
+  ],
+  "nearby_cities": [
+    {"name":"Lakewood","slug":"lakewood-co"},
+    {"name":"Arvada","slug":"arvada-co"},
+    {"name":"Wheat Ridge","slug":"wheat-ridge-co"},
+    {"name":"Denver","slug":"denver-co"},
+    {"name":"Morrison","slug":"morrison-co"}
+  ],
+  "city_type": "historic-university-city",
+  "climate_zone": "semi-arid",
+  "terrain": "foothills",
+  "economy_type": "education-tourism",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "premium-growth",
+  "service_environment": "front-range-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Wheat Ridge",
+  "slug": "wheat-ridge-co",
+  "county": "Jefferson County",
+  "population": 33000,
+  "zip_codes": ["80033"],
+  "landmarks": [
+    "Anderson Park",
+    "Clear Creek Trail",
+    "Prospect Park",
+    "Wheat Ridge Recreation Center",
+    "Historic 38th Avenue"
+  ],
+  "nearby_cities": [
+    {"name":"Lakewood","slug":"lakewood-co"},
+    {"name":"Arvada","slug":"arvada-co"},
+    {"name":"Golden","slug":"golden-co"},
+    {"name":"Denver","slug":"denver-co"},
+    {"name":"Westminster","slug":"westminster-co"}
+  ],
+  "city_type": "inner-ring-suburb",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "healthcare-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "infill-growth",
+  "service_environment": "denver-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Evans",
+  "slug": "evans-co",
+  "county": "Weld County",
+  "population": 23000,
+  "zip_codes": ["80620"],
+  "landmarks": [
+    "Riverside Park",
+    "Evans Community Complex",
+    "South Platte River Corridor",
+    "City Park",
+    "Evans Recreation Center"
+  ],
+  "nearby_cities": [
+    {"name":"Greeley","slug":"greeley-co"},
+    {"name":"Johnstown","slug":"johnstown-co"},
+    {"name":"Windsor","slug":"windsor-co"},
+    {"name":"Loveland","slug":"loveland-co"},
+    {"name":"Milliken","slug":"milliken-co"}
+  ],
+  "city_type": "regional-support-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "services-logistics",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "northern-colorado-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Firestone",
+  "slug": "firestone-co",
+  "county": "Weld County",
+  "population": 21000,
+  "zip_codes": ["80504","80520"],
+  "landmarks": [
+    "Saddleback Golf Club",
+    "Hart Park",
+    "Central Park",
+    "St. Vrain State Park Access",
+    "Firestone Trail System"
+  ],
+  "nearby_cities": [
+    {"name":"Longmont","slug":"longmont-co"},
+    {"name":"Frederick","slug":"frederick-co"},
+    {"name":"Johnstown","slug":"johnstown-co"},
+    {"name":"Erie","slug":"erie-co"},
+    {"name":"Dacono","slug":"dacono-co"}
+  ],
+  "city_type": "energy-growth-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "energy-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "front-range-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Johnstown",
+  "slug": "johnstown-co",
+  "county": "Weld County",
+  "population": 22000,
+  "zip_codes": ["80534"],
+  "landmarks": [
+    "Parish Park",
+    "Johnstown Plaza",
+    "YMCA of Northern Colorado",
+    "Johnstown Reservoir",
+    "Historic Downtown Johnstown"
+  ],
+  "nearby_cities": [
+    {"name":"Loveland","slug":"loveland-co"},
+    {"name":"Greeley","slug":"greeley-co"},
+    {"name":"Firestone","slug":"firestone-co"},
+    {"name":"Windsor","slug":"windsor-co"},
+    {"name":"Berthoud","slug":"berthoud-co"}
+  ],
+  "city_type": "front-range-growth-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "construction-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "high-growth",
+  "service_environment": "northern-colorado-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lone Tree",
+  "slug": "lone-tree-co",
+  "county": "Douglas County",
+  "population": 16000,
+  "zip_codes": ["80124"],
+  "landmarks": [
+    "Park Meadows Mall",
+    "Lone Tree Arts Center",
+    "Bluffs Regional Park",
+    "Sky Ridge Medical Center",
+    "Sweetwater Park"
+  ],
+  "nearby_cities": [
+    {"name":"Centennial","slug":"centennial-co"},
+    {"name":"Parker","slug":"parker-co"},
+    {"name":"Highlands Ranch","slug":"highlands-ranch-co"},
+    {"name":"Castle Rock","slug":"castle-rock-co"},
+    {"name":"Englewood","slug":"englewood-co"}
+  ],
+  "city_type": "corporate-center-city",
+  "climate_zone": "semi-arid",
+  "terrain": "rolling-plains",
+  "economy_type": "healthcare-finance",
+  "housing_profile": "professional-residential",
+  "growth_pattern": "premium-growth",
+  "service_environment": "denver-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Greenwood Village",
+  "slug": "greenwood-village-co",
+  "county": "Arapahoe County",
+  "population": 16000,
+  "zip_codes": ["80111","80121"],
+  "landmarks": [
+    "Fiddler's Green Amphitheatre",
+    "Cherry Creek State Park Access",
+    "Westlands Park",
+    "Denver Tech Center",
+    "Tommy Davis Park"
+  ],
+  "nearby_cities": [
+    {"name":"Englewood","slug":"englewood-co"},
+    {"name":"Centennial","slug":"centennial-co"},
+    {"name":"Lone Tree","slug":"lone-tree-co"},
+    {"name":"Denver","slug":"denver-co"},
+    {"name":"Littleton","slug":"littleton-co"}
+  ],
+  "city_type": "technology-business-center",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "technology-finance",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "business-growth",
+  "service_environment": "denver-tech-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Pueblo West",
+  "slug": "pueblo-west-co",
+  "county": "Pueblo County",
+  "population": 38000,
+  "zip_codes": ["81007"],
+  "landmarks": [
+    "Desert Hawk Golf Course",
+    "Pueblo Reservoir Access",
+    "Civic Center Park",
+    "Pueblo West Library",
+    "Westside Trail System"
+  ],
+  "nearby_cities": [
+    {"name":"Pueblo","slug":"pueblo-co"},
+    {"name":"Canon City","slug":"canon-city-co"},
+    {"name":"Colorado Springs","slug":"colorado-springs-co"},
+    {"name":"Fountain","slug":"fountain-co"},
+    {"name":"Florence","slug":"florence-co"}
+  ],
+  "city_type": "master-planned-community",
+  "climate_zone": "semi-arid",
+  "terrain": "high-plains",
+  "economy_type": "services-construction",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "southern-colorado-market",
+  "property_mix": "single-family-dominant"
+},
+
+{
+  "city": "Fountain",
+  "slug": "fountain-co",
+  "county": "El Paso County",
+  "population": 32000,
+  "zip_codes": ["80817"],
+  "landmarks": [
+    "Fountain Creek Regional Park",
+    "John Metcalfe Park",
+    "Aga Park",
+    "Downtown Fountain",
+    "Fountain Creek Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Colorado Springs","slug":"colorado-springs-co"},
+    {"name":"Pueblo","slug":"pueblo-co"},
+    {"name":"Security-Widefield","slug":"security-widefield-co"},
+    {"name":"Fort Carson","slug":"fort-carson-co"},
+    {"name":"Pueblo West","slug":"pueblo-west-co"}
+  ],
+  "city_type": "military-support-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "defense-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "front-range-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Frederick",
+  "slug": "frederick-co",
+  "county": "Weld County",
+  "population": 18000,
+  "zip_codes": ["80530"],
+  "landmarks": [
+    "Centennial Park",
+    "Crist Park",
+    "Frederick Recreation Area",
+    "Milavec Reservoir",
+    "Downtown Frederick"
+  ],
+  "nearby_cities": [
+    {"name":"Firestone","slug":"firestone-co"},
+    {"name":"Dacono","slug":"dacono-co"},
+    {"name":"Longmont","slug":"longmont-co"},
+    {"name":"Erie","slug":"erie-co"},
+    {"name":"Johnstown","slug":"johnstown-co"}
+  ],
+  "city_type": "energy-corridor-city",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "energy-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "front-range-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Dacono",
+  "slug": "dacono-co",
+  "county": "Weld County",
+  "population": 7000,
+  "zip_codes": ["80514"],
+  "landmarks": [
+    "Clem Dufour Park",
+    "Glens of Dacono",
+    "Coal Miners Memorial",
+    "Dacono City Hall",
+    "Veterans Memorial Plaza"
+  ],
+  "nearby_cities": [
+    {"name":"Frederick","slug":"frederick-co"},
+    {"name":"Firestone","slug":"firestone-co"},
+    {"name":"Erie","slug":"erie-co"},
+    {"name":"Longmont","slug":"longmont-co"},
+    {"name":"Thornton","slug":"thornton-co"}
+  ],
+  "city_type": "small-growth-community",
+  "climate_zone": "semi-arid",
+  "terrain": "plains",
+  "economy_type": "services-energy",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "front-range-market",
+  "property_mix": "single-family-dominant"
+},
+
+{
+  "city": "Montrose",
+  "slug": "montrose-co",
+  "county": "Montrose County",
+  "population": 21000,
+  "zip_codes": ["81401","81403"],
+  "landmarks": [
+    "Black Canyon of the Gunnison",
+    "Montrose Water Sports Park",
+    "Cerise Park",
+    "Downtown Montrose",
+    "Ute Indian Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Delta","slug":"delta-co"},
+    {"name":"Grand Junction","slug":"grand-junction-co"},
+    {"name":"Ridgway","slug":"ridgway-co"},
+    {"name":"Ouray","slug":"ouray-co"},
+    {"name":"Telluride","slug":"telluride-co"}
+  ],
+  "city_type": "western-slope-hub",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-healthcare",
+  "housing_profile": "family-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "western-colorado-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Durango",
+  "slug": "durango-co",
+  "county": "La Plata County",
+  "population": 20000,
+  "zip_codes": ["81301"],
+  "landmarks": [
+    "Durango & Silverton Railroad",
+    "Historic Downtown Durango",
+    "Animas River Trail",
+    "Fort Lewis College",
+    "Purgatory Resort Access"
+  ],
+  "nearby_cities": [
+    {"name":"Farmington","slug":"farmington-nm"},
+    {"name":"Cortez","slug":"cortez-co"},
+    {"name":"Bayfield","slug":"bayfield-co"},
+    {"name":"Mancos","slug":"mancos-co"},
+    {"name":"Pagosa Springs","slug":"pagosa-springs-co"}
+  ],
+  "city_type": "mountain-tourism-city",
+  "climate_zone": "mountain",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-education",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "premium-growth",
+  "service_environment": "southwest-colorado-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Grand Junction",
+  "slug": "grand-junction-co",
+  "county": "Mesa County",
+  "population": 69000,
+  "zip_codes": ["81501","81503","81504","81505","81506"],
+  "landmarks": [
+    "Colorado National Monument",
+    "Downtown Grand Junction",
+    "Riverfront Trail",
+    "Las Colonias Park",
+    "Two Rivers Convention Center"
+  ],
+  "nearby_cities": [
+    {"name":"Montrose","slug":"montrose-co"},
+    {"name":"Fruita","slug":"fruita-co"},
+    {"name":"Palisade","slug":"palisade-co"},
+    {"name":"Clifton","slug":"clifton-co"},
+    {"name":"Delta","slug":"delta-co"}
+  ],
+  "city_type": "western-slope-metro",
+  "climate_zone": "semi-arid",
+  "terrain": "canyon-valley",
+  "economy_type": "healthcare-logistics",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "western-colorado-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Canon City",
+  "slug": "canon-city-co",
+  "county": "Fremont County",
+  "population": 17000,
+  "zip_codes": ["81212"],
+  "landmarks": [
+    "Royal Gorge Bridge",
+    "Arkansas Riverwalk",
+    "Museum of Colorado Prisons",
+    "Temple Canyon Park",
+    "Downtown Canon City"
+  ],
+  "nearby_cities": [
+    {"name":"Pueblo","slug":"pueblo-co"},
+    {"name":"Pueblo West","slug":"pueblo-west-co"},
+    {"name":"Colorado Springs","slug":"colorado-springs-co"},
+    {"name":"Florence","slug":"florence-co"},
+    {"name":"Salida","slug":"salida-co"}
+  ],
+  "city_type": "tourism-gateway-city",
+  "climate_zone": "semi-arid",
+  "terrain": "river-canyon",
+  "economy_type": "tourism-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "southern-colorado-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Steamboat Springs",
+  "slug": "steamboat-springs-co",
+  "county": "Routt County",
+  "population": 13000,
+  "zip_codes": ["80487"],
+  "landmarks": [
+    "Steamboat Ski Resort",
+    "Yampa River Core Trail",
+    "Old Town Hot Springs",
+    "Howelsen Hill",
+    "Downtown Steamboat"
+  ],
+  "nearby_cities": [
+    {"name":"Craig","slug":"craig-co"},
+    {"name":"Hayden","slug":"hayden-co"},
+    {"name":"Kremmling","slug":"kremmling-co"},
+    {"name":"Silverthorne","slug":"silverthorne-co"},
+    {"name":"Winter Park","slug":"winter-park-co"}
+  ],
+  "city_type": "mountain-resort-city",
+  "climate_zone": "alpine",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-hospitality",
+  "housing_profile": "resort-residential",
+  "growth_pattern": "premium-growth",
+  "service_environment": "mountain-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sheridan",
+  "slug": "sheridan-co",
+  "county": "Arapahoe County",
+  "population": 6500,
+  "zip_codes": ["80110"],
+  "landmarks": [
+    "Bear Creek Trail",
+    "Sheridan Community Park",
+    "River Point Shopping Area",
+    "Sheridan Recreation Center",
+    "South Platte River Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Englewood","slug":"englewood-co"},
+    {"name":"Littleton","slug":"littleton-co"},
+    {"name":"Denver","slug":"denver-co"},
+    {"name":"Lakewood","slug":"lakewood-co"},
+    {"name":"Centennial","slug":"centennial-co"}
+  ],
+  "city_type": "inner-ring-community",
+  "climate_zone": "semi-arid",
+  "terrain": "urban-plains",
+  "economy_type": "retail-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "infill-growth",
+  "service_environment": "denver-market",
+  "property_mix": "mixed-use"
+}
+]

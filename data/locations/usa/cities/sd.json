@@ -1,0 +1,1966 @@
+[
+{
+  "city": "Aberdeen",
+  "slug": "aberdeen-sd",
+  "county": "Brown County",
+  "population": 28495,
+  "zip_codes": [
+    "57401"
+  ],
+  "landmarks": [
+    "Storybook Land",
+    "Wylie Park",
+    "Northern State University",
+    "Dacotah Prairie Museum",
+    "Aberdeen Aquatic Center"
+  ],
+  "nearby_cities": [
+    {"name":"Groton","slug":"groton-sd"},
+    {"name":"Warner","slug":"warner-sd"},
+    {"name":"Bath","slug":"bath-sd"},
+    {"name":"Redfield","slug":"redfield-sd"},
+    {"name":"Ipswich","slug":"ipswich-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"healthcare-education",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"northeastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Alcester",
+  "slug": "alcester-sd",
+  "county": "Union County",
+  "population": 820,
+  "zip_codes": [
+    "57001"
+  ],
+  "landmarks": [
+    "Alcester City Park",
+    "Alcester Golf Club",
+    "City Hall",
+    "Main Street",
+    "Alcester Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Beresford","slug":"beresford-sd"},
+    {"name":"Hawarden","slug":"hawarden-ia"},
+    {"name":"Centerville","slug":"centerville-sd"},
+    {"name":"Elk Point","slug":"elk-point-sd"},
+    {"name":"Lennox","slug":"lennox-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"southeastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Alexandria",
+  "slug": "alexandria-sd",
+  "county": "Hanson County",
+  "population": 620,
+  "zip_codes": [
+    "57311"
+  ],
+  "landmarks": [
+    "Alexandria City Park",
+    "Hanson County Museum",
+    "Main Street",
+    "City Hall",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Mitchell","slug":"mitchell-sd"},
+    {"name":"Emery","slug":"emery-sd"},
+    {"name":"Fulton","slug":"fulton-sd"},
+    {"name":"Farmer","slug":"farmer-sd"},
+    {"name":"Bridgewater","slug":"bridgewater-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"southeastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Allen",
+  "slug": "allen-sd",
+  "county": "Bennett County",
+  "population": 380,
+  "zip_codes": [
+    "57714"
+  ],
+  "landmarks": [
+    "Allen Community Center",
+    "Allen City Hall",
+    "Main Street",
+    "Powwow Grounds",
+    "Little White River"
+  ],
+  "nearby_cities": [
+    {"name":"Martin","slug":"martin-sd"},
+    {"name":"Kyle","slug":"kyle-sd"},
+    {"name":"Mission","slug":"mission-sd"},
+    {"name":"Interior","slug":"interior-sd"},
+    {"name":"White River","slug":"white-river-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"great-plains",
+  "economy_type":"tribal-services",
+  "housing_profile":"rural-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"south-central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Alpena",
+  "slug": "alpena-sd",
+  "county": "Jerauld County",
+  "population": 280,
+  "zip_codes": [
+    "57312"
+  ],
+  "landmarks": [
+    "Alpena City Hall",
+    "Community Park",
+    "Main Street",
+    "Alpena Grain Elevator",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Wessington Springs","slug":"wessington-springs-sd"},
+    {"name":"Huron","slug":"huron-sd"},
+    {"name":"Wolsey","slug":"wolsey-sd"},
+    {"name":"Lane","slug":"lane-sd"},
+    {"name":"Virgil","slug":"virgil-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Arlington",
+  "slug": "arlington-sd",
+  "county": "Kingsbury County",
+  "population": 910,
+  "zip_codes": [
+    "57212"
+  ],
+  "landmarks": [
+    "Arlington City Park",
+    "Lake Poinsett",
+    "Arlington Community Center",
+    "Main Street",
+    "Kingsbury County Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Lake Preston","slug":"lake-preston-sd"},
+    {"name":"Badger","slug":"badger-sd"},
+    {"name":"Volga","slug":"volga-sd"},
+    {"name":"Brookings","slug":"brookings-sd"},
+    {"name":"De Smet","slug":"de-smet-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Armour",
+  "slug": "armour-sd",
+  "county": "Douglas County",
+  "population": 690,
+  "zip_codes": [
+    "57313"
+  ],
+  "landmarks": [
+    "Douglas County Courthouse",
+    "Armour City Park",
+    "Main Street",
+    "City Hall",
+    "Armour Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Corsica","slug":"corsica-sd"},
+    {"name":"Delmont","slug":"delmont-sd"},
+    {"name":"Platte","slug":"platte-sd"},
+    {"name":"Parkston","slug":"parkston-sd"},
+    {"name":"Stickney","slug":"stickney-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"south-central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Artesian",
+  "slug": "artesian-sd",
+  "county": "Sanborn County",
+  "population": 120,
+  "zip_codes": [
+    "57314"
+  ],
+  "landmarks": [
+    "Artesian City Hall",
+    "Community Park",
+    "Main Street",
+    "Veterans Memorial",
+    "Sanborn County Prairie"
+  ],
+  "nearby_cities": [
+    {"name":"Woonsocket","slug":"woonsocket-sd"},
+    {"name":"Forestburg","slug":"forestburg-sd"},
+    {"name":"Mitchell","slug":"mitchell-sd"},
+    {"name":"Letcher","slug":"letcher-sd"},
+    {"name":"Fedora","slug":"fedora-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture",
+  "housing_profile":"rural-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Ashland Heights",
+  "slug": "ashland-heights-sd",
+  "county": "Pennington County",
+  "population": 1100,
+  "zip_codes": [
+    "57702"
+  ],
+  "landmarks": [
+    "Ashland Heights Park",
+    "Rapid Creek",
+    "Community Center",
+    "Skyline Drive",
+    "Black Hills Trail Access"
+  ],
+  "nearby_cities": [
+    {"name":"Rapid City","slug":"rapid-city-sd"},
+    {"name":"Box Elder","slug":"box-elder-sd"},
+    {"name":"Summerset","slug":"summerset-sd"},
+    {"name":"Black Hawk","slug":"black-hawk-sd"},
+    {"name":"Piedmont","slug":"piedmont-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"black-hills-foothills",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"black-hills",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Astoria",
+  "slug": "astoria-sd",
+  "county": "Deuel County",
+  "population": 140,
+  "zip_codes": [
+    "57213"
+  ],
+  "landmarks": [
+    "Astoria Community Center",
+    "Main Street",
+    "City Hall",
+    "Veterans Memorial",
+    "Prairie Park"
+  ],
+  "nearby_cities": [
+    {"name":"Toronto","slug":"toronto-sd"},
+    {"name":"Clear Lake","slug":"clear-lake-sd"},
+    {"name":"Gary","slug":"gary-sd"},
+    {"name":"Castlewood","slug":"castlewood-sd"},
+    {"name":"Watertown","slug":"watertown-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"northeastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Aurora",
+  "slug": "aurora-sd",
+  "county": "Brookings County",
+  "population": 610,
+  "zip_codes": [
+    "57002"
+  ],
+  "landmarks": [
+    "Aurora Community Center",
+    "City Park",
+    "Main Street",
+    "Brookings County Fairgrounds",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Brookings","slug":"brookings-sd"},
+    {"name":"Volga","slug":"volga-sd"},
+    {"name":"Bruce","slug":"bruce-sd"},
+    {"name":"White","slug":"white-sd"},
+    {"name":"Arlington","slug":"arlington-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Avon",
+  "slug": "avon-sd",
+  "county": "Bon Homme County",
+  "population": 590,
+  "zip_codes": [
+    "57315"
+  ],
+  "landmarks": [
+    "Avon City Park",
+    "Main Street",
+    "City Hall",
+    "Bon Homme School",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Tyndall","slug":"tyndall-sd"},
+    {"name":"Scotland","slug":"scotland-sd"},
+    {"name":"Springfield","slug":"springfield-sd"},
+    {"name":"Wagner","slug":"wagner-sd"},
+    {"name":"Tripp","slug":"tripp-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"southeastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Baltic",
+  "slug": "baltic-sd",
+  "county": "Minnehaha County",
+  "population": 1350,
+  "zip_codes": [
+    "57003"
+  ],
+  "landmarks": [
+    "Baltic City Park",
+    "Big Sioux River",
+    "Baltic School",
+    "City Hall",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Sioux Falls","slug":"sioux-falls-sd"},
+    {"name":"Garretson","slug":"garretson-sd"},
+    {"name":"Crooks","slug":"crooks-sd"},
+    {"name":"Dell Rapids","slug":"dell-rapids-sd"},
+    {"name":"Renner Corner","slug":"renner-corner-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"sioux-falls-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Belle Fourche",
+  "slug": "belle-fourche-sd",
+  "county": "Butte County",
+  "population": 5750,
+  "zip_codes": [
+    "57717"
+  ],
+  "landmarks": [
+    "Center of the Nation Monument",
+    "Tri-State Museum",
+    "Butte County Courthouse",
+    "Herrmann Park",
+    "Belle Fourche River"
+  ],
+  "nearby_cities": [
+    {"name":"Spearfish","slug":"spearfish-sd"},
+    {"name":"Sturgis","slug":"sturgis-sd"},
+    {"name":"Whitewood","slug":"whitewood-sd"},
+    {"name":"Nisland","slug":"nisland-sd"},
+    {"name":"Newell","slug":"newell-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"northern-black-hills",
+  "economy_type":"agriculture-tourism",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"black-hills",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Belvidere",
+  "slug": "belvidere-sd",
+  "county": "Jackson County",
+  "population": 50,
+  "zip_codes": [
+    "57521"
+  ],
+  "landmarks": [
+    "Belvidere Community Center",
+    "Main Street",
+    "Historic School",
+    "White River",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Kadoka","slug":"kadoka-sd"},
+    {"name":"Interior","slug":"interior-sd"},
+    {"name":"Murdo","slug":"murdo-sd"},
+    {"name":"Philip","slug":"philip-sd"},
+    {"name":"Martin","slug":"martin-sd"}
+  ],
+  "city_type":"town",
+  "climate_zone":"semi-arid",
+  "terrain":"great-plains",
+  "economy_type":"agriculture",
+  "housing_profile":"rural-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"west-river",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Beresford",
+  "slug": "beresford-sd",
+  "county": "Union County",
+  "population": 2200,
+  "zip_codes": [
+    "57004"
+  ],
+  "landmarks": [
+    "Bridges at Beresford Golf Course",
+    "Beresford City Park",
+    "Main Street",
+    "City Hall",
+    "Beresford Public Library"
+  ],
+  "nearby_cities": [
+    {"name":"Alcester","slug":"alcester-sd"},
+    {"name":"Lennox","slug":"lennox-sd"},
+    {"name":"Elk Point","slug":"elk-point-sd"},
+    {"name":"Canton","slug":"canton-sd"},
+    {"name":"Hawarden","slug":"hawarden-ia"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture-manufacturing",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southeastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Big Stone City",
+  "slug": "big-stone-city-sd",
+  "county": "Grant County",
+  "population": 470,
+  "zip_codes": [
+    "57216"
+  ],
+  "landmarks": [
+    "Big Stone Lake",
+    "Hart's Slough",
+    "City Park",
+    "Main Street",
+    "Big Stone Lake Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Milbank","slug":"milbank-sd"},
+    {"name":"Corona","slug":"corona-sd"},
+    {"name":"Ortonville","slug":"ortonville-mn"},
+    {"name":"Revillo","slug":"revillo-sd"},
+    {"name":"Marvin","slug":"marvin-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"tourism-agriculture",
+  "housing_profile":"lakefront-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"northeastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Blunt",
+  "slug": "blunt-sd",
+  "county": "Hughes County",
+  "population": 360,
+  "zip_codes": [
+    "57522"
+  ],
+  "landmarks": [
+    "Blunt City Park",
+    "Main Street",
+    "Community Center",
+    "Veterans Memorial",
+    "Blunt School"
+  ],
+  "nearby_cities": [
+    {"name":"Pierre","slug":"pierre-sd"},
+    {"name":"Onida","slug":"onida-sd"},
+    {"name":"Harrold","slug":"harrold-sd"},
+    {"name":"Miller","slug":"miller-sd"},
+    {"name":"Fort Pierre","slug":"fort-pierre-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"great-plains",
+  "economy_type":"agriculture",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Bonesteel",
+  "slug": "bonesteel-sd",
+  "county": "Gregory County",
+  "population": 260,
+  "zip_codes": [
+    "57317"
+  ],
+  "landmarks": [
+    "Bonesteel City Park",
+    "Main Street",
+    "Community Center",
+    "City Hall",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Burke","slug":"burke-sd"},
+    {"name":"Herrick","slug":"herrick-sd"},
+    {"name":"Dallas","slug":"dallas-sd"},
+    {"name":"Winner","slug":"winner-sd"},
+    {"name":"Gregory","slug":"gregory-sd"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture",
+  "housing_profile":"rural-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"south-central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Bowdle",
+  "slug": "bowdle-sd",
+  "county": "Edmunds County",
+  "population": 520,
+  "zip_codes": [
+    "57428"
+  ],
+  "landmarks": [
+    "Bowdle City Park",
+    "Main Street",
+    "Bowdle Hospital",
+    "Community Center",
+    "Edmunds County Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Ipswich","slug":"ipswich-sd"},
+    {"name":"Mina","slug":"mina-sd"},
+    {"name":"Roscoe","slug":"roscoe-sd"},
+    {"name":"Hosmer","slug":"hosmer-sd"},
+    {"name":"Aberdeen","slug":"aberdeen-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"agriculture",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"north-central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Box Elder",
+  "slug": "box-elder-sd",
+  "county": "Pennington County",
+  "population": 11900,
+  "zip_codes": [
+    "57719"
+  ],
+  "landmarks": [
+    "Ellsworth Air Force Base",
+    "Douglas High School",
+    "Box Elder City Hall",
+    "Liberty Plaza",
+    "Patriot Park"
+  ],
+  "nearby_cities": [
+    {"name":"Rapid City","slug":"rapid-city-sd"},
+    {"name":"Ashland Heights","slug":"ashland-heights-sd"},
+    {"name":"Rapid Valley","slug":"rapid-valley-sd"},
+    {"name":"Piedmont","slug":"piedmont-sd"},
+    {"name":"Black Hawk","slug":"black-hawk-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"black-hills-foothills",
+  "economy_type":"military-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"black-hills",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Brandon",
+  "slug": "brandon-sd",
+  "county": "Minnehaha County",
+  "population": 11300,
+  "zip_codes": [
+    "57005"
+  ],
+  "landmarks": [
+    "Big Sioux Recreation Area",
+    "McHardy Park",
+    "Brandon Golf Course",
+    "Brandon Valley High School",
+    "Brandon City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Sioux Falls","slug":"sioux-falls-sd"},
+    {"name":"Valley Springs","slug":"valley-springs-sd"},
+    {"name":"Corson","slug":"corson-sd"},
+    {"name":"Baltic","slug":"baltic-sd"},
+    {"name":"Garretson","slug":"garretson-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"sioux-falls-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Brookings",
+  "slug": "brookings-sd",
+  "county": "Brookings County",
+  "population": 24500,
+  "zip_codes": [
+    "57006",
+    "57007"
+  ],
+  "landmarks": [
+    "South Dakota State University",
+    "McCrory Gardens",
+    "Children's Museum of South Dakota",
+    "Downtown Brookings",
+    "Larson Ice Center"
+  ],
+  "nearby_cities": [
+    {"name":"Aurora","slug":"aurora-sd"},
+    {"name":"Volga","slug":"volga-sd"},
+    {"name":"White","slug":"white-sd"},
+    {"name":"Bruce","slug":"bruce-sd"},
+    {"name":"Arlington","slug":"arlington-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-healthcare",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"eastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Harrisburg",
+  "slug": "harrisburg-sd",
+  "county": "Lincoln County",
+  "population": 8900,
+  "zip_codes": [
+    "57032"
+  ],
+  "landmarks": [
+    "Harrisburg City Park",
+    "Liberty Elementary",
+    "Harrisburg High School",
+    "Downtown Harrisburg",
+    "Community Library"
+  ],
+  "nearby_cities": [
+    {"name":"Sioux Falls","slug":"sioux-falls-sd"},
+    {"name":"Tea","slug":"tea-sd"},
+    {"name":"Brandon","slug":"brandon-sd"},
+    {"name":"Lennox","slug":"lennox-sd"},
+    {"name":"Canton","slug":"canton-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"sioux-falls-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Madison",
+  "slug": "madison-sd",
+  "county": "Lake County",
+  "population": 7290,
+  "zip_codes": [
+    "57042"
+  ],
+  "landmarks": [
+    "Dakota State University",
+    "Lake Herman State Park",
+    "Lake Madison",
+    "Prairie Village",
+    "Madison Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Chester","slug":"chester-sd"},
+    {"name":"Ramona","slug":"ramona-sd"},
+    {"name":"Wentworth","slug":"wentworth-sd"},
+    {"name":"Rutland","slug":"rutland-sd"},
+    {"name":"Colman","slug":"colman-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"education-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"eastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Mitchell",
+  "slug": "mitchell-sd",
+  "county": "Davison County",
+  "population": 15920,
+  "zip_codes": [
+    "57301"
+  ],
+  "landmarks": [
+    "Corn Palace",
+    "Dakota Discovery Museum",
+    "Lake Mitchell",
+    "Hitchcock Park",
+    "Mitchell Technical College"
+  ],
+  "nearby_cities": [
+    {"name":"Alexandria","slug":"alexandria-sd"},
+    {"name":"Emery","slug":"emery-sd"},
+    {"name":"Bridgewater","slug":"bridgewater-sd"},
+    {"name":"Mount Vernon","slug":"mount-vernon-sd"},
+    {"name":"Letcher","slug":"letcher-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"healthcare-tourism",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southeastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Pierre",
+  "slug": "pierre-sd",
+  "county": "Hughes County",
+  "population": 14090,
+  "zip_codes": [
+    "57501"
+  ],
+  "landmarks": [
+    "South Dakota State Capitol",
+    "Missouri River",
+    "Oahe Dam",
+    "South Dakota Cultural Heritage Center",
+    "Steamboat Park"
+  ],
+  "nearby_cities": [
+    {"name":"Fort Pierre","slug":"fort-pierre-sd"},
+    {"name":"Blunt","slug":"blunt-sd"},
+    {"name":"Harrold","slug":"harrold-sd"},
+    {"name":"Onida","slug":"onida-sd"},
+    {"name":"Presho","slug":"presho-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"missouri-river-valley",
+  "economy_type":"government-services",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rapid City",
+  "slug": "rapid-city-sd",
+  "county": "Pennington County",
+  "population": 79740,
+  "zip_codes": [
+    "57701",
+    "57702",
+    "57703"
+  ],
+  "landmarks": [
+    "The Journey Museum",
+    "Main Street Square",
+    "Dinosaur Park",
+    "Chapel in the Hills",
+    "Canyon Lake Park"
+  ],
+  "nearby_cities": [
+    {"name":"Box Elder","slug":"box-elder-sd"},
+    {"name":"Rapid Valley","slug":"rapid-valley-sd"},
+    {"name":"Summerset","slug":"summerset-sd"},
+    {"name":"Black Hawk","slug":"black-hawk-sd"},
+    {"name":"Piedmont","slug":"piedmont-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"black-hills-foothills",
+  "economy_type":"tourism-healthcare",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"black-hills",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Spearfish",
+  "slug": "spearfish-sd",
+  "county": "Lawrence County",
+  "population": 12980,
+  "zip_codes": [
+    "57783"
+  ],
+  "landmarks": [
+    "Spearfish Canyon",
+    "Black Hills State University",
+    "DC Booth Historic National Fish Hatchery",
+    "Spearfish City Park",
+    "High Plains Heritage Center"
+  ],
+  "nearby_cities": [
+    {"name":"Belle Fourche","slug":"belle-fourche-sd"},
+    {"name":"Sturgis","slug":"sturgis-sd"},
+    {"name":"Lead","slug":"lead-sd"},
+    {"name":"Whitewood","slug":"whitewood-sd"},
+    {"name":"Deadwood","slug":"deadwood-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"black-hills",
+  "economy_type":"tourism-education",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"black-hills",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Sturgis",
+  "slug": "sturgis-sd",
+  "county": "Meade County",
+  "population": 7060,
+  "zip_codes": [
+    "57785"
+  ],
+  "landmarks": [
+    "Sturgis Motorcycle Museum",
+    "Sturgis Rally Grounds",
+    "Downtown Sturgis",
+    "Bear Butte State Park",
+    "Sturgis Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Spearfish","slug":"spearfish-sd"},
+    {"name":"Belle Fourche","slug":"belle-fourche-sd"},
+    {"name":"Whitewood","slug":"whitewood-sd"},
+    {"name":"Rapid City","slug":"rapid-city-sd"},
+    {"name":"Piedmont","slug":"piedmont-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"black-hills-foothills",
+  "economy_type":"tourism-services",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"black-hills",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Tea",
+  "slug": "tea-sd",
+  "county": "Lincoln County",
+  "population": 6940,
+  "zip_codes": [
+    "57064"
+  ],
+  "landmarks": [
+    "Tea Athletic Complex",
+    "Tea City Park",
+    "Tea Community Center",
+    "Main Street",
+    "Heritage Parkway"
+  ],
+  "nearby_cities": [
+    {"name":"Sioux Falls","slug":"sioux-falls-sd"},
+    {"name":"Harrisburg","slug":"harrisburg-sd"},
+    {"name":"Lennox","slug":"lennox-sd"},
+    {"name":"Worthing","slug":"worthing-sd"},
+    {"name":"Canton","slug":"canton-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"sioux-falls-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Watertown",
+  "slug": "watertown-sd",
+  "county": "Codington County",
+  "population": 22910,
+  "zip_codes": [
+    "57201"
+  ],
+  "landmarks": [
+    "Bramble Park Zoo",
+    "Lake Kampeska",
+    "Redlin Art Center",
+    "Codington County Heritage Museum",
+    "Watertown Mall"
+  ],
+  "nearby_cities": [
+    {"name":"Castlewood","slug":"castlewood-sd"},
+    {"name":"Henry","slug":"henry-sd"},
+    {"name":"Florence","slug":"florence-sd"},
+    {"name":"Goodwin","slug":"goodwin-sd"},
+    {"name":"Kranzburg","slug":"kranzburg-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"northeastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Yankton",
+  "slug": "yankton-sd",
+  "county": "Yankton County",
+  "population": 15460,
+  "zip_codes": [
+    "57078"
+  ],
+  "landmarks": [
+    "Lewis and Clark Recreation Area",
+    "Gavins Point Dam",
+    "Riverside Park",
+    "National Field Archery Association Center",
+    "Dakota Territorial Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Mission Hill","slug":"mission-hill-sd"},
+    {"name":"Volin","slug":"volin-sd"},
+    {"name":"Gayville","slug":"gayville-sd"},
+    {"name":"Lesterville","slug":"lesterville-sd"},
+    {"name":"Crofton","slug":"crofton-ne"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"missouri-river-valley",
+  "economy_type":"healthcare-manufacturing",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southeastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Vermillion",
+  "slug": "vermillion-sd",
+  "county": "Clay County",
+  "population": 11700,
+  "zip_codes": [
+    "57069"
+  ],
+  "landmarks": [
+    "University of South Dakota",
+    "National Music Museum",
+    "Prentis Park",
+    "DakotaDome",
+    "Missouri River"
+  ],
+  "nearby_cities": [
+    {"name":"Elk Point","slug":"elk-point-sd"},
+    {"name":"Beresford","slug":"beresford-sd"},
+    {"name":"North Sioux City","slug":"north-sioux-city-sd"},
+    {"name":"Burbank","slug":"burbank-sd"},
+    {"name":"Jefferson","slug":"jefferson-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"missouri-river-valley",
+  "economy_type":"education-healthcare",
+  "housing_profile":"college-town",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southeastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Huron",
+  "slug": "huron-sd",
+  "county": "Beadle County",
+  "population": 14560,
+  "zip_codes": [
+    "57350"
+  ],
+  "landmarks": [
+    "South Dakota State Fairgrounds",
+    "World's Largest Pheasant",
+    "Huron Event Center",
+    "Ravine Lake",
+    "Campbell Park"
+  ],
+  "nearby_cities": [
+    {"name":"Wolsey","slug":"wolsey-sd"},
+    {"name":"Cavour","slug":"cavour-sd"},
+    {"name":"Alpena","slug":"alpena-sd"},
+    {"name":"Hitchcock","slug":"hitchcock-sd"},
+    {"name":"Wessington","slug":"wessington-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture-manufacturing",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rapid Valley",
+  "slug": "rapid-valley-sd",
+  "county": "Pennington County",
+  "population": 8900,
+  "zip_codes": [
+    "57703"
+  ],
+  "landmarks": [
+    "Rapid Valley Park",
+    "Rapid Valley Elementary",
+    "Rapid Creek",
+    "Community Recreation Area",
+    "Liberty Boulevard"
+  ],
+  "nearby_cities": [
+    {"name":"Rapid City","slug":"rapid-city-sd"},
+    {"name":"Box Elder","slug":"box-elder-sd"},
+    {"name":"Ashland Heights","slug":"ashland-heights-sd"},
+    {"name":"Black Hawk","slug":"black-hawk-sd"},
+    {"name":"Piedmont","slug":"piedmont-sd"}
+  ],
+  "city_type":"census-designated-place",
+  "climate_zone":"semi-arid",
+  "terrain":"black-hills-foothills",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"black-hills",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Sioux Falls",
+  "slug": "sioux-falls-sd",
+  "county": "Minnehaha County",
+  "population": 213900,
+  "zip_codes": [
+    "57103",
+    "57104",
+    "57105",
+    "57106",
+    "57107",
+    "57108",
+    "57110"
+  ],
+  "landmarks": [
+    "Falls Park",
+    "Washington Pavilion",
+    "Great Plains Zoo",
+    "Levitt at the Falls",
+    "Empire Mall"
+  ],
+  "nearby_cities": [
+    {"name":"Brandon","slug":"brandon-sd"},
+    {"name":"Harrisburg","slug":"harrisburg-sd"},
+    {"name":"Tea","slug":"tea-sd"},
+    {"name":"Baltic","slug":"baltic-sd"},
+    {"name":"Crooks","slug":"crooks-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"finance-healthcare",
+  "housing_profile":"major-urban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"sioux-falls-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Canton",
+  "slug": "canton-sd",
+  "county": "Lincoln County",
+  "population": 3130,
+  "zip_codes": [
+    "57013"
+  ],
+  "landmarks": [
+    "Newton Hills State Park",
+    "Lincoln County Courthouse",
+    "Canton City Park",
+    "Canton Lutheran Cemetery",
+    "Downtown Canton"
+  ],
+  "nearby_cities": [
+    {"name":"Lennox","slug":"lennox-sd"},
+    {"name":"Harrisburg","slug":"harrisburg-sd"},
+    {"name":"Beresford","slug":"beresford-sd"},
+    {"name":"Worthing","slug":"worthing-sd"},
+    {"name":"Hudson","slug":"hudson-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"government-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"sioux-falls-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Dell Rapids",
+  "slug": "dell-rapids-sd",
+  "county": "Minnehaha County",
+  "population": 4010,
+  "zip_codes": [
+    "57022"
+  ],
+  "landmarks": [
+    "Big Sioux River",
+    "City Park",
+    "Historic Quartzite District",
+    "Carnegie Library",
+    "Dell Rapids Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Baltic","slug":"baltic-sd"},
+    {"name":"Garretson","slug":"garretson-sd"},
+    {"name":"Colton","slug":"colton-sd"},
+    {"name":"Renner Corner","slug":"renner-corner-sd"},
+    {"name":"Sioux Falls","slug":"sioux-falls-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"sioux-falls-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Fort Pierre",
+  "slug": "fort-pierre-sd",
+  "county": "Stanley County",
+  "population": 2200,
+  "zip_codes": [
+    "57532"
+  ],
+  "landmarks": [
+    "Fort Pierre National Grassland",
+    "Casey Tibbs Rodeo Center",
+    "Missouri River",
+    "Verendrye Museum",
+    "Fischer's Lilly Park"
+  ],
+  "nearby_cities": [
+    {"name":"Pierre","slug":"pierre-sd"},
+    {"name":"Blunt","slug":"blunt-sd"},
+    {"name":"Onida","slug":"onida-sd"},
+    {"name":"Presho","slug":"presho-sd"},
+    {"name":"Harrold","slug":"harrold-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"missouri-river-valley",
+  "economy_type":"government-tourism",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Hot Springs",
+  "slug": "hot-springs-sd",
+  "county": "Fall River County",
+  "population": 3400,
+  "zip_codes": [
+    "57747"
+  ],
+  "landmarks": [
+    "Mammoth Site",
+    "Evans Plunge",
+    "Fall River Hot Springs",
+    "Veterans Home",
+    "Southern Hills Golf Course"
+  ],
+  "nearby_cities": [
+    {"name":"Edgemont","slug":"edgemont-sd"},
+    {"name":"Custer","slug":"custer-sd"},
+    {"name":"Rapid City","slug":"rapid-city-sd"},
+    {"name":"Hermosa","slug":"hermosa-sd"},
+    {"name":"Oelrichs","slug":"oelrichs-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"black-hills",
+  "economy_type":"tourism-healthcare",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"black-hills",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lennox",
+  "slug": "lennox-sd",
+  "county": "Lincoln County",
+  "population": 3050,
+  "zip_codes": [
+    "57039"
+  ],
+  "landmarks": [
+    "Lennox City Park",
+    "Lennox Museum",
+    "Main Street",
+    "Community Center",
+    "Lennox Golf Club"
+  ],
+  "nearby_cities": [
+    {"name":"Tea","slug":"tea-sd"},
+    {"name":"Worthing","slug":"worthing-sd"},
+    {"name":"Canton","slug":"canton-sd"},
+    {"name":"Harrisburg","slug":"harrisburg-sd"},
+    {"name":"Sioux Falls","slug":"sioux-falls-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture-manufacturing",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"sioux-falls-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Milbank",
+  "slug": "milbank-sd",
+  "county": "Grant County",
+  "population": 3540,
+  "zip_codes": [
+    "57252"
+  ],
+  "landmarks": [
+    "Grant County Courthouse",
+    "Farley Fest Grounds",
+    "Big Stone Lake Area",
+    "Milbank Visitor Center",
+    "Lake Farley Park"
+  ],
+  "nearby_cities": [
+    {"name":"Big Stone City","slug":"big-stone-city-sd"},
+    {"name":"Revillo","slug":"revillo-sd"},
+    {"name":"Corona","slug":"corona-sd"},
+    {"name":"Marvin","slug":"marvin-sd"},
+    {"name":"Watertown","slug":"watertown-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"manufacturing-agriculture",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"northeastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "North Sioux City",
+  "slug": "north-sioux-city-sd",
+  "county": "Union County",
+  "population": 3020,
+  "zip_codes": [
+    "57049"
+  ],
+  "landmarks": [
+    "McCook Lake",
+    "Native American Scenic Byway",
+    "North Sioux City Community Center",
+    "Adams Nature Preserve",
+    "Riverfront Area"
+  ],
+  "nearby_cities": [
+    {"name":"Dakota Dunes","slug":"dakota-dunes-sd"},
+    {"name":"Jefferson","slug":"jefferson-sd"},
+    {"name":"Sioux City","slug":"sioux-city-ia"},
+    {"name":"Vermillion","slug":"vermillion-sd"},
+    {"name":"Elk Point","slug":"elk-point-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"missouri-river-valley",
+  "economy_type":"commercial-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"sioux-city-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Custer",
+  "slug": "custer-sd",
+  "county": "Custer County",
+  "population": 2230,
+  "zip_codes": [
+    "57730"
+  ],
+  "landmarks": [
+    "Custer State Park",
+    "1881 Courthouse Museum",
+    "Black Hills National Forest",
+    "French Creek",
+    "Downtown Custer"
+  ],
+  "nearby_cities": [
+    {"name":"Hot Springs","slug":"hot-springs-sd"},
+    {"name":"Hermosa","slug":"hermosa-sd"},
+    {"name":"Keystone","slug":"keystone-sd"},
+    {"name":"Rapid City","slug":"rapid-city-sd"},
+    {"name":"Hill City","slug":"hill-city-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"black-hills",
+  "economy_type":"tourism",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"black-hills",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Winner",
+  "slug": "winner-sd",
+  "county": "Tripp County",
+  "population": 2850,
+  "zip_codes": [
+    "57580"
+  ],
+  "landmarks": [
+    "Winner Regional Hospital",
+    "Tripp County Courthouse",
+    "Winner City Park",
+    "Main Street",
+    "Winner Country Club"
+  ],
+  "nearby_cities": [
+    {"name":"Colome","slug":"colome-sd"},
+    {"name":"Burke","slug":"burke-sd"},
+    {"name":"Mission","slug":"mission-sd"},
+    {"name":"Gregory","slug":"gregory-sd"},
+    {"name":"Dallas","slug":"dallas-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture-healthcare",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"south-central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Dakota Dunes",
+  "slug": "dakota-dunes-sd",
+  "county": "Union County",
+  "population": 3820,
+  "zip_codes": [
+    "57049"
+  ],
+  "landmarks": [
+    "Dakota Dunes Country Club",
+    "McCook Lake",
+    "Dakota Dunes Business Park",
+    "Native American Scenic Byway",
+    "Missouri River"
+  ],
+  "nearby_cities": [
+    {"name":"North Sioux City","slug":"north-sioux-city-sd"},
+    {"name":"Jefferson","slug":"jefferson-sd"},
+    {"name":"Sioux City","slug":"sioux-city-ia"},
+    {"name":"Vermillion","slug":"vermillion-sd"},
+    {"name":"Dakota City","slug":"dakota-city-ne"}
+  ],
+  "city_type":"census-designated-place",
+  "climate_zone":"humid-continental",
+  "terrain":"missouri-river-valley",
+  "economy_type":"professional-services",
+  "housing_profile":"upscale-suburban",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"sioux-city-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lead",
+  "slug": "lead-sd",
+  "county": "Lawrence County",
+  "population": 2980,
+  "zip_codes": [
+    "57754"
+  ],
+  "landmarks": [
+    "Sanford Underground Research Facility",
+    "Homestake Opera House",
+    "Black Hills Mining Museum",
+    "Mickelson Trail",
+    "Downtown Lead"
+  ],
+  "nearby_cities": [
+    {"name":"Deadwood","slug":"deadwood-sd"},
+    {"name":"Spearfish","slug":"spearfish-sd"},
+    {"name":"Sturgis","slug":"sturgis-sd"},
+    {"name":"Whitewood","slug":"whitewood-sd"},
+    {"name":"Central City","slug":"central-city-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"black-hills",
+  "economy_type":"tourism-science",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"black-hills",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Mobridge",
+  "slug": "mobridge-sd",
+  "county": "Walworth County",
+  "population": 3240,
+  "zip_codes": [
+    "57601"
+  ],
+  "landmarks": [
+    "Missouri River",
+    "Klein Museum",
+    "Mobridge Regional Hospital",
+    "Legion Memorial Park",
+    "Standing Rock Scenic Byway"
+  ],
+  "nearby_cities": [
+    {"name":"Glenham","slug":"glenham-sd"},
+    {"name":"Selby","slug":"selby-sd"},
+    {"name":"McLaughlin","slug":"mclaughlin-sd"},
+    {"name":"Pollock","slug":"pollock-sd"},
+    {"name":"Gettysburg","slug":"gettysburg-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"missouri-river-valley",
+  "economy_type":"healthcare-agriculture",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"north-central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Sisseton",
+  "slug": "sisseton-sd",
+  "county": "Roberts County",
+  "population": 2480,
+  "zip_codes": [
+    "57262"
+  ],
+  "landmarks": [
+    "Sisseton Wahpeton College",
+    "Roberts County Courthouse",
+    "Veterans Memorial Park",
+    "Lake Traverse Reservation",
+    "Nicollet Tower"
+  ],
+  "nearby_cities": [
+    {"name":"Agency Village","slug":"agency-village-sd"},
+    {"name":"Peever","slug":"peever-sd"},
+    {"name":"New Effington","slug":"new-effington-sd"},
+    {"name":"Summit","slug":"summit-sd"},
+    {"name":"Milbank","slug":"milbank-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"government-tribal-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"northeastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Summerset",
+  "slug": "summerset-sd",
+  "county": "Meade County",
+  "population": 2820,
+  "zip_codes": [
+    "57718"
+  ],
+  "landmarks": [
+    "Summerset City Hall",
+    "I-90 Corridor",
+    "Meade County Recreation Area",
+    "Community Park",
+    "Black Hills Trail Access"
+  ],
+  "nearby_cities": [
+    {"name":"Rapid City","slug":"rapid-city-sd"},
+    {"name":"Black Hawk","slug":"black-hawk-sd"},
+    {"name":"Box Elder","slug":"box-elder-sd"},
+    {"name":"Piedmont","slug":"piedmont-sd"},
+    {"name":"Sturgis","slug":"sturgis-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"black-hills-foothills",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"black-hills",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Deadwood",
+  "slug": "deadwood-sd",
+  "county": "Lawrence County",
+  "population": 2140,
+  "zip_codes": [
+    "57732"
+  ],
+  "landmarks": [
+    "Historic Main Street",
+    "Mount Moriah Cemetery",
+    "Adams Museum",
+    "Days of '76 Museum",
+    "Broken Boot Gold Mine"
+  ],
+  "nearby_cities": [
+    {"name":"Lead","slug":"lead-sd"},
+    {"name":"Spearfish","slug":"spearfish-sd"},
+    {"name":"Sturgis","slug":"sturgis-sd"},
+    {"name":"Whitewood","slug":"whitewood-sd"},
+    {"name":"Central City","slug":"central-city-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"black-hills",
+  "economy_type":"tourism-gaming",
+  "housing_profile":"historic-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"black-hills",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Fort Thompson",
+  "slug": "fort-thompson-sd",
+  "county": "Buffalo County",
+  "population": 2400,
+  "zip_codes": [
+    "57339"
+  ],
+  "landmarks": [
+    "Crow Creek Sioux Reservation",
+    "Big Bend Dam",
+    "Missouri River",
+    "Crow Creek Tribal Headquarters",
+    "Fort Thompson Recreation Area"
+  ],
+  "nearby_cities": [
+    {"name":"Chamberlain","slug":"chamberlain-sd"},
+    {"name":"Kimball","slug":"kimball-sd"},
+    {"name":"Lower Brule","slug":"lower-brule-sd"},
+    {"name":"Reliance","slug":"reliance-sd"},
+    {"name":"Oacoma","slug":"oacoma-sd"}
+  ],
+  "city_type":"census-designated-place",
+  "climate_zone":"humid-continental",
+  "terrain":"missouri-river-valley",
+  "economy_type":"tribal-services",
+  "housing_profile":"community-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lakota Homes",
+  "slug": "lakota-homes-sd",
+  "county": "Pennington County",
+  "population": 2480,
+  "zip_codes": [
+    "57701"
+  ],
+  "landmarks": [
+    "Lakota Homes Community Center",
+    "Rapid Creek",
+    "Community Park",
+    "East Rapid City",
+    "Neighborhood Recreation Area"
+  ],
+  "nearby_cities": [
+    {"name":"Rapid City","slug":"rapid-city-sd"},
+    {"name":"Rapid Valley","slug":"rapid-valley-sd"},
+    {"name":"Box Elder","slug":"box-elder-sd"},
+    {"name":"Ashland Heights","slug":"ashland-heights-sd"},
+    {"name":"Black Hawk","slug":"black-hawk-sd"}
+  ],
+  "city_type":"census-designated-place",
+  "climate_zone":"semi-arid",
+  "terrain":"black-hills-foothills",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"black-hills",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Rosebud",
+  "slug": "rosebud-sd",
+  "county": "Todd County",
+  "population": 2320,
+  "zip_codes": [
+    "57570"
+  ],
+  "landmarks": [
+    "Rosebud Sioux Tribal Headquarters",
+    "Sinte Gleska University",
+    "Rosebud Community Center",
+    "Veterans Memorial",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Mission","slug":"mission-sd"},
+    {"name":"White River","slug":"white-river-sd"},
+    {"name":"Winner","slug":"winner-sd"},
+    {"name":"Martin","slug":"martin-sd"},
+    {"name":"Parmelee","slug":"parmelee-sd"}
+  ],
+  "city_type":"census-designated-place",
+  "climate_zone":"humid-continental",
+  "terrain":"great-plains",
+  "economy_type":"tribal-government",
+  "housing_profile":"community-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"south-central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Wagner",
+  "slug": "wagner-sd",
+  "county": "Charles Mix County",
+  "population": 2880,
+  "zip_codes": [
+    "57380"
+  ],
+  "landmarks": [
+    "Fort Randall Casino",
+    "Charles Mix County Courthouse",
+    "Wagner Lake",
+    "Wagner City Park",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Lake Andes","slug":"lake-andes-sd"},
+    {"name":"Pickstown","slug":"pickstown-sd"},
+    {"name":"Avon","slug":"avon-sd"},
+    {"name":"Platte","slug":"platte-sd"},
+    {"name":"Marty","slug":"marty-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"missouri-river-valley",
+  "economy_type":"government-agriculture",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"south-central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Chamberlain",
+  "slug": "chamberlain-sd",
+  "county": "Brule County",
+  "population": 2470,
+  "zip_codes": [
+    "57325"
+  ],
+  "landmarks": [
+    "Dignity of Earth and Sky",
+    "Missouri River",
+    "Akta Lakota Museum",
+    "American Creek Recreation Area",
+    "South Dakota Hall of Fame"
+  ],
+  "nearby_cities": [
+    {"name":"Oacoma","slug":"oacoma-sd"},
+    {"name":"Kimball","slug":"kimball-sd"},
+    {"name":"Fort Thompson","slug":"fort-thompson-sd"},
+    {"name":"Reliance","slug":"reliance-sd"},
+    {"name":"Platte","slug":"platte-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"missouri-river-valley",
+  "economy_type":"tourism-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Mission",
+  "slug": "mission-sd",
+  "county": "Todd County",
+  "population": 2390,
+  "zip_codes": [
+    "57555"
+  ],
+  "landmarks": [
+    "Sinte Gleska University",
+    "Mission City Park",
+    "Todd County School District",
+    "Mission Main Street",
+    "Rosebud Sioux Reservation"
+  ],
+  "nearby_cities": [
+    {"name":"Rosebud","slug":"rosebud-sd"},
+    {"name":"Winner","slug":"winner-sd"},
+    {"name":"Martin","slug":"martin-sd"},
+    {"name":"Parmelee","slug":"parmelee-sd"},
+    {"name":"White River","slug":"white-river-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"great-plains",
+  "economy_type":"tribal-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"south-central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Redfield",
+  "slug": "redfield-sd",
+  "county": "Spink County",
+  "population": 2330,
+  "zip_codes": [
+    "57469"
+  ],
+  "landmarks": [
+    "National Grasslands Visitor Center",
+    "Redfield City Park",
+    "Spink County Courthouse",
+    "Fishing Lake",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Aberdeen","slug":"aberdeen-sd"},
+    {"name":"Doland","slug":"doland-sd"},
+    {"name":"Frankfort","slug":"frankfort-sd"},
+    {"name":"Tulare","slug":"tulare-sd"},
+    {"name":"Ashton","slug":"ashton-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"glaciated-plains",
+  "economy_type":"agriculture-healthcare",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"northeastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Miller",
+  "slug": "miller-sd",
+  "county": "Hand County",
+  "population": 2410,
+  "zip_codes": [
+    "57362"
+  ],
+  "landmarks": [
+    "Hand County Courthouse",
+    "Miller City Park",
+    "Lake Louise Recreation Area",
+    "Main Street",
+    "Hand County Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Highmore","slug":"highmore-sd"},
+    {"name":"St. Lawrence","slug":"st-lawrence-sd"},
+    {"name":"Burdette","slug":"burdette-sd"},
+    {"name":"Blunt","slug":"blunt-sd"},
+    {"name":"Huron","slug":"huron-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"agriculture-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Flandreau",
+  "slug": "flandreau-sd",
+  "county": "Moody County",
+  "population": 2370,
+  "zip_codes": [
+    "57028"
+  ],
+  "landmarks": [
+    "Royal River Casino",
+    "Moody County Courthouse",
+    "Flandreau City Park",
+    "Big Sioux River",
+    "Flandreau Santee Sioux Tribal Headquarters"
+  ],
+  "nearby_cities": [
+    {"name":"Colman","slug":"colman-sd"},
+    {"name":"Egan","slug":"egan-sd"},
+    {"name":"Dell Rapids","slug":"dell-rapids-sd"},
+    {"name":"Trent","slug":"trent-sd"},
+    {"name":"Brookings","slug":"brookings-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"tribal-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-south-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Hartford",
+  "slug": "hartford-sd",
+  "county": "Minnehaha County",
+  "population": 3420,
+  "zip_codes": [
+    "57033"
+  ],
+  "landmarks": [
+    "Wall Lake Park",
+    "Hartford City Park",
+    "Hartford Community Center",
+    "West Central School District",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Sioux Falls","slug":"sioux-falls-sd"},
+    {"name":"Crooks","slug":"crooks-sd"},
+    {"name":"Colton","slug":"colton-sd"},
+    {"name":"Humboldt","slug":"humboldt-sd"},
+    {"name":"Montrose","slug":"montrose-sd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"sioux-falls-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Pine Ridge",
+  "slug": "pine-ridge-sd",
+  "county": "Oglala Lakota County",
+  "population": 3140,
+  "zip_codes": [
+    "57770"
+  ],
+  "landmarks": [
+    "Oglala Lakota College",
+    "Pine Ridge Agency",
+    "Red Cloud Heritage Center",
+    "Pine Ridge Community Center",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Kyle","slug":"kyle-sd"},
+    {"name":"Porcupine","slug":"porcupine-sd"},
+    {"name":"Manderson","slug":"manderson-sd"},
+    {"name":"Oglala","slug":"oglala-sd"},
+    {"name":"Martin","slug":"martin-sd"}
+  ],
+  "city_type":"census-designated-place",
+  "climate_zone":"semi-arid",
+  "terrain":"great-plains",
+  "economy_type":"tribal-government",
+  "housing_profile":"community-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"southwestern-south-dakota",
+  "property_mix":"mixed-use"
+}
+
+
+]

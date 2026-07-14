@@ -1,0 +1,2336 @@
+[
+
+{
+  "city": "Atlanta",
+  "slug": "atlanta-ga",
+  "county": "Fulton County",
+  "population": 510000,
+  "zip_codes": ["30303","30305","30308","30309","30310","30318","30324"],
+  "landmarks": [
+    "Georgia State Capitol",
+    "Centennial Olympic Park",
+    "Mercedes-Benz Stadium",
+    "Georgia Aquarium",
+    "Piedmont Park"
+  ],
+  "nearby_cities": [
+    {"name":"Sandy Springs","slug":"sandy-springs-ga"},
+    {"name":"Decatur","slug":"decatur-ga"},
+    {"name":"East Point","slug":"east-point-ga"},
+    {"name":"College Park","slug":"college-park-ga"},
+    {"name":"Brookhaven","slug":"brookhaven-ga"}
+  ],
+  "city_type": "major-metro-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "finance-technology",
+  "housing_profile": "urban-high-density",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Augusta",
+  "slug": "augusta-ga",
+  "county": "Richmond County",
+  "population": 205000,
+  "zip_codes": ["30901","30904","30906","30907","30909"],
+  "landmarks": [
+    "Augusta National Golf Club",
+    "Savannah River",
+    "Augusta Riverwalk",
+    "Morris Museum of Art",
+    "Augusta Common"
+  ],
+  "nearby_cities": [
+    {"name":"Evans","slug":"evans-ga"},
+    {"name":"Grovetown","slug":"grovetown-ga"},
+    {"name":"Martinez","slug":"martinez-ga"},
+    {"name":"North Augusta","slug":"north-augusta-sc"},
+    {"name":"Hephzibah","slug":"hephzibah-ga"}
+  ],
+  "city_type": "regional-hub-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "riverfront-lowlands",
+  "economy_type": "healthcare-military",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "augusta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Columbus",
+  "slug": "columbus-ga",
+  "county": "Muscogee County",
+  "population": 206000,
+  "zip_codes": ["31901","31904","31906","31907","31909"],
+  "landmarks": [
+    "Chattahoochee RiverWalk",
+    "National Infantry Museum",
+    "Columbus State University",
+    "Whitewater Express",
+    "Coca-Cola Space Science Center"
+  ],
+  "nearby_cities": [
+    {"name":"Phenix City","slug":"phenix-city-al"},
+    {"name":"Midland","slug":"midland-ga"},
+    {"name":"Fortson","slug":"fortson-ga"},
+    {"name":"Smiths Station","slug":"smiths-station-al"},
+    {"name":"Fort Moore","slug":"fort-moore-ga"}
+  ],
+  "city_type": "military-regional-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "riverfront-hills",
+  "economy_type": "military-healthcare",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "west-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Macon",
+  "slug": "macon-ga",
+  "county": "Bibb County",
+  "population": 157000,
+  "zip_codes": ["31201","31204","31206","31210","31216"],
+  "landmarks": [
+    "Ocmulgee Mounds",
+    "Amerson River Park",
+    "Hay House",
+    "Macon Coliseum",
+    "Cherry Blossom District"
+  ],
+  "nearby_cities": [
+    {"name":"Warner Robins","slug":"warner-robins-ga"},
+    {"name":"Byron","slug":"byron-ga"},
+    {"name":"Gray","slug":"gray-ga"},
+    {"name":"Forsyth","slug":"forsyth-ga"},
+    {"name":"Perry","slug":"perry-ga"}
+  ],
+  "city_type": "central-georgia-hub",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-lowlands",
+  "economy_type": "healthcare-logistics",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "central-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Savannah",
+  "slug": "savannah-ga",
+  "county": "Chatham County",
+  "population": 153000,
+  "zip_codes": ["31401","31404","31405","31406","31419"],
+  "landmarks": [
+    "Forsyth Park",
+    "River Street",
+    "Savannah Historic District",
+    "City Market",
+    "Bonaventure Cemetery"
+  ],
+  "nearby_cities": [
+    {"name":"Pooler","slug":"pooler-ga"},
+    {"name":"Richmond Hill","slug":"richmond-hill-ga"},
+    {"name":"Garden City","slug":"garden-city-ga"},
+    {"name":"Port Wentworth","slug":"port-wentworth-ga"},
+    {"name":"Tybee Island","slug":"tybee-island-ga"}
+  ],
+  "city_type": "historic-coastal-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-lowlands",
+  "economy_type": "tourism-logistics",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "port-growth",
+  "service_environment": "coastal-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Athens",
+  "slug": "athens-ga",
+  "county": "Clarke County",
+  "population": 129000,
+  "zip_codes": ["30601","30605","30606","30607"],
+  "landmarks": [
+    "University of Georgia",
+    "Sanford Stadium",
+    "State Botanical Garden",
+    "Downtown Athens",
+    "North Oconee River Greenway"
+  ],
+  "nearby_cities": [
+    {"name":"Watkinsville","slug":"watkinsville-ga"},
+    {"name":"Jefferson","slug":"jefferson-ga"},
+    {"name":"Winder","slug":"winder-ga"},
+    {"name":"Bogart","slug":"bogart-ga"},
+    {"name":"Commerce","slug":"commerce-ga"}
+  ],
+  "city_type": "college-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "education-healthcare",
+  "housing_profile": "student-professional-mix",
+  "growth_pattern": "institutional-growth",
+  "service_environment": "athens-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sandy Springs",
+  "slug": "sandy-springs-ga",
+  "county": "Fulton County",
+  "population": 108000,
+  "zip_codes": ["30328","30342","30350"],
+  "landmarks": [
+    "City Springs",
+    "Chattahoochee River National Recreation Area",
+    "Morgan Falls Overlook Park",
+    "Heritage Sandy Springs",
+    "Abernathy Greenway"
+  ],
+  "nearby_cities": [
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Roswell","slug":"roswell-ga"},
+    {"name":"Dunwoody","slug":"dunwoody-ga"},
+    {"name":"Brookhaven","slug":"brookhaven-ga"},
+    {"name":"Johns Creek","slug":"johns-creek-ga"}
+  ],
+  "city_type": "atlanta-suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "finance-services",
+  "housing_profile": "professional-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Roswell",
+  "slug": "roswell-ga",
+  "county": "Fulton County",
+  "population": 95000,
+  "zip_codes": ["30075","30076","30077"],
+  "landmarks": [
+    "Roswell Mill",
+    "Canton Street",
+    "Riverside Park",
+    "Bulloch Hall",
+    "Chattahoochee Nature Center"
+  ],
+  "nearby_cities": [
+    {"name":"Sandy Springs","slug":"sandy-springs-ga"},
+    {"name":"Alpharetta","slug":"alpharetta-ga"},
+    {"name":"Johns Creek","slug":"johns-creek-ga"},
+    {"name":"Milton","slug":"milton-ga"},
+    {"name":"Marietta","slug":"marietta-ga"}
+  ],
+  "city_type": "historic-suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "premium-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Johns Creek",
+  "slug": "johns-creek-ga",
+  "county": "Fulton County",
+  "population": 84000,
+  "zip_codes": ["30005","30022","30024","30097"],
+  "landmarks": [
+    "Autrey Mill Nature Preserve",
+    "Newtown Park",
+    "Chattahoochee River",
+    "Johns Creek Arts Center",
+    "Technology Park Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Alpharetta","slug":"alpharetta-ga"},
+    {"name":"Roswell","slug":"roswell-ga"},
+    {"name":"Duluth","slug":"duluth-ga"},
+    {"name":"Suwanee","slug":"suwanee-ga"},
+    {"name":"Peachtree Corners","slug":"peachtree-corners-ga"}
+  ],
+  "city_type": "technology-suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-healthcare",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "premium-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Alpharetta",
+  "slug": "alpharetta-ga",
+  "county": "Fulton County",
+  "population": 67000,
+  "zip_codes": ["30004","30005","30009","30022"],
+  "landmarks": [
+    "Avalon",
+    "Downtown Alpharetta",
+    "Ameris Bank Amphitheatre",
+    "Wills Park",
+    "Big Creek Greenway"
+  ],
+  "nearby_cities": [
+    {"name":"Roswell","slug":"roswell-ga"},
+    {"name":"Johns Creek","slug":"johns-creek-ga"},
+    {"name":"Milton","slug":"milton-ga"},
+    {"name":"Cumming","slug":"cumming-ga"},
+    {"name":"Sandy Springs","slug":"sandy-springs-ga"}
+  ],
+  "city_type": "technology-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-finance",
+  "housing_profile": "professional-residential",
+  "growth_pattern": "high-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Marietta",
+  "slug": "marietta-ga",
+  "county": "Cobb County",
+  "population": 62000,
+  "zip_codes": ["30008","30060","30062","30064","30066","30067"],
+  "landmarks": [
+    "Marietta Square",
+    "Kennesaw Mountain",
+    "Six Flags White Water",
+    "Marietta History Center",
+    "Glover Park"
+  ],
+  "nearby_cities": [
+    {"name":"Smyrna","slug":"smyrna-ga"},
+    {"name":"Kennesaw","slug":"kennesaw-ga"},
+    {"name":"Roswell","slug":"roswell-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Acworth","slug":"acworth-ga"}
+  ],
+  "city_type": "historic-suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "healthcare-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Smyrna",
+  "slug": "smyrna-ga",
+  "county": "Cobb County",
+  "population": 57000,
+  "zip_codes": ["30080","30081","30082"],
+  "landmarks": [
+    "The Battery Atlanta",
+    "Truist Park",
+    "Market Village",
+    "Silver Comet Trail",
+    "Tolleson Park"
+  ],
+  "nearby_cities": [
+    {"name":"Marietta","slug":"marietta-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Vinings","slug":"vinings-ga"},
+    {"name":"Mableton","slug":"mableton-ga"},
+    {"name":"Kennesaw","slug":"kennesaw-ga"}
+  ],
+  "city_type": "urban-suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "retail-entertainment",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Dunwoody",
+  "slug": "dunwoody-ga",
+  "county": "DeKalb County",
+  "population": 52000,
+  "zip_codes": ["30338","30346"],
+  "landmarks": [
+    "Perimeter Mall",
+    "Brook Run Park",
+    "Dunwoody Nature Center",
+    "Perimeter Center",
+    "Village Parkway"
+  ],
+  "nearby_cities": [
+    {"name":"Sandy Springs","slug":"sandy-springs-ga"},
+    {"name":"Brookhaven","slug":"brookhaven-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Roswell","slug":"roswell-ga"},
+    {"name":"Chamblee","slug":"chamblee-ga"}
+  ],
+  "city_type": "business-district-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "finance-services",
+  "housing_profile": "professional-residential",
+  "growth_pattern": "commercial-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Brookhaven",
+  "slug": "brookhaven-ga",
+  "county": "DeKalb County",
+  "population": 59000,
+  "zip_codes": ["30319","30324","30329","30341"],
+  "landmarks": [
+    "Murphey Candler Park",
+    "Blackburn Park",
+    "Town Brookhaven",
+    "Capital City Club",
+    "Peachtree Creek Greenway"
+  ],
+  "nearby_cities": [
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Dunwoody","slug":"dunwoody-ga"},
+    {"name":"Chamblee","slug":"chamblee-ga"},
+    {"name":"Sandy Springs","slug":"sandy-springs-ga"},
+    {"name":"Decatur","slug":"decatur-ga"}
+  ],
+  "city_type": "inner-ring-suburb",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "premium-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Warner Robins",
+  "slug": "warner-robins-ga",
+  "county": "Houston County",
+  "population": 84000,
+  "zip_codes": ["31088","31093","31095","31098"],
+  "landmarks": [
+    "Robins Air Force Base",
+    "Museum of Aviation",
+    "Center Park",
+    "International City Golf Club",
+    "Rigby's Entertainment Complex"
+  ],
+  "nearby_cities": [
+    {"name":"Macon","slug":"macon-ga"},
+    {"name":"Perry","slug":"perry-ga"},
+    {"name":"Byron","slug":"byron-ga"},
+    {"name":"Kathleen","slug":"kathleen-ga"},
+    {"name":"Bonaire","slug":"bonaire-ga"}
+  ],
+  "city_type": "military-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-lowlands",
+  "economy_type": "military-logistics",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "central-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Albany",
+  "slug": "albany-ga",
+  "county": "Dougherty County",
+  "population": 68000,
+  "zip_codes": ["31701","31705","31707","31721"],
+  "landmarks": [
+    "Flint RiverQuarium",
+    "Chehaw Park",
+    "Albany Civic Center",
+    "Ray Charles Plaza",
+    "Flint River Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Leesburg","slug":"leesburg-ga"},
+    {"name":"Sylvester","slug":"sylvester-ga"},
+    {"name":"Camilla","slug":"camilla-ga"},
+    {"name":"Tifton","slug":"tifton-ga"},
+    {"name":"Americus","slug":"americus-ga"}
+  ],
+  "city_type": "south-georgia-hub",
+  "climate_zone": "humid-subtropical",
+  "terrain": "river-plains",
+  "economy_type": "healthcare-agriculture",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "south-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Valdosta",
+  "slug": "valdosta-ga",
+  "county": "Lowndes County",
+  "population": 56000,
+  "zip_codes": ["31601","31602","31605","31606"],
+  "landmarks": [
+    "Valdosta State University",
+    "Wild Adventures",
+    "Downtown Valdosta",
+    "Freedom Park",
+    "Lowndes County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Hahira","slug":"hahira-ga"},
+    {"name":"Lake Park","slug":"lake-park-ga"},
+    {"name":"Quitman","slug":"quitman-ga"},
+    {"name":"Adel","slug":"adel-ga"},
+    {"name":"Nashville","slug":"nashville-ga"}
+  ],
+  "city_type": "university-regional-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plains",
+  "economy_type": "education-healthcare",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Dalton",
+  "slug": "dalton-ga",
+  "county": "Whitfield County",
+  "population": 35000,
+  "zip_codes": ["30720","30721"],
+  "landmarks": [
+    "Dalton Convention Center",
+    "Heritage Point Park",
+    "Downtown Dalton",
+    "Walnut Square Mall",
+    "Crown Gardens"
+  ],
+  "nearby_cities": [
+    {"name":"Ringgold","slug":"ringgold-ga"},
+    {"name":"Tunnel Hill","slug":"tunnel-hill-ga"},
+    {"name":"Chatsworth","slug":"chatsworth-ga"},
+    {"name":"Calhoun","slug":"calhoun-ga"},
+    {"name":"Chattanooga","slug":"chattanooga-tn"}
+  ],
+  "city_type": "manufacturing-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "ridge-and-valley",
+  "economy_type": "manufacturing-logistics",
+  "housing_profile": "family-residential",
+  "growth_pattern": "industrial-growth",
+  "service_environment": "north-georgia-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Kennesaw",
+  "slug": "kennesaw-ga",
+  "county": "Cobb County",
+  "population": 35000,
+  "zip_codes": ["30144","30152"],
+  "landmarks": [
+    "Kennesaw Mountain National Battlefield Park",
+    "Kennesaw State University",
+    "Depot Park",
+    "Swift-Cantrell Park",
+    "Downtown Kennesaw"
+  ],
+  "nearby_cities": [
+    {"name":"Marietta","slug":"marietta-ga"},
+    {"name":"Acworth","slug":"acworth-ga"},
+    {"name":"Woodstock","slug":"woodstock-ga"},
+    {"name":"Smyrna","slug":"smyrna-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"}
+  ],
+  "city_type": "university-suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "education-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Acworth",
+  "slug": "acworth-ga",
+  "county": "Cobb County",
+  "population": 24000,
+  "zip_codes": ["30101","30102"],
+  "landmarks": [
+    "Lake Acworth",
+    "Cauble Park",
+    "Lake Allatoona",
+    "Historic Downtown Acworth",
+    "Logan Farm Park"
+  ],
+  "nearby_cities": [
+    {"name":"Kennesaw","slug":"kennesaw-ga"},
+    {"name":"Woodstock","slug":"woodstock-ga"},
+    {"name":"Marietta","slug":"marietta-ga"},
+    {"name":"Cartersville","slug":"cartersville-ga"},
+    {"name":"Dallas","slug":"dallas-ga"}
+  ],
+  "city_type": "lakefront-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "retail-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "high-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Peachtree City",
+  "slug": "peachtree-city-ga",
+  "county": "Fayette County",
+  "population": 39000,
+  "zip_codes": ["30269"],
+  "landmarks": [
+    "Lake Peachtree",
+    "Flat Creek Nature Area",
+    "The Avenue Peachtree City",
+    "Drake Field",
+    "Golf Cart Path Network"
+  ],
+  "nearby_cities": [
+    {"name":"Newnan","slug":"newnan-ga"},
+    {"name":"Fayetteville","slug":"fayetteville-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Tyrone","slug":"tyrone-ga"},
+    {"name":"Sharpsburg","slug":"sharpsburg-ga"}
+  ],
+  "city_type": "master-planned-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "premium-growth",
+  "service_environment": "south-atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Newnan",
+  "slug": "newnan-ga",
+  "county": "Coweta County",
+  "population": 45000,
+  "zip_codes": ["30263","30265"],
+  "landmarks": [
+    "Historic Downtown Newnan",
+    "Ashley Park",
+    "Carl Miller Park",
+    "Brown's Mill Battlefield",
+    "LINC Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Peachtree City","slug":"peachtree-city-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Carrollton","slug":"carrollton-ga"},
+    {"name":"Sharpsburg","slug":"sharpsburg-ga"},
+    {"name":"LaGrange","slug":"lagrange-ga"}
+  ],
+  "city_type": "regional-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "healthcare-logistics",
+  "housing_profile": "family-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "south-atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Gainesville",
+  "slug": "gainesville-ga",
+  "county": "Hall County",
+  "population": 47000,
+  "zip_codes": ["30501","30504","30506","30507"],
+  "landmarks": [
+    "Lake Lanier",
+    "Midland Greenway",
+    "Downtown Gainesville",
+    "Brenau University",
+    "Lanier Olympic Park"
+  ],
+  "nearby_cities": [
+    {"name":"Buford","slug":"buford-ga"},
+    {"name":"Flowery Branch","slug":"flowery-branch-ga"},
+    {"name":"Oakwood","slug":"oakwood-ga"},
+    {"name":"Cumming","slug":"cumming-ga"},
+    {"name":"Dawsonville","slug":"dawsonville-ga"}
+  ],
+  "city_type": "lake-region-hub",
+  "climate_zone": "humid-subtropical",
+  "terrain": "foothills",
+  "economy_type": "manufacturing-healthcare",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "north-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Duluth",
+  "slug": "duluth-ga",
+  "county": "Gwinnett County",
+  "population": 33000,
+  "zip_codes": ["30096","30097"],
+  "landmarks": [
+    "Gas South Arena",
+    "Downtown Duluth",
+    "McDaniel Farm Park",
+    "Rogers Bridge Park",
+    "Town Green"
+  ],
+  "nearby_cities": [
+    {"name":"Johns Creek","slug":"johns-creek-ga"},
+    {"name":"Suwanee","slug":"suwanee-ga"},
+    {"name":"Norcross","slug":"norcross-ga"},
+    {"name":"Peachtree Corners","slug":"peachtree-corners-ga"},
+    {"name":"Lawrenceville","slug":"lawrenceville-ga"}
+  ],
+  "city_type": "atlanta-metro-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Suwanee",
+  "slug": "suwanee-ga",
+  "county": "Gwinnett County",
+  "population": 23000,
+  "zip_codes": ["30024"],
+  "landmarks": [
+    "Suwanee Town Center",
+    "Town Center Park",
+    "Suwanee Creek Greenway",
+    "George Pierce Park",
+    "PlayTown Suwanee"
+  ],
+  "nearby_cities": [
+    {"name":"Duluth","slug":"duluth-ga"},
+    {"name":"Johns Creek","slug":"johns-creek-ga"},
+    {"name":"Lawrenceville","slug":"lawrenceville-ga"},
+    {"name":"Buford","slug":"buford-ga"},
+    {"name":"Sugar Hill","slug":"sugar-hill-ga"}
+  ],
+  "city_type": "award-winning-suburb",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "premium-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Peachtree Corners",
+  "slug": "peachtree-corners-ga",
+  "county": "Gwinnett County",
+  "population": 44000,
+  "zip_codes": ["30092"],
+  "landmarks": [
+    "The Forum",
+    "Town Center",
+    "Technology Park Atlanta",
+    "Simpsonwood Park",
+    "Chattahoochee River"
+  ],
+  "nearby_cities": [
+    {"name":"Duluth","slug":"duluth-ga"},
+    {"name":"Norcross","slug":"norcross-ga"},
+    {"name":"Johns Creek","slug":"johns-creek-ga"},
+    {"name":"Roswell","slug":"roswell-ga"},
+    {"name":"Sandy Springs","slug":"sandy-springs-ga"}
+  ],
+  "city_type": "technology-corridor-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "technology-finance",
+  "housing_profile": "professional-residential",
+  "growth_pattern": "high-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lawrenceville",
+  "slug": "lawrenceville-ga",
+  "county": "Gwinnett County",
+  "population": 31000,
+  "zip_codes": ["30043","30044","30045","30046"],
+  "landmarks": [
+    "Gwinnett Historic Courthouse",
+    "Aurora Theatre",
+    "Coolray Field",
+    "Rhodes Jordan Park",
+    "Downtown Lawrenceville"
+  ],
+  "nearby_cities": [
+    {"name":"Duluth","slug":"duluth-ga"},
+    {"name":"Suwanee","slug":"suwanee-ga"},
+    {"name":"Buford","slug":"buford-ga"},
+    {"name":"Snellville","slug":"snellville-ga"},
+    {"name":"Grayson","slug":"grayson-ga"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Woodstock",
+  "slug": "woodstock-ga",
+  "county": "Cherokee County",
+  "population": 38000,
+  "zip_codes": ["30188","30189"],
+  "landmarks": [
+    "Downtown Woodstock",
+    "The Outlet Shoppes",
+    "Olde Rope Mill Park",
+    "Noonday Creek Trail",
+    "Woofstock Park"
+  ],
+  "nearby_cities": [
+    {"name":"Acworth","slug":"acworth-ga"},
+    {"name":"Kennesaw","slug":"kennesaw-ga"},
+    {"name":"Roswell","slug":"roswell-ga"},
+    {"name":"Canton","slug":"canton-ga"},
+    {"name":"Marietta","slug":"marietta-ga"}
+  ],
+  "city_type": "north-metro-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "retail-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Buford",
+  "slug": "buford-ga",
+  "county": "Gwinnett County",
+  "population": 19000,
+  "zip_codes": ["30518","30519"],
+  "landmarks": [
+    "Mall of Georgia",
+    "Buford Dam Park",
+    "Lake Lanier Islands Access",
+    "Downtown Buford",
+    "Buford Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Suwanee","slug":"suwanee-ga"},
+    {"name":"Lawrenceville","slug":"lawrenceville-ga"},
+    {"name":"Sugar Hill","slug":"sugar-hill-ga"},
+    {"name":"Gainesville","slug":"gainesville-ga"},
+    {"name":"Flowery Branch","slug":"flowery-branch-ga"}
+  ],
+  "city_type": "retail-destination-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "retail-logistics",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "high-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Snellville",
+  "slug": "snellville-ga",
+  "county": "Gwinnett County",
+  "population": 21000,
+  "zip_codes": ["30039","30078"],
+  "landmarks": [
+    "Briscoe Park",
+    "Towne Green",
+    "Snellville Veterans Memorial",
+    "South Gwinnett Park",
+    "Downtown Snellville"
+  ],
+  "nearby_cities": [
+    {"name":"Lawrenceville","slug":"lawrenceville-ga"},
+    {"name":"Grayson","slug":"grayson-ga"},
+    {"name":"Loganville","slug":"loganville-ga"},
+    {"name":"Lilburn","slug":"lilburn-ga"},
+    {"name":"Stone Mountain","slug":"stone-mountain-ga"}
+  ],
+  "city_type": "east-metro-suburb",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Canton",
+  "slug": "canton-ga",
+  "county": "Cherokee County",
+  "population": 36000,
+  "zip_codes": ["30114","30115"],
+  "landmarks": [
+    "Etowah River Park",
+    "The Mill on Etowah",
+    "Heritage Park",
+    "Downtown Canton",
+    "Boling Park"
+  ],
+  "nearby_cities": [
+    {"name":"Woodstock","slug":"woodstock-ga"},
+    {"name":"Roswell","slug":"roswell-ga"},
+    {"name":"Alpharetta","slug":"alpharetta-ga"},
+    {"name":"Acworth","slug":"acworth-ga"},
+    {"name":"Jasper","slug":"jasper-ga"}
+  ],
+  "city_type": "north-georgia-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "foothills",
+  "economy_type": "retail-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Carrollton",
+  "slug": "carrollton-ga",
+  "county": "Carroll County",
+  "population": 29000,
+  "zip_codes": ["30116","30117"],
+  "landmarks": [
+    "University of West Georgia",
+    "Adamson Square",
+    "Carrollton GreenBelt",
+    "Lake Carroll",
+    "Amp at Adamson Square"
+  ],
+  "nearby_cities": [
+    {"name":"Newnan","slug":"newnan-ga"},
+    {"name":"Villa Rica","slug":"villa-rica-ga"},
+    {"name":"Bremen","slug":"bremen-ga"},
+    {"name":"Douglasville","slug":"douglasville-ga"},
+    {"name":"LaGrange","slug":"lagrange-ga"}
+  ],
+  "city_type": "college-regional-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "education-healthcare",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "west-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "LaGrange",
+  "slug": "lagrange-ga",
+  "county": "Troup County",
+  "population": 32000,
+  "zip_codes": ["30240","30241"],
+  "landmarks": [
+    "Great Wolf Lodge",
+    "Sweetland Amphitheatre",
+    "LaGrange College",
+    "Biblical History Center",
+    "Hills and Dales Estate"
+  ],
+  "nearby_cities": [
+    {"name":"Newnan","slug":"newnan-ga"},
+    {"name":"Carrollton","slug":"carrollton-ga"},
+    {"name":"West Point","slug":"west-point-ga"},
+    {"name":"Hogansville","slug":"hogansville-ga"},
+    {"name":"Opelika","slug":"opelika-al"}
+  ],
+  "city_type": "regional-hub-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "manufacturing-logistics",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "west-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Fayetteville",
+  "slug": "fayetteville-ga",
+  "county": "Fayette County",
+  "population": 20000,
+  "zip_codes": ["30214","30215"],
+  "landmarks": [
+    "Trilith Studios",
+    "Town Square",
+    "Southern Ground Amphitheater",
+    "The Ridge Nature Area",
+    "Fayette Pavilion"
+  ],
+  "nearby_cities": [
+    {"name":"Peachtree City","slug":"peachtree-city-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Tyrone","slug":"tyrone-ga"},
+    {"name":"Newnan","slug":"newnan-ga"},
+    {"name":"Riverdale","slug":"riverdale-ga"}
+  ],
+  "city_type": "film-industry-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "media-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "high-growth",
+  "service_environment": "south-atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Decatur",
+  "slug": "decatur-ga",
+  "county": "DeKalb County",
+  "population": 25000,
+  "zip_codes": ["30030","30032","30033"],
+  "landmarks": [
+    "Decatur Square",
+    "Woodlands Garden",
+    "Ebster Park",
+    "Beacon Hill",
+    "Historic Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Brookhaven","slug":"brookhaven-ga"},
+    {"name":"Chamblee","slug":"chamblee-ga"},
+    {"name":"Avondale Estates","slug":"avondale-estates-ga"},
+    {"name":"Stone Mountain","slug":"stone-mountain-ga"}
+  ],
+  "city_type": "urban-core-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "healthcare-education",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Chamblee",
+  "slug": "chamblee-ga",
+  "county": "DeKalb County",
+  "population": 31000,
+  "zip_codes": ["30341"],
+  "landmarks": [
+    "Downtown Chamblee",
+    "Keswick Park",
+    "Chamblee Rail Trail",
+    "Peachtree Boulevard",
+    "Antique Row District"
+  ],
+  "nearby_cities": [
+    {"name":"Brookhaven","slug":"brookhaven-ga"},
+    {"name":"Dunwoody","slug":"dunwoody-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Doraville","slug":"doraville-ga"},
+    {"name":"Decatur","slug":"decatur-ga"}
+  ],
+  "city_type": "urban-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "retail-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "transit-oriented-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Norcross",
+  "slug": "norcross-ga",
+  "county": "Gwinnett County",
+  "population": 18000,
+  "zip_codes": ["30071","30092","30093"],
+  "landmarks": [
+    "Historic Downtown Norcross",
+    "Thrasher Park",
+    "Lillian Webb Park",
+    "Jones Bridge Park",
+    "South Peachtree Street"
+  ],
+  "nearby_cities": [
+    {"name":"Peachtree Corners","slug":"peachtree-corners-ga"},
+    {"name":"Duluth","slug":"duluth-ga"},
+    {"name":"Johns Creek","slug":"johns-creek-ga"},
+    {"name":"Chamblee","slug":"chamblee-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"}
+  ],
+  "city_type": "historic-metro-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sugar Hill",
+  "slug": "sugar-hill-ga",
+  "county": "Gwinnett County",
+  "population": 27000,
+  "zip_codes": ["30518"],
+  "landmarks": [
+    "The Bowl at Sugar Hill",
+    "E Center",
+    "Sugar Hill Greenway",
+    "Gary Pirkle Park",
+    "Downtown Sugar Hill"
+  ],
+  "nearby_cities": [
+    {"name":"Buford","slug":"buford-ga"},
+    {"name":"Suwanee","slug":"suwanee-ga"},
+    {"name":"Lawrenceville","slug":"lawrenceville-ga"},
+    {"name":"Cumming","slug":"cumming-ga"},
+    {"name":"Johns Creek","slug":"johns-creek-ga"}
+  ],
+  "city_type": "growth-suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "retail-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Douglasville",
+  "slug": "douglasville-ga",
+  "county": "Douglas County",
+  "population": 36000,
+  "zip_codes": ["30134","30135"],
+  "landmarks": [
+    "Arbor Place Mall",
+    "Hunter Memorial Park",
+    "O'Neal Plaza",
+    "Boundary Waters Park",
+    "Downtown Douglasville"
+  ],
+  "nearby_cities": [
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Lithia Springs","slug":"lithia-springs-ga"},
+    {"name":"Carrollton","slug":"carrollton-ga"},
+    {"name":"Austell","slug":"austell-ga"},
+    {"name":"Villa Rica","slug":"villa-rica-ga"}
+  ],
+  "city_type": "west-atlanta-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "retail-logistics",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Mableton",
+  "slug": "mableton-ga",
+  "county": "Cobb County",
+  "population": 78000,
+  "zip_codes": ["30126"],
+  "landmarks": [
+    "Silver Comet Trail",
+    "Heritage Park",
+    "Mable House Arts Center",
+    "Nickajack Park",
+    "Floyd Road Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Smyrna","slug":"smyrna-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Douglasville","slug":"douglasville-ga"},
+    {"name":"Austell","slug":"austell-ga"},
+    {"name":"Marietta","slug":"marietta-ga"}
+  ],
+  "city_type": "large-suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Stockbridge",
+  "slug": "stockbridge-ga",
+  "county": "Henry County",
+  "population": 31000,
+  "zip_codes": ["30281"],
+  "landmarks": [
+    "Clark Community Park",
+    "Panola Mountain Area",
+    "Stockbridge Amphitheater",
+    "Downtown Stockbridge",
+    "Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"McDonough","slug":"mcdonough-ga"},
+    {"name":"Jonesboro","slug":"jonesboro-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Riverdale","slug":"riverdale-ga"},
+    {"name":"Rex","slug":"rex-ga"}
+  ],
+  "city_type": "south-metro-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-lowlands",
+  "economy_type": "logistics-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "high-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "McDonough",
+  "slug": "mcdonough-ga",
+  "county": "Henry County",
+  "population": 32000,
+  "zip_codes": ["30252","30253"],
+  "landmarks": [
+    "Historic McDonough Square",
+    "Alexander Park",
+    "Heritage Park",
+    "Southern Belle Farm",
+    "Big Springs Park"
+  ],
+  "nearby_cities": [
+    {"name":"Stockbridge","slug":"stockbridge-ga"},
+    {"name":"Locust Grove","slug":"locust-grove-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Jonesboro","slug":"jonesboro-ga"},
+    {"name":"Griffin","slug":"griffin-ga"}
+  ],
+  "city_type": "logistics-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-lowlands",
+  "economy_type": "logistics-distribution",
+  "housing_profile": "family-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "south-atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Riverdale",
+  "slug": "riverdale-ga",
+  "county": "Clayton County",
+  "population": 25000,
+  "zip_codes": ["30274","30296"],
+  "landmarks": [
+    "Riverdale Town Center",
+    "Flat Shoals Park",
+    "Veterans Parkway Corridor",
+    "Church Street District",
+    "Southern Regional Area"
+  ],
+  "nearby_cities": [
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"College Park","slug":"college-park-ga"},
+    {"name":"Stockbridge","slug":"stockbridge-ga"},
+    {"name":"Jonesboro","slug":"jonesboro-ga"},
+    {"name":"East Point","slug":"east-point-ga"}
+  ],
+  "city_type": "airport-corridor-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-lowlands",
+  "economy_type": "services-logistics",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Griffin",
+  "slug": "griffin-ga",
+  "county": "Spalding County",
+  "population": 24000,
+  "zip_codes": ["30223","30224"],
+  "landmarks": [
+    "Historic Downtown Griffin",
+    "Wyomia Tyus Olympic Park",
+    "Griffin City Park",
+    "Griffin Regional Welcome Center",
+    "Airport Road Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"McDonough","slug":"mcdonough-ga"},
+    {"name":"Stockbridge","slug":"stockbridge-ga"},
+    {"name":"Newnan","slug":"newnan-ga"},
+    {"name":"Fayetteville","slug":"fayetteville-ga"},
+    {"name":"Locust Grove","slug":"locust-grove-ga"}
+  ],
+  "city_type": "regional-service-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-lowlands",
+  "economy_type": "manufacturing-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Hinesville",
+  "slug": "hinesville-ga",
+  "county": "Liberty County",
+  "population": 36000,
+  "zip_codes": ["31313"],
+  "landmarks": [
+    "Fort Stewart",
+    "Bryant Commons",
+    "Downtown Hinesville",
+    "Liberty County Performing Arts Center",
+    "Veterans Memorial Walk"
+  ],
+  "nearby_cities": [
+    {"name":"Richmond Hill","slug":"richmond-hill-ga"},
+    {"name":"Savannah","slug":"savannah-ga"},
+    {"name":"Jesup","slug":"jesup-ga"},
+    {"name":"Ludowici","slug":"ludowici-ga"},
+    {"name":"Midway","slug":"midway-ga"}
+  ],
+  "city_type": "military-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plains",
+  "economy_type": "military-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "coastal-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Statesboro",
+  "slug": "statesboro-ga",
+  "county": "Bulloch County",
+  "population": 35000,
+  "zip_codes": ["30458","30461"],
+  "landmarks": [
+    "Georgia Southern University",
+    "Mill Creek Park",
+    "Downtown Statesboro",
+    "Botanic Garden",
+    "Paulson Stadium"
+  ],
+  "nearby_cities": [
+    {"name":"Savannah","slug":"savannah-ga"},
+    {"name":"Brooklet","slug":"brooklet-ga"},
+    {"name":"Pooler","slug":"pooler-ga"},
+    {"name":"Pembroke","slug":"pembroke-ga"},
+    {"name":"Metter","slug":"metter-ga"}
+  ],
+  "city_type": "university-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plains",
+  "economy_type": "education-healthcare",
+  "housing_profile": "student-residential",
+  "growth_pattern": "institutional-growth",
+  "service_environment": "south-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Rome",
+  "slug": "rome-ga",
+  "county": "Floyd County",
+  "population": 38000,
+  "zip_codes": ["30161","30165"],
+  "landmarks": [
+    "Berry College",
+    "Myrtle Hill Cemetery",
+    "Ridge Ferry Park",
+    "Downtown Rome",
+    "Clocktower Hill"
+  ],
+  "nearby_cities": [
+    {"name":"Cartersville","slug":"cartersville-ga"},
+    {"name":"Cedartown","slug":"cedartown-ga"},
+    {"name":"Calhoun","slug":"calhoun-ga"},
+    {"name":"Summerville","slug":"summerville-ga"},
+    {"name":"Adairsville","slug":"adairsville-ga"}
+  ],
+  "city_type": "northwest-georgia-hub",
+  "climate_zone": "humid-subtropical",
+  "terrain": "ridge-and-valley",
+  "economy_type": "healthcare-manufacturing",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "north-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "East Point",
+  "slug": "east-point-ga",
+  "county": "Fulton County",
+  "population": 39000,
+  "zip_codes": ["30344"],
+  "landmarks": [
+    "Camp Creek Marketplace",
+    "East Point Commons",
+    "Sumner Park",
+    "Historic Downtown East Point",
+    "Airport Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"College Park","slug":"college-park-ga"},
+    {"name":"Riverdale","slug":"riverdale-ga"},
+    {"name":"Hapeville","slug":"hapeville-ga"},
+    {"name":"Forest Park","slug":"forest-park-ga"}
+  ],
+  "city_type": "airport-metro-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "aviation-logistics",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "College Park",
+  "slug": "college-park-ga",
+  "county": "Fulton County",
+  "population": 25000,
+  "zip_codes": ["30337","30349"],
+  "landmarks": [
+    "Georgia International Convention Center",
+    "Gateway Center Arena",
+    "Old National Highway",
+    "Historic College Park",
+    "Barrett Park"
+  ],
+  "nearby_cities": [
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"East Point","slug":"east-point-ga"},
+    {"name":"Riverdale","slug":"riverdale-ga"},
+    {"name":"Hapeville","slug":"hapeville-ga"},
+    {"name":"Forest Park","slug":"forest-park-ga"}
+  ],
+  "city_type": "airport-corridor-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "aviation-logistics",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Forest Park",
+  "slug": "forest-park-ga",
+  "county": "Clayton County",
+  "population": 20000,
+  "zip_codes": ["30297"],
+  "landmarks": [
+    "State Farmers Market",
+    "Starr Park",
+    "Forest Parkway",
+    "Downtown Forest Park",
+    "Atlanta State Market"
+  ],
+  "nearby_cities": [
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"College Park","slug":"college-park-ga"},
+    {"name":"Riverdale","slug":"riverdale-ga"},
+    {"name":"Jonesboro","slug":"jonesboro-ga"},
+    {"name":"East Point","slug":"east-point-ga"}
+  ],
+  "city_type": "logistics-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-lowlands",
+  "economy_type": "distribution-logistics",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Jonesboro",
+  "slug": "jonesboro-ga",
+  "county": "Clayton County",
+  "population": 30000,
+  "zip_codes": ["30236"],
+  "landmarks": [
+    "Clayton County Courthouse",
+    "Lee Street Park",
+    "Road to Tara Museum",
+    "Jonesboro Historic District",
+    "Arts Clayton Gallery"
+  ],
+  "nearby_cities": [
+    {"name":"Riverdale","slug":"riverdale-ga"},
+    {"name":"Stockbridge","slug":"stockbridge-ga"},
+    {"name":"Forest Park","slug":"forest-park-ga"},
+    {"name":"McDonough","slug":"mcdonough-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-lowlands",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Cartersville",
+  "slug": "cartersville-ga",
+  "county": "Bartow County",
+  "population": 25000,
+  "zip_codes": ["30120","30121"],
+  "landmarks": [
+    "Booth Western Art Museum",
+    "Etowah Indian Mounds",
+    "Downtown Cartersville",
+    "Dellinger Park",
+    "Lake Allatoona Area"
+  ],
+  "nearby_cities": [
+    {"name":"Acworth","slug":"acworth-ga"},
+    {"name":"Kennesaw","slug":"kennesaw-ga"},
+    {"name":"Rome","slug":"rome-ga"},
+    {"name":"Calhoun","slug":"calhoun-ga"},
+    {"name":"Woodstock","slug":"woodstock-ga"}
+  ],
+  "city_type": "north-georgia-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "ridge-and-valley",
+  "economy_type": "manufacturing-logistics",
+  "housing_profile": "family-residential",
+  "growth_pattern": "high-growth",
+  "service_environment": "north-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Calhoun",
+  "slug": "calhoun-ga",
+  "county": "Gordon County",
+  "population": 18000,
+  "zip_codes": ["30701"],
+  "landmarks": [
+    "New Echota Historic Site",
+    "Downtown Calhoun",
+    "Calhoun Outlet Marketplace",
+    "Gordon County Courthouse",
+    "BB Harris Park"
+  ],
+  "nearby_cities": [
+    {"name":"Cartersville","slug":"cartersville-ga"},
+    {"name":"Dalton","slug":"dalton-ga"},
+    {"name":"Rome","slug":"rome-ga"},
+    {"name":"Adairsville","slug":"adairsville-ga"},
+    {"name":"Chatsworth","slug":"chatsworth-ga"}
+  ],
+  "city_type": "manufacturing-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "ridge-and-valley",
+  "economy_type": "manufacturing-logistics",
+  "housing_profile": "family-residential",
+  "growth_pattern": "industrial-growth",
+  "service_environment": "north-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Perry",
+  "slug": "perry-ga",
+  "county": "Houston County",
+  "population": 24000,
+  "zip_codes": ["31069"],
+  "landmarks": [
+    "Georgia National Fairgrounds",
+    "Historic Downtown Perry",
+    "Rozar Park",
+    "Perry Area Historical Museum",
+    "Go Fish Education Center"
+  ],
+  "nearby_cities": [
+    {"name":"Warner Robins","slug":"warner-robins-ga"},
+    {"name":"Macon","slug":"macon-ga"},
+    {"name":"Byron","slug":"byron-ga"},
+    {"name":"Kathleen","slug":"kathleen-ga"},
+    {"name":"Fort Valley","slug":"fort-valley-ga"}
+  ],
+  "city_type": "fairgrounds-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-lowlands",
+  "economy_type": "agriculture-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "central-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Pooler",
+  "slug": "pooler-ga",
+  "county": "Chatham County",
+  "population": 30000,
+  "zip_codes": ["31322"],
+  "landmarks": [
+    "Tanger Outlets",
+    "Mighty Eighth Air Force Museum",
+    "Pooler Parkway",
+    "Fun Zone",
+    "Savannah Quarters"
+  ],
+  "nearby_cities": [
+    {"name":"Savannah","slug":"savannah-ga"},
+    {"name":"Richmond Hill","slug":"richmond-hill-ga"},
+    {"name":"Port Wentworth","slug":"port-wentworth-ga"},
+    {"name":"Garden City","slug":"garden-city-ga"},
+    {"name":"Statesboro","slug":"statesboro-ga"}
+  ],
+  "city_type": "savannah-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plains",
+  "economy_type": "retail-logistics",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "coastal-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Richmond Hill",
+  "slug": "richmond-hill-ga",
+  "county": "Bryan County",
+  "population": 18000,
+  "zip_codes": ["31324"],
+  "landmarks": [
+    "J.F. Gregory Park",
+    "Richmond Hill History Museum",
+    "Fort McAllister Area",
+    "Waterfront District",
+    "Sterling Creek Park"
+  ],
+  "nearby_cities": [
+    {"name":"Savannah","slug":"savannah-ga"},
+    {"name":"Pooler","slug":"pooler-ga"},
+    {"name":"Hinesville","slug":"hinesville-ga"},
+    {"name":"Midway","slug":"midway-ga"},
+    {"name":"Port Wentworth","slug":"port-wentworth-ga"}
+  ],
+  "city_type": "coastal-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plains",
+  "economy_type": "services-logistics",
+  "housing_profile": "family-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "coastal-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Milton",
+  "slug": "milton-ga",
+  "county": "Fulton County",
+  "population": 42000,
+  "zip_codes": ["30004"],
+  "landmarks": [
+    "Bell Memorial Park",
+    "Birmingham Park",
+    "Downtown Crabapple",
+    "Providence Park",
+    "Milton City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Alpharetta","slug":"alpharetta-ga"},
+    {"name":"Roswell","slug":"roswell-ga"},
+    {"name":"Johns Creek","slug":"johns-creek-ga"},
+    {"name":"Canton","slug":"canton-ga"},
+    {"name":"Cumming","slug":"cumming-ga"}
+  ],
+  "city_type": "affluent-suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "premium-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Cumming",
+  "slug": "cumming-ga",
+  "county": "Forsyth County",
+  "population": 27000,
+  "zip_codes": ["30040","30041"],
+  "landmarks": [
+    "Lake Lanier",
+    "Cumming City Center",
+    "Sawnee Mountain Preserve",
+    "Fairgrounds",
+    "Mary Alice Park"
+  ],
+  "nearby_cities": [
+    {"name":"Alpharetta","slug":"alpharetta-ga"},
+    {"name":"Milton","slug":"milton-ga"},
+    {"name":"Johns Creek","slug":"johns-creek-ga"},
+    {"name":"Gainesville","slug":"gainesville-ga"},
+    {"name":"Sugar Hill","slug":"sugar-hill-ga"}
+  ],
+  "city_type": "north-metro-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "foothills",
+  "economy_type": "retail-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "hyper-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Austell",
+  "slug": "austell-ga",
+  "county": "Cobb County",
+  "population": 24000,
+  "zip_codes": ["30106","30168"],
+  "landmarks": [
+    "Six Flags Over Georgia",
+    "Sweetwater Creek State Park",
+    "Downtown Austell",
+    "Threadmill Complex",
+    "Austell Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Mableton","slug":"mableton-ga"},
+    {"name":"Douglasville","slug":"douglasville-ga"},
+    {"name":"Smyrna","slug":"smyrna-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Lithia Springs","slug":"lithia-springs-ga"}
+  ],
+  "city_type": "west-metro-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "tourism-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lithia Springs",
+  "slug": "lithia-springs-ga",
+  "county": "Douglas County",
+  "population": 22000,
+  "zip_codes": ["30122"],
+  "landmarks": [
+    "Sweetwater Creek State Park",
+    "Lithia Springs Park",
+    "Arbor Place Area",
+    "Thornton Road Corridor",
+    "Downtown Lithia Springs"
+  ],
+  "nearby_cities": [
+    {"name":"Douglasville","slug":"douglasville-ga"},
+    {"name":"Austell","slug":"austell-ga"},
+    {"name":"Mableton","slug":"mableton-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Villa Rica","slug":"villa-rica-ga"}
+  ],
+  "city_type": "suburban-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "logistics-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "steady-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Villa Rica",
+  "slug": "villa-rica-ga",
+  "county": "Carroll County",
+  "population": 22000,
+  "zip_codes": ["30180"],
+  "landmarks": [
+    "Pine Mountain Gold Museum",
+    "Mirror Lake",
+    "Downtown Villa Rica",
+    "The MILL Amphitheater",
+    "Villa Rica City Park"
+  ],
+  "nearby_cities": [
+    {"name":"Douglasville","slug":"douglasville-ga"},
+    {"name":"Carrollton","slug":"carrollton-ga"},
+    {"name":"Austell","slug":"austell-ga"},
+    {"name":"Lithia Springs","slug":"lithia-springs-ga"},
+    {"name":"Bremen","slug":"bremen-ga"}
+  ],
+  "city_type": "west-georgia-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "retail-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "high-growth",
+  "service_environment": "west-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Loganville",
+  "slug": "loganville-ga",
+  "county": "Walton County",
+  "population": 25000,
+  "zip_codes": ["30052"],
+  "landmarks": [
+    "Bay Creek Park",
+    "Downtown Loganville",
+    "Meridian Park",
+    "Loganville Town Green",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Snellville","slug":"snellville-ga"},
+    {"name":"Grayson","slug":"grayson-ga"},
+    {"name":"Lawrenceville","slug":"lawrenceville-ga"},
+    {"name":"Monroe","slug":"monroe-ga"},
+    {"name":"Athens","slug":"athens-ga"}
+  ],
+  "city_type": "east-metro-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lilburn",
+  "slug": "lilburn-ga",
+  "county": "Gwinnett County",
+  "population": 23000,
+  "zip_codes": ["30047"],
+  "landmarks": [
+    "Lilburn City Park",
+    "Camp Creek Greenway",
+    "BAPS Shri Swaminarayan Mandir",
+    "Downtown Lilburn",
+    "Bryson Park"
+  ],
+  "nearby_cities": [
+    {"name":"Snellville","slug":"snellville-ga"},
+    {"name":"Tucker","slug":"tucker-ga"},
+    {"name":"Lawrenceville","slug":"lawrenceville-ga"},
+    {"name":"Stone Mountain","slug":"stone-mountain-ga"},
+    {"name":"Norcross","slug":"norcross-ga"}
+  ],
+  "city_type": "gwinnett-suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Stone Mountain",
+  "slug": "stone-mountain-ga",
+  "county": "DeKalb County",
+  "population": 26000,
+  "zip_codes": ["30083","30087","30088"],
+  "landmarks": [
+    "Stone Mountain Park",
+    "Historic Downtown Stone Mountain",
+    "Memorial Lawn",
+    "Summit Skyride",
+    "Confederate Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Lilburn","slug":"lilburn-ga"},
+    {"name":"Tucker","slug":"tucker-ga"},
+    {"name":"Decatur","slug":"decatur-ga"},
+    {"name":"Snellville","slug":"snellville-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"}
+  ],
+  "city_type": "tourism-suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "granite-highlands",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Grayson",
+  "slug": "grayson-ga",
+  "county": "Gwinnett County",
+  "population": 28000,
+  "zip_codes": ["30017"],
+  "landmarks": [
+    "Grayson City Park",
+    "Bay Creek Park",
+    "Grayson Village",
+    "Railyard District",
+    "Community Park"
+  ],
+  "nearby_cities": [
+    {"name":"Lawrenceville","slug":"lawrenceville-ga"},
+    {"name":"Snellville","slug":"snellville-ga"},
+    {"name":"Loganville","slug":"loganville-ga"},
+    {"name":"Dacula","slug":"dacula-ga"},
+    {"name":"Buford","slug":"buford-ga"}
+  ],
+  "city_type": "family-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "high-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Doraville",
+  "slug": "doraville-ga",
+  "county": "DeKalb County",
+  "population": 31000,
+  "zip_codes": ["30340"],
+  "landmarks": [
+    "Assembly Atlanta",
+    "Buford Highway Corridor",
+    "Doraville MARTA Station",
+    "Honeysuckle Park",
+    "Downtown Doraville"
+  ],
+  "nearby_cities": [
+    {"name":"Chamblee","slug":"chamblee-ga"},
+    {"name":"Brookhaven","slug":"brookhaven-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Tucker","slug":"tucker-ga"},
+    {"name":"Norcross","slug":"norcross-ga"}
+  ],
+  "city_type": "transit-oriented-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "logistics-retail",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "redevelopment-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Hapeville",
+  "slug": "hapeville-ga",
+  "county": "Fulton County",
+  "population": 21000,
+  "zip_codes": ["30354"],
+  "landmarks": [
+    "Porsche Experience Center",
+    "Delta Flight Museum",
+    "Jess Lucas Park",
+    "Downtown Hapeville",
+    "Airport District"
+  ],
+  "nearby_cities": [
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"College Park","slug":"college-park-ga"},
+    {"name":"East Point","slug":"east-point-ga"},
+    {"name":"Forest Park","slug":"forest-park-ga"},
+    {"name":"Riverdale","slug":"riverdale-ga"}
+  ],
+  "city_type": "airport-business-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "aviation-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "commercial-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Tucker",
+  "slug": "tucker-ga",
+  "county": "DeKalb County",
+  "population": 38000,
+  "zip_codes": ["30084"],
+  "landmarks": [
+    "Main Street Tucker",
+    "Henderson Park",
+    "Tucker Nature Preserve",
+    "Kelley Cofer Park",
+    "Downtown Tucker"
+  ],
+  "nearby_cities": [
+    {"name":"Lilburn","slug":"lilburn-ga"},
+    {"name":"Stone Mountain","slug":"stone-mountain-ga"},
+    {"name":"Doraville","slug":"doraville-ga"},
+    {"name":"Decatur","slug":"decatur-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"}
+  ],
+  "city_type": "inner-ring-suburb",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Dacula",
+  "slug": "dacula-ga",
+  "county": "Gwinnett County",
+  "population": 31000,
+  "zip_codes": ["30019"],
+  "landmarks": [
+    "Dacula Park",
+    "Rabbit Hill Park",
+    "Harbins Park",
+    "Downtown Dacula",
+    "Little Mulberry Park"
+  ],
+  "nearby_cities": [
+    {"name":"Grayson","slug":"grayson-ga"},
+    {"name":"Lawrenceville","slug":"lawrenceville-ga"},
+    {"name":"Buford","slug":"buford-ga"},
+    {"name":"Auburn","slug":"auburn-ga"},
+    {"name":"Loganville","slug":"loganville-ga"}
+  ],
+  "city_type": "family-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Monroe",
+  "slug": "monroe-ga",
+  "county": "Walton County",
+  "population": 30000,
+  "zip_codes": ["30655","30656"],
+  "landmarks": [
+    "Downtown Monroe",
+    "Monroe Town Green",
+    "Walton County Courthouse",
+    "Childers Park",
+    "Monroe Golf & Country Club"
+  ],
+  "nearby_cities": [
+    {"name":"Loganville","slug":"loganville-ga"},
+    {"name":"Athens","slug":"athens-ga"},
+    {"name":"Covington","slug":"covington-ga"},
+    {"name":"Winder","slug":"winder-ga"},
+    {"name":"Dacula","slug":"dacula-ga"}
+  ],
+  "city_type": "regional-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "government-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "high-growth",
+  "service_environment": "east-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Conyers",
+  "slug": "conyers-ga",
+  "county": "Rockdale County",
+  "population": 18000,
+  "zip_codes": ["30012","30013","30094"],
+  "landmarks": [
+    "Olde Town Conyers",
+    "Georgia International Horse Park",
+    "Black Shoals Park",
+    "Costley Mill Park",
+    "Rockdale County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Covington","slug":"covington-ga"},
+    {"name":"Lithonia","slug":"lithonia-ga"},
+    {"name":"Snellville","slug":"snellville-ga"},
+    {"name":"Loganville","slug":"loganville-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"}
+  ],
+  "city_type": "east-metro-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "logistics-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Covington",
+  "slug": "covington-ga",
+  "county": "Newton County",
+  "population": 22000,
+  "zip_codes": ["30014","30016"],
+  "landmarks": [
+    "Covington Square",
+    "Newton County Courthouse",
+    "Turner Lake Park",
+    "Legion Field",
+    "Mystic Falls Filming District"
+  ],
+  "nearby_cities": [
+    {"name":"Conyers","slug":"conyers-ga"},
+    {"name":"Monroe","slug":"monroe-ga"},
+    {"name":"Loganville","slug":"loganville-ga"},
+    {"name":"McDonough","slug":"mcdonough-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"}
+  ],
+  "city_type": "film-tourism-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "tourism-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "east-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Evans",
+  "slug": "evans-ga",
+  "county": "Columbia County",
+  "population": 36000,
+  "zip_codes": ["30809"],
+  "landmarks": [
+    "Evans Towne Center Park",
+    "Lady Antebellum Pavilion",
+    "Blanchard Woods Park",
+    "Riverside Park",
+    "Columbia County Amphitheater"
+  ],
+  "nearby_cities": [
+    {"name":"Augusta","slug":"augusta-ga"},
+    {"name":"Martinez","slug":"martinez-ga"},
+    {"name":"Grovetown","slug":"grovetown-ga"},
+    {"name":"North Augusta","slug":"north-augusta-sc"},
+    {"name":"Harlem","slug":"harlem-ga"}
+  ],
+  "city_type": "augusta-suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "riverfront-lowlands",
+  "economy_type": "healthcare-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "high-growth",
+  "service_environment": "augusta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Martinez",
+  "slug": "martinez-ga",
+  "county": "Columbia County",
+  "population": 35000,
+  "zip_codes": ["30907"],
+  "landmarks": [
+    "Reed Creek Nature Park",
+    "Patriots Park",
+    "Savannah Rapids Pavilion",
+    "Martinez-Evans Corridor",
+    "Blanchard Woods Area"
+  ],
+  "nearby_cities": [
+    {"name":"Evans","slug":"evans-ga"},
+    {"name":"Augusta","slug":"augusta-ga"},
+    {"name":"Grovetown","slug":"grovetown-ga"},
+    {"name":"North Augusta","slug":"north-augusta-sc"},
+    {"name":"Harlem","slug":"harlem-ga"}
+  ],
+  "city_type": "augusta-metro-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "riverfront-lowlands",
+  "economy_type": "healthcare-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "augusta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Grovetown",
+  "slug": "grovetown-ga",
+  "county": "Columbia County",
+  "population": 21000,
+  "zip_codes": ["30813"],
+  "landmarks": [
+    "Liberty Park",
+    "Gateway Park",
+    "Euchee Creek Trail",
+    "Downtown Grovetown",
+    "Fort Eisenhower Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Augusta","slug":"augusta-ga"},
+    {"name":"Evans","slug":"evans-ga"},
+    {"name":"Martinez","slug":"martinez-ga"},
+    {"name":"Harlem","slug":"harlem-ga"},
+    {"name":"North Augusta","slug":"north-augusta-sc"}
+  ],
+  "city_type": "military-growth-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-lowlands",
+  "economy_type": "military-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "augusta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Winder",
+  "slug": "winder-ga",
+  "county": "Barrow County",
+  "population": 20000,
+  "zip_codes": ["30680"],
+  "landmarks": [
+    "Jug Tavern Park",
+    "Fort Yargo State Park",
+    "Downtown Winder",
+    "Barrow County Museum",
+    "Veterans Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Athens","slug":"athens-ga"},
+    {"name":"Monroe","slug":"monroe-ga"},
+    {"name":"Dacula","slug":"dacula-ga"},
+    {"name":"Lawrenceville","slug":"lawrenceville-ga"},
+    {"name":"Loganville","slug":"loganville-ga"}
+  ],
+  "city_type": "regional-service-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-hills",
+  "economy_type": "government-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "east-georgia-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lithonia",
+  "slug": "lithonia-ga",
+  "county": "DeKalb County",
+  "population": 24000,
+  "zip_codes": ["30038","30058"],
+  "landmarks": [
+    "Arabia Mountain",
+    "Lithonia Downtown District",
+    "Panola Mountain Area",
+    "Davidson-Arabia Preserve",
+    "Lithonia Plaza"
+  ],
+  "nearby_cities": [
+    {"name":"Stone Mountain","slug":"stone-mountain-ga"},
+    {"name":"Conyers","slug":"conyers-ga"},
+    {"name":"Decatur","slug":"decatur-ga"},
+    {"name":"Atlanta","slug":"atlanta-ga"},
+    {"name":"Snellville","slug":"snellville-ga"}
+  ],
+  "city_type": "east-atlanta-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "granite-highlands",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "atlanta-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Port Wentworth",
+  "slug": "port-wentworth-ga",
+  "county": "Chatham County",
+  "population": 22000,
+  "zip_codes": ["31407"],
+  "landmarks": [
+    "Georgia Ports Area",
+    "Rice Creek",
+    "Port Wentworth Industrial District",
+    "Savannah River Corridor",
+    "Anchor Park"
+  ],
+  "nearby_cities": [
+    {"name":"Savannah","slug":"savannah-ga"},
+    {"name":"Pooler","slug":"pooler-ga"},
+    {"name":"Richmond Hill","slug":"richmond-hill-ga"},
+    {"name":"Garden City","slug":"garden-city-ga"},
+    {"name":"Statesboro","slug":"statesboro-ga"}
+  ],
+  "city_type": "port-logistics-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plains",
+  "economy_type": "logistics-distribution",
+  "housing_profile": "family-residential",
+  "growth_pattern": "industrial-growth",
+  "service_environment": "coastal-georgia-market",
+  "property_mix": "mixed-use"
+}
+
+]

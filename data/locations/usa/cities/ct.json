@@ -1,0 +1,1048 @@
+[
+{
+  "city": "Bridgeport",
+  "slug": "bridgeport-ct",
+  "county": "Fairfield County",
+  "population": 149000,
+  "zip_codes": ["06604","06605","06606","06607","06608","06610"],
+  "landmarks": [
+    "Seaside Park",
+    "Beardsley Zoo",
+    "Hartford HealthCare Amphitheater",
+    "Bridgeport Harbor",
+    "Downtown Bridgeport"
+  ],
+  "nearby_cities": [
+    {"name":"Fairfield","slug":"fairfield-ct"},
+    {"name":"Stratford","slug":"stratford-ct"},
+    {"name":"Trumbull","slug":"trumbull-ct"},
+    {"name":"Milford","slug":"milford-ct"},
+    {"name":"Norwalk","slug":"norwalk-ct"}
+  ],
+  "city_type": "coastal-metro-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plain",
+  "economy_type": "healthcare-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "fairfield-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "New Haven",
+  "slug": "new-haven-ct",
+  "county": "New Haven County",
+  "population": 135000,
+  "zip_codes": ["06510","06511","06512","06513","06515"],
+  "landmarks": [
+    "Yale University",
+    "New Haven Green",
+    "Wooster Square",
+    "Peabody Museum",
+    "Long Wharf"
+  ],
+  "nearby_cities": [
+    {"name":"Hamden","slug":"hamden-ct"},
+    {"name":"West Haven","slug":"west-haven-ct"},
+    {"name":"East Haven","slug":"east-haven-ct"},
+    {"name":"Milford","slug":"milford-ct"},
+    {"name":"North Haven","slug":"north-haven-ct"}
+  ],
+  "city_type": "university-anchor-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-lowlands",
+  "economy_type": "education-healthcare",
+  "housing_profile": "urban-mixed",
+  "growth_pattern": "institutional-growth",
+  "service_environment": "new-haven-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Stamford",
+  "slug": "stamford-ct",
+  "county": "Fairfield County",
+  "population": 137000,
+  "zip_codes": ["06901","06902","06903","06905","06907"],
+  "landmarks": [
+    "Harbor Point",
+    "Mill River Park",
+    "Stamford Town Center",
+    "Cove Island Park",
+    "Downtown Stamford"
+  ],
+  "nearby_cities": [
+    {"name":"Norwalk","slug":"norwalk-ct"},
+    {"name":"Greenwich","slug":"greenwich-ct"},
+    {"name":"Darien","slug":"darien-ct"},
+    {"name":"New Canaan","slug":"new-canaan-ct"},
+    {"name":"Bridgeport","slug":"bridgeport-ct"}
+  ],
+  "city_type": "finance-corporate-center",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plain",
+  "economy_type": "finance-business-services",
+  "housing_profile": "professional-residential",
+  "growth_pattern": "business-growth",
+  "service_environment": "fairfield-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Hartford",
+  "slug": "hartford-ct",
+  "county": "Hartford County",
+  "population": 121000,
+  "zip_codes": ["06103","06105","06106","06112","06114"],
+  "landmarks": [
+    "Bushnell Park",
+    "Connecticut State Capitol",
+    "XL Center",
+    "Wadsworth Atheneum",
+    "Connecticut Riverfront"
+  ],
+  "nearby_cities": [
+    {"name":"West Hartford","slug":"west-hartford-ct"},
+    {"name":"East Hartford","slug":"east-hartford-ct"},
+    {"name":"New Britain","slug":"new-britain-ct"},
+    {"name":"Wethersfield","slug":"wethersfield-ct"},
+    {"name":"Manchester","slug":"manchester-ct"}
+  ],
+  "city_type": "state-capital-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "government-insurance",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "hartford-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Waterbury",
+  "slug": "waterbury-ct",
+  "county": "New Haven County",
+  "population": 114000,
+  "zip_codes": ["06702","06704","06705","06706","06708"],
+  "landmarks": [
+    "Palace Theater",
+    "Holy Land USA",
+    "Mattatuck Museum",
+    "Waterbury Green",
+    "Municipal Stadium"
+  ],
+  "nearby_cities": [
+    {"name":"Naugatuck","slug":"naugatuck-ct"},
+    {"name":"Cheshire","slug":"cheshire-ct"},
+    {"name":"Wolcott","slug":"wolcott-ct"},
+    {"name":"Middlebury","slug":"middlebury-ct"},
+    {"name":"Southington","slug":"southington-ct"}
+  ],
+  "city_type": "historic-industrial-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "healthcare-manufacturing",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "waterbury-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Norwalk",
+  "slug": "norwalk-ct",
+  "county": "Fairfield County",
+  "population": 92000,
+  "zip_codes": ["06850","06851","06853","06854","06855"],
+  "landmarks": [
+    "The Maritime Aquarium",
+    "Calf Pasture Beach",
+    "SoNo District",
+    "Veterans Memorial Park",
+    "Sheffield Island Lighthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Stamford","slug":"stamford-ct"},
+    {"name":"Westport","slug":"westport-ct"},
+    {"name":"Darien","slug":"darien-ct"},
+    {"name":"Wilton","slug":"wilton-ct"},
+    {"name":"Bridgeport","slug":"bridgeport-ct"}
+  ],
+  "city_type": "coastal-business-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plain",
+  "economy_type": "finance-services",
+  "housing_profile": "professional-residential",
+  "growth_pattern": "business-growth",
+  "service_environment": "fairfield-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Danbury",
+  "slug": "danbury-ct",
+  "county": "Fairfield County",
+  "population": 87000,
+  "zip_codes": ["06810","06811"],
+  "landmarks": [
+    "Candlewood Lake",
+    "Danbury Fair Mall",
+    "Tarrywile Park",
+    "Western Connecticut State University",
+    "Danbury Railway Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Bethel","slug":"bethel-ct"},
+    {"name":"Newtown","slug":"newtown-ct"},
+    {"name":"Ridgefield","slug":"ridgefield-ct"},
+    {"name":"Brookfield","slug":"brookfield-ct"},
+    {"name":"New Milford","slug":"new-milford-ct"}
+  ],
+  "city_type": "regional-commercial-center",
+  "climate_zone": "humid-continental",
+  "terrain": "hills-lakes",
+  "economy_type": "retail-healthcare",
+  "housing_profile": "family-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "western-connecticut-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "New Britain",
+  "slug": "new-britain-ct",
+  "county": "Hartford County",
+  "population": 74000,
+  "zip_codes": ["06051","06052","06053"],
+  "landmarks": [
+    "Walnut Hill Park",
+    "New Britain Museum of American Art",
+    "Central Connecticut State University",
+    "Downtown New Britain",
+    "New Britain Stadium"
+  ],
+  "nearby_cities": [
+    {"name":"Hartford","slug":"hartford-ct"},
+    {"name":"West Hartford","slug":"west-hartford-ct"},
+    {"name":"Plainville","slug":"plainville-ct"},
+    {"name":"Farmington","slug":"farmington-ct"},
+    {"name":"Southington","slug":"southington-ct"}
+  ],
+  "city_type": "education-industrial-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "education-healthcare",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "hartford-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "West Hartford",
+  "slug": "west-hartford-ct",
+  "county": "Hartford County",
+  "population": 64000,
+  "zip_codes": ["06107","06110","06117","06119"],
+  "landmarks": [
+    "West Hartford Center",
+    "Blue Back Square",
+    "Elizabeth Park",
+    "University of Hartford",
+    "Fernridge Park"
+  ],
+  "nearby_cities": [
+    {"name":"Hartford","slug":"hartford-ct"},
+    {"name":"New Britain","slug":"new-britain-ct"},
+    {"name":"Farmington","slug":"farmington-ct"},
+    {"name":"Bloomfield","slug":"bloomfield-ct"},
+    {"name":"Newington","slug":"newington-ct"}
+  ],
+  "city_type": "upscale-suburban-center",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "professional-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "premium-growth",
+  "service_environment": "hartford-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Greenwich",
+  "slug": "greenwich-ct",
+  "county": "Fairfield County",
+  "population": 63000,
+  "zip_codes": ["06830","06831","06870","06878"],
+  "landmarks": [
+    "Greenwich Avenue",
+    "Bruce Museum",
+    "Greenwich Point Park",
+    "Binney Park",
+    "Tod's Point"
+  ],
+  "nearby_cities": [
+    {"name":"Stamford","slug":"stamford-ct"},
+    {"name":"Darien","slug":"darien-ct"},
+    {"name":"New Canaan","slug":"new-canaan-ct"},
+    {"name":"Norwalk","slug":"norwalk-ct"},
+    {"name":"Port Chester","slug":"port-chester-ny"}
+  ],
+  "city_type": "financial-affluent-community",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plain",
+  "economy_type": "finance-investment",
+  "housing_profile": "luxury-residential",
+  "growth_pattern": "premium-growth",
+  "service_environment": "fairfield-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Bristol",
+  "slug": "bristol-ct",
+  "county": "Hartford County",
+  "population": 60000,
+  "zip_codes": ["06010"],
+  "landmarks": [
+    "Lake Compounce",
+    "ESPN Headquarters",
+    "Rockwell Park",
+    "American Clock Museum",
+    "Muzzy Field"
+  ],
+  "nearby_cities": [
+    {"name":"New Britain","slug":"new-britain-ct"},
+    {"name":"Southington","slug":"southington-ct"},
+    {"name":"Plainville","slug":"plainville-ct"},
+    {"name":"Farmington","slug":"farmington-ct"},
+    {"name":"Waterbury","slug":"waterbury-ct"}
+  ],
+  "city_type": "media-recreation-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "media-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "hartford-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Meriden",
+  "slug": "meriden-ct",
+  "county": "New Haven County",
+  "population": 61000,
+  "zip_codes": ["06450","06451"],
+  "landmarks": [
+    "Hubbard Park",
+    "Castle Craig",
+    "Meriden Green",
+    "Giuffrida Park",
+    "Downtown Meriden"
+  ],
+  "nearby_cities": [
+    {"name":"Wallingford","slug":"wallingford-ct"},
+    {"name":"Middletown","slug":"middletown-ct"},
+    {"name":"Southington","slug":"southington-ct"},
+    {"name":"Cheshire","slug":"cheshire-ct"},
+    {"name":"New Britain","slug":"new-britain-ct"}
+  ],
+  "city_type": "central-connecticut-hub",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "manufacturing-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "central-connecticut-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Milford",
+  "slug": "milford-ct",
+  "county": "New Haven County",
+  "population": 50000,
+  "zip_codes": ["06460","06461"],
+  "landmarks": [
+    "Silver Sands State Park",
+    "Walnut Beach",
+    "Milford Green",
+    "Connecticut Audubon Center",
+    "Downtown Milford"
+  ],
+  "nearby_cities": [
+    {"name":"Bridgeport","slug":"bridgeport-ct"},
+    {"name":"Stratford","slug":"stratford-ct"},
+    {"name":"Orange","slug":"orange-ct"},
+    {"name":"West Haven","slug":"west-haven-ct"},
+    {"name":"New Haven","slug":"new-haven-ct"}
+  ],
+  "city_type": "coastal-residential-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plain",
+  "economy_type": "retail-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "new-haven-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "West Haven",
+  "slug": "west-haven-ct",
+  "county": "New Haven County",
+  "population": 55000,
+  "zip_codes": ["06516"],
+  "landmarks": [
+    "West Haven Beach",
+    "Savin Rock Park",
+    "Old Grove Park",
+    "University of New Haven",
+    "Bradley Point"
+  ],
+  "nearby_cities": [
+    {"name":"New Haven","slug":"new-haven-ct"},
+    {"name":"Milford","slug":"milford-ct"},
+    {"name":"Orange","slug":"orange-ct"},
+    {"name":"East Haven","slug":"east-haven-ct"},
+    {"name":"Hamden","slug":"hamden-ct"}
+  ],
+  "city_type": "coastal-university-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plain",
+  "economy_type": "education-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "new-haven-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Middletown",
+  "slug": "middletown-ct",
+  "county": "Middlesex County",
+  "population": 47000,
+  "zip_codes": ["06457"],
+  "landmarks": [
+    "Wesleyan University",
+    "Main Street Historic District",
+    "Harbor Park",
+    "Kidcity Children's Museum",
+    "Connecticut River Waterfront"
+  ],
+  "nearby_cities": [
+    {"name":"Meriden","slug":"meriden-ct"},
+    {"name":"New Britain","slug":"new-britain-ct"},
+    {"name":"Wallingford","slug":"wallingford-ct"},
+    {"name":"Cromwell","slug":"cromwell-ct"},
+    {"name":"Hartford","slug":"hartford-ct"}
+  ],
+  "city_type": "riverfront-university-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "education-healthcare",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "institutional-growth",
+  "service_environment": "central-connecticut-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Manchester",
+  "slug": "manchester-ct",
+  "county": "Hartford County",
+  "population": 59000,
+  "zip_codes": ["06040","06042"],
+  "landmarks": [
+    "Wickham Park",
+    "The Shoppes at Buckland Hills",
+    "Case Mountain",
+    "Charter Oak Park",
+    "Downtown Manchester"
+  ],
+  "nearby_cities": [
+    {"name":"Hartford","slug":"hartford-ct"},
+    {"name":"East Hartford","slug":"east-hartford-ct"},
+    {"name":"South Windsor","slug":"south-windsor-ct"},
+    {"name":"Vernon","slug":"vernon-ct"},
+    {"name":"Glastonbury","slug":"glastonbury-ct"}
+  ],
+  "city_type": "regional-commercial-center",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "retail-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "hartford-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Hamden",
+  "slug": "hamden-ct",
+  "county": "New Haven County",
+  "population": 62000,
+  "zip_codes": ["06514","06517","06518"],
+  "landmarks": [
+    "Sleeping Giant State Park",
+    "Quinnipiac University",
+    "Town Center Park",
+    "Farmington Canal Trail",
+    "Hamden Historical Society"
+  ],
+  "nearby_cities": [
+    {"name":"New Haven","slug":"new-haven-ct"},
+    {"name":"North Haven","slug":"north-haven-ct"},
+    {"name":"Wallingford","slug":"wallingford-ct"},
+    {"name":"West Haven","slug":"west-haven-ct"},
+    {"name":"East Haven","slug":"east-haven-ct"}
+  ],
+  "city_type": "university-suburban-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "education-healthcare",
+  "housing_profile": "family-residential",
+  "growth_pattern": "institutional-growth",
+  "service_environment": "new-haven-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Stratford",
+  "slug": "stratford-ct",
+  "county": "Fairfield County",
+  "population": 52000,
+  "zip_codes": ["06614","06615"],
+  "landmarks": [
+    "Short Beach",
+    "Roosevelt Forest",
+    "Boothe Memorial Park",
+    "Stratford Point",
+    "Downtown Stratford"
+  ],
+  "nearby_cities": [
+    {"name":"Bridgeport","slug":"bridgeport-ct"},
+    {"name":"Milford","slug":"milford-ct"},
+    {"name":"Trumbull","slug":"trumbull-ct"},
+    {"name":"Fairfield","slug":"fairfield-ct"},
+    {"name":"Shelton","slug":"shelton-ct"}
+  ],
+  "city_type": "coastal-residential-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plain",
+  "economy_type": "services-manufacturing",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "fairfield-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "East Hartford",
+  "slug": "east-hartford-ct",
+  "county": "Hartford County",
+  "population": 51000,
+  "zip_codes": ["06108","06118"],
+  "landmarks": [
+    "Rentschler Field",
+    "Great River Park",
+    "Pratt & Whitney Campus",
+    "Founders Plaza",
+    "Hockanum River Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Hartford","slug":"hartford-ct"},
+    {"name":"Manchester","slug":"manchester-ct"},
+    {"name":"South Windsor","slug":"south-windsor-ct"},
+    {"name":"Glastonbury","slug":"glastonbury-ct"},
+    {"name":"Wethersfield","slug":"wethersfield-ct"}
+  ],
+  "city_type": "riverfront-industrial-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "aerospace-manufacturing",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "hartford-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Enfield",
+  "slug": "enfield-ct",
+  "county": "Hartford County",
+  "population": 44000,
+  "zip_codes": ["06082"],
+  "landmarks": [
+    "Enfield Square",
+    "Scantic River State Park",
+    "Freshwater Pond Park",
+    "Powder Hollow Park",
+    "Historic Thompsonville"
+  ],
+  "nearby_cities": [
+    {"name":"Windsor Locks","slug":"windsor-locks-ct"},
+    {"name":"East Windsor","slug":"east-windsor-ct"},
+    {"name":"Manchester","slug":"manchester-ct"},
+    {"name":"Hartford","slug":"hartford-ct"},
+    {"name":"Springfield","slug":"springfield-ma"}
+  ],
+  "city_type": "interstate-corridor-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "logistics-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "hartford-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Southington",
+  "slug": "southington-ct",
+  "county": "Hartford County",
+  "population": 44000,
+  "zip_codes": ["06489"],
+  "landmarks": [
+    "Mount Southington",
+    "Crescent Lake",
+    "Panthorn Park",
+    "Downtown Southington",
+    "Rails to Trails Greenway"
+  ],
+  "nearby_cities": [
+    {"name":"Bristol","slug":"bristol-ct"},
+    {"name":"Meriden","slug":"meriden-ct"},
+    {"name":"New Britain","slug":"new-britain-ct"},
+    {"name":"Waterbury","slug":"waterbury-ct"},
+    {"name":"Plainville","slug":"plainville-ct"}
+  ],
+  "city_type": "central-connecticut-community",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "manufacturing-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "steady-growth",
+  "service_environment": "hartford-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Wallingford",
+  "slug": "wallingford-ct",
+  "county": "New Haven County",
+  "population": 45000,
+  "zip_codes": ["06492"],
+  "landmarks": [
+    "Choate Rosemary Hall",
+    "Community Lake",
+    "Paradise Hills Vineyard",
+    "Wallingford Center",
+    "Paul Mellon Arts Center"
+  ],
+  "nearby_cities": [
+    {"name":"Meriden","slug":"meriden-ct"},
+    {"name":"Hamden","slug":"hamden-ct"},
+    {"name":"North Haven","slug":"north-haven-ct"},
+    {"name":"Middletown","slug":"middletown-ct"},
+    {"name":"Cheshire","slug":"cheshire-ct"}
+  ],
+  "city_type": "regional-service-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "utilities-manufacturing",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "new-haven-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Cheshire",
+  "slug": "cheshire-ct",
+  "county": "New Haven County",
+  "population": 29000,
+  "zip_codes": ["06410"],
+  "landmarks": [
+    "Bartlem Park",
+    "Farmington Canal Trail",
+    "Lock 12 Historic Park",
+    "Cheshire Community Pool",
+    "Town Green"
+  ],
+  "nearby_cities": [
+    {"name":"Wallingford","slug":"wallingford-ct"},
+    {"name":"Waterbury","slug":"waterbury-ct"},
+    {"name":"Meriden","slug":"meriden-ct"},
+    {"name":"Hamden","slug":"hamden-ct"},
+    {"name":"Southington","slug":"southington-ct"}
+  ],
+  "city_type": "high-amenity-suburb",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "professional-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "premium-growth",
+  "service_environment": "new-haven-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Trumbull",
+  "slug": "trumbull-ct",
+  "county": "Fairfield County",
+  "population": 37000,
+  "zip_codes": ["06611"],
+  "landmarks": [
+    "Indian Ledge Park",
+    "Twin Brooks Park",
+    "Trumbull Mall",
+    "Pequonnock River Trail",
+    "Nichols Historic District"
+  ],
+  "nearby_cities": [
+    {"name":"Bridgeport","slug":"bridgeport-ct"},
+    {"name":"Stratford","slug":"stratford-ct"},
+    {"name":"Fairfield","slug":"fairfield-ct"},
+    {"name":"Shelton","slug":"shelton-ct"},
+    {"name":"Monroe","slug":"monroe-ct"}
+  ],
+  "city_type": "suburban-residential-center",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "retail-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "stable-growth",
+  "service_environment": "fairfield-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Naugatuck",
+  "slug": "naugatuck-ct",
+  "county": "New Haven County",
+  "population": 32000,
+  "zip_codes": ["06770"],
+  "landmarks": [
+    "Naugatuck Green",
+    "Hop Brook Lake",
+    "Linden Park",
+    "Naugatuck State Forest",
+    "Historic Railroad Station"
+  ],
+  "nearby_cities": [
+    {"name":"Waterbury","slug":"waterbury-ct"},
+    {"name":"Beacon Falls","slug":"beacon-falls-ct"},
+    {"name":"Cheshire","slug":"cheshire-ct"},
+    {"name":"Middlebury","slug":"middlebury-ct"},
+    {"name":"Seymour","slug":"seymour-ct"}
+  ],
+  "city_type": "river-valley-community",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "manufacturing-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "waterbury-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Fairfield",
+  "slug": "fairfield-ct",
+  "county": "Fairfield County",
+  "population": 62000,
+  "zip_codes": ["06824","06825"],
+  "landmarks": [
+    "Fairfield University",
+    "Jennings Beach",
+    "Lake Mohegan",
+    "Downtown Fairfield",
+    "Penfield Beach"
+  ],
+  "nearby_cities": [
+    {"name":"Bridgeport","slug":"bridgeport-ct"},
+    {"name":"Trumbull","slug":"trumbull-ct"},
+    {"name":"Stratford","slug":"stratford-ct"},
+    {"name":"Westport","slug":"westport-ct"},
+    {"name":"Norwalk","slug":"norwalk-ct"}
+  ],
+  "city_type": "coastal-university-community",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plain",
+  "economy_type": "education-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "premium-growth",
+  "service_environment": "fairfield-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Shelton",
+  "slug": "shelton-ct",
+  "county": "Fairfield County",
+  "population": 41000,
+  "zip_codes": ["06484"],
+  "landmarks": [
+    "Indian Well State Park",
+    "Shelton Riverwalk",
+    "Jones Family Farms",
+    "Veterans Memorial Park",
+    "Downtown Shelton"
+  ],
+  "nearby_cities": [
+    {"name":"Trumbull","slug":"trumbull-ct"},
+    {"name":"Stratford","slug":"stratford-ct"},
+    {"name":"Bridgeport","slug":"bridgeport-ct"},
+    {"name":"Milford","slug":"milford-ct"},
+    {"name":"Monroe","slug":"monroe-ct"}
+  ],
+  "city_type": "corporate-growth-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "business-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "high-growth",
+  "service_environment": "fairfield-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Torrington",
+  "slug": "torrington-ct",
+  "county": "Litchfield County",
+  "population": 36000,
+  "zip_codes": ["06790"],
+  "landmarks": [
+    "Warner Theatre",
+    "Burr Pond State Park",
+    "Downtown Torrington",
+    "KidsPlay Museum",
+    "Coe Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Winsted","slug":"winsted-ct"},
+    {"name":"Litchfield","slug":"litchfield-ct"},
+    {"name":"Harwinton","slug":"harwinton-ct"},
+    {"name":"Bristol","slug":"bristol-ct"},
+    {"name":"Waterbury","slug":"waterbury-ct"}
+  ],
+  "city_type": "northwest-regional-center",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "healthcare-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "northwest-connecticut-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Newington",
+  "slug": "newington-ct",
+  "county": "Hartford County",
+  "population": 30000,
+  "zip_codes": ["06111"],
+  "landmarks": [
+    "Mill Pond Park",
+    "Cedar Mountain Preserve",
+    "Westfarms Area",
+    "Churchill Park",
+    "Downtown Newington"
+  ],
+  "nearby_cities": [
+    {"name":"West Hartford","slug":"west-hartford-ct"},
+    {"name":"Hartford","slug":"hartford-ct"},
+    {"name":"New Britain","slug":"new-britain-ct"},
+    {"name":"Wethersfield","slug":"wethersfield-ct"},
+    {"name":"Farmington","slug":"farmington-ct"}
+  ],
+  "city_type": "inner-ring-suburb",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "retail-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "stable-growth",
+  "service_environment": "hartford-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Vernon",
+  "slug": "vernon-ct",
+  "county": "Tolland County",
+  "population": 30000,
+  "zip_codes": ["06066"],
+  "landmarks": [
+    "Valley Falls Park",
+    "Rail Trail",
+    "Henry Park",
+    "New England Civil War Museum",
+    "Downtown Rockville"
+  ],
+  "nearby_cities": [
+    {"name":"Manchester","slug":"manchester-ct"},
+    {"name":"South Windsor","slug":"south-windsor-ct"},
+    {"name":"Ellington","slug":"ellington-ct"},
+    {"name":"Tolland","slug":"tolland-ct"},
+    {"name":"Hartford","slug":"hartford-ct"}
+  ],
+  "city_type": "regional-community-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-hills",
+  "economy_type": "services-retail",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "hartford-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Glastonbury",
+  "slug": "glastonbury-ct",
+  "county": "Hartford County",
+  "population": 35000,
+  "zip_codes": ["06033"],
+  "landmarks": [
+    "Riverfront Park",
+    "Glastonbury Hills Country Club",
+    "Addison Park",
+    "Cotton Hollow Preserve",
+    "Historic Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Hartford","slug":"hartford-ct"},
+    {"name":"East Hartford","slug":"east-hartford-ct"},
+    {"name":"Manchester","slug":"manchester-ct"},
+    {"name":"Wethersfield","slug":"wethersfield-ct"},
+    {"name":"Marlborough","slug":"marlborough-ct"}
+  ],
+  "city_type": "affluent-riverfront-community",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "professional-services",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "premium-growth",
+  "service_environment": "hartford-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "South Windsor",
+  "slug": "south-windsor-ct",
+  "county": "Hartford County",
+  "population": 27000,
+  "zip_codes": ["06074"],
+  "landmarks": [
+    "Nevers Park",
+    "Buckland Area",
+    "Major Michael Donnelly Land Preserve",
+    "Veterans Memorial Park",
+    "Town Center"
+  ],
+  "nearby_cities": [
+    {"name":"Manchester","slug":"manchester-ct"},
+    {"name":"East Hartford","slug":"east-hartford-ct"},
+    {"name":"Vernon","slug":"vernon-ct"},
+    {"name":"Enfield","slug":"enfield-ct"},
+    {"name":"Hartford","slug":"hartford-ct"}
+  ],
+  "city_type": "suburban-growth-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "retail-logistics",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "steady-growth",
+  "service_environment": "hartford-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Wethersfield",
+  "slug": "wethersfield-ct",
+  "county": "Hartford County",
+  "population": 27000,
+  "zip_codes": ["06109"],
+  "landmarks": [
+    "Old Wethersfield",
+    "Cove Park",
+    "Wethersfield Historical Society",
+    "Mill Woods Park",
+    "Broad Street Green"
+  ],
+  "nearby_cities": [
+    {"name":"Hartford","slug":"hartford-ct"},
+    {"name":"Newington","slug":"newington-ct"},
+    {"name":"East Hartford","slug":"east-hartford-ct"},
+    {"name":"Glastonbury","slug":"glastonbury-ct"},
+    {"name":"New Britain","slug":"new-britain-ct"}
+  ],
+  "city_type": "historic-riverfront-town",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "services-government",
+  "housing_profile": "family-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "hartford-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Norwich",
+  "slug": "norwich-ct",
+  "county": "New London County",
+  "population": 40000,
+  "zip_codes": ["06360"],
+  "landmarks": [
+    "Mohegan Park",
+    "Norwich Harbor",
+    "Leffingwell House Museum",
+    "Downtown Norwich",
+    "Yantic Falls"
+  ],
+  "nearby_cities": [
+    {"name":"Groton","slug":"groton-ct"},
+    {"name":"New London","slug":"new-london-ct"},
+    {"name":"Montville","slug":"montville-ct"},
+    {"name":"Waterford","slug":"waterford-ct"},
+    {"name":"Preston","slug":"preston-ct"}
+  ],
+  "city_type": "regional-river-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "healthcare-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "southeast-connecticut-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Groton",
+  "slug": "groton-ct",
+  "county": "New London County",
+  "population": 39000,
+  "zip_codes": ["06340","06349","06355"],
+  "landmarks": [
+    "Mystic Seaport",
+    "Submarine Force Museum",
+    "USS Nautilus",
+    "Eastern Point Beach",
+    "Downtown Mystic"
+  ],
+  "nearby_cities": [
+    {"name":"New London","slug":"new-london-ct"},
+    {"name":"Norwich","slug":"norwich-ct"},
+    {"name":"Stonington","slug":"stonington-ct"},
+    {"name":"Waterford","slug":"waterford-ct"},
+    {"name":"Ledyard","slug":"ledyard-ct"}
+  ],
+  "city_type": "naval-coastal-city",
+  "climate_zone": "humid-continental",
+  "terrain": "coastal-plain",
+  "economy_type": "defense-tourism",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "institutional-growth",
+  "service_environment": "southeast-connecticut-market",
+  "property_mix": "mixed-use"
+}
+]

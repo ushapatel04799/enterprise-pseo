@@ -1,0 +1,1109 @@
+[
+
+{
+  "city": "Ames",
+  "slug": "ames-ia",
+  "county": "Story County",
+  "population": 67000,
+  "zip_codes": ["50010","50011","50012","50013","50014"],
+  "landmarks": [
+    "Iowa State University",
+    "Reiman Gardens",
+    "Jack Trice Stadium",
+    "Ada Hayden Heritage Park",
+    "Downtown Ames"
+  ],
+  "nearby_cities": [
+    {"name":"Ankeny","slug":"ankeny-ia"},
+    {"name":"Des Moines","slug":"des-moines-ia"},
+    {"name":"Boone","slug":"boone-ia"},
+    {"name":"Nevada","slug":"nevada-ia"},
+    {"name":"Marshalltown","slug":"marshalltown-ia"}
+  ],
+  "city_type": "university-city",
+  "climate_zone": "humid-continental",
+  "terrain": "prairie-plains",
+  "economy_type": "education-research",
+  "housing_profile": "student-residential",
+  "growth_pattern": "institutional-growth",
+  "service_environment": "central-iowa-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Ankeny",
+  "slug": "ankeny-ia",
+  "county": "Polk County",
+  "population": 72000,
+  "zip_codes": ["50021","50023"],
+  "landmarks": [
+    "Prairie Ridge Sports Complex",
+    "High Trestle Trail Access",
+    "Ankeny Market Pavilion",
+    "Cascade Falls Aquatic Center",
+    "District at Prairie Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Des Moines","slug":"des-moines-ia"},
+    {"name":"Ames","slug":"ames-ia"},
+    {"name":"Johnston","slug":"johnston-ia"},
+    {"name":"Altoona","slug":"altoona-ia"},
+    {"name":"Urbandale","slug":"urbandale-ia"}
+  ],
+  "city_type": "high-growth-suburban-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-prairie",
+  "economy_type": "services-retail",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "des-moines-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Bettendorf",
+  "slug": "bettendorf-ia",
+  "county": "Scott County",
+  "population": 40000,
+  "zip_codes": ["52722"],
+  "landmarks": [
+    "Isle Casino",
+    "Veterans Memorial Park",
+    "Duck Creek Parkway",
+    "Downtown Bettendorf",
+    "Middle Park Lagoon"
+  ],
+  "nearby_cities": [
+    {"name":"Davenport","slug":"davenport-ia"},
+    {"name":"Moline","slug":"moline-il"},
+    {"name":"Rock Island","slug":"rock-island-il"},
+    {"name":"East Moline","slug":"east-moline-il"},
+    {"name":"Le Claire","slug":"le-claire-ia"}
+  ],
+  "city_type": "riverfront-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "healthcare-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "quad-cities-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Burlington",
+  "slug": "burlington-ia",
+  "county": "Des Moines County",
+  "population": 23000,
+  "zip_codes": ["52601"],
+  "landmarks": [
+    "Snake Alley",
+    "Port of Burlington",
+    "Downtown Burlington",
+    "Crapo Park",
+    "Memorial Auditorium"
+  ],
+  "nearby_cities": [
+    {"name":"Fort Madison","slug":"fort-madison-ia"},
+    {"name":"Mount Pleasant","slug":"mount-pleasant-ia"},
+    {"name":"Keokuk","slug":"keokuk-ia"},
+    {"name":"West Burlington","slug":"west-burlington-ia"},
+    {"name":"Galesburg","slug":"galesburg-il"}
+  ],
+  "city_type": "historic-river-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-bluffs",
+  "economy_type": "manufacturing-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southeast-iowa-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Cedar Falls",
+  "slug": "cedar-falls-ia",
+  "county": "Black Hawk County",
+  "population": 41000,
+  "zip_codes": ["50613"],
+  "landmarks": [
+    "University of Northern Iowa",
+    "Cedar Falls Downtown District",
+    "George Wyth State Park",
+    "Gallagher Bluedorn Center",
+    "Big Woods Lake"
+  ],
+  "nearby_cities": [
+    {"name":"Waterloo","slug":"waterloo-ia"},
+    {"name":"Waverly","slug":"waverly-ia"},
+    {"name":"Evansdale","slug":"evansdale-ia"},
+    {"name":"Hudson","slug":"hudson-ia"},
+    {"name":"Independence","slug":"independence-ia"}
+  ],
+  "city_type": "university-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-plains",
+  "economy_type": "education-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "institutional-growth",
+  "service_environment": "cedar-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Cedar Rapids",
+  "slug": "cedar-rapids-ia",
+  "county": "Linn County",
+  "population": 138000,
+  "zip_codes": ["52401","52402","52403","52404","52405"],
+  "landmarks": [
+    "Czech Village",
+    "NewBo City Market",
+    "Paramount Theatre",
+    "Brucemore Estate",
+    "Cedar River District"
+  ],
+  "nearby_cities": [
+    {"name":"Marion","slug":"marion-ia"},
+    {"name":"Hiawatha","slug":"hiawatha-ia"},
+    {"name":"Coralville","slug":"coralville-ia"},
+    {"name":"Iowa City","slug":"iowa-city-ia"},
+    {"name":"Mount Vernon","slug":"mount-vernon-ia"}
+  ],
+  "city_type": "regional-hub-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "manufacturing-technology",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "eastern-iowa-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Clive",
+  "slug": "clive-ia",
+  "county": "Polk County",
+  "population": 19000,
+  "zip_codes": ["50325"],
+  "landmarks": [
+    "Greenbelt Trail",
+    "Clive Aquatic Center",
+    "Campbell Park",
+    "Clive Festival Grounds",
+    "Walnut Creek Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Des Moines","slug":"des-moines-ia"},
+    {"name":"Urbandale","slug":"urbandale-ia"},
+    {"name":"Waukee","slug":"waukee-ia"},
+    {"name":"West Des Moines","slug":"west-des-moines-ia"},
+    {"name":"Johnston","slug":"johnston-ia"}
+  ],
+  "city_type": "suburban-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-prairie",
+  "economy_type": "services-retail",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "steady-growth",
+  "service_environment": "des-moines-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Coralville",
+  "slug": "coralville-ia",
+  "county": "Johnson County",
+  "population": 23000,
+  "zip_codes": ["52241"],
+  "landmarks": [
+    "Coral Ridge Mall",
+    "Xtream Arena",
+    "Iowa River Landing",
+    "Coralville Reservoir",
+    "S.T. Morrison Park"
+  ],
+  "nearby_cities": [
+    {"name":"Iowa City","slug":"iowa-city-ia"},
+    {"name":"North Liberty","slug":"north-liberty-ia"},
+    {"name":"Cedar Rapids","slug":"cedar-rapids-ia"},
+    {"name":"Tiffin","slug":"tiffin-ia"},
+    {"name":"University Heights","slug":"university-heights-ia"}
+  ],
+  "city_type": "university-market-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "retail-hospitality",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "iowa-city-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Council Bluffs",
+  "slug": "council-bluffs-ia",
+  "county": "Pottawattamie County",
+  "population": 63000,
+  "zip_codes": ["51501","51503"],
+  "landmarks": [
+    "Mid-America Center",
+    "Horseshoe Casino",
+    "Lake Manawa State Park",
+    "Union Pacific Museum",
+    "Bob Kerrey Pedestrian Bridge"
+  ],
+  "nearby_cities": [
+    {"name":"Omaha","slug":"omaha-ne"},
+    {"name":"Bellevue","slug":"bellevue-ne"},
+    {"name":"Carter Lake","slug":"carter-lake-ia"},
+    {"name":"Papillion","slug":"papillion-ne"},
+    {"name":"La Vista","slug":"la-vista-ne"}
+  ],
+  "city_type": "riverfront-metro-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-bluffs",
+  "economy_type": "logistics-gaming",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "omaha-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Davenport",
+  "slug": "davenport-ia",
+  "county": "Scott County",
+  "population": 102000,
+  "zip_codes": ["52801","52802","52803","52804","52806","52807"],
+  "landmarks": [
+    "Figge Art Museum",
+    "River Music Experience",
+    "Vander Veer Botanical Park",
+    "Modern Woodmen Park",
+    "Mississippi Riverfront"
+  ],
+  "nearby_cities": [
+    {"name":"Bettendorf","slug":"bettendorf-ia"},
+    {"name":"Moline","slug":"moline-il"},
+    {"name":"Rock Island","slug":"rock-island-il"},
+    {"name":"East Moline","slug":"east-moline-il"},
+    {"name":"Le Claire","slug":"le-claire-ia"}
+  ],
+  "city_type": "regional-hub-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "healthcare-manufacturing",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "quad-cities-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Des Moines",
+  "slug": "des-moines-ia",
+  "county": "Polk County",
+  "population": 215000,
+  "zip_codes": ["50309","50310","50311","50312","50313","50314"],
+  "landmarks": [
+    "Iowa State Capitol",
+    "Pappajohn Sculpture Park",
+    "Principal Park",
+    "East Village",
+    "Gray's Lake Park"
+  ],
+  "nearby_cities": [
+    {"name":"Ankeny","slug":"ankeny-ia"},
+    {"name":"West Des Moines","slug":"west-des-moines-ia"},
+    {"name":"Urbandale","slug":"urbandale-ia"},
+    {"name":"Johnston","slug":"johnston-ia"},
+    {"name":"Altoona","slug":"altoona-ia"}
+  ],
+  "city_type": "state-capital-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "finance-insurance",
+  "housing_profile": "urban-high-density",
+  "growth_pattern": "metro-growth",
+  "service_environment": "des-moines-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Dubuque",
+  "slug": "dubuque-ia",
+  "county": "Dubuque County",
+  "population": 60000,
+  "zip_codes": ["52001","52002","52003"],
+  "landmarks": [
+    "National Mississippi River Museum",
+    "Fenelon Place Elevator",
+    "Eagle Point Park",
+    "Five Flags Center",
+    "Historic Millwork District"
+  ],
+  "nearby_cities": [
+    {"name":"Asbury","slug":"asbury-ia"},
+    {"name":"Peosta","slug":"peosta-ia"},
+    {"name":"Platteville","slug":"platteville-wi"},
+    {"name":"Galena","slug":"galena-il"},
+    {"name":"East Dubuque","slug":"east-dubuque-il"}
+  ],
+  "city_type": "riverfront-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-bluffs",
+  "economy_type": "tourism-healthcare",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "northeast-iowa-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Iowa City",
+  "slug": "iowa-city-ia",
+  "county": "Johnson County",
+  "population": 76000,
+  "zip_codes": ["52240","52245","52246"],
+  "landmarks": [
+    "University of Iowa",
+    "Kinnick Stadium",
+    "Pedestrian Mall",
+    "Old Capitol Building",
+    "Hancher Auditorium"
+  ],
+  "nearby_cities": [
+    {"name":"Coralville","slug":"coralville-ia"},
+    {"name":"North Liberty","slug":"north-liberty-ia"},
+    {"name":"Tiffin","slug":"tiffin-ia"},
+    {"name":"Cedar Rapids","slug":"cedar-rapids-ia"},
+    {"name":"Solon","slug":"solon-ia"}
+  ],
+  "city_type": "college-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "education-healthcare",
+  "housing_profile": "student-professional-mix",
+  "growth_pattern": "institutional-growth",
+  "service_environment": "iowa-city-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Johnston",
+  "slug": "johnston-ia",
+  "county": "Polk County",
+  "population": 25000,
+  "zip_codes": ["50131"],
+  "landmarks": [
+    "Camp Dodge",
+    "Terra Lake Park",
+    "Johnston Commons",
+    "Green Meadows Park",
+    "Beaver Creek Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Des Moines","slug":"des-moines-ia"},
+    {"name":"Urbandale","slug":"urbandale-ia"},
+    {"name":"Ankeny","slug":"ankeny-ia"},
+    {"name":"Clive","slug":"clive-ia"},
+    {"name":"Grimes","slug":"grimes-ia"}
+  ],
+  "city_type": "suburban-growth-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-prairie",
+  "economy_type": "government-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "high-growth",
+  "service_environment": "des-moines-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Marion",
+  "slug": "marion-ia",
+  "county": "Linn County",
+  "population": 43000,
+  "zip_codes": ["52302"],
+  "landmarks": [
+    "Lowe Park",
+    "Thomas Park",
+    "Uptown Marion",
+    "Marion Square",
+    "Boyson Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Cedar Rapids","slug":"cedar-rapids-ia"},
+    {"name":"Hiawatha","slug":"hiawatha-ia"},
+    {"name":"Mount Vernon","slug":"mount-vernon-ia"},
+    {"name":"Robins","slug":"robins-ia"},
+    {"name":"Coralville","slug":"coralville-ia"}
+  ],
+  "city_type": "suburban-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "manufacturing-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "eastern-iowa-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "North Liberty",
+  "slug": "north-liberty-ia",
+  "county": "Johnson County",
+  "population": 22000,
+  "zip_codes": ["52317"],
+  "landmarks": [
+    "Penn Meadows Park",
+    "Centennial Park",
+    "Liberty Centre Pond",
+    "North Liberty Recreation Center",
+    "Penn Street District"
+  ],
+  "nearby_cities": [
+    {"name":"Iowa City","slug":"iowa-city-ia"},
+    {"name":"Coralville","slug":"coralville-ia"},
+    {"name":"Tiffin","slug":"tiffin-ia"},
+    {"name":"Cedar Rapids","slug":"cedar-rapids-ia"},
+    {"name":"Solon","slug":"solon-ia"}
+  ],
+  "city_type": "growth-suburban-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "services-retail",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "iowa-city-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sioux City",
+  "slug": "sioux-city-ia",
+  "county": "Woodbury County",
+  "population": 85000,
+  "zip_codes": ["51101","51103","51104","51105","51106"],
+  "landmarks": [
+    "Sergeant Floyd Monument",
+    "Tyson Events Center",
+    "Stone State Park",
+    "Sioux City Art Center",
+    "Lewis and Clark Interpretive Center"
+  ],
+  "nearby_cities": [
+    {"name":"South Sioux City","slug":"south-sioux-city-ne"},
+    {"name":"North Sioux City","slug":"north-sioux-city-sd"},
+    {"name":"Dakota City","slug":"dakota-city-ne"},
+    {"name":"Sergeant Bluff","slug":"sergeant-bluff-ia"},
+    {"name":"Le Mars","slug":"le-mars-ia"}
+  ],
+  "city_type": "regional-hub-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-bluffs",
+  "economy_type": "manufacturing-logistics",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "northwest-iowa-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Urbandale",
+  "slug": "urbandale-ia",
+  "county": "Polk County",
+  "population": 47000,
+  "zip_codes": ["50322","50323"],
+  "landmarks": [
+    "Walker Johnston Park",
+    "Living History Farms",
+    "Urbandale Town Center",
+    "Walnut Creek Regional Park",
+    "Karen Acres District"
+  ],
+  "nearby_cities": [
+    {"name":"Des Moines","slug":"des-moines-ia"},
+    {"name":"Johnston","slug":"johnston-ia"},
+    {"name":"Clive","slug":"clive-ia"},
+    {"name":"Waukee","slug":"waukee-ia"},
+    {"name":"Ankeny","slug":"ankeny-ia"}
+  ],
+  "city_type": "major-suburban-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-prairie",
+  "economy_type": "services-finance",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "metro-growth",
+  "service_environment": "des-moines-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Waterloo",
+  "slug": "waterloo-ia",
+  "county": "Black Hawk County",
+  "population": 67000,
+  "zip_codes": ["50701","50702","50703"],
+  "landmarks": [
+    "Lost Island Theme Park",
+    "John Deere Tractor Museum",
+    "Young Arena",
+    "Cedar Valley Arboretum",
+    "Downtown Waterloo"
+  ],
+  "nearby_cities": [
+    {"name":"Cedar Falls","slug":"cedar-falls-ia"},
+    {"name":"Evansdale","slug":"evansdale-ia"},
+    {"name":"Waverly","slug":"waverly-ia"},
+    {"name":"Hudson","slug":"hudson-ia"},
+    {"name":"Independence","slug":"independence-ia"}
+  ],
+  "city_type": "manufacturing-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-plains",
+  "economy_type": "manufacturing-logistics",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "cedar-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "West Des Moines",
+  "slug": "west-des-moines-ia",
+  "county": "Polk County",
+  "population": 71000,
+  "zip_codes": ["50265","50266"],
+  "landmarks": [
+    "Jordan Creek Town Center",
+    "Raccoon River Park",
+    "Valley Junction",
+    "West Glen District",
+    "Holiday Park"
+  ],
+  "nearby_cities": [
+    {"name":"Des Moines","slug":"des-moines-ia"},
+    {"name":"Clive","slug":"clive-ia"},
+    {"name":"Urbandale","slug":"urbandale-ia"},
+    {"name":"Waukee","slug":"waukee-ia"},
+    {"name":"Johnston","slug":"johnston-ia"}
+  ],
+  "city_type": "major-suburban-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-prairie",
+  "economy_type": "finance-retail",
+  "housing_profile": "high-income-residential",
+  "growth_pattern": "high-growth",
+  "service_environment": "des-moines-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Altoona",
+  "slug": "altoona-ia",
+  "county": "Polk County",
+  "population": 21000,
+  "zip_codes": ["50009"],
+  "landmarks": [
+    "Adventureland Resort",
+    "Prairie Meadows Casino",
+    "Outlets of Des Moines",
+    "Village Park",
+    "Downtown Altoona"
+  ],
+  "nearby_cities": [
+    {"name":"Des Moines","slug":"des-moines-ia"},
+    {"name":"Ankeny","slug":"ankeny-ia"},
+    {"name":"Pleasant Hill","slug":"pleasant-hill-ia"},
+    {"name":"Bondurant","slug":"bondurant-ia"},
+    {"name":"Johnston","slug":"johnston-ia"}
+  ],
+  "city_type": "entertainment-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-prairie",
+  "economy_type": "tourism-retail",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "des-moines-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Clinton",
+  "slug": "clinton-ia",
+  "county": "Clinton County",
+  "population": 25000,
+  "zip_codes": ["52732"],
+  "landmarks": [
+    "Eagle Point Park",
+    "Bickelhaupt Arboretum",
+    "Riverfront District",
+    "Clinton Area Showboat Theatre",
+    "Mississippi River Marina"
+  ],
+  "nearby_cities": [
+    {"name":"Davenport","slug":"davenport-ia"},
+    {"name":"Bettendorf","slug":"bettendorf-ia"},
+    {"name":"DeWitt","slug":"dewitt-ia"},
+    {"name":"Fulton","slug":"fulton-il"},
+    {"name":"Camanche","slug":"camanche-ia"}
+  ],
+  "city_type": "riverfront-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-bluffs",
+  "economy_type": "manufacturing-logistics",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "eastern-iowa-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Fort Dodge",
+  "slug": "fort-dodge-ia",
+  "county": "Webster County",
+  "population": 24000,
+  "zip_codes": ["50501"],
+  "landmarks": [
+    "Blanden Memorial Art Museum",
+    "Fort Museum",
+    "Kennedy Park",
+    "Downtown Fort Dodge",
+    "Soldier Creek Winery"
+  ],
+  "nearby_cities": [
+    {"name":"Ames","slug":"ames-ia"},
+    {"name":"Boone","slug":"boone-ia"},
+    {"name":"Webster City","slug":"webster-city-ia"},
+    {"name":"Humboldt","slug":"humboldt-ia"},
+    {"name":"Carroll","slug":"carroll-ia"}
+  ],
+  "city_type": "regional-hub-city",
+  "climate_zone": "humid-continental",
+  "terrain": "prairie-plains",
+  "economy_type": "manufacturing-agriculture",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "north-central-iowa-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Grimes",
+  "slug": "grimes-ia",
+  "county": "Polk County",
+  "population": 19000,
+  "zip_codes": ["50111"],
+  "landmarks": [
+    "Water Works Park",
+    "Grimes Sports Complex",
+    "South Prairie Trail",
+    "Grimes Community Complex",
+    "Heritage Park"
+  ],
+  "nearby_cities": [
+    {"name":"Johnston","slug":"johnston-ia"},
+    {"name":"Urbandale","slug":"urbandale-ia"},
+    {"name":"Des Moines","slug":"des-moines-ia"},
+    {"name":"Waukee","slug":"waukee-ia"},
+    {"name":"Ankeny","slug":"ankeny-ia"}
+  ],
+  "city_type": "growth-suburban-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-prairie",
+  "economy_type": "services-logistics",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "des-moines-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Marshalltown",
+  "slug": "marshalltown-ia",
+  "county": "Marshall County",
+  "population": 27000,
+  "zip_codes": ["50158"],
+  "landmarks": [
+    "Riverview Park",
+    "Fisher Community Center",
+    "Marshall County Courthouse",
+    "Downtown Marshalltown",
+    "Grimes Farm Conservation Area"
+  ],
+  "nearby_cities": [
+    {"name":"Ames","slug":"ames-ia"},
+    {"name":"Waterloo","slug":"waterloo-ia"},
+    {"name":"Nevada","slug":"nevada-ia"},
+    {"name":"Tama","slug":"tama-ia"},
+    {"name":"Toledo","slug":"toledo-ia"}
+  ],
+  "city_type": "regional-service-city",
+  "climate_zone": "humid-continental",
+  "terrain": "prairie-plains",
+  "economy_type": "manufacturing-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-iowa-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Mason City",
+  "slug": "mason-city-ia",
+  "county": "Cerro Gordo County",
+  "population": 27000,
+  "zip_codes": ["50401"],
+  "landmarks": [
+    "Music Man Square",
+    "Historic Park Inn Hotel",
+    "East Park",
+    "Mason City Riverwalk",
+    "North Iowa Events Center"
+  ],
+  "nearby_cities": [
+    {"name":"Clear Lake","slug":"clear-lake-ia"},
+    {"name":"Charles City","slug":"charles-city-ia"},
+    {"name":"Forest City","slug":"forest-city-ia"},
+    {"name":"Hampton","slug":"hampton-ia"},
+    {"name":"Albert Lea","slug":"albert-lea-mn"}
+  ],
+  "city_type": "regional-hub-city",
+  "climate_zone": "humid-continental",
+  "terrain": "prairie-plains",
+  "economy_type": "healthcare-manufacturing",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "north-iowa-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Muscatine",
+  "slug": "muscatine-ia",
+  "county": "Muscatine County",
+  "population": 24000,
+  "zip_codes": ["52761"],
+  "landmarks": [
+    "Mississippi Riverfront",
+    "Weed Park",
+    "Muscatine Art Center",
+    "Discovery Park",
+    "Downtown Muscatine"
+  ],
+  "nearby_cities": [
+    {"name":"Davenport","slug":"davenport-ia"},
+    {"name":"Bettendorf","slug":"bettendorf-ia"},
+    {"name":"Iowa City","slug":"iowa-city-ia"},
+    {"name":"West Liberty","slug":"west-liberty-ia"},
+    {"name":"Wilton","slug":"wilton-ia"}
+  ],
+  "city_type": "riverfront-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "manufacturing-logistics",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "eastern-iowa-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Ottumwa",
+  "slug": "ottumwa-ia",
+  "county": "Wapello County",
+  "population": 25000,
+  "zip_codes": ["52501"],
+  "landmarks": [
+    "Bridge View Center",
+    "Greater Ottumwa Park",
+    "Wapello County Courthouse",
+    "Ottumwa Riverwalk",
+    "Memorial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Oskaloosa","slug":"oskaloosa-ia"},
+    {"name":"Fairfield","slug":"fairfield-ia"},
+    {"name":"Albia","slug":"albia-ia"},
+    {"name":"Pella","slug":"pella-ia"},
+    {"name":"Knoxville","slug":"knoxville-ia"}
+  ],
+  "city_type": "regional-service-city",
+  "climate_zone": "humid-continental",
+  "terrain": "river-valley",
+  "economy_type": "manufacturing-healthcare",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southeast-iowa-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Spencer",
+  "slug": "spencer-ia",
+  "county": "Clay County",
+  "population": 22000,
+  "zip_codes": ["51301"],
+  "landmarks": [
+    "Clay County Fairgrounds",
+    "Riverview Park",
+    "Spencer Golf and Country Club",
+    "Downtown Spencer",
+    "Arts on Grand"
+  ],
+  "nearby_cities": [
+    {"name":"Storm Lake","slug":"storm-lake-ia"},
+    {"name":"Spirit Lake","slug":"spirit-lake-ia"},
+    {"name":"Estherville","slug":"estherville-ia"},
+    {"name":"Milford","slug":"milford-ia"},
+    {"name":"Sheldon","slug":"sheldon-ia"}
+  ],
+  "city_type": "regional-market-city",
+  "climate_zone": "humid-continental",
+  "terrain": "prairie-plains",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "northwest-iowa-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Waukee",
+  "slug": "waukee-ia",
+  "county": "Dallas County",
+  "population": 31000,
+  "zip_codes": ["50263"],
+  "landmarks": [
+    "Kettlestone District",
+    "Sugar Creek Municipal Golf Course",
+    "Centennial Park",
+    "Waukee Trailhead",
+    "Fox Creek Park"
+  ],
+  "nearby_cities": [
+    {"name":"West Des Moines","slug":"west-des-moines-ia"},
+    {"name":"Urbandale","slug":"urbandale-ia"},
+    {"name":"Clive","slug":"clive-ia"},
+    {"name":"Grimes","slug":"grimes-ia"},
+    {"name":"Des Moines","slug":"des-moines-ia"}
+  ],
+  "city_type": "high-growth-suburban-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-prairie",
+  "economy_type": "services-retail",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "hyper-growth",
+  "service_environment": "des-moines-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Bondurant",
+  "slug": "bondurant-ia",
+  "county": "Polk County",
+  "population": 23000,
+  "zip_codes": ["50035"],
+  "landmarks": [
+    "Chichaqua Valley Trail",
+    "Bondurant Regional Trailhead",
+    "Lake Petocka Area",
+    "Bondurant Community Center",
+    "Downtown Bondurant"
+  ],
+  "nearby_cities": [
+    {"name":"Altoona","slug":"altoona-ia"},
+    {"name":"Ankeny","slug":"ankeny-ia"},
+    {"name":"Des Moines","slug":"des-moines-ia"},
+    {"name":"Pleasant Hill","slug":"pleasant-hill-ia"},
+    {"name":"Mitchellville","slug":"mitchellville-ia"}
+  ],
+  "city_type": "growth-suburban-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-prairie",
+  "economy_type": "services-logistics",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "des-moines-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Hiawatha",
+  "slug": "hiawatha-ia",
+  "county": "Linn County",
+  "population": 21000,
+  "zip_codes": ["52233"],
+  "landmarks": [
+    "Guthridge Park",
+    "Tucker Park",
+    "Hiawatha City Hall Plaza",
+    "Boyson Trail",
+    "Downtown Hiawatha"
+  ],
+  "nearby_cities": [
+    {"name":"Cedar Rapids","slug":"cedar-rapids-ia"},
+    {"name":"Marion","slug":"marion-ia"},
+    {"name":"Robins","slug":"robins-ia"},
+    {"name":"Coralville","slug":"coralville-ia"},
+    {"name":"Iowa City","slug":"iowa-city-ia"}
+  ],
+  "city_type": "suburban-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "manufacturing-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "eastern-iowa-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Indianola",
+  "slug": "indianola-ia",
+  "county": "Warren County",
+  "population": 22000,
+  "zip_codes": ["50125"],
+  "landmarks": [
+    "Simpson College",
+    "National Balloon Classic Grounds",
+    "Downtown Indianola",
+    "Pickard Park",
+    "Buxton Park"
+  ],
+  "nearby_cities": [
+    {"name":"Des Moines","slug":"des-moines-ia"},
+    {"name":"Norwalk","slug":"norwalk-ia"},
+    {"name":"Carlisle","slug":"carlisle-ia"},
+    {"name":"Pleasant Hill","slug":"pleasant-hill-ia"},
+    {"name":"Altoona","slug":"altoona-ia"}
+  ],
+  "city_type": "college-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-prairie",
+  "economy_type": "education-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "des-moines-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Norwalk",
+  "slug": "norwalk-ia",
+  "county": "Warren County",
+  "population": 21000,
+  "zip_codes": ["50211"],
+  "landmarks": [
+    "McAninch Sports Complex",
+    "Warrior Run Golf Course",
+    "City State Bank Norwalk Fieldhouse",
+    "Brownie Park",
+    "Downtown Norwalk"
+  ],
+  "nearby_cities": [
+    {"name":"Des Moines","slug":"des-moines-ia"},
+    {"name":"West Des Moines","slug":"west-des-moines-ia"},
+    {"name":"Indianola","slug":"indianola-ia"},
+    {"name":"Clive","slug":"clive-ia"},
+    {"name":"Waukee","slug":"waukee-ia"}
+  ],
+  "city_type": "growth-suburban-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-prairie",
+  "economy_type": "services-retail",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "des-moines-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Pella",
+  "slug": "pella-ia",
+  "county": "Marion County",
+  "population": 23000,
+  "zip_codes": ["50219"],
+  "landmarks": [
+    "Vermeer Windmill",
+    "Molengracht Plaza",
+    "Central College",
+    "Sunken Gardens Park",
+    "Lake Red Rock Area"
+  ],
+  "nearby_cities": [
+    {"name":"Ottumwa","slug":"ottumwa-ia"},
+    {"name":"Indianola","slug":"indianola-ia"},
+    {"name":"Knoxville","slug":"knoxville-ia"},
+    {"name":"Oskaloosa","slug":"oskaloosa-ia"},
+    {"name":"Des Moines","slug":"des-moines-ia"}
+  ],
+  "city_type": "heritage-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-prairie",
+  "economy_type": "manufacturing-agriculture",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "central-iowa-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Pleasant Hill",
+  "slug": "pleasant-hill-ia",
+  "county": "Polk County",
+  "population": 22000,
+  "zip_codes": ["50327"],
+  "landmarks": [
+    "Copper Creek Lake Park",
+    "Doanes Park",
+    "Pleasant Hill City Hall",
+    "Four Mile Creek Greenway",
+    "Hickory Glen Park"
+  ],
+  "nearby_cities": [
+    {"name":"Des Moines","slug":"des-moines-ia"},
+    {"name":"Altoona","slug":"altoona-ia"},
+    {"name":"Bondurant","slug":"bondurant-ia"},
+    {"name":"Indianola","slug":"indianola-ia"},
+    {"name":"Ankeny","slug":"ankeny-ia"}
+  ],
+  "city_type": "suburban-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-prairie",
+  "economy_type": "services-retail",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "steady-growth",
+  "service_environment": "des-moines-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Tiffin",
+  "slug": "tiffin-ia",
+  "county": "Johnson County",
+  "population": 22000,
+  "zip_codes": ["52340"],
+  "landmarks": [
+    "Tiffin City Park",
+    "Clear Creek Trail",
+    "PinSeekers Recreation Complex",
+    "Downtown Tiffin",
+    "Tiffin Recreation Fields"
+  ],
+  "nearby_cities": [
+    {"name":"Coralville","slug":"coralville-ia"},
+    {"name":"Iowa City","slug":"iowa-city-ia"},
+    {"name":"North Liberty","slug":"north-liberty-ia"},
+    {"name":"Cedar Rapids","slug":"cedar-rapids-ia"},
+    {"name":"Oxford","slug":"oxford-ia"}
+  ],
+  "city_type": "high-growth-city",
+  "climate_zone": "humid-continental",
+  "terrain": "rolling-plains",
+  "economy_type": "services-construction",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "hyper-growth",
+  "service_environment": "iowa-city-market",
+  "property_mix": "mixed-use"
+}
+]

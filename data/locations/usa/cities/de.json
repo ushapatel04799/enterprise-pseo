@@ -1,0 +1,151 @@
+[
+{
+  "city": "Wilmington",
+  "slug": "wilmington-de",
+  "county": "New Castle County",
+  "population": 72000,
+  "zip_codes": ["19801","19802","19803","19805","19806","19808"],
+  "landmarks": [
+    "Riverfront Wilmington",
+    "Brandywine Park",
+    "Delaware Art Museum",
+    "Grand Opera House",
+    "Rodney Square"
+  ],
+  "nearby_cities": [
+    {"name":"Newark","slug":"newark-de"},
+    {"name":"New Castle","slug":"new-castle-de"},
+    {"name":"Bear","slug":"bear-de"},
+    {"name":"Middletown","slug":"middletown-de"},
+    {"name":"Elsmere","slug":"elsmere-de"}
+  ],
+  "city_type": "state-business-center",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plain",
+  "economy_type": "finance-corporate-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "metro-growth",
+  "service_environment": "new-castle-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Dover",
+  "slug": "dover-de",
+  "county": "Kent County",
+  "population": 40000,
+  "zip_codes": ["19901","19904"],
+  "landmarks": [
+    "Delaware State Capitol",
+    "Dover Motor Speedway",
+    "Air Mobility Command Museum",
+    "Legislative Hall",
+    "Silver Lake Park"
+  ],
+  "nearby_cities": [
+    {"name":"Smyrna","slug":"smyrna-de"},
+    {"name":"Camden","slug":"camden-de"},
+    {"name":"Milford","slug":"milford-de"},
+    {"name":"Middletown","slug":"middletown-de"},
+    {"name":"Harrington","slug":"harrington-de"}
+  ],
+  "city_type": "state-capital-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plain",
+  "economy_type": "government-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "regional-growth",
+  "service_environment": "kent-county-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Newark",
+  "slug": "newark-de",
+  "county": "New Castle County",
+  "population": 31000,
+  "zip_codes": ["19702","19711","19713"],
+  "landmarks": [
+    "University of Delaware",
+    "White Clay Creek State Park",
+    "Main Street Newark",
+    "Bob Carpenter Center",
+    "Iron Hill Park"
+  ],
+  "nearby_cities": [
+    {"name":"Wilmington","slug":"wilmington-de"},
+    {"name":"Bear","slug":"bear-de"},
+    {"name":"Elkton","slug":"elkton-md"},
+    {"name":"New Castle","slug":"new-castle-de"},
+    {"name":"Middletown","slug":"middletown-de"}
+  ],
+  "city_type": "university-innovation-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "rolling-plains",
+  "economy_type": "education-research",
+  "housing_profile": "student-professional-mix",
+  "growth_pattern": "innovation-growth",
+  "service_environment": "new-castle-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Middletown",
+  "slug": "middletown-de",
+  "county": "New Castle County",
+  "population": 26000,
+  "zip_codes": ["19709"],
+  "landmarks": [
+    "Historic Main Street",
+    "Silver Lake Park",
+    "Middletown Nature Area",
+    "Westown Center",
+    "Levels Road District"
+  ],
+  "nearby_cities": [
+    {"name":"Newark","slug":"newark-de"},
+    {"name":"Wilmington","slug":"wilmington-de"},
+    {"name":"Smyrna","slug":"smyrna-de"},
+    {"name":"Dover","slug":"dover-de"},
+    {"name":"New Castle","slug":"new-castle-de"}
+  ],
+  "city_type": "fast-growth-suburban-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plain",
+  "economy_type": "retail-services",
+  "housing_profile": "family-suburban",
+  "growth_pattern": "high-growth",
+  "service_environment": "new-castle-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Smyrna",
+  "slug": "smyrna-de",
+  "county": "Kent County",
+  "population": 24000,
+  "zip_codes": ["19977"],
+  "landmarks": [
+    "Lake Como",
+    "Smyrna Opera House",
+    "Bombay Hook Access",
+    "Big Oak County Park",
+    "Historic Downtown Smyrna"
+  ],
+  "nearby_cities": [
+    {"name":"Dover","slug":"dover-de"},
+    {"name":"Middletown","slug":"middletown-de"},
+    {"name":"Milford","slug":"milford-de"},
+    {"name":"Clayton","slug":"clayton-de"},
+    {"name":"Camden","slug":"camden-de"}
+  ],
+  "city_type": "regional-community-city",
+  "climate_zone": "humid-subtropical",
+  "terrain": "coastal-plain",
+  "economy_type": "logistics-services",
+  "housing_profile": "family-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "kent-county-market",
+  "property_mix": "mixed-use"
+}
+]

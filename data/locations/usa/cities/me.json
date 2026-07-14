@@ -1,0 +1,1014 @@
+[
+
+{
+  "city": "Auburn",
+  "slug": "auburn-me",
+  "county": "Androscoggin County",
+  "population": 24510,
+  "zip_codes": [
+    "04210",
+    "04211",
+    "04212"
+  ],
+  "landmarks": [
+    "Lost Valley Ski Area",
+    "Festival Plaza",
+    "Mount Apatite Park",
+    "Auburn Riverwalk",
+    "Androscoggin River"
+  ],
+  "nearby_cities": [
+    {"name":"Lewiston","slug":"lewiston-me"},
+    {"name":"Lisbon","slug":"lisbon-me"},
+    {"name":"Mechanic Falls","slug":"mechanic-falls-me"},
+    {"name":"Minot","slug":"minot-me"},
+    {"name":"Gray","slug":"gray-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"healthcare-manufacturing",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Augusta",
+  "slug": "augusta-me",
+  "county": "Kennebec County",
+  "population": 19110,
+  "zip_codes": [
+    "04330",
+    "04332",
+    "04333",
+    "04336",
+    "04338"
+  ],
+  "landmarks": [
+    "Maine State House",
+    "Old Fort Western",
+    "Capitol Park",
+    "Kennebec River Rail Trail",
+    "Children's Discovery Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Hallowell","slug":"hallowell-me"},
+    {"name":"Gardiner","slug":"gardiner-me"},
+    {"name":"Winthrop","slug":"winthrop-me"},
+    {"name":"Chelsea","slug":"chelsea-me"},
+    {"name":"Waterville","slug":"waterville-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"government-healthcare",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Bangor",
+  "slug": "bangor-me",
+  "county": "Penobscot County",
+  "population": 31580,
+  "zip_codes": [
+    "04401",
+    "04402"
+  ],
+  "landmarks": [
+    "Waterfront Concerts",
+    "Paul Bunyan Statue",
+    "Cross Insurance Center",
+    "Bangor City Forest",
+    "Maine Discovery Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Brewer","slug":"brewer-me"},
+    {"name":"Hampden","slug":"hampden-me"},
+    {"name":"Old Town","slug":"old-town-me"},
+    {"name":"Orono","slug":"orono-me"},
+    {"name":"Hermon","slug":"hermon-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"healthcare-education",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Bath",
+  "slug": "bath-me",
+  "county": "Sagadahoc County",
+  "population": 8540,
+  "zip_codes": [
+    "04530"
+  ],
+  "landmarks": [
+    "Bath Iron Works",
+    "Maine Maritime Museum",
+    "Waterfront Park",
+    "Kennebec River",
+    "Chocolate Church Arts Center"
+  ],
+  "nearby_cities": [
+    {"name":"Brunswick","slug":"brunswick-me"},
+    {"name":"Topsham","slug":"topsham-me"},
+    {"name":"Woolwich","slug":"woolwich-me"},
+    {"name":"Bowdoinham","slug":"bowdoinham-me"},
+    {"name":"West Bath","slug":"west-bath-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"coastal",
+  "economy_type":"shipbuilding-manufacturing",
+  "housing_profile":"small-city-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"midcoast-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Biddeford",
+  "slug": "biddeford-me",
+  "county": "York County",
+  "population": 22880,
+  "zip_codes": [
+    "04005",
+    "04006"
+  ],
+  "landmarks": [
+    "University of New England",
+    "Biddeford Pool",
+    "Rotary Park",
+    "Mechanics Park",
+    "Saco River"
+  ],
+  "nearby_cities": [
+    {"name":"Saco","slug":"saco-me"},
+    {"name":"Old Orchard Beach","slug":"old-orchard-beach-me"},
+    {"name":"Kennebunk","slug":"kennebunk-me"},
+    {"name":"Arundel","slug":"arundel-me"},
+    {"name":"Dayton","slug":"dayton-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"coastal",
+  "economy_type":"education-tourism",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southern-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Brewer",
+  "slug": "brewer-me",
+  "county": "Penobscot County",
+  "population": 9800,
+  "zip_codes": [
+    "04412"
+  ],
+  "landmarks": [
+    "Brewer Riverwalk",
+    "Indian Trail Park",
+    "Brewer Waterfront",
+    "Penobscot River",
+    "Doyle Field"
+  ],
+  "nearby_cities": [
+    {"name":"Bangor","slug":"bangor-me"},
+    {"name":"Hampden","slug":"hampden-me"},
+    {"name":"Orono","slug":"orono-me"},
+    {"name":"Old Town","slug":"old-town-me"},
+    {"name":"Hermon","slug":"hermon-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"healthcare-retail",
+  "housing_profile":"small-city-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Brunswick",
+  "slug": "brunswick-me",
+  "county": "Cumberland County",
+  "population": 21410,
+  "zip_codes": [
+    "04011"
+  ],
+  "landmarks": [
+    "Bowdoin College",
+    "Androscoggin Swinging Bridge",
+    "Maine State Music Theatre",
+    "Merrymeeting Park",
+    "Brunswick Landing"
+  ],
+  "nearby_cities": [
+    {"name":"Topsham","slug":"topsham-me"},
+    {"name":"Bath","slug":"bath-me"},
+    {"name":"Freeport","slug":"freeport-me"},
+    {"name":"Lisbon","slug":"lisbon-me"},
+    {"name":"Bowdoin","slug":"bowdoin-me"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"coastal",
+  "economy_type":"education-services",
+  "housing_profile":"college-town",
+  "growth_pattern":"steady-growth",
+  "service_environment":"midcoast-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Cape Elizabeth",
+  "slug": "cape-elizabeth-me",
+  "county": "Cumberland County",
+  "population": 9540,
+  "zip_codes": [
+    "04107"
+  ],
+  "landmarks": [
+    "Portland Head Light",
+    "Fort Williams Park",
+    "Crescent Beach State Park",
+    "Two Lights State Park",
+    "Kettle Cove"
+  ],
+  "nearby_cities": [
+    {"name":"South Portland","slug":"south-portland-me"},
+    {"name":"Portland","slug":"portland-me"},
+    {"name":"Scarborough","slug":"scarborough-me"},
+    {"name":"Westbrook","slug":"westbrook-me"},
+    {"name":"Falmouth","slug":"falmouth-me"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"coastal",
+  "economy_type":"tourism-services",
+  "housing_profile":"coastal-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"greater-portland",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Caribou",
+  "slug": "caribou-me",
+  "county": "Aroostook County",
+  "population": 7460,
+  "zip_codes": [
+    "04736"
+  ],
+  "landmarks": [
+    "Aroostook National Wildlife Refuge",
+    "Nylander Museum",
+    "Caribou Wellness Center",
+    "Teague Park",
+    "Caribou Country Club"
+  ],
+  "nearby_cities": [
+    {"name":"Presque Isle","slug":"presque-isle-me"},
+    {"name":"Limestone","slug":"limestone-me"},
+    {"name":"Fort Fairfield","slug":"fort-fairfield-me"},
+    {"name":"Woodland","slug":"woodland-me"},
+    {"name":"Washburn","slug":"washburn-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"uplands",
+  "economy_type":"agriculture-government",
+  "housing_profile":"small-city-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"northern-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Ellsworth",
+  "slug": "ellsworth-me",
+  "county": "Hancock County",
+  "population": 8750,
+  "zip_codes": [
+    "04605"
+  ],
+  "landmarks": [
+    "Downtown Ellsworth",
+    "Union River Waterfront",
+    "Woodlawn Museum",
+    "Branch Lake",
+    "Birdsacre Sanctuary"
+  ],
+  "nearby_cities": [
+    {"name":"Bar Harbor","slug":"bar-harbor-me"},
+    {"name":"Trenton","slug":"trenton-me"},
+    {"name":"Blue Hill","slug":"blue-hill-me"},
+    {"name":"Bucksport","slug":"bucksport-me"},
+    {"name":"Mount Desert","slug":"mount-desert-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"coastal",
+  "economy_type":"tourism-healthcare",
+  "housing_profile":"small-city-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"downeast-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Fairfield",
+  "slug": "fairfield-me",
+  "county": "Somerset County",
+  "population": 6790,
+  "zip_codes": [
+    "04937"
+  ],
+  "landmarks": [
+    "Lawrence High School",
+    "Fairfield Community Center",
+    "Kennebec River",
+    "Mill Island Park",
+    "Summit Natural Area"
+  ],
+  "nearby_cities": [
+    {"name":"Waterville","slug":"waterville-me"},
+    {"name":"Winslow","slug":"winslow-me"},
+    {"name":"Skowhegan","slug":"skowhegan-me"},
+    {"name":"Oakland","slug":"oakland-me"},
+    {"name":"Norridgewock","slug":"norridgewock-me"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Falmouth",
+  "slug": "falmouth-me",
+  "county": "Cumberland County",
+  "population": 12490,
+  "zip_codes": [
+    "04105"
+  ],
+  "landmarks": [
+    "Mackworth Island",
+    "Falmouth Town Landing",
+    "Presumpscot River Preserve",
+    "Falmouth Nature Preserve",
+    "Hurricane Valley Farm"
+  ],
+  "nearby_cities": [
+    {"name":"Portland","slug":"portland-me"},
+    {"name":"Westbrook","slug":"westbrook-me"},
+    {"name":"Yarmouth","slug":"yarmouth-me"},
+    {"name":"Cumberland","slug":"cumberland-me"},
+    {"name":"Cape Elizabeth","slug":"cape-elizabeth-me"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"coastal",
+  "economy_type":"professional-services",
+  "housing_profile":"upscale-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-portland",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Gorham",
+  "slug": "gorham-me",
+  "county": "Cumberland County",
+  "population": 18610,
+  "zip_codes": [
+    "04038"
+  ],
+  "landmarks": [
+    "University of Southern Maine Gorham Campus",
+    "Robie Park",
+    "Shaw Park",
+    "Narragansett Elementary Area",
+    "Little River Preserve"
+  ],
+  "nearby_cities": [
+    {"name":"Westbrook","slug":"westbrook-me"},
+    {"name":"Windham","slug":"windham-me"},
+    {"name":"Scarborough","slug":"scarborough-me"},
+    {"name":"Buxton","slug":"buxton-me"},
+    {"name":"Portland","slug":"portland-me"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"rolling-hills",
+  "economy_type":"education-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-portland",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Hallowell",
+  "slug": "hallowell-me",
+  "county": "Kennebec County",
+  "population": 6100,
+  "zip_codes": [
+    "04347"
+  ],
+  "landmarks": [
+    "Downtown Hallowell",
+    "Kennebec River Rail Trail",
+    " Vaughan Woods",
+    "Hubbard Free Library",
+    "Granite City Park"
+  ],
+  "nearby_cities": [
+    {"name":"Augusta","slug":"augusta-me"},
+    {"name":"Gardiner","slug":"gardiner-me"},
+    {"name":"Chelsea","slug":"chelsea-me"},
+    {"name":"Farmingdale","slug":"farmingdale-me"},
+    {"name":"Winthrop","slug":"winthrop-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"government-tourism",
+  "housing_profile":"historic-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Kennebunk",
+  "slug": "kennebunk-me",
+  "county": "York County",
+  "population": 11270,
+  "zip_codes": [
+    "04043"
+  ],
+  "landmarks": [
+    "Downtown Kennebunk",
+    "Rachel Carson National Wildlife Refuge",
+    "Brick Store Museum",
+    "Kennebunk River",
+    "Wedding Cake House"
+  ],
+  "nearby_cities": [
+    {"name":"Biddeford","slug":"biddeford-me"},
+    {"name":"Kennebunkport","slug":"kennebunkport-me"},
+    {"name":"Wells","slug":"wells-me"},
+    {"name":"Arundel","slug":"arundel-me"},
+    {"name":"Sanford","slug":"sanford-me"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"coastal",
+  "economy_type":"tourism-services",
+  "housing_profile":"coastal-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southern-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lewiston",
+  "slug": "lewiston-me",
+  "county": "Androscoggin County",
+  "population": 37980,
+  "zip_codes": [
+    "04240",
+    "04241",
+    "04243"
+  ],
+  "landmarks": [
+    "Bates College",
+    "Androscoggin Bank Colisée",
+    "Simard-Payne Memorial Park",
+    "Museum L-A",
+    "Androscoggin Riverwalk"
+  ],
+  "nearby_cities": [
+    {"name":"Auburn","slug":"auburn-me"},
+    {"name":"Lisbon","slug":"lisbon-me"},
+    {"name":"Sabattus","slug":"sabattus-me"},
+    {"name":"Minot","slug":"minot-me"},
+    {"name":"Greene","slug":"greene-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"healthcare-education",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lisbon",
+  "slug": "lisbon-me",
+  "county": "Androscoggin County",
+  "population": 9640,
+  "zip_codes": [
+    "04250",
+    "04252"
+  ],
+  "landmarks": [
+    "Papermill Trail",
+    "MTM Community Center",
+    "Androscoggin River",
+    "Beaver Park",
+    "Lisbon Falls Historic District"
+  ],
+  "nearby_cities": [
+    {"name":"Lewiston","slug":"lewiston-me"},
+    {"name":"Auburn","slug":"auburn-me"},
+    {"name":"Brunswick","slug":"brunswick-me"},
+    {"name":"Topsham","slug":"topsham-me"},
+    {"name":"Bowdoin","slug":"bowdoin-me"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Old Orchard Beach",
+  "slug": "old-orchard-beach-me",
+  "county": "York County",
+  "population": 9220,
+  "zip_codes": [
+    "04064"
+  ],
+  "landmarks": [
+    "Old Orchard Beach Pier",
+    "Palace Playland",
+    "Old Orchard Beach",
+    "Veterans Memorial Park",
+    "Dunegrass Golf Club"
+  ],
+  "nearby_cities": [
+    {"name":"Biddeford","slug":"biddeford-me"},
+    {"name":"Saco","slug":"saco-me"},
+    {"name":"Scarborough","slug":"scarborough-me"},
+    {"name":"Kennebunk","slug":"kennebunk-me"},
+    {"name":"Portland","slug":"portland-me"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"coastal",
+  "economy_type":"tourism-hospitality",
+  "housing_profile":"coastal-residential",
+  "growth_pattern":"seasonal-growth",
+  "service_environment":"southern-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Old Town",
+  "slug": "old-town-me",
+  "county": "Penobscot County",
+  "population": 7550,
+  "zip_codes": [
+    "04468"
+  ],
+  "landmarks": [
+    "University of Maine Foundation",
+    "Penobscot River",
+    "Old Town Canoe Company",
+    "Riverfront Park",
+    "Leonard's Mills Historic Site"
+  ],
+  "nearby_cities": [
+    {"name":"Orono","slug":"orono-me"},
+    {"name":"Bangor","slug":"bangor-me"},
+    {"name":"Brewer","slug":"brewer-me"},
+    {"name":"Milford","slug":"milford-me"},
+    {"name":"Hampden","slug":"hampden-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"education-manufacturing",
+  "housing_profile":"small-city-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Orono",
+  "slug": "orono-me",
+  "county": "Penobscot County",
+  "population": 11180,
+  "zip_codes": [
+    "04469",
+    "04473"
+  ],
+  "landmarks": [
+    "University of Maine",
+    "Collins Center for the Arts",
+    "Stillwater River",
+    "Hirundo Wildlife Refuge",
+    "Orono Bog Boardwalk"
+  ],
+  "nearby_cities": [
+    {"name":"Old Town","slug":"old-town-me"},
+    {"name":"Bangor","slug":"bangor-me"},
+    {"name":"Brewer","slug":"brewer-me"},
+    {"name":"Veazie","slug":"veazie-me"},
+    {"name":"Hampden","slug":"hampden-me"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"education-research",
+  "housing_profile":"college-town",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Portland",
+  "slug": "portland-me",
+  "county": "Cumberland County",
+  "population": 69020,
+  "zip_codes": [
+    "04101",
+    "04102",
+    "04103",
+    "04108",
+    "04109"
+  ],
+  "landmarks": [
+    "Portland Head Light",
+    "Old Port",
+    "Eastern Promenade",
+    "Portland Museum of Art",
+    "Casco Bay Ferry Terminal"
+  ],
+  "nearby_cities": [
+    {"name":"South Portland","slug":"south-portland-me"},
+    {"name":"Westbrook","slug":"westbrook-me"},
+    {"name":"Falmouth","slug":"falmouth-me"},
+    {"name":"Cape Elizabeth","slug":"cape-elizabeth-me"},
+    {"name":"Scarborough","slug":"scarborough-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"coastal",
+  "economy_type":"healthcare-tourism",
+  "housing_profile":"major-urban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-portland",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Presque Isle",
+  "slug": "presque-isle-me",
+  "county": "Aroostook County",
+  "population": 9110,
+  "zip_codes": [
+    "04769"
+  ],
+  "landmarks": [
+    "Northern Maine Museum of Science",
+    "University of Maine at Presque Isle",
+    "Aroostook State Park",
+    "Presque Isle Stream",
+    "Mantle Lake Park"
+  ],
+  "nearby_cities": [
+    {"name":"Caribou","slug":"caribou-me"},
+    {"name":"Fort Fairfield","slug":"fort-fairfield-me"},
+    {"name":"Mapleton","slug":"mapleton-me"},
+    {"name":"Easton","slug":"easton-me"},
+    {"name":"Washburn","slug":"washburn-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"uplands",
+  "economy_type":"education-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"northern-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Saco",
+  "slug": "saco-me",
+  "county": "York County",
+  "population": 21190,
+  "zip_codes": [
+    "04072"
+  ],
+  "landmarks": [
+    "Ferry Beach State Park",
+    "Funtown Splashtown USA",
+    "Saco Museum",
+    "Thornton Academy",
+    "Saco River"
+  ],
+  "nearby_cities": [
+    {"name":"Biddeford","slug":"biddeford-me"},
+    {"name":"Old Orchard Beach","slug":"old-orchard-beach-me"},
+    {"name":"Scarborough","slug":"scarborough-me"},
+    {"name":"Buxton","slug":"buxton-me"},
+    {"name":"Dayton","slug":"dayton-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"coastal",
+  "economy_type":"tourism-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southern-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Sanford",
+  "slug": "sanford-me",
+  "county": "York County",
+  "population": 21960,
+  "zip_codes": [
+    "04073"
+  ],
+  "landmarks": [
+    "Goodall Park",
+    "Sanford Seacoast Regional Airport",
+    "Springvale Historic District",
+    "Number One Pond",
+    "Sanford Performing Arts Center"
+  ],
+  "nearby_cities": [
+    {"name":"Kennebunk","slug":"kennebunk-me"},
+    {"name":"Saco","slug":"saco-me"},
+    {"name":"Biddeford","slug":"biddeford-me"},
+    {"name":"Alfred","slug":"alfred-me"},
+    {"name":"Wells","slug":"wells-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"rolling-hills",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"regional-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southern-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Scarborough",
+  "slug": "scarborough-me",
+  "county": "Cumberland County",
+  "population": 22810,
+  "zip_codes": [
+    "04074"
+  ],
+  "landmarks": [
+    "Scarborough Beach State Park",
+    "Scarborough Marsh",
+    "Nonesuch River",
+    "Higgins Beach",
+    "Prouts Neck"
+  ],
+  "nearby_cities": [
+    {"name":"South Portland","slug":"south-portland-me"},
+    {"name":"Portland","slug":"portland-me"},
+    {"name":"Cape Elizabeth","slug":"cape-elizabeth-me"},
+    {"name":"Saco","slug":"saco-me"},
+    {"name":"Westbrook","slug":"westbrook-me"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"coastal",
+  "economy_type":"tourism-healthcare",
+  "housing_profile":"coastal-suburban",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-portland",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "South Portland",
+  "slug": "south-portland-me",
+  "county": "Cumberland County",
+  "population": 26840,
+  "zip_codes": [
+    "04106",
+    "04116"
+  ],
+  "landmarks": [
+    "Bug Light Park",
+    "Spring Point Ledge Lighthouse",
+    "Maine Mall",
+    "Willard Beach",
+    "Fort Preble"
+  ],
+  "nearby_cities": [
+    {"name":"Portland","slug":"portland-me"},
+    {"name":"Cape Elizabeth","slug":"cape-elizabeth-me"},
+    {"name":"Scarborough","slug":"scarborough-me"},
+    {"name":"Westbrook","slug":"westbrook-me"},
+    {"name":"Falmouth","slug":"falmouth-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"coastal",
+  "economy_type":"healthcare-retail",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-portland",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Topsham",
+  "slug": "topsham-me",
+  "county": "Sagadahoc County",
+  "population": 9630,
+  "zip_codes": [
+    "04086"
+  ],
+  "landmarks": [
+    "Merrymeeting Plaza",
+    "Androscoggin Riverwalk",
+    "Cathance River Preserve",
+    "Topsham Fair Mall",
+    "Merrymeeting Bay"
+  ],
+  "nearby_cities": [
+    {"name":"Brunswick","slug":"brunswick-me"},
+    {"name":"Bath","slug":"bath-me"},
+    {"name":"Lisbon","slug":"lisbon-me"},
+    {"name":"Bowdoin","slug":"bowdoin-me"},
+    {"name":"Freeport","slug":"freeport-me"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"midcoast-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Waterville",
+  "slug": "waterville-me",
+  "county": "Kennebec County",
+  "population": 16080,
+  "zip_codes": [
+    "04901",
+    "04903"
+  ],
+  "landmarks": [
+    "Colby College",
+    "Waterville Opera House",
+    "Head of Falls",
+    "Two Cent Bridge",
+    "Quarry Road Trails"
+  ],
+  "nearby_cities": [
+    {"name":"Winslow","slug":"winslow-me"},
+    {"name":"Fairfield","slug":"fairfield-me"},
+    {"name":"Augusta","slug":"augusta-me"},
+    {"name":"Oakland","slug":"oakland-me"},
+    {"name":"Skowhegan","slug":"skowhegan-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"education-healthcare",
+  "housing_profile":"regional-urban",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Westbrook",
+  "slug": "westbrook-me",
+  "county": "Cumberland County",
+  "population": 21420,
+  "zip_codes": [
+    "04092",
+    "04098"
+  ],
+  "landmarks": [
+    "Riverbank Park",
+    "Presumpscot River",
+    "Rock Row",
+    "Westbrook Performing Arts Center",
+    "Mill Brook Preserve"
+  ],
+  "nearby_cities": [
+    {"name":"Portland","slug":"portland-me"},
+    {"name":"South Portland","slug":"south-portland-me"},
+    {"name":"Scarborough","slug":"scarborough-me"},
+    {"name":"Gorham","slug":"gorham-me"},
+    {"name":"Falmouth","slug":"falmouth-me"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-portland",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Windham",
+  "slug": "windham-me",
+  "county": "Cumberland County",
+  "population": 19120,
+  "zip_codes": [
+    "04062"
+  ],
+  "landmarks": [
+    "Sebago Lake",
+    "Dundee Park",
+    "Mountain Division Trail",
+    "Windham Town Center",
+    "Highland Lake"
+  ],
+  "nearby_cities": [
+    {"name":"Westbrook","slug":"westbrook-me"},
+    {"name":"Gorham","slug":"gorham-me"},
+    {"name":"Standish","slug":"standish-me"},
+    {"name":"Gray","slug":"gray-me"},
+    {"name":"Portland","slug":"portland-me"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"lakes-region",
+  "economy_type":"retail-tourism",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"greater-portland",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Winslow",
+  "slug": "winslow-me",
+  "county": "Kennebec County",
+  "population": 8290,
+  "zip_codes": [
+    "04901"
+  ],
+  "landmarks": [
+    "Fort Halifax State Historic Site",
+    "Two Cent Bridge",
+    "Sebasticook River",
+    "Winslow Public Library",
+    "Fort Point Recreation Area"
+  ],
+  "nearby_cities": [
+    {"name":"Waterville","slug":"waterville-me"},
+    {"name":"Fairfield","slug":"fairfield-me"},
+    {"name":"Oakland","slug":"oakland-me"},
+    {"name":"Augusta","slug":"augusta-me"},
+    {"name":"Skowhegan","slug":"skowhegan-me"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"river-valley",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-maine",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Yarmouth",
+  "slug": "yarmouth-me",
+  "county": "Cumberland County",
+  "population": 9060,
+  "zip_codes": [
+    "04096"
+  ],
+  "landmarks": [
+    "Royal River Park",
+    "Pratt's Brook Park",
+    "Yarmouth Village",
+    "Royal River",
+    "Sparhawk Mill"
+  ],
+  "nearby_cities": [
+    {"name":"Falmouth","slug":"falmouth-me"},
+    {"name":"Freeport","slug":"freeport-me"},
+    {"name":"Cumberland","slug":"cumberland-me"},
+    {"name":"Portland","slug":"portland-me"},
+    {"name":"North Yarmouth","slug":"north-yarmouth-me"}
+  ],
+  "city_type":"town",
+  "climate_zone":"humid-continental",
+  "terrain":"coastal",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"greater-portland",
+  "property_mix":"mixed-use"
+}
+]

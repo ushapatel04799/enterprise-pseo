@@ -1,0 +1,2547 @@
+[
+
+{
+  "city": "Portland",
+  "slug": "portland-or",
+  "county": "Multnomah County",
+  "population": 635067,
+  "zip_codes": [
+    "97201",
+    "97202",
+    "97203",
+    "97204",
+    "97205"
+  ],
+  "landmarks": [
+    "Washington Park",
+    "Powell's City of Books",
+    "Portland Japanese Garden",
+    "Oregon Zoo",
+    "Pioneer Courthouse Square"
+  ],
+  "nearby_cities": [
+    {"name":"Beaverton","slug":"beaverton-or"},
+    {"name":"Gresham","slug":"gresham-or"},
+    {"name":"Lake Oswego","slug":"lake-oswego-or"},
+    {"name":"Tigard","slug":"tigard-or"},
+    {"name":"Vancouver","slug":"vancouver-wa"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"river-valley",
+  "economy_type":"technology-healthcare-logistics",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"mature-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Eugene",
+  "slug": "eugene-or",
+  "county": "Lane County",
+  "population": 177899,
+  "zip_codes": [
+    "97401",
+    "97402",
+    "97403",
+    "97404",
+    "97405"
+  ],
+  "landmarks": [
+    "University of Oregon",
+    "Alton Baker Park",
+    "Autzen Stadium",
+    "Mount Pisgah Arboretum",
+    "5th Street Public Market"
+  ],
+  "nearby_cities": [
+    {"name":"Springfield","slug":"springfield-or"},
+    {"name":"Creswell","slug":"creswell-or"},
+    {"name":"Junction City","slug":"junction-city-or"},
+    {"name":"Coburg","slug":"coburg-or"},
+    {"name":"Veneta","slug":"veneta-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"education-healthcare-manufacturing",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"lane-county",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Salem",
+  "slug": "salem-or",
+  "county": "Marion County",
+  "population": 180633,
+  "zip_codes": [
+    "97301",
+    "97302",
+    "97303",
+    "97304",
+    "97305"
+  ],
+  "landmarks": [
+    "Oregon State Capitol",
+    "Riverfront City Park",
+    "Bush's Pasture Park",
+    "Willamette University",
+    "Hallie Ford Museum of Art"
+  ],
+  "nearby_cities": [
+    {"name":"Keizer","slug":"keizer-or"},
+    {"name":"Dallas","slug":"dallas-or"},
+    {"name":"Silverton","slug":"silverton-or"},
+    {"name":"Woodburn","slug":"woodburn-or"},
+    {"name":"Albany","slug":"albany-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"government-healthcare-education",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"mid-willamette-valley",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Gresham",
+  "slug": "gresham-or",
+  "county": "Multnomah County",
+  "population": 114247,
+  "zip_codes": [
+    "97030",
+    "97080"
+  ],
+  "landmarks": [
+    "Main City Park",
+    "Gresham Japanese Garden",
+    "Mt. Hood Community College",
+    "Historic Downtown Gresham",
+    "Oxbow Regional Park"
+  ],
+  "nearby_cities": [
+    {"name":"Portland","slug":"portland-or"},
+    {"name":"Troutdale","slug":"troutdale-or"},
+    {"name":"Fairview","slug":"fairview-or"},
+    {"name":"Wood Village","slug":"wood-village-or"},
+    {"name":"Sandy","slug":"sandy-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"foothills",
+  "economy_type":"healthcare-retail-logistics",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Hillsboro",
+  "slug": "hillsboro-or",
+  "county": "Washington County",
+  "population": 108389,
+  "zip_codes": [
+    "97123",
+    "97124"
+  ],
+  "landmarks": [
+    "Intel Ronler Acres Campus",
+    "Rice Northwest Museum of Rocks and Minerals",
+    "Rood Bridge Park",
+    "Hillsboro Stadium",
+    "Downtown Hillsboro"
+  ],
+  "nearby_cities": [
+    {"name":"Beaverton","slug":"beaverton-or"},
+    {"name":"Cornelius","slug":"cornelius-or"},
+    {"name":"Forest Grove","slug":"forest-grove-or"},
+    {"name":"Portland","slug":"portland-or"},
+    {"name":"Aloha","slug":"aloha-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"technology-manufacturing",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"silicon-forest",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Beaverton",
+  "slug": "beaverton-or",
+  "county": "Washington County",
+  "population": 98889,
+  "zip_codes": [
+    "97003",
+    "97005",
+    "97006",
+    "97007",
+    "97008"
+  ],
+  "landmarks": [
+    "Tualatin Hills Nature Park",
+    "The Round",
+    "Nike World Headquarters",
+    "Cooper Mountain Nature Park",
+    "Beaverton City Park"
+  ],
+  "nearby_cities": [
+    {"name":"Portland","slug":"portland-or"},
+    {"name":"Hillsboro","slug":"hillsboro-or"},
+    {"name":"Tigard","slug":"tigard-or"},
+    {"name":"Lake Oswego","slug":"lake-oswego-or"},
+    {"name":"Aloha","slug":"aloha-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"technology-retail",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Bend",
+  "slug": "bend-or",
+  "county": "Deschutes County",
+  "population": 104557,
+  "zip_codes": [
+    "97701",
+    "97702",
+    "97703"
+  ],
+  "landmarks": [
+    "Old Mill District",
+    "Drake Park",
+    "Pilot Butte State Scenic Viewpoint",
+    "Deschutes River Trail",
+    "High Desert Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Redmond","slug":"redmond-or"},
+    {"name":"Sisters","slug":"sisters-or"},
+    {"name":"La Pine","slug":"la-pine-or"},
+    {"name":"Prineville","slug":"prineville-or"},
+    {"name":"Sunriver","slug":"sunriver-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"high-desert",
+  "terrain":"volcanic-plateau",
+  "economy_type":"tourism-healthcare-technology",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"central-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Medford",
+  "slug": "medford-or",
+  "county": "Jackson County",
+  "population": 87235,
+  "zip_codes": [
+    "97501",
+    "97504"
+  ],
+  "landmarks": [
+    "Rogue Valley Mall",
+    "Bear Creek Park",
+    "Prescott Park",
+    "Craterian Theater",
+    "Downtown Medford"
+  ],
+  "nearby_cities": [
+    {"name":"Central Point","slug":"central-point-or"},
+    {"name":"Ashland","slug":"ashland-or"},
+    {"name":"Jacksonville","slug":"jacksonville-or"},
+    {"name":"Phoenix","slug":"phoenix-or"},
+    {"name":"Talent","slug":"talent-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"mediterranean",
+  "terrain":"rogue-valley",
+  "economy_type":"healthcare-retail-tourism",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southern-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Springfield",
+  "slug": "springfield-or",
+  "county": "Lane County",
+  "population": 62296,
+  "zip_codes": [
+    "97477",
+    "97478"
+  ],
+  "landmarks": [
+    "Island Park",
+    "Dorris Ranch",
+    "The Shoppes at Gateway",
+    "Willamalane Park",
+    "Historic Downtown Springfield"
+  ],
+  "nearby_cities": [
+    {"name":"Eugene","slug":"eugene-or"},
+    {"name":"Coburg","slug":"coburg-or"},
+    {"name":"Creswell","slug":"creswell-or"},
+    {"name":"Junction City","slug":"junction-city-or"},
+    {"name":"Veneta","slug":"veneta-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"lane-county",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Corvallis",
+  "slug": "corvallis-or",
+  "county": "Benton County",
+  "population": 60570,
+  "zip_codes": [
+    "97330",
+    "97331",
+    "97333"
+  ],
+  "landmarks": [
+    "Oregon State University",
+    "Bald Hill Natural Area",
+    "Riverfront Commemorative Park",
+    "Reser Stadium",
+    "Peavy Arboretum"
+  ],
+  "nearby_cities": [
+    {"name":"Albany","slug":"albany-or"},
+    {"name":"Philomath","slug":"philomath-or"},
+    {"name":"Monroe","slug":"monroe-or"},
+    {"name":"Lebanon","slug":"lebanon-or"},
+    {"name":"Eugene","slug":"eugene-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"education-research",
+  "housing_profile":"college-town",
+  "growth_pattern":"steady-growth",
+  "service_environment":"mid-willamette-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Albany",
+  "slug": "albany-or",
+  "county": "Linn County",
+  "population": 57768,
+  "zip_codes": [
+    "97321",
+    "97322"
+  ],
+  "landmarks": [
+    "Monteith Historic District",
+    "Timber-Linn Memorial Park",
+    "Talking Water Gardens",
+    "Albany Regional Museum",
+    "Downtown Albany"
+  ],
+  "nearby_cities": [
+    {"name":"Corvallis","slug":"corvallis-or"},
+    {"name":"Lebanon","slug":"lebanon-or"},
+    {"name":"Salem","slug":"salem-or"},
+    {"name":"Jefferson","slug":"jefferson-or"},
+    {"name":"Tangent","slug":"tangent-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"manufacturing-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"mid-willamette-valley",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Tigard",
+  "slug": "tigard-or",
+  "county": "Washington County",
+  "population": 57045,
+  "zip_codes": [
+    "97223",
+    "97224"
+  ],
+  "landmarks": [
+    "Washington Square",
+    "Cook Park",
+    "Dirksen Nature Park",
+    "Broadway Rose Theatre",
+    "Downtown Tigard"
+  ],
+  "nearby_cities": [
+    {"name":"Beaverton","slug":"beaverton-or"},
+    {"name":"Portland","slug":"portland-or"},
+    {"name":"Lake Oswego","slug":"lake-oswego-or"},
+    {"name":"Tualatin","slug":"tualatin-or"},
+    {"name":"King City","slug":"king-city-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Lake Oswego",
+  "slug": "lake-oswego-or",
+  "county": "Clackamas County",
+  "population": 40503,
+  "zip_codes": [
+    "97034",
+    "97035"
+  ],
+  "landmarks": [
+    "Oswego Lake",
+    "George Rogers Park",
+    "Foothills Park",
+    "Millennium Plaza Park",
+    "Lakewood Center for the Arts"
+  ],
+  "nearby_cities": [
+    {"name":"Portland","slug":"portland-or"},
+    {"name":"Tigard","slug":"tigard-or"},
+    {"name":"West Linn","slug":"west-linn-or"},
+    {"name":"Milwaukie","slug":"milwaukie-or"},
+    {"name":"Beaverton","slug":"beaverton-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"river-valley",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Keizer",
+  "slug": "keizer-or",
+  "county": "Marion County",
+  "population": 39670,
+  "zip_codes": [
+    "97303"
+  ],
+  "landmarks": [
+    "Keizer Rapids Park",
+    "Volcanoes Stadium",
+    "Keizer Station",
+    "Willamette River Greenway",
+    "Keizer Civic Center"
+  ],
+  "nearby_cities": [
+    {"name":"Salem","slug":"salem-or"},
+    {"name":"Woodburn","slug":"woodburn-or"},
+    {"name":"Dallas","slug":"dallas-or"},
+    {"name":"Silverton","slug":"silverton-or"},
+    {"name":"Albany","slug":"albany-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"mid-willamette-valley",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Grants Pass",
+  "slug": "grants-pass-or",
+  "county": "Josephine County",
+  "population": 39889,
+  "zip_codes": [
+    "97526",
+    "97527"
+  ],
+  "landmarks": [
+    "Riverside Park",
+    "Rogue River",
+    "Hellgate Jetboat Excursions",
+    "Historic Downtown Grants Pass",
+    "Reinhart Volunteer Park"
+  ],
+  "nearby_cities": [
+    {"name":"Medford","slug":"medford-or"},
+    {"name":"Central Point","slug":"central-point-or"},
+    {"name":"Jacksonville","slug":"jacksonville-or"},
+    {"name":"Cave Junction","slug":"cave-junction-or"},
+    {"name":"Merlin","slug":"merlin-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"mediterranean",
+  "terrain":"rogue-valley",
+  "economy_type":"tourism-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southern-oregon",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Oregon City",
+  "slug": "oregon-city-or",
+  "county": "Clackamas County",
+  "population": 37928,
+  "zip_codes": [
+    "97045"
+  ],
+  "landmarks": [
+    "Willamette Falls",
+    "End of the Oregon Trail Interpretive Center",
+    "McLoughlin House",
+    "Municipal Elevator",
+    "Clackamette Park"
+  ],
+  "nearby_cities": [
+    {"name":"West Linn","slug":"west-linn-or"},
+    {"name":"Lake Oswego","slug":"lake-oswego-or"},
+    {"name":"Milwaukie","slug":"milwaukie-or"},
+    {"name":"Gladstone","slug":"gladstone-or"},
+    {"name":"Portland","slug":"portland-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"river-valley",
+  "economy_type":"government-healthcare",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "McMinnville",
+  "slug": "mcminnville-or",
+  "county": "Yamhill County",
+  "population": 35187,
+  "zip_codes": [
+    "97128"
+  ],
+  "landmarks": [
+    "Evergreen Aviation & Space Museum",
+    "Historic Third Street",
+    "Joe Dancer Park",
+    "Wortman Park",
+    "Yamhill Valley Vineyards"
+  ],
+  "nearby_cities": [
+    {"name":"Newberg","slug":"newberg-or"},
+    {"name":"Sheridan","slug":"sheridan-or"},
+    {"name":"Dundee","slug":"dundee-or"},
+    {"name":"Salem","slug":"salem-or"},
+    {"name":"Dallas","slug":"dallas-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"tourism-agriculture",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"wine-country",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Redmond",
+  "slug": "redmond-or",
+  "county": "Deschutes County",
+  "population": 38075,
+  "zip_codes": [
+    "97756"
+  ],
+  "landmarks": [
+    "Redmond Caves Recreation Area",
+    "Smith Rock State Park",
+    "Deschutes County Fairgrounds",
+    "Sam Johnson Park",
+    "Downtown Redmond"
+  ],
+  "nearby_cities": [
+    {"name":"Bend","slug":"bend-or"},
+    {"name":"Prineville","slug":"prineville-or"},
+    {"name":"Sisters","slug":"sisters-or"},
+    {"name":"Madras","slug":"madras-or"},
+    {"name":"Terrebonne","slug":"terrebonne-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"high-desert",
+  "terrain":"volcanic-plateau",
+  "economy_type":"aviation-tourism",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"central-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Tualatin",
+  "slug": "tualatin-or",
+  "county": "Washington County",
+  "population": 28050,
+  "zip_codes": [
+    "97062"
+  ],
+  "landmarks": [
+    "Tualatin Community Park",
+    "Tualatin River National Wildlife Refuge",
+    "Bridgeport Village",
+    "Nyberg Woods",
+    "Tualatin Commons"
+  ],
+  "nearby_cities": [
+    {"name":"Tigard","slug":"tigard-or"},
+    {"name":"Lake Oswego","slug":"lake-oswego-or"},
+    {"name":"West Linn","slug":"west-linn-or"},
+    {"name":"Wilsonville","slug":"wilsonville-or"},
+    {"name":"Beaverton","slug":"beaverton-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "West Linn",
+  "slug": "west-linn-or",
+  "county": "Clackamas County",
+  "population": 27020,
+  "zip_codes": [
+    "97068"
+  ],
+  "landmarks": [
+    "Mary S. Young Park",
+    "Willamette Park",
+    "Camassia Natural Area",
+    "Willamette Falls Drive",
+    "Historic Willamette District"
+  ],
+  "nearby_cities": [
+    {"name":"Oregon City","slug":"oregon-city-or"},
+    {"name":"Lake Oswego","slug":"lake-oswego-or"},
+    {"name":"Tualatin","slug":"tualatin-or"},
+    {"name":"Wilsonville","slug":"wilsonville-or"},
+    {"name":"Portland","slug":"portland-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"river-valley",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Woodburn",
+  "slug": "woodburn-or",
+  "county": "Marion County",
+  "population": 28145,
+  "zip_codes": [
+    "97071"
+  ],
+  "landmarks": [
+    "Woodburn Premium Outlets",
+    "Legion Park",
+    "Settlemier House",
+    "Woodburn Dragstrip",
+    "Centennial Park"
+  ],
+  "nearby_cities": [
+    {"name":"Salem","slug":"salem-or"},
+    {"name":"Keizer","slug":"keizer-or"},
+    {"name":"Silverton","slug":"silverton-or"},
+    {"name":"Wilsonville","slug":"wilsonville-or"},
+    {"name":"Canby","slug":"canby-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"agriculture-retail",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"mid-willamette-valley",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Roseburg",
+  "slug": "roseburg-or",
+  "county": "Douglas County",
+  "population": 24115,
+  "zip_codes": [
+    "97470",
+    "97471"
+  ],
+  "landmarks": [
+    "Stewart Park",
+    "Douglas County Museum",
+    "River Forks Park",
+    "Downtown Roseburg",
+    "Umpqua Valley Arts Center"
+  ],
+  "nearby_cities": [
+    {"name":"Sutherlin","slug":"sutherlin-or"},
+    {"name":"Winston","slug":"winston-or"},
+    {"name":"Myrtle Creek","slug":"myrtle-creek-or"},
+    {"name":"Canyonville","slug":"canyonville-or"},
+    {"name":"Glide","slug":"glide-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"mediterranean",
+  "terrain":"umpqua-valley",
+  "economy_type":"healthcare-timber",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southern-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Newberg",
+  "slug": "newberg-or",
+  "county": "Yamhill County",
+  "population": 26065,
+  "zip_codes": [
+    "97132"
+  ],
+  "landmarks": [
+    "George Fox University",
+    "Jaquith Park",
+    "Hoover-Minthorn House",
+    "Downtown Newberg",
+    "Chehalem Cultural Center"
+  ],
+  "nearby_cities": [
+    {"name":"McMinnville","slug":"mcminnville-or"},
+    {"name":"Sherwood","slug":"sherwood-or"},
+    {"name":"Wilsonville","slug":"wilsonville-or"},
+    {"name":"Dundee","slug":"dundee-or"},
+    {"name":"Tualatin","slug":"tualatin-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"education-wine-tourism",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"wine-country",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Klamath Falls",
+  "slug": "klamath-falls-or",
+  "county": "Klamath County",
+  "population": 22270,
+  "zip_codes": [
+    "97601",
+    "97603"
+  ],
+  "landmarks": [
+    "Moore Park",
+    "Favell Museum",
+    "Upper Klamath Lake",
+    "Oregon Institute of Technology",
+    "Downtown Klamath Falls"
+  ],
+  "nearby_cities": [
+    {"name":"Altamont","slug":"altamont-or"},
+    {"name":"Merrill","slug":"merrill-or"},
+    {"name":"Malin","slug":"malin-or"},
+    {"name":"Chiloquin","slug":"chiloquin-or"},
+    {"name":"Ashland","slug":"ashland-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"high-desert",
+  "terrain":"basin-and-range",
+  "economy_type":"healthcare-education",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"south-central-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Ashland",
+  "slug": "ashland-or",
+  "county": "Jackson County",
+  "population": 21610,
+  "zip_codes": [
+    "97520"
+  ],
+  "landmarks": [
+    "Oregon Shakespeare Festival",
+    "Lithia Park",
+    "Southern Oregon University",
+    "North Mountain Park",
+    "Downtown Ashland"
+  ],
+  "nearby_cities": [
+    {"name":"Medford","slug":"medford-or"},
+    {"name":"Talent","slug":"talent-or"},
+    {"name":"Phoenix","slug":"phoenix-or"},
+    {"name":"Jacksonville","slug":"jacksonville-or"},
+    {"name":"Klamath Falls","slug":"klamath-falls-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"mediterranean",
+  "terrain":"rogue-valley",
+  "economy_type":"tourism-education",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southern-oregon",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Wilsonville",
+  "slug": "wilsonville-or",
+  "county": "Clackamas County",
+  "population": 27173,
+  "zip_codes": [
+    "97070"
+  ],
+  "landmarks": [
+    "Town Center Park",
+    "Memorial Park",
+    "Oregon Korean War Memorial",
+    "Wilsonville Public Library",
+    "Bullwinkle's Wilsonville"
+  ],
+  "nearby_cities": [
+    {"name":"Tualatin","slug":"tualatin-or"},
+    {"name":"West Linn","slug":"west-linn-or"},
+    {"name":"Canby","slug":"canby-or"},
+    {"name":"Newberg","slug":"newberg-or"},
+    {"name":"Woodburn","slug":"woodburn-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"technology-logistics",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Milwaukie",
+  "slug": "milwaukie-or",
+  "county": "Clackamas County",
+  "population": 21485,
+  "zip_codes": [
+    "97222",
+    "97267"
+  ],
+  "landmarks": [
+    "Milwaukie Riverfront Park",
+    "North Clackamas Park",
+    "Historic Milwaukie",
+    "Kellogg Creek",
+    "Spring Park"
+  ],
+  "nearby_cities": [
+    {"name":"Portland","slug":"portland-or"},
+    {"name":"Oregon City","slug":"oregon-city-or"},
+    {"name":"Lake Oswego","slug":"lake-oswego-or"},
+    {"name":"West Linn","slug":"west-linn-or"},
+    {"name":"Gladstone","slug":"gladstone-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"river-valley",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Canby",
+  "slug": "canby-or",
+  "county": "Clackamas County",
+  "population": 18825,
+  "zip_codes": [
+    "97013"
+  ],
+  "landmarks": [
+    "Molalla River State Park",
+    "Canby Depot Museum",
+    "Wait Park",
+    "Canby Ferry",
+    "Clackamas County Fairgrounds"
+  ],
+  "nearby_cities": [
+    {"name":"Wilsonville","slug":"wilsonville-or"},
+    {"name":"Oregon City","slug":"oregon-city-or"},
+    {"name":"Woodburn","slug":"woodburn-or"},
+    {"name":"Aurora","slug":"aurora-or"},
+    {"name":"Molalla","slug":"molalla-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"agriculture-manufacturing",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Hermiston",
+  "slug": "hermiston-or",
+  "county": "Umatilla County",
+  "population": 20345,
+  "zip_codes": [
+    "97838"
+  ],
+  "landmarks": [
+    "Hermiston Butte Park",
+    "Eastern Oregon Trade and Event Center",
+    "McNary Wildlife Nature Area",
+    "Downtown Hermiston",
+    "Hermiston Aquatic Center"
+  ],
+  "nearby_cities": [
+    {"name":"Pendleton","slug":"pendleton-or"},
+    {"name":"Umatilla","slug":"umatilla-or"},
+    {"name":"Stanfield","slug":"stanfield-or"},
+    {"name":"Boardman","slug":"boardman-or"},
+    {"name":"Kennewick","slug":"kennewick-wa"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"columbia-plateau",
+  "economy_type":"agriculture-logistics",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"eastern-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Central Point",
+  "slug": "central-point-or",
+  "county": "Jackson County",
+  "population": 19980,
+  "zip_codes": [
+    "97502"
+  ],
+  "landmarks": [
+    "Jackson County Expo",
+    "Twin Creeks Park",
+    "Don Jones Memorial Park",
+    "Crater Rock Museum",
+    "Downtown Central Point"
+  ],
+  "nearby_cities": [
+    {"name":"Medford","slug":"medford-or"},
+    {"name":"Jacksonville","slug":"jacksonville-or"},
+    {"name":"Ashland","slug":"ashland-or"},
+    {"name":"Phoenix","slug":"phoenix-or"},
+    {"name":"Eagle Point","slug":"eagle-point-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"mediterranean",
+  "terrain":"rogue-valley",
+  "economy_type":"agriculture-tourism",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southern-oregon",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Pendleton",
+  "slug": "pendleton-or",
+  "county": "Umatilla County",
+  "population": 17107,
+  "zip_codes": [
+    "97801"
+  ],
+  "landmarks": [
+    "Pendleton Round-Up Grounds",
+    "Pendleton Woolen Mills",
+    "Heritage Station Museum",
+    "Roy Raley Park",
+    "Downtown Pendleton"
+  ],
+  "nearby_cities": [
+    {"name":"Hermiston","slug":"hermiston-or"},
+    {"name":"Milton-Freewater","slug":"milton-freewater-or"},
+    {"name":"La Grande","slug":"la-grande-or"},
+    {"name":"Umatilla","slug":"umatilla-or"},
+    {"name":"Stanfield","slug":"stanfield-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"blue-mountains-foothills",
+  "economy_type":"agriculture-tourism",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"eastern-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Dallas",
+  "slug": "dallas-or",
+  "county": "Polk County",
+  "population": 17220,
+  "zip_codes": [
+    "97338"
+  ],
+  "landmarks": [
+    "Dallas City Park",
+    "Polk County Courthouse",
+    "Rickreall Creek Trail",
+    "Downtown Dallas",
+    "Academy Building"
+  ],
+  "nearby_cities": [
+    {"name":"Salem","slug":"salem-or"},
+    {"name":"Keizer","slug":"keizer-or"},
+    {"name":"McMinnville","slug":"mcminnville-or"},
+    {"name":"Monmouth","slug":"monmouth-or"},
+    {"name":"Independence","slug":"independence-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"government-agriculture",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"mid-willamette-valley",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Lebanon",
+  "slug": "lebanon-or",
+  "county": "Linn County",
+  "population": 20715,
+  "zip_codes": [
+    "97355"
+  ],
+  "landmarks": [
+    "Cheadle Lake Park",
+    "Samaritan Lebanon Community Hospital",
+    "Ralston Park",
+    "Downtown Lebanon",
+    "Lebanon Strawberry Festival Grounds"
+  ],
+  "nearby_cities": [
+    {"name":"Albany","slug":"albany-or"},
+    {"name":"Sweet Home","slug":"sweet-home-or"},
+    {"name":"Corvallis","slug":"corvallis-or"},
+    {"name":"Brownsville","slug":"brownsville-or"},
+    {"name":"Scio","slug":"scio-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"healthcare-manufacturing",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"mid-willamette-valley",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Forest Grove",
+  "slug": "forest-grove-or",
+  "county": "Washington County",
+  "population": 27005,
+  "zip_codes": [
+    "97116"
+  ],
+  "landmarks": [
+    "Pacific University",
+    "Fernhill Wetlands",
+    "Rogers Park",
+    "Historic Downtown Forest Grove",
+    "Harvey Clarke House"
+  ],
+  "nearby_cities": [
+    {"name":"Hillsboro","slug":"hillsboro-or"},
+    {"name":"Cornelius","slug":"cornelius-or"},
+    {"name":"Banks","slug":"banks-or"},
+    {"name":"McMinnville","slug":"mcminnville-or"},
+    {"name":"Beaverton","slug":"beaverton-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"education-agriculture",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Sherwood",
+  "slug": "sherwood-or",
+  "county": "Washington County",
+  "population": 20510,
+  "zip_codes": [
+    "97140"
+  ],
+  "landmarks": [
+    "Tualatin River National Wildlife Refuge",
+    "Old Town Sherwood",
+    "Stella Olsen Park",
+    "Sherwood Center for the Arts",
+    "Snyder Park"
+  ],
+  "nearby_cities": [
+    {"name":"Tualatin","slug":"tualatin-or"},
+    {"name":"Wilsonville","slug":"wilsonville-or"},
+    {"name":"Newberg","slug":"newberg-or"},
+    {"name":"Tigard","slug":"tigard-or"},
+    {"name":"Beaverton","slug":"beaverton-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"technology-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Happy Valley",
+  "slug": "happy-valley-or",
+  "county": "Clackamas County",
+  "population": 27820,
+  "zip_codes": [
+    "97015",
+    "97086"
+  ],
+  "landmarks": [
+    "Happy Valley Park",
+    "Scouters Mountain Nature Park",
+    "Mount Talbert Nature Park",
+    "Happy Valley Town Center",
+    "Hidden Falls Nature Park"
+  ],
+  "nearby_cities": [
+    {"name":"Portland","slug":"portland-or"},
+    {"name":"Milwaukie","slug":"milwaukie-or"},
+    {"name":"Oregon City","slug":"oregon-city-or"},
+    {"name":"Gresham","slug":"gresham-or"},
+    {"name":"Clackamas","slug":"clackamas-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"foothills",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Troutdale",
+  "slug": "troutdale-or",
+  "county": "Multnomah County",
+  "population": 16935,
+  "zip_codes": [
+    "97060"
+  ],
+  "landmarks": [
+    "Columbia River Gorge Gateway",
+    "Historic Downtown Troutdale",
+    "Glenn Otto Community Park",
+    "McMenamins Edgefield",
+    "Sandy River Delta"
+  ],
+  "nearby_cities": [
+    {"name":"Gresham","slug":"gresham-or"},
+    {"name":"Fairview","slug":"fairview-or"},
+    {"name":"Wood Village","slug":"wood-village-or"},
+    {"name":"Portland","slug":"portland-or"},
+    {"name":"Corbett","slug":"corbett-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"river-gorge",
+  "economy_type":"tourism-retail",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Ontario",
+  "slug": "ontario-or",
+  "county": "Malheur County",
+  "population": 11565,
+  "zip_codes": [
+    "97914"
+  ],
+  "landmarks": [
+    "Four Rivers Cultural Center",
+    "Treasure Valley Community College",
+    "Lions Park",
+    "Downtown Ontario",
+    "Snake River"
+  ],
+  "nearby_cities": [
+    {"name":"Vale","slug":"vale-or"},
+    {"name":"Nyssa","slug":"nyssa-or"},
+    {"name":"Payette","slug":"payette-id"},
+    {"name":"Fruitland","slug":"fruitland-id"},
+    {"name":"Weiser","slug":"weiser-id"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"snake-river-plain",
+  "economy_type":"agriculture-logistics",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"eastern-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Newport",
+  "slug": "newport-or",
+  "county": "Lincoln County",
+  "population": 10685,
+  "zip_codes": [
+    "97365"
+  ],
+  "landmarks": [
+    "Yaquina Bay Bridge",
+    "Oregon Coast Aquarium",
+    "Yaquina Head Lighthouse",
+    "Historic Bayfront",
+    "Nye Beach"
+  ],
+  "nearby_cities": [
+    {"name":"Toledo","slug":"toledo-or"},
+    {"name":"Lincoln City","slug":"lincoln-city-or"},
+    {"name":"Depoe Bay","slug":"depoe-bay-or"},
+    {"name":"Waldport","slug":"waldport-or"},
+    {"name":"Corvallis","slug":"corvallis-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"pacific-coast",
+  "economy_type":"tourism-fishing",
+  "housing_profile":"coastal-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"oregon-coast",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Prineville",
+  "slug": "prineville-or",
+  "county": "Crook County",
+  "population": 11415,
+  "zip_codes": [
+    "97754"
+  ],
+  "landmarks": [
+    "Crook County Courthouse",
+    "Ochoco Creek Park",
+    "Prineville Reservoir State Park",
+    "Pioneer Park",
+    "Facebook Prineville Data Center"
+  ],
+  "nearby_cities": [
+    {"name":"Redmond","slug":"redmond-or"},
+    {"name":"Bend","slug":"bend-or"},
+    {"name":"Madras","slug":"madras-or"},
+    {"name":"Sisters","slug":"sisters-or"},
+    {"name":"Mitchell","slug":"mitchell-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"high-desert",
+  "terrain":"high-plateau",
+  "economy_type":"technology-agriculture",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-oregon",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Lincoln City",
+  "slug": "lincoln-city-or",
+  "county": "Lincoln County",
+  "population": 10115,
+  "zip_codes": [
+    "97367"
+  ],
+  "landmarks": [
+    "Chinook Winds Casino Resort",
+    "Devils Lake",
+    "Roads End State Recreation Site",
+    "Lincoln City Outlets",
+    "D River State Recreation Site"
+  ],
+  "nearby_cities": [
+    {"name":"Newport","slug":"newport-or"},
+    {"name":"Depoe Bay","slug":"depoe-bay-or"},
+    {"name":"Pacific City","slug":"pacific-city-or"},
+    {"name":"Tillamook","slug":"tillamook-or"},
+    {"name":"Salem","slug":"salem-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"pacific-coast",
+  "economy_type":"tourism-hospitality",
+  "housing_profile":"coastal-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"oregon-coast",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "La Grande",
+  "slug": "la-grande-or",
+  "county": "Union County",
+  "population": 13310,
+  "zip_codes": [
+    "97850"
+  ],
+  "landmarks": [
+    "Eastern Oregon University",
+    "Riverside Park",
+    "Hot Lake Springs",
+    "Union County Fairgrounds",
+    "Downtown La Grande"
+  ],
+  "nearby_cities": [
+    {"name":"Pendleton","slug":"pendleton-or"},
+    {"name":"Hermiston","slug":"hermiston-or"},
+    {"name":"Baker City","slug":"baker-city-or"},
+    {"name":"Island City","slug":"island-city-or"},
+    {"name":"Union","slug":"union-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"blue-mountains",
+  "economy_type":"education-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"eastern-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "The Dalles",
+  "slug": "the-dalles-or",
+  "county": "Wasco County",
+  "population": 15980,
+  "zip_codes": [
+    "97058"
+  ],
+  "landmarks": [
+    "Columbia Gorge Discovery Center",
+    "The Dalles Dam",
+    "Fort Dalles Museum",
+    "Downtown The Dalles",
+    "Sorosis Park"
+  ],
+  "nearby_cities": [
+    {"name":"Hood River","slug":"hood-river-or"},
+    {"name":"Troutdale","slug":"troutdale-or"},
+    {"name":"Goldendale","slug":"goldendale-wa"},
+    {"name":"Mosier","slug":"mosier-or"},
+    {"name":"Dufur","slug":"dufur-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"columbia-gorge",
+  "economy_type":"agriculture-logistics",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"columbia-gorge",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Astoria",
+  "slug": "astoria-or",
+  "county": "Clatsop County",
+  "population": 10005,
+  "zip_codes": [
+    "97103"
+  ],
+  "landmarks": [
+    "Astoria Column",
+    "Columbia River Maritime Museum",
+    "Astoria Riverwalk",
+    "Fort George Brewery",
+    "Flavel House Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Seaside","slug":"seaside-or"},
+    {"name":"Warrenton","slug":"warrenton-or"},
+    {"name":"Gearhart","slug":"gearhart-or"},
+    {"name":"Long Beach","slug":"long-beach-wa"},
+    {"name":"Cannon Beach","slug":"cannon-beach-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"pacific-coast",
+  "economy_type":"tourism-fishing",
+  "housing_profile":"coastal-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"north-oregon-coast",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Silverton",
+  "slug": "silverton-or",
+  "county": "Marion County",
+  "population": 10685,
+  "zip_codes": [
+    "97381"
+  ],
+  "landmarks": [
+    "Oregon Garden",
+    "Silver Falls State Park",
+    "Coolidge McClaine Park",
+    "Downtown Silverton",
+    "Gordon House by Frank Lloyd Wright"
+  ],
+  "nearby_cities": [
+    {"name":"Salem","slug":"salem-or"},
+    {"name":"Woodburn","slug":"woodburn-or"},
+    {"name":"Keizer","slug":"keizer-or"},
+    {"name":"Mount Angel","slug":"mount-angel-or"},
+    {"name":"Stayton","slug":"stayton-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"tourism-agriculture",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"mid-willamette-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Stayton",
+  "slug": "stayton-or",
+  "county": "Marion County",
+  "population": 8435,
+  "zip_codes": [
+    "97383"
+  ],
+  "landmarks": [
+    "Stayton-Jordan Covered Bridge",
+    "Pioneer Park",
+    "Stayton Public Library",
+    "Downtown Stayton",
+    "Santiam River"
+  ],
+  "nearby_cities": [
+    {"name":"Silverton","slug":"silverton-or"},
+    {"name":"Salem","slug":"salem-or"},
+    {"name":"Aumsville","slug":"aumsville-or"},
+    {"name":"Sublimity","slug":"sublimity-or"},
+    {"name":"Scio","slug":"scio-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"healthcare-manufacturing",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"mid-willamette-valley",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Baker City",
+  "slug": "baker-city-or",
+  "county": "Baker County",
+  "population": 10095,
+  "zip_codes": [
+    "97814"
+  ],
+  "landmarks": [
+    "Oregon Trail Interpretive Center",
+    "Geiser Grand Hotel",
+    "Baker Heritage Museum",
+    "Downtown Baker City",
+    "Central Park"
+  ],
+  "nearby_cities": [
+    {"name":"La Grande","slug":"la-grande-or"},
+    {"name":"Pendleton","slug":"pendleton-or"},
+    {"name":"Ontario","slug":"ontario-or"},
+    {"name":"Halfway","slug":"halfway-or"},
+    {"name":"Haines","slug":"haines-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"blue-mountains",
+  "economy_type":"tourism-agriculture",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Hood River",
+  "slug": "hood-river-or",
+  "county": "Hood River County",
+  "population": 8690,
+  "zip_codes": [
+    "97031"
+  ],
+  "landmarks": [
+    "Hood River Waterfront Park",
+    "Mount Hood Railroad",
+    "Columbia River Gorge",
+    "Indian Creek Trail",
+    "Downtown Hood River"
+  ],
+  "nearby_cities": [
+    {"name":"The Dalles","slug":"the-dalles-or"},
+    {"name":"Mosier","slug":"mosier-or"},
+    {"name":"White Salmon","slug":"white-salmon-wa"},
+    {"name":"Cascade Locks","slug":"cascade-locks-or"},
+    {"name":"Parkdale","slug":"parkdale-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"columbia-gorge",
+  "economy_type":"tourism-agriculture",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"columbia-gorge",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Monmouth",
+  "slug": "monmouth-or",
+  "county": "Polk County",
+  "population": 11260,
+  "zip_codes": [
+    "97361"
+  ],
+  "landmarks": [
+    "Western Oregon University",
+    "Main Street Park",
+    "Gentle Woods Park",
+    "Downtown Monmouth",
+    "Madrona Park"
+  ],
+  "nearby_cities": [
+    {"name":"Independence","slug":"independence-or"},
+    {"name":"Dallas","slug":"dallas-or"},
+    {"name":"Salem","slug":"salem-or"},
+    {"name":"Corvallis","slug":"corvallis-or"},
+    {"name":"Albany","slug":"albany-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"education-services",
+  "housing_profile":"college-town",
+  "growth_pattern":"steady-growth",
+  "service_environment":"mid-willamette-valley",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Independence",
+  "slug": "independence-or",
+  "county": "Polk County",
+  "population": 10340,
+  "zip_codes": [
+    "97351"
+  ],
+  "landmarks": [
+    "Riverview Park",
+    "Independence Heritage Museum",
+    "Downtown Independence",
+    "Willamette River Trail",
+    "Western Heritage Plaza"
+  ],
+  "nearby_cities": [
+    {"name":"Monmouth","slug":"monmouth-or"},
+    {"name":"Dallas","slug":"dallas-or"},
+    {"name":"Salem","slug":"salem-or"},
+    {"name":"Keizer","slug":"keizer-or"},
+    {"name":"Albany","slug":"albany-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"education-retail",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"mid-willamette-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Sweet Home",
+  "slug": "sweet-home-or",
+  "county": "Linn County",
+  "population": 10285,
+  "zip_codes": [
+    "97386"
+  ],
+  "landmarks": [
+    "Foster Lake",
+    "Sankey Park",
+    "Wiley Creek Community",
+    "Downtown Sweet Home",
+    "McDowell Creek Falls"
+  ],
+  "nearby_cities": [
+    {"name":"Lebanon","slug":"lebanon-or"},
+    {"name":"Albany","slug":"albany-or"},
+    {"name":"Brownsville","slug":"brownsville-or"},
+    {"name":"Corvallis","slug":"corvallis-or"},
+    {"name":"Stayton","slug":"stayton-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"cascade-foothills",
+  "economy_type":"timber-manufacturing",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"willamette-valley",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Eagle Point",
+  "slug": "eagle-point-or",
+  "county": "Jackson County",
+  "population": 9875,
+  "zip_codes": [
+    "97524"
+  ],
+  "landmarks": [
+    "Eagle Point Golf Club",
+    "Butte Creek Mill",
+    "Downtown Eagle Point",
+    "Eagle Point Community Park",
+    "Little Butte Creek"
+  ],
+  "nearby_cities": [
+    {"name":"Medford","slug":"medford-or"},
+    {"name":"Central Point","slug":"central-point-or"},
+    {"name":"White City","slug":"white-city-or"},
+    {"name":"Ashland","slug":"ashland-or"},
+    {"name":"Shady Cove","slug":"shady-cove-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"mediterranean",
+  "terrain":"rogue-valley",
+  "economy_type":"healthcare-tourism",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southern-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Molalla",
+  "slug": "molalla-or",
+  "county": "Clackamas County",
+  "population": 9870,
+  "zip_codes": [
+    "97038"
+  ],
+  "landmarks": [
+    "Molalla River Recreation Area",
+    "Fox Park",
+    "Downtown Molalla",
+    "Molalla Buckeroo Grounds",
+    "Molalla River Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Canby","slug":"canby-or"},
+    {"name":"Oregon City","slug":"oregon-city-or"},
+    {"name":"Woodburn","slug":"woodburn-or"},
+    {"name":"Silverton","slug":"silverton-or"},
+    {"name":"Wilsonville","slug":"wilsonville-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"cascade-foothills",
+  "economy_type":"agriculture-forestry",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "St. Helens",
+  "slug": "st-helens-or",
+  "county": "Columbia County",
+  "population": 14120,
+  "zip_codes": [
+    "97051"
+  ],
+  "landmarks": [
+    "Columbia View Park",
+    "Historic Riverfront District",
+    "Sand Island Marine Park",
+    "McCormick Park",
+    "Columbia County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Scappoose","slug":"scappoose-or"},
+    {"name":"Rainier","slug":"rainier-or"},
+    {"name":"Longview","slug":"longview-wa"},
+    {"name":"Portland","slug":"portland-or"},
+    {"name":"Vernonia","slug":"vernonia-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"columbia-river",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"northwest-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Warrenton",
+  "slug": "warrenton-or",
+  "county": "Clatsop County",
+  "population": 6405,
+  "zip_codes": [
+    "97146"
+  ],
+  "landmarks": [
+    "Fort Stevens State Park",
+    "Battery Russell",
+    "Carruthers Park",
+    "Hammond Marina",
+    "Fort Stevens Historic Area"
+  ],
+  "nearby_cities": [
+    {"name":"Astoria","slug":"astoria-or"},
+    {"name":"Seaside","slug":"seaside-or"},
+    {"name":"Gearhart","slug":"gearhart-or"},
+    {"name":"Long Beach","slug":"long-beach-wa"},
+    {"name":"Cannon Beach","slug":"cannon-beach-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"pacific-coast",
+  "economy_type":"tourism-fishing",
+  "housing_profile":"coastal-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"north-oregon-coast",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Scappoose",
+  "slug": "scappoose-or",
+  "county": "Columbia County",
+  "population": 8365,
+  "zip_codes": [
+    "97056"
+  ],
+  "landmarks": [
+    "Scappoose Bay Marine Park",
+    "Heritage Park",
+    "Scappoose Veterans Park",
+    "Downtown Scappoose",
+    "Scappoose Airport"
+  ],
+  "nearby_cities": [
+    {"name":"St. Helens","slug":"st-helens-or"},
+    {"name":"Portland","slug":"portland-or"},
+    {"name":"Vernonia","slug":"vernonia-or"},
+    {"name":"Rainier","slug":"rainier-or"},
+    {"name":"Warren","slug":"warren-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"columbia-river",
+  "economy_type":"manufacturing-logistics",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"northwest-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Florence",
+  "slug": "florence-or",
+  "county": "Lane County",
+  "population": 9245,
+  "zip_codes": [
+    "97439"
+  ],
+  "landmarks": [
+    "Oregon Dunes National Recreation Area",
+    "Historic Old Town Florence",
+    "Sea Lion Caves",
+    "Heceta Head Lighthouse",
+    "Jessie M. Honeyman Memorial State Park"
+  ],
+  "nearby_cities": [
+    {"name":"Eugene","slug":"eugene-or"},
+    {"name":"Reedsport","slug":"reedsport-or"},
+    {"name":"Newport","slug":"newport-or"},
+    {"name":"Veneta","slug":"veneta-or"},
+    {"name":"Mapleton","slug":"mapleton-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"pacific-coast",
+  "economy_type":"tourism-hospitality",
+  "housing_profile":"coastal-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-oregon-coast",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Cottage Grove",
+  "slug": "cottage-grove-or",
+  "county": "Lane County",
+  "population": 10210,
+  "zip_codes": [
+    "97424"
+  ],
+  "landmarks": [
+    "Historic Downtown Cottage Grove",
+    "Covered Bridge Museum",
+    "Bohemia Park",
+    "Row River Trail",
+    "Cottage Grove Lake"
+  ],
+  "nearby_cities": [
+    {"name":"Eugene","slug":"eugene-or"},
+    {"name":"Springfield","slug":"springfield-or"},
+    {"name":"Creswell","slug":"creswell-or"},
+    {"name":"Drain","slug":"drain-or"},
+    {"name":"Sutherlin","slug":"sutherlin-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"manufacturing-tourism",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"lane-county",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Umatilla",
+  "slug": "umatilla-or",
+  "county": "Umatilla County",
+  "population": 7750,
+  "zip_codes": [
+    "97882"
+  ],
+  "landmarks": [
+    "Umatilla Marina",
+    "McNary Dam",
+    "Umatilla Marina RV Park",
+    "Columbia River Waterfront",
+    "Umatilla City Hall"
+  ],
+  "nearby_cities": [
+    {"name":"Hermiston","slug":"hermiston-or"},
+    {"name":"Pendleton","slug":"pendleton-or"},
+    {"name":"Boardman","slug":"boardman-or"},
+    {"name":"Stanfield","slug":"stanfield-or"},
+    {"name":"Kennewick","slug":"kennewick-wa"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"columbia-plateau",
+  "economy_type":"agriculture-energy",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"eastern-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Cornelius",
+  "slug": "cornelius-or",
+  "county": "Washington County",
+  "population": 12910,
+  "zip_codes": [
+    "97113"
+  ],
+  "landmarks": [
+    "Harleman Park",
+    "Cornelius City Hall",
+    "Echo Shaw Elementary Park",
+    "Downtown Cornelius",
+    "Alpine Park"
+  ],
+  "nearby_cities": [
+    {"name":"Forest Grove","slug":"forest-grove-or"},
+    {"name":"Hillsboro","slug":"hillsboro-or"},
+    {"name":"Banks","slug":"banks-or"},
+    {"name":"Gaston","slug":"gaston-or"},
+    {"name":"Beaverton","slug":"beaverton-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"agriculture-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Sandy",
+  "slug": "sandy-or",
+  "county": "Clackamas County",
+  "population": 12735,
+  "zip_codes": [
+    "97055"
+  ],
+  "landmarks": [
+    "Sandy River",
+    "Meinig Memorial Park",
+    "Jonsrud Viewpoint",
+    "Downtown Sandy",
+    "Sandy Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Gresham","slug":"gresham-or"},
+    {"name":"Troutdale","slug":"troutdale-or"},
+    {"name":"Oregon City","slug":"oregon-city-or"},
+    {"name":"Happy Valley","slug":"happy-valley-or"},
+    {"name":"Estacada","slug":"estacada-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"cascade-foothills",
+  "economy_type":"tourism-retail",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Milton-Freewater",
+  "slug": "milton-freewater-or",
+  "county": "Umatilla County",
+  "population": 7365,
+  "zip_codes": [
+    "97862"
+  ],
+  "landmarks": [
+    "Yantis Park",
+    "Joe Humbert Family Aquatic Center",
+    "Downtown Milton-Freewater",
+    "Milton-Freewater Museum",
+    "Walla Walla River"
+  ],
+  "nearby_cities": [
+    {"name":"Pendleton","slug":"pendleton-or"},
+    {"name":"La Grande","slug":"la-grande-or"},
+    {"name":"Hermiston","slug":"hermiston-or"},
+    {"name":"Walla Walla","slug":"walla-walla-wa"},
+    {"name":"College Place","slug":"college-place-wa"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"blue-mountains-foothills",
+  "economy_type":"agriculture-wine",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Brookings",
+  "slug": "brookings-or",
+  "county": "Curry County",
+  "population": 6555,
+  "zip_codes": [
+    "97415"
+  ],
+  "landmarks": [
+    "Harris Beach State Park",
+    "Azalea Park",
+    "Port of Brookings Harbor",
+    "Chetco Point Park",
+    "Samuel H. Boardman State Scenic Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Gold Beach","slug":"gold-beach-or"},
+    {"name":"Crescent City","slug":"crescent-city-ca"},
+    {"name":"Medford","slug":"medford-or"},
+    {"name":"Grants Pass","slug":"grants-pass-or"},
+    {"name":"Cave Junction","slug":"cave-junction-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"pacific-coast",
+  "economy_type":"tourism-fishing",
+  "housing_profile":"coastal-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southern-oregon-coast",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Sutherlin",
+  "slug": "sutherlin-or",
+  "county": "Douglas County",
+  "population": 8645,
+  "zip_codes": [
+    "97479"
+  ],
+  "landmarks": [
+    "Ford's Pond",
+    "Cooper Creek Reservoir",
+    "Central Park",
+    "Downtown Sutherlin",
+    "Sutherlin Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Roseburg","slug":"roseburg-or"},
+    {"name":"Cottage Grove","slug":"cottage-grove-or"},
+    {"name":"Winston","slug":"winston-or"},
+    {"name":"Myrtle Creek","slug":"myrtle-creek-or"},
+    {"name":"Drain","slug":"drain-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"mediterranean",
+  "terrain":"umpqua-valley",
+  "economy_type":"manufacturing-timber",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southern-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Tillamook",
+  "slug": "tillamook-or",
+  "county": "Tillamook County",
+  "population": 5335,
+  "zip_codes": [
+    "97141"
+  ],
+  "landmarks": [
+    "Tillamook Creamery",
+    "Tillamook Air Museum",
+    "Cape Meares Lighthouse",
+    "Downtown Tillamook",
+    "Tillamook County Pioneer Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Lincoln City","slug":"lincoln-city-or"},
+    {"name":"Astoria","slug":"astoria-or"},
+    {"name":"Seaside","slug":"seaside-or"},
+    {"name":"Pacific City","slug":"pacific-city-or"},
+    {"name":"Bay City","slug":"bay-city-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"pacific-coast",
+  "economy_type":"agriculture-tourism",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"north-oregon-coast",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Gladstone",
+  "slug": "gladstone-or",
+  "county": "Clackamas County",
+  "population": 12245,
+  "zip_codes": [
+    "97027"
+  ],
+  "landmarks": [
+    "Meldrum Bar Park",
+    "High Rocks Park",
+    "Gladstone Nature Park",
+    "Gladstone City Hall",
+    "Cross Park"
+  ],
+  "nearby_cities": [
+    {"name":"Oregon City","slug":"oregon-city-or"},
+    {"name":"Milwaukie","slug":"milwaukie-or"},
+    {"name":"West Linn","slug":"west-linn-or"},
+    {"name":"Lake Oswego","slug":"lake-oswego-or"},
+    {"name":"Portland","slug":"portland-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"river-valley",
+  "economy_type":"government-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Wood Village",
+  "slug": "wood-village-or",
+  "county": "Multnomah County",
+  "population": 4745,
+  "zip_codes": [
+    "97060"
+  ],
+  "landmarks": [
+    "Donald L. Robertson City Park",
+    "Wood Village Town Center",
+    "City Hall",
+    "Halsey Crossing",
+    "Neighborhood Greenway"
+  ],
+  "nearby_cities": [
+    {"name":"Troutdale","slug":"troutdale-or"},
+    {"name":"Fairview","slug":"fairview-or"},
+    {"name":"Gresham","slug":"gresham-or"},
+    {"name":"Portland","slug":"portland-or"},
+    {"name":"Happy Valley","slug":"happy-valley-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"river-valley",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Fairview",
+  "slug": "fairview-or",
+  "county": "Multnomah County",
+  "population": 10895,
+  "zip_codes": [
+    "97024"
+  ],
+  "landmarks": [
+    "Blue Lake Regional Park",
+    "Fairview Community Park",
+    "Salish Ponds Wetland Park",
+    "Fairview City Hall",
+    "Lakeshore Park"
+  ],
+  "nearby_cities": [
+    {"name":"Gresham","slug":"gresham-or"},
+    {"name":"Troutdale","slug":"troutdale-or"},
+    {"name":"Wood Village","slug":"wood-village-or"},
+    {"name":"Portland","slug":"portland-or"},
+    {"name":"Happy Valley","slug":"happy-valley-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"river-valley",
+  "economy_type":"professional-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Junction City",
+  "slug": "junction-city-or",
+  "county": "Lane County",
+  "population": 6395,
+  "zip_codes": [
+    "97448"
+  ],
+  "landmarks": [
+    "Junction City Historical Museum",
+    "Toftdahl Park",
+    "Downtown Junction City",
+    "Daffodil Festival Grounds",
+    "Junction City Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Eugene","slug":"eugene-or"},
+    {"name":"Springfield","slug":"springfield-or"},
+    {"name":"Coburg","slug":"coburg-or"},
+    {"name":"Harrisburg","slug":"harrisburg-or"},
+    {"name":"Veneta","slug":"veneta-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"agriculture-manufacturing",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"lane-county",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Madras",
+  "slug": "madras-or",
+  "county": "Jefferson County",
+  "population": 7945,
+  "zip_codes": [
+    "97741"
+  ],
+  "landmarks": [
+    "Erickson Aircraft Collection",
+    "Sahalee Park",
+    "Jefferson County Fairgrounds",
+    "Downtown Madras",
+    "Juniper Hills Park"
+  ],
+  "nearby_cities": [
+    {"name":"Redmond","slug":"redmond-or"},
+    {"name":"Prineville","slug":"prineville-or"},
+    {"name":"Bend","slug":"bend-or"},
+    {"name":"Warm Springs","slug":"warm-springs-or"},
+    {"name":"Culver","slug":"culver-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"high-desert",
+  "terrain":"high-plateau",
+  "economy_type":"agriculture-manufacturing",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"central-oregon",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Estacada",
+  "slug": "estacada-or",
+  "county": "Clackamas County",
+  "population": 5525,
+  "zip_codes": [
+    "97023"
+  ],
+  "landmarks": [
+    "Milo McIver State Park",
+    "Estacada Lake",
+    "Downtown Estacada",
+    "Timber Park",
+    "Clackamas River"
+  ],
+  "nearby_cities": [
+    {"name":"Sandy","slug":"sandy-or"},
+    {"name":"Oregon City","slug":"oregon-city-or"},
+    {"name":"Molalla","slug":"molalla-or"},
+    {"name":"Happy Valley","slug":"happy-valley-or"},
+    {"name":"Canby","slug":"canby-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"cascade-foothills",
+  "economy_type":"tourism-forestry",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"portland-metro",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Veneta",
+  "slug": "veneta-or",
+  "county": "Lane County",
+  "population": 5795,
+  "zip_codes": [
+    "97487"
+  ],
+  "landmarks": [
+    "Fern Ridge Reservoir",
+    "Oregon Country Fair Grounds",
+    "Veneta City Park",
+    "Downtown Veneta",
+    "Fern Ridge Trail"
+  ],
+  "nearby_cities": [
+    {"name":"Eugene","slug":"eugene-or"},
+    {"name":"Junction City","slug":"junction-city-or"},
+    {"name":"Florence","slug":"florence-or"},
+    {"name":"Cottage Grove","slug":"cottage-grove-or"},
+    {"name":"Corvallis","slug":"corvallis-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"tourism-agriculture",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"lane-county",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Phoenix",
+  "slug": "phoenix-or",
+  "county": "Jackson County",
+  "population": 4695,
+  "zip_codes": [
+    "97535"
+  ],
+  "landmarks": [
+    "Blue Heron Park",
+    "Phoenix Civic Center",
+    "Bear Creek Greenway",
+    "Downtown Phoenix",
+    "Phoenix Library"
+  ],
+  "nearby_cities": [
+    {"name":"Medford","slug":"medford-or"},
+    {"name":"Talent","slug":"talent-or"},
+    {"name":"Ashland","slug":"ashland-or"},
+    {"name":"Central Point","slug":"central-point-or"},
+    {"name":"Jacksonville","slug":"jacksonville-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"mediterranean",
+  "terrain":"rogue-valley",
+  "economy_type":"retail-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rebuilding-growth",
+  "service_environment":"southern-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Talent",
+  "slug": "talent-or",
+  "county": "Jackson County",
+  "population": 6845,
+  "zip_codes": [
+    "97540"
+  ],
+  "landmarks": [
+    "Chuck Roberts Park",
+    "Talent Irrigation District",
+    "Downtown Talent",
+    "Bear Creek Greenway",
+    "Talent Library"
+  ],
+  "nearby_cities": [
+    {"name":"Ashland","slug":"ashland-or"},
+    {"name":"Phoenix","slug":"phoenix-or"},
+    {"name":"Medford","slug":"medford-or"},
+    {"name":"Central Point","slug":"central-point-or"},
+    {"name":"Jacksonville","slug":"jacksonville-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"mediterranean",
+  "terrain":"rogue-valley",
+  "economy_type":"services-tourism",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southern-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Boardman",
+  "slug": "boardman-or",
+  "county": "Morrow County",
+  "population": 4345,
+  "zip_codes": [
+    "97818"
+  ],
+  "landmarks": [
+    "Boardman Marina Park",
+    "SAGE Center",
+    "Port of Morrow",
+    "Downtown Boardman",
+    "Columbia River"
+  ],
+  "nearby_cities": [
+    {"name":"Hermiston","slug":"hermiston-or"},
+    {"name":"Umatilla","slug":"umatilla-or"},
+    {"name":"Irrigon","slug":"irrigon-or"},
+    {"name":"The Dalles","slug":"the-dalles-or"},
+    {"name":"Pendleton","slug":"pendleton-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"columbia-plateau",
+  "economy_type":"agriculture-logistics",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"eastern-oregon",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "White City",
+  "slug": "white-city-or",
+  "county": "Jackson County",
+  "population": 9950,
+  "zip_codes": [
+    "97503"
+  ],
+  "landmarks": [
+    "Denman Wildlife Area",
+    "The Expo",
+    "White City Sports Park",
+    "Agate Lake",
+    "Cascade Shopping Center"
+  ],
+  "nearby_cities": [
+    {"name":"Medford","slug":"medford-or"},
+    {"name":"Central Point","slug":"central-point-or"},
+    {"name":"Eagle Point","slug":"eagle-point-or"},
+    {"name":"Jacksonville","slug":"jacksonville-or"},
+    {"name":"Ashland","slug":"ashland-or"}
+  ],
+  "city_type":"community",
+  "climate_zone":"mediterranean",
+  "terrain":"rogue-valley",
+  "economy_type":"healthcare-industrial",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southern-oregon",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Aumsville",
+  "slug": "aumsville-or",
+  "county": "Marion County",
+  "population": 5215,
+  "zip_codes": [
+    "97325"
+  ],
+  "landmarks": [
+    "Porter-Boone Park",
+    "Aumsville City Hall",
+    "Aumsville Community Library",
+    "Cascade School District",
+    "Downtown Aumsville"
+  ],
+  "nearby_cities": [
+    {"name":"Stayton","slug":"stayton-or"},
+    {"name":"Salem","slug":"salem-or"},
+    {"name":"Sublimity","slug":"sublimity-or"},
+    {"name":"Silverton","slug":"silverton-or"},
+    {"name":"Turner","slug":"turner-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"residential-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"mid-willamette-valley",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Creswell",
+  "slug": "creswell-or",
+  "county": "Lane County",
+  "population": 5885,
+  "zip_codes": [
+    "97426"
+  ],
+  "landmarks": [
+    "Creswell Community Park",
+    "Emerald Valley Golf Club",
+    "Downtown Creswell",
+    "Holt Park",
+    "Creswell Library"
+  ],
+  "nearby_cities": [
+    {"name":"Eugene","slug":"eugene-or"},
+    {"name":"Springfield","slug":"springfield-or"},
+    {"name":"Cottage Grove","slug":"cottage-grove-or"},
+    {"name":"Veneta","slug":"veneta-or"},
+    {"name":"Junction City","slug":"junction-city-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"marine-west-coast",
+  "terrain":"willamette-valley",
+  "economy_type":"agriculture-services",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"lane-county",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Irrigon",
+  "slug": "irrigon-or",
+  "county": "Morrow County",
+  "population": 2015,
+  "zip_codes": [
+    "97844"
+  ],
+  "landmarks": [
+    "Irrigon Marina Park",
+    "Columbia River",
+    "Irrigon Event Plaza",
+    "Irrigon City Hall",
+    "Marina Boat Launch"
+  ],
+  "nearby_cities": [
+    {"name":"Boardman","slug":"boardman-or"},
+    {"name":"Umatilla","slug":"umatilla-or"},
+    {"name":"Hermiston","slug":"hermiston-or"},
+    {"name":"The Dalles","slug":"the-dalles-or"},
+    {"name":"Pendleton","slug":"pendleton-or"}
+  ],
+  "city_type":"city",
+  "climate_zone":"semi-arid",
+  "terrain":"columbia-plateau",
+  "economy_type":"agriculture",
+  "housing_profile":"small-town-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"eastern-oregon",
+  "property_mix":"mixed-use"
+}
+]

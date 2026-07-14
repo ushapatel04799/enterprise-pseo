@@ -1,0 +1,254 @@
+[
+  {
+    "city": "Barre",
+    "slug": "barre-vt",
+    "county": "Washington County",
+    "population": 8350,
+    "zip_codes": [
+      "05641"
+    ],
+    "landmarks": [
+      "Rock of Ages Granite Quarry",
+      "Vermont Granite Museum",
+      "Barre Opera House",
+      "Currier Park",
+      "Hope Cemetery"
+    ],
+    "nearby_cities": [
+      {"name":"Montpelier","slug":"montpelier-vt"},
+      {"name":"Berlin","slug":"berlin-vt"},
+      {"name":"Williamstown","slug":"williamstown-vt"},
+      {"name":"Northfield","slug":"northfield-vt"},
+      {"name":"Waterbury","slug":"waterbury-vt"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"green-mountains",
+    "economy_type":"manufacturing-services",
+    "housing_profile":"regional-residential",
+    "growth_pattern":"stable-growth",
+    "service_environment":"central-vermont",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Bennington",
+    "slug": "bennington-vt",
+    "county": "Bennington County",
+    "population": 15800,
+    "zip_codes": [
+      "05201"
+    ],
+    "landmarks": [
+      "Bennington Battle Monument",
+      "Old First Church",
+      "Bennington Museum",
+      "Lake Paran",
+      "Downtown Bennington"
+    ],
+    "nearby_cities": [
+      {"name":"North Bennington","slug":"north-bennington-vt"},
+      {"name":"Shaftsbury","slug":"shaftsbury-vt"},
+      {"name":"Pownal","slug":"pownal-vt"},
+      {"name":"Manchester","slug":"manchester-vt"},
+      {"name":"Arlington","slug":"arlington-vt"}
+    ],
+    "city_type":"census-designated-place",
+    "climate_zone":"humid-continental",
+    "terrain":"green-mountains",
+    "economy_type":"tourism-healthcare",
+    "housing_profile":"regional-residential",
+    "growth_pattern":"stable-growth",
+    "service_environment":"southwestern-vermont",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Burlington",
+    "slug": "burlington-vt",
+    "county": "Chittenden County",
+    "population": 44800,
+    "zip_codes": [
+      "05401",
+      "05405",
+      "05408"
+    ],
+    "landmarks": [
+      "Church Street Marketplace",
+      "Waterfront Park",
+      "University of Vermont",
+      "ECHO Leahy Center",
+      "Battery Park"
+    ],
+    "nearby_cities": [
+      {"name":"South Burlington","slug":"south-burlington-vt"},
+      {"name":"Winooski","slug":"winooski-vt"},
+      {"name":"Colchester","slug":"colchester-vt"},
+      {"name":"Essex Junction","slug":"essex-junction-vt"},
+      {"name":"Shelburne","slug":"shelburne-vt"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"lake-champlain-valley",
+    "economy_type":"education-healthcare",
+    "housing_profile":"major-urban",
+    "growth_pattern":"steady-growth",
+    "service_environment":"greater-burlington",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Colchester",
+    "slug": "colchester-vt",
+    "county": "Chittenden County",
+    "population": 17800,
+    "zip_codes": [
+      "05439",
+      "05446",
+      "05449"
+    ],
+    "landmarks": [
+      "Niquette Bay State Park",
+      "Airport Park",
+      "Causeway Park",
+      "Malletts Bay",
+      "Saint Michael's College"
+    ],
+    "nearby_cities": [
+      {"name":"Burlington","slug":"burlington-vt"},
+      {"name":"Winooski","slug":"winooski-vt"},
+      {"name":"Essex","slug":"essex-vt"},
+      {"name":"Milton","slug":"milton-vt"},
+      {"name":"South Burlington","slug":"south-burlington-vt"}
+    ],
+    "city_type":"town",
+    "climate_zone":"humid-continental",
+    "terrain":"lake-champlain-valley",
+    "economy_type":"education-services",
+    "housing_profile":"suburban-residential",
+    "growth_pattern":"steady-growth",
+    "service_environment":"greater-burlington",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Essex Junction",
+    "slug": "essex-junction-vt",
+    "county": "Chittenden County",
+    "population": 11100,
+    "zip_codes": [
+      "05452"
+    ],
+    "landmarks": [
+      "Champlain Valley Exposition",
+      "Maple Street Park",
+      "Five Corners",
+      "Essex Experience",
+      "Veterans Memorial Park"
+    ],
+    "nearby_cities": [
+      {"name":"Essex","slug":"essex-vt"},
+      {"name":"South Burlington","slug":"south-burlington-vt"},
+      {"name":"Colchester","slug":"colchester-vt"},
+      {"name":"Winooski","slug":"winooski-vt"},
+      {"name":"Burlington","slug":"burlington-vt"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"lake-champlain-valley",
+    "economy_type":"technology-manufacturing",
+    "housing_profile":"suburban-residential",
+    "growth_pattern":"steady-growth",
+    "service_environment":"greater-burlington",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Rutland",
+    "slug": "rutland-vt",
+    "county": "Rutland County",
+    "population": 15400,
+    "zip_codes": [
+      "05701"
+    ],
+    "landmarks": [
+      "Pine Hill Park",
+      "Paramount Theatre",
+      "Rutland Regional Medical Center",
+      "Wonderfeet Kids Museum",
+      "Downtown Rutland"
+    ],
+    "nearby_cities": [
+      {"name":"West Rutland","slug":"west-rutland-vt"},
+      {"name":"Mendon","slug":"mendon-vt"},
+      {"name":"Killington","slug":"killington-vt"},
+      {"name":"Pittsford","slug":"pittsford-vt"},
+      {"name":"Brandon","slug":"brandon-vt"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"green-mountains",
+    "economy_type":"healthcare-retail",
+    "housing_profile":"regional-urban",
+    "growth_pattern":"stable-growth",
+    "service_environment":"central-vermont",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "South Burlington",
+    "slug": "south-burlington-vt",
+    "county": "Chittenden County",
+    "population": 21400,
+    "zip_codes": [
+      "05403"
+    ],
+    "landmarks": [
+      "University Mall",
+      "Red Rocks Park",
+      "Overlook Park",
+      "Veterans Memorial Park",
+      "Burlington International Airport"
+    ],
+    "nearby_cities": [
+      {"name":"Burlington","slug":"burlington-vt"},
+      {"name":"Winooski","slug":"winooski-vt"},
+      {"name":"Essex Junction","slug":"essex-junction-vt"},
+      {"name":"Colchester","slug":"colchester-vt"},
+      {"name":"Shelburne","slug":"shelburne-vt"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"lake-champlain-valley",
+    "economy_type":"technology-healthcare",
+    "housing_profile":"major-suburban",
+    "growth_pattern":"steady-growth",
+    "service_environment":"greater-burlington",
+    "property_mix":"mixed-use"
+  },
+  {
+    "city": "Winooski",
+    "slug": "winooski-vt",
+    "county": "Chittenden County",
+    "population": 8000,
+    "zip_codes": [
+      "05404"
+    ],
+    "landmarks": [
+      "Winooski Falls",
+      "Rotary Park",
+      "Champlain Mill",
+      "Casavant Nature Area",
+      "Winooski Circle"
+    ],
+    "nearby_cities": [
+      {"name":"Burlington","slug":"burlington-vt"},
+      {"name":"South Burlington","slug":"south-burlington-vt"},
+      {"name":"Colchester","slug":"colchester-vt"},
+      {"name":"Essex Junction","slug":"essex-junction-vt"},
+      {"name":"Shelburne","slug":"shelburne-vt"}
+    ],
+    "city_type":"city",
+    "climate_zone":"humid-continental",
+    "terrain":"lake-champlain-valley",
+    "economy_type":"education-services",
+    "housing_profile":"urban-mixed",
+    "growth_pattern":"steady-growth",
+    "service_environment":"greater-burlington",
+    "property_mix":"mixed-use"
+  }
+]

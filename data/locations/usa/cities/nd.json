@@ -1,0 +1,360 @@
+[
+
+{
+  "city": "Fargo",
+  "slug": "fargo-nd",
+  "county": "Cass County",
+  "population": 133188,
+  "zip_codes": ["58102","58103","58104"],
+  "landmarks": [
+    "North Dakota State University",
+    "FARGODOME",
+    "Downtown Fargo",
+    "Red River Zoo",
+    "Bonanzaville USA"
+  ],
+  "nearby_cities": [
+    {"name":"West Fargo","slug":"west-fargo-nd"},
+    {"name":"Moorhead","slug":"moorhead-mn"},
+    {"name":"Horace","slug":"horace-nd"},
+    {"name":"Dilworth","slug":"dilworth-mn"},
+    {"name":"Casselton","slug":"casselton-nd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-healthcare-technology",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"red-river-valley",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Bismarck",
+  "slug": "bismarck-nd",
+  "county": "Burleigh County",
+  "population": 75700,
+  "zip_codes": ["58501","58503","58504"],
+  "landmarks": [
+    "North Dakota State Capitol",
+    "Dakota Zoo",
+    "Missouri River",
+    "Downtown Bismarck",
+    "Heritage Center"
+  ],
+  "nearby_cities": [
+    {"name":"Mandan","slug":"mandan-nd"},
+    {"name":"Lincoln","slug":"lincoln-nd"},
+    {"name":"Wilton","slug":"wilton-nd"},
+    {"name":"Washburn","slug":"washburn-nd"},
+    {"name":"Baldwin","slug":"baldwin-nd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"government-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"capital-region",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Grand Forks",
+  "slug": "grand-forks-nd",
+  "county": "Grand Forks County",
+  "population": 59200,
+  "zip_codes": ["58201","58203"],
+  "landmarks": [
+    "University of North Dakota",
+    "Alerus Center",
+    "Downtown Grand Forks",
+    "Greenway",
+    "Ralph Engelstad Arena"
+  ],
+  "nearby_cities": [
+    {"name":"East Grand Forks","slug":"east-grand-forks-mn"},
+    {"name":"Thompson","slug":"thompson-nd"},
+    {"name":"Larimore","slug":"larimore-nd"},
+    {"name":"Manvel","slug":"manvel-nd"},
+    {"name":"Emerado","slug":"emerado-nd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"red-river-valley",
+  "economy_type":"education-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"red-river-valley",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Minot",
+  "slug": "minot-nd",
+  "county": "Ward County",
+  "population": 47500,
+  "zip_codes": ["58701","58703"],
+  "landmarks": [
+    "Scandinavian Heritage Park",
+    "Roosevelt Park Zoo",
+    "North Dakota State Fairgrounds",
+    "Downtown Minot",
+    "Minot Air Force Base"
+  ],
+  "nearby_cities": [
+    {"name":"Burlington","slug":"burlington-nd"},
+    {"name":"Surrey","slug":"surrey-nd"},
+    {"name":"Velva","slug":"velva-nd"},
+    {"name":"Berthold","slug":"berthold-nd"},
+    {"name":"Des Lacs","slug":"des-lacs-nd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"military-retail",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"north-central-market",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "West Fargo",
+  "slug": "west-fargo-nd",
+  "county": "Cass County",
+  "population": 40500,
+  "zip_codes": ["58078"],
+  "landmarks": [
+    "Bonanzaville USA",
+    "Veterans Memorial Arena",
+    "The Lights",
+    "West Fargo Sports Arena",
+    "Downtown West Fargo"
+  ],
+  "nearby_cities": [
+    {"name":"Fargo","slug":"fargo-nd"},
+    {"name":"Horace","slug":"horace-nd"},
+    {"name":"Moorhead","slug":"moorhead-mn"},
+    {"name":"Casselton","slug":"casselton-nd"},
+    {"name":"Kindred","slug":"kindred-nd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"manufacturing-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"red-river-valley",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Williston",
+  "slug": "williston-nd",
+  "county": "Williams County",
+  "population": 27294,
+  "zip_codes": ["58801","58802"],
+  "landmarks": [
+    "Fort Union Trading Post National Historic Site",
+    "Spring Lake Park",
+    "The James Memorial Art Center",
+    "Williston Area Recreation Center",
+    "Missouri-Yellowstone Confluence"
+  ],
+  "nearby_cities": [
+    {"name":"Watford City","slug":"watford-city-nd"},
+    {"name":"Ray","slug":"ray-nd"},
+    {"name":"Tioga","slug":"tioga-nd"},
+    {"name":"Alexander","slug":"alexander-nd"},
+    {"name":"Sidney","slug":"sidney-mt"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"energy-services",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"energy-driven-growth",
+  "service_environment":"bakken-region",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Dickinson",
+  "slug": "dickinson-nd",
+  "county": "Stark County",
+  "population": 25679,
+  "zip_codes": ["58601"],
+  "landmarks": [
+    "Dickinson Museum Center",
+    "Dakota Dinosaur Museum",
+    "West River Community Center",
+    "Downtown Dickinson",
+    "Ukrainian Cultural Institute"
+  ],
+  "nearby_cities": [
+    {"name":"Belfield","slug":"belfield-nd"},
+    {"name":"South Heart","slug":"south-heart-nd"},
+    {"name":"Richardton","slug":"richardton-nd"},
+    {"name":"Taylor","slug":"taylor-nd"},
+    {"name":"Mandan","slug":"mandan-nd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"badlands",
+  "economy_type":"energy-healthcare",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"southwest-north-dakota",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Mandan",
+  "slug": "mandan-nd",
+  "county": "Morton County",
+  "population": 24655,
+  "zip_codes": ["58554"],
+  "landmarks": [
+    "Fort Abraham Lincoln State Park",
+    "Mandan Railroad Museum",
+    "Dacotah Centennial Park",
+    "Downtown Mandan",
+    "Missouri River Waterfront"
+  ],
+  "nearby_cities": [
+    {"name":"Bismarck","slug":"bismarck-nd"},
+    {"name":"Lincoln","slug":"lincoln-nd"},
+    {"name":"New Salem","slug":"new-salem-nd"},
+    {"name":"Hazen","slug":"hazen-nd"},
+    {"name":"Washburn","slug":"washburn-nd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"government-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"steady-growth",
+  "service_environment":"capital-region",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Jamestown",
+  "slug": "jamestown-nd",
+  "county": "Stutsman County",
+  "population": 15849,
+  "zip_codes": ["58401","58402"],
+  "landmarks": [
+    "World's Largest Buffalo Monument",
+    "Frontier Village",
+    "Jamestown Reservoir",
+    "University of Jamestown",
+    "National Buffalo Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Valley City","slug":"valley-city-nd"},
+    {"name":"Carrington","slug":"carrington-nd"},
+    {"name":"Medina","slug":"medina-nd"},
+    {"name":"Spiritwood","slug":"spiritwood-nd"},
+    {"name":"Pingree","slug":"pingree-nd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-agriculture",
+  "housing_profile":"mixed-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-north-dakota",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Wahpeton",
+  "slug": "wahpeton-nd",
+  "county": "Richland County",
+  "population": 8620,
+  "zip_codes": ["58075"],
+  "landmarks": [
+    "Chahinkapa Zoo",
+    "Chahinkapa Park",
+    "North Dakota State College of Science",
+    "Bois de Sioux Golf Course",
+    "Downtown Wahpeton"
+  ],
+  "nearby_cities": [
+    {"name":"Breckenridge","slug":"breckenridge-mn"},
+    {"name":"Fargo","slug":"fargo-nd"},
+    {"name":"West Fargo","slug":"west-fargo-nd"},
+    {"name":"Lisbon","slug":"lisbon-nd"},
+    {"name":"Hankinson","slug":"hankinson-nd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"red-river-valley",
+  "economy_type":"education-manufacturing",
+  "housing_profile":"urban-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"southeast-north-dakota",
+  "property_mix":"mixed-use"
+},
+{
+  "city": "Valley City",
+  "slug": "valley-city-nd",
+  "county": "Barnes County",
+  "population": 6826,
+  "zip_codes": ["58072"],
+  "landmarks": [
+    "Hi-Line Railroad Bridge",
+    "Valley City State University",
+    "Medicine Wheel Park",
+    "Barnes County Historical Society",
+    "Chautauqua Park"
+  ],
+  "nearby_cities": [
+    {"name":"Jamestown","slug":"jamestown-nd"},
+    {"name":"Fargo","slug":"fargo-nd"},
+    {"name":"West Fargo","slug":"west-fargo-nd"},
+    {"name":"Lisbon","slug":"lisbon-nd"},
+    {"name":"Casselton","slug":"casselton-nd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"education-agriculture",
+  "housing_profile":"mixed-residential",
+  "growth_pattern":"stable-growth",
+  "service_environment":"central-north-dakota",
+  "property_mix":"mixed-use"
+},
+
+{
+  "city": "Horace",
+  "slug": "horace-nd",
+  "county": "Cass County",
+  "population": 5850,
+  "zip_codes": ["58047"],
+  "landmarks": [
+    "Horace Community Center",
+    "Horace Veterans Memorial",
+    "Horace City Hall",
+    "River's Bend Park",
+    "Horace Soccer Complex"
+  ],
+  "nearby_cities": [
+    {"name":"Fargo","slug":"fargo-nd"},
+    {"name":"West Fargo","slug":"west-fargo-nd"},
+    {"name":"Moorhead","slug":"moorhead-mn"},
+    {"name":"Casselton","slug":"casselton-nd"},
+    {"name":"Kindred","slug":"kindred-nd"}
+  ],
+  "city_type":"city",
+  "climate_zone":"humid-continental",
+  "terrain":"prairie",
+  "economy_type":"residential-services",
+  "housing_profile":"suburban-residential",
+  "growth_pattern":"rapid-growth",
+  "service_environment":"red-river-valley",
+  "property_mix":"mixed-use"
+}
+]

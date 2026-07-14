@@ -1,0 +1,2993 @@
+[
+
+{
+  "city": "Las Vegas",
+  "slug": "las-vegas-nv",
+  "county": "Clark County",
+  "population": 670000,
+  "zip_codes": ["89101","89104","89108","89117","89123"],
+  "landmarks": [
+    "Las Vegas Strip",
+    "Fremont Street Experience",
+    "Allegiant Stadium",
+    "Red Rock Canyon",
+    "Downtown Las Vegas"
+  ],
+  "nearby_cities": [
+    {"name":"North Las Vegas","slug":"north-las-vegas-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Boulder City","slug":"boulder-city-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Summerlin South","slug":"summerlin-south-nv"}
+  ],
+  "city_type": "major-city",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "tourism-entertainment",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "las-vegas-metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Henderson",
+  "slug": "henderson-nv",
+  "county": "Clark County",
+  "population": 340000,
+  "zip_codes": ["89002","89012","89014","89015","89052"],
+  "landmarks": [
+    "Lake Las Vegas",
+    "Green Valley Ranch",
+    "Water Street District",
+    "Clark County Wetlands Park",
+    "Sunset Station"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"North Las Vegas","slug":"north-las-vegas-nv"},
+    {"name":"Boulder City","slug":"boulder-city-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"}
+  ],
+  "city_type": "major-city",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "professional-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "las-vegas-metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Reno",
+  "slug": "reno-nv",
+  "county": "Washoe County",
+  "population": 275000,
+  "zip_codes": ["89501","89502","89503","89509","89521"],
+  "landmarks": [
+    "National Automobile Museum",
+    "Truckee River Walk",
+    "Grand Sierra Resort",
+    "University of Nevada Reno",
+    "Downtown Reno"
+  ],
+  "nearby_cities": [
+    {"name":"Sparks","slug":"sparks-nv"},
+    {"name":"Sun Valley","slug":"sun-valley-nv"},
+    {"name":"Spanish Springs","slug":"spanish-springs-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Fernley","slug":"fernley-nv"}
+  ],
+  "city_type": "major-city",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-valley",
+  "economy_type": "technology-gaming",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "reno-sparks-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "North Las Vegas",
+  "slug": "north-las-vegas-nv",
+  "county": "Clark County",
+  "population": 290000,
+  "zip_codes": ["89030","89031","89032","89081","89084"],
+  "landmarks": [
+    "Craig Ranch Regional Park",
+    "Aliante Nature Discovery Park",
+    "Cannery Casino",
+    "Downtown North Las Vegas",
+    "Las Vegas Motor Speedway"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"Sunrise Manor","slug":"sunrise-manor-nv"}
+  ],
+  "city_type": "major-city",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "logistics-industrial",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "las-vegas-metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sparks",
+  "slug": "sparks-nv",
+  "county": "Washoe County",
+  "population": 110000,
+  "zip_codes": ["89431","89434","89436","89441"],
+  "landmarks": [
+    "Victorian Square",
+    "Sparks Marina",
+    "Nugget Casino Resort",
+    "Wild Island",
+    "Downtown Sparks"
+  ],
+  "nearby_cities": [
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Sun Valley","slug":"sun-valley-nv"},
+    {"name":"Spanish Springs","slug":"spanish-springs-nv"},
+    {"name":"Fernley","slug":"fernley-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"}
+  ],
+  "city_type": "major-city",
+  "climate_zone": "semi-arid",
+  "terrain": "valley",
+  "economy_type": "industrial-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "reno-sparks-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Carson City",
+  "slug": "carson-city-nv",
+  "county": "Carson City",
+  "population": 60000,
+  "zip_codes": ["89701","89703","89705","89706"],
+  "landmarks": [
+    "Nevada State Capitol",
+    "Nevada State Museum",
+    "Carson Hot Springs",
+    "Kit Carson Trail",
+    "Downtown Carson City"
+  ],
+  "nearby_cities": [
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Sparks","slug":"sparks-nv"},
+    {"name":"Minden","slug":"minden-nv"},
+    {"name":"Gardnerville","slug":"gardnerville-nv"},
+    {"name":"Dayton","slug":"dayton-nv"}
+  ],
+  "city_type": "capital-city",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-valley",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "western-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Fernley",
+  "slug": "fernley-nv",
+  "county": "Lyon County",
+  "population": 25000,
+  "zip_codes": ["89408"],
+  "landmarks": [
+    "Out of Town Park",
+    "Fernley Speedway",
+    "Veterans Memorial Park",
+    "Main Street District",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Sparks","slug":"sparks-nv"},
+    {"name":"Dayton","slug":"dayton-nv"},
+    {"name":"Fallon","slug":"fallon-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"}
+  ],
+  "city_type": "growth-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "logistics-industrial",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "northern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Elko",
+  "slug": "elko-nv",
+  "county": "Elko County",
+  "population": 21000,
+  "zip_codes": ["89801"],
+  "landmarks": [
+    "Northeastern Nevada Museum",
+    "Western Folklife Center",
+    "Sherman Station",
+    "Ruby Mountains Gateway",
+    "Downtown Elko"
+  ],
+  "nearby_cities": [
+    {"name":"Spring Creek","slug":"spring-creek-nv"},
+    {"name":"Wells","slug":"wells-nv"},
+    {"name":"Carlin","slug":"carlin-nv"},
+    {"name":"Battle Mountain","slug":"battle-mountain-nv"},
+    {"name":"West Wendover","slug":"west-wendover-nv"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "mining-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "northeastern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Mesquite",
+  "slug": "mesquite-nv",
+  "county": "Clark County",
+  "population": 22000,
+  "zip_codes": ["89027","89034"],
+  "landmarks": [
+    "Virgin River Casino",
+    "Wolf Creek Golf Club",
+    "Mesquite Recreation Center",
+    "Downtown Mesquite",
+    "Virgin Valley Heritage Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Bunkerville","slug":"bunkerville-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"North Las Vegas","slug":"north-las-vegas-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Overton","slug":"overton-nv"}
+  ],
+  "city_type": "tourism-city",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "tourism-gaming",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "southern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Fallon",
+  "slug": "fallon-nv",
+  "county": "Churchill County",
+  "population": 9500,
+  "zip_codes": ["89406"],
+  "landmarks": [
+    "Naval Air Station Fallon",
+    "Churchill County Museum",
+    "Oats Park",
+    "Downtown Fallon",
+    "Lahontan Reservoir Area"
+  ],
+  "nearby_cities": [
+    {"name":"Fernley","slug":"fernley-nv"},
+    {"name":"Dayton","slug":"dayton-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Silver Springs","slug":"silver-springs-nv"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "military-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "central-nevada-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Boulder City",
+  "slug": "boulder-city-nv",
+  "county": "Clark County",
+  "population": 15000,
+  "zip_codes": ["89005","89006"],
+  "landmarks": [
+    "Hoover Dam",
+    "Lake Mead",
+    "Hemenway Park",
+    "Boulder City Historic District",
+    "Nevada State Railroad Museum"
+  ],
+  "nearby_cities": [
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Mesquite","slug":"mesquite-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"}
+  ],
+  "city_type": "tourism-city",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "las-vegas-metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Dayton",
+  "slug": "dayton-nv",
+  "county": "Lyon County",
+  "population": 15500,
+  "zip_codes": ["89403"],
+  "landmarks": [
+    "Dayton State Park",
+    "Carson River",
+    "Historic Downtown Dayton",
+    "Sutro Tunnel Area",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Fernley","slug":"fernley-nv"},
+    {"name":"Fallon","slug":"fallon-nv"},
+    {"name":"Minden","slug":"minden-nv"},
+    {"name":"Gardnerville","slug":"gardnerville-nv"}
+  ],
+  "city_type": "growth-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "western-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Minden",
+  "slug": "minden-nv",
+  "county": "Douglas County",
+  "population": 3500,
+  "zip_codes": ["89423"],
+  "landmarks": [
+    "Minden Park",
+    "Dangberg Home Ranch",
+    "Carson Valley Museum",
+    "Downtown Minden",
+    "Douglas County Fairgrounds"
+  ],
+  "nearby_cities": [
+    {"name":"Gardnerville","slug":"gardnerville-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Dayton","slug":"dayton-nv"},
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Sparks","slug":"sparks-nv"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-valley",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "carson-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Gardnerville",
+  "slug": "gardnerville-nv",
+  "county": "Douglas County",
+  "population": 6500,
+  "zip_codes": ["89410"],
+  "landmarks": [
+    "Heritage Park",
+    "Sharkey's Casino",
+    "Downtown Gardnerville",
+    "Carson Valley Plaza",
+    "Lampe Park"
+  ],
+  "nearby_cities": [
+    {"name":"Minden","slug":"minden-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Dayton","slug":"dayton-nv"},
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Stateline","slug":"stateline-nv"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "carson-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Spring Creek",
+  "slug": "spring-creek-nv",
+  "county": "Elko County",
+  "population": 14000,
+  "zip_codes": ["89815"],
+  "landmarks": [
+    "Spring Creek Marina",
+    "South Fork Reservoir",
+    "Lamoille Canyon Gateway",
+    "Spring Creek Golf Course",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Elko","slug":"elko-nv"},
+    {"name":"Carlin","slug":"carlin-nv"},
+    {"name":"Wells","slug":"wells-nv"},
+    {"name":"Battle Mountain","slug":"battle-mountain-nv"},
+    {"name":"West Wendover","slug":"west-wendover-nv"}
+  ],
+  "city_type": "growth-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "mining-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "elko-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "West Wendover",
+  "slug": "west-wendover-nv",
+  "county": "Elko County",
+  "population": 4500,
+  "zip_codes": ["89883"],
+  "landmarks": [
+    "Peppermill Casino",
+    "Rainbow Casino",
+    "Montego Bay Resort",
+    "Bonneville Salt Flats Gateway",
+    "Downtown West Wendover"
+  ],
+  "nearby_cities": [
+    {"name":"Elko","slug":"elko-nv"},
+    {"name":"Spring Creek","slug":"spring-creek-nv"},
+    {"name":"Wells","slug":"wells-nv"},
+    {"name":"Carlin","slug":"carlin-nv"},
+    {"name":"Battle Mountain","slug":"battle-mountain-nv"}
+  ],
+  "city_type": "gaming-city",
+  "climate_zone": "semi-arid",
+  "terrain": "desert",
+  "economy_type": "tourism-gaming",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "eastern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Enterprise",
+  "slug": "enterprise-nv",
+  "county": "Clark County",
+  "population": 240000,
+  "zip_codes": ["89113","89139","89141","89178"],
+  "landmarks": [
+    "Southern Highlands",
+    "Town Square Las Vegas",
+    "Exploration Peak Park",
+    "Mountain's Edge",
+    "Enterprise Business Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Spring Valley","slug":"spring-valley-nv"},
+    {"name":"North Las Vegas","slug":"north-las-vegas-nv"}
+  ],
+  "city_type": "major-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "professional-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "las-vegas-metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Paradise",
+  "slug": "paradise-nv",
+  "county": "Clark County",
+  "population": 190000,
+  "zip_codes": ["89109","89119","89169","89183"],
+  "landmarks": [
+    "Las Vegas Strip",
+    "Harry Reid International Airport",
+    "University of Nevada Las Vegas",
+    "MGM Grand",
+    "Thomas and Mack Center"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"Spring Valley","slug":"spring-valley-nv"},
+    {"name":"North Las Vegas","slug":"north-las-vegas-nv"}
+  ],
+  "city_type": "major-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "tourism-entertainment",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "las-vegas-metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sunrise Manor",
+  "slug": "sunrise-manor-nv",
+  "county": "Clark County",
+  "population": 200000,
+  "zip_codes": ["89110","89115","89142","89156"],
+  "landmarks": [
+    "Frenchman Mountain",
+    "Sunrise Vista Golf Course",
+    "Hollywood Regional Park",
+    "Las Vegas Wash",
+    "Sam Boyd Stadium Area"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"North Las Vegas","slug":"north-las-vegas-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"}
+  ],
+  "city_type": "major-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "las-vegas-metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Spanish Springs",
+  "slug": "spanish-springs-nv",
+  "county": "Washoe County",
+  "population": 18000,
+  "zip_codes": ["89436","89441"],
+  "landmarks": [
+    "Eagle Canyon Park",
+    "Lazy 5 Regional Park",
+    "Spanish Springs Valley",
+    "Pyramid Highway Corridor",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Sparks","slug":"sparks-nv"},
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Sun Valley","slug":"sun-valley-nv"},
+    {"name":"Fernley","slug":"fernley-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"}
+  ],
+  "city_type": "growth-community",
+  "climate_zone": "semi-arid",
+  "terrain": "valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "reno-sparks-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Spring Valley",
+  "slug": "spring-valley-nv",
+  "county": "Clark County",
+  "population": 220000,
+  "zip_codes": ["89103","89113","89117","89118","89147"],
+  "landmarks": [
+    "Desert Breeze Park",
+    "Spring Valley Hospital",
+    "Chinatown Plaza",
+    "Spanish Trail Country Club",
+    "Rainbow Boulevard Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"North Las Vegas","slug":"north-las-vegas-nv"}
+  ],
+  "city_type": "major-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "services-retail",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "las-vegas-metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sun Valley",
+  "slug": "sun-valley-nv",
+  "county": "Washoe County",
+  "population": 21000,
+  "zip_codes": ["89433"],
+  "landmarks": [
+    "Sun Valley Regional Park",
+    "Highland Ranch Parkway",
+    "Sun Valley Community Center",
+    "Leon Drive Corridor",
+    "Wild Creek Area"
+  ],
+  "nearby_cities": [
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Sparks","slug":"sparks-nv"},
+    {"name":"Spanish Springs","slug":"spanish-springs-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Fernley","slug":"fernley-nv"}
+  ],
+  "city_type": "growth-community",
+  "climate_zone": "semi-arid",
+  "terrain": "valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "reno-sparks-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Winchester",
+  "slug": "winchester-nv",
+  "county": "Clark County",
+  "population": 31000,
+  "zip_codes": ["89109","89121"],
+  "landmarks": [
+    "Las Vegas Convention Center",
+    "Boulevard Mall",
+    "Las Vegas Country Club",
+    "Convention Center District",
+    "Paradise Road Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Sunrise Manor","slug":"sunrise-manor-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"North Las Vegas","slug":"north-las-vegas-nv"}
+  ],
+  "city_type": "urban-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "urban-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "las-vegas-metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Whitney",
+  "slug": "whitney-nv",
+  "county": "Clark County",
+  "population": 39000,
+  "zip_codes": ["89122"],
+  "landmarks": [
+    "Whitney Ranch",
+    "Wetlands Park Access",
+    "Boulder Highway Corridor",
+    "Sam's Town Area",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Sunrise Manor","slug":"sunrise-manor-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"}
+  ],
+  "city_type": "urban-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "las-vegas-metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Pahrump",
+  "slug": "pahrump-nv",
+  "county": "Nye County",
+  "population": 45000,
+  "zip_codes": ["89048","89060","89061"],
+  "landmarks": [
+    "Spring Mountain Raceway",
+    "Pahrump Valley Winery",
+    "Mountain Falls Golf Club",
+    "Pahrump Nugget",
+    "Downtown Pahrump"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Boulder City","slug":"boulder-city-nv"},
+    {"name":"Mesquite","slug":"mesquite-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "southern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Silver Springs",
+  "slug": "silver-springs-nv",
+  "county": "Lyon County",
+  "population": 6200,
+  "zip_codes": ["89429"],
+  "landmarks": [
+    "Lahontan Reservoir",
+    "Fort Churchill State Historic Park",
+    "Silver Springs Airport",
+    "Community Center",
+    "US-50 Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Fallon","slug":"fallon-nv"},
+    {"name":"Fernley","slug":"fernley-nv"},
+    {"name":"Dayton","slug":"dayton-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Yerington","slug":"yerington-nv"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "transport-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "central-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Yerington",
+  "slug": "yerington-nv",
+  "county": "Lyon County",
+  "population": 3200,
+  "zip_codes": ["89447"],
+  "landmarks": [
+    "Lyon County Museum",
+    "Yerington City Park",
+    "Walker River Area",
+    "Main Street District",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Silver Springs","slug":"silver-springs-nv"},
+    {"name":"Dayton","slug":"dayton-nv"},
+    {"name":"Fernley","slug":"fernley-nv"},
+    {"name":"Fallon","slug":"fallon-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "semi-arid",
+  "terrain": "valley",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "lyon-county-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Incline Village",
+  "slug": "incline-village-nv",
+  "county": "Washoe County",
+  "population": 9500,
+  "zip_codes": ["89451"],
+  "landmarks": [
+    "Lake Tahoe",
+    "Diamond Peak Ski Resort",
+    "Sand Harbor",
+    "Incline Beach",
+    "Tahoe Boulevard"
+  ],
+  "nearby_cities": [
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Sparks","slug":"sparks-nv"},
+    {"name":"Minden","slug":"minden-nv"},
+    {"name":"Gardnerville","slug":"gardnerville-nv"}
+  ],
+  "city_type": "resort-community",
+  "climate_zone": "mountain",
+  "terrain": "lake-mountain",
+  "economy_type": "tourism-services",
+  "housing_profile": "resort-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "lake-tahoe-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Stateline",
+  "slug": "stateline-nv",
+  "county": "Douglas County",
+  "population": 1200,
+  "zip_codes": ["89449"],
+  "landmarks": [
+    "Harveys Lake Tahoe",
+    "Harrah's Lake Tahoe",
+    "Edgewood Tahoe",
+    "Lake Tahoe Shoreline",
+    "Casino Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Gardnerville","slug":"gardnerville-nv"},
+    {"name":"Minden","slug":"minden-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Incline Village","slug":"incline-village-nv"}
+  ],
+  "city_type": "tourism-community",
+  "climate_zone": "mountain",
+  "terrain": "lake-mountain",
+  "economy_type": "tourism-gaming",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "lake-tahoe-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Carlin",
+  "slug": "carlin-nv",
+  "county": "Elko County",
+  "population": 2300,
+  "zip_codes": ["89822"],
+  "landmarks": [
+    "Carlin Tunnel",
+    "Railroad District",
+    "Carlin City Park",
+    "Community Center",
+    "Historic Downtown"
+  ],
+  "nearby_cities": [
+    {"name":"Elko","slug":"elko-nv"},
+    {"name":"Spring Creek","slug":"spring-creek-nv"},
+    {"name":"Battle Mountain","slug":"battle-mountain-nv"},
+    {"name":"Wells","slug":"wells-nv"},
+    {"name":"West Wendover","slug":"west-wendover-nv"}
+  ],
+  "city_type": "mining-town",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "mining-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northeastern-nevada-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Battle Mountain",
+  "slug": "battle-mountain-nv",
+  "county": "Lander County",
+  "population": 3900,
+  "zip_codes": ["89820"],
+  "landmarks": [
+    "Battle Mountain Cookhouse Museum",
+    "Lander County Courthouse",
+    "Community Center",
+    "Veterans Memorial Park",
+    "Downtown Battle Mountain"
+  ],
+  "nearby_cities": [
+    {"name":"Elko","slug":"elko-nv"},
+    {"name":"Carlin","slug":"carlin-nv"},
+    {"name":"Wells","slug":"wells-nv"},
+    {"name":"Spring Creek","slug":"spring-creek-nv"},
+    {"name":"Winnemucca","slug":"winnemucca-nv"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "mining-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Winnemucca",
+  "slug": "winnemucca-nv",
+  "county": "Humboldt County",
+  "population": 8300,
+  "zip_codes": ["89445"],
+  "landmarks": [
+    "Humboldt Museum",
+    "Winnemucca Convention Center",
+    "Water Canyon Recreation Area",
+    "Downtown Winnemucca",
+    "Humboldt River"
+  ],
+  "nearby_cities": [
+    {"name":"Battle Mountain","slug":"battle-mountain-nv"},
+    {"name":"Elko","slug":"elko-nv"},
+    {"name":"Carlin","slug":"carlin-nv"},
+    {"name":"Wells","slug":"wells-nv"},
+    {"name":"Lovelock","slug":"lovelock-nv"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "mining-logistics",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "northern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lovelock",
+  "slug": "lovelock-nv",
+  "county": "Pershing County",
+  "population": 1800,
+  "zip_codes": ["89419"],
+  "landmarks": [
+    "Lovelock Cave",
+    "Pershing County Courthouse",
+    "Lovers Lock Plaza",
+    "Downtown Lovelock",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Winnemucca","slug":"winnemucca-nv"},
+    {"name":"Fernley","slug":"fernley-nv"},
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Fallon","slug":"fallon-nv"},
+    {"name":"Silver Springs","slug":"silver-springs-nv"}
+  ],
+  "city_type": "county-seat-city",
+  "climate_zone": "semi-arid",
+  "terrain": "desert-valley",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Wells",
+  "slug": "wells-nv",
+  "county": "Elko County",
+  "population": 1300,
+  "zip_codes": ["89835"],
+  "landmarks": [
+    "California Trail Interpretive Area",
+    "Angel Lake Recreation Area",
+    "Downtown Wells",
+    "Community Center",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Elko","slug":"elko-nv"},
+    {"name":"Spring Creek","slug":"spring-creek-nv"},
+    {"name":"Carlin","slug":"carlin-nv"},
+    {"name":"Battle Mountain","slug":"battle-mountain-nv"},
+    {"name":"West Wendover","slug":"west-wendover-nv"}
+  ],
+  "city_type": "highway-city",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "transport-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "eastern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Moapa Valley",
+  "slug": "moapa-valley-nv",
+  "county": "Clark County",
+  "population": 7200,
+  "zip_codes": ["89021","89040"],
+  "landmarks": [
+    "Valley of Fire Gateway",
+    "Moapa Valley National Wildlife Refuge",
+    "Logandale Trails",
+    "Community Center",
+    "Moapa Valley Fairgrounds"
+  ],
+  "nearby_cities": [
+    {"name":"Mesquite","slug":"mesquite-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"North Las Vegas","slug":"north-las-vegas-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Boulder City","slug":"boulder-city-nv"}
+  ],
+  "city_type": "regional-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "agriculture-tourism",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "southern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Laughlin",
+  "slug": "laughlin-nv",
+  "county": "Clark County",
+  "population": 8200,
+  "zip_codes": ["89029"],
+  "landmarks": [
+    "Colorado River",
+    "Laughlin Riverwalk",
+    "Tropicana Laughlin",
+    "Don Laughlin's Classic Car Museum",
+    "Casino Drive"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Boulder City","slug":"boulder-city-nv"},
+    {"name":"Mesquite","slug":"mesquite-nv"},
+    {"name":"Pahrump","slug":"pahrump-nv"}
+  ],
+  "city_type": "tourism-city",
+  "climate_zone": "desert",
+  "terrain": "river-valley",
+  "economy_type": "tourism-gaming",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Tonopah",
+  "slug": "tonopah-nv",
+  "county": "Nye County",
+  "population": 2200,
+  "zip_codes": ["89049"],
+  "landmarks": [
+    "Tonopah Historic Mining Park",
+    "Central Nevada Museum",
+    "Mizpah Hotel",
+    "Downtown Tonopah",
+    "Tonopah Stargazing Park"
+  ],
+  "nearby_cities": [
+    {"name":"Pahrump","slug":"pahrump-nv"},
+    {"name":"Fallon","slug":"fallon-nv"},
+    {"name":"Yerington","slug":"yerington-nv"},
+    {"name":"Winnemucca","slug":"winnemucca-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"}
+  ],
+  "city_type": "historic-mining-town",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "tourism-mining",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Bunkerville",
+  "slug": "bunkerville-nv",
+  "county": "Clark County",
+  "population": 1300,
+  "zip_codes": ["89007"],
+  "landmarks": [
+    "Virgin River",
+    "Historic Bunkerville District",
+    "Community Center",
+    "Veterans Memorial",
+    "Bunkerville Park"
+  ],
+  "nearby_cities": [
+    {"name":"Mesquite","slug":"mesquite-nv"},
+    {"name":"Moapa Valley","slug":"moapa-valley-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Laughlin","slug":"laughlin-nv"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "desert",
+  "terrain": "river-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Indian Hills",
+  "slug": "indian-hills-nv",
+  "county": "Douglas County",
+  "population": 6200,
+  "zip_codes": ["89705"],
+  "landmarks": [
+    "Carson Valley Viewpoint",
+    "Indian Hills Community Center",
+    "Clear Creek Area",
+    "Veterans Memorial",
+    "US-395 Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Minden","slug":"minden-nv"},
+    {"name":"Gardnerville","slug":"gardnerville-nv"},
+    {"name":"Incline Village","slug":"incline-village-nv"},
+    {"name":"Dayton","slug":"dayton-nv"}
+  ],
+  "city_type": "growth-community",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "carson-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Johnson Lane",
+  "slug": "johnson-lane-nv",
+  "county": "Douglas County",
+  "population": 7000,
+  "zip_codes": ["89423"],
+  "landmarks": [
+    "Johnson Lane Community Park",
+    "Carson Valley",
+    "Pinenut Mountains Viewpoint",
+    "Community Center",
+    "US-395 Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Minden","slug":"minden-nv"},
+    {"name":"Gardnerville","slug":"gardnerville-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Indian Hills","slug":"indian-hills-nv"},
+    {"name":"Dayton","slug":"dayton-nv"}
+  ],
+  "city_type": "growth-community",
+  "climate_zone": "semi-arid",
+  "terrain": "valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "carson-valley-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Overton",
+  "slug": "overton-nv",
+  "county": "Clark County",
+  "population": 4300,
+  "zip_codes": ["89040"],
+  "landmarks": [
+    "Lost City Museum",
+    "Valley of Fire State Park",
+    "Moapa Valley Fairgrounds",
+    "Overton Wildlife Management Area",
+    "Downtown Overton"
+  ],
+  "nearby_cities": [
+    {"name":"Moapa Valley","slug":"moapa-valley-nv"},
+    {"name":"Mesquite","slug":"mesquite-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Boulder City","slug":"boulder-city-nv"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Logandale",
+  "slug": "logandale-nv",
+  "county": "Clark County",
+  "population": 3600,
+  "zip_codes": ["89021"],
+  "landmarks": [
+    "Logandale Trails",
+    "Clark County Fairgrounds",
+    "Valley of Fire Gateway",
+    "Community Center",
+    "Historic District"
+  ],
+  "nearby_cities": [
+    {"name":"Moapa Valley","slug":"moapa-valley-nv"},
+    {"name":"Overton","slug":"overton-nv"},
+    {"name":"Mesquite","slug":"mesquite-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Henderson","slug":"henderson-nv"}
+  ],
+  "city_type": "regional-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "southern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Verdi",
+  "slug": "verdi-nv",
+  "county": "Washoe County",
+  "population": 2500,
+  "zip_codes": ["89439"],
+  "landmarks": [
+    "Truckee River",
+    "Crystal Peak Park",
+    "Historic Verdi District",
+    "Dog Valley Road",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Sparks","slug":"sparks-nv"},
+    {"name":"Sun Valley","slug":"sun-valley-nv"},
+    {"name":"Spanish Springs","slug":"spanish-springs-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"}
+  ],
+  "city_type": "suburban-community",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "reno-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Cold Springs",
+  "slug": "cold-springs-nv",
+  "county": "Washoe County",
+  "population": 9000,
+  "zip_codes": ["89508"],
+  "landmarks": [
+    "Cold Springs Family Center",
+    "White Lake Area",
+    "Community Park",
+    "Veterans Memorial",
+    "Cold Springs Valley"
+  ],
+  "nearby_cities": [
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Sun Valley","slug":"sun-valley-nv"},
+    {"name":"Spanish Springs","slug":"spanish-springs-nv"},
+    {"name":"Sparks","slug":"sparks-nv"},
+    {"name":"Verdi","slug":"verdi-nv"}
+  ],
+  "city_type": "growth-community",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "reno-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sandy Valley",
+  "slug": "sandy-valley-nv",
+  "county": "Clark County",
+  "population": 2200,
+  "zip_codes": ["89019"],
+  "landmarks": [
+    "Sandy Valley Speedway",
+    "Community Center",
+    "Veterans Memorial",
+    "Desert Recreation Area",
+    "Historic Airfield"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"Pahrump","slug":"pahrump-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Boulder City","slug":"boulder-city-nv"}
+  ],
+  "city_type": "rural-community",
+  "climate_zone": "desert",
+  "terrain": "desert-valley",
+  "economy_type": "agriculture-services",
+  "housing_profile": "rural-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Searchlight",
+  "slug": "searchlight-nv",
+  "county": "Clark County",
+  "population": 500,
+  "zip_codes": ["89046"],
+  "landmarks": [
+    "Searchlight Historic Museum",
+    "Veterans Memorial",
+    "Community Center",
+    "Historic Mining Area",
+    "Downtown Searchlight"
+  ],
+  "nearby_cities": [
+    {"name":"Boulder City","slug":"boulder-city-nv"},
+    {"name":"Laughlin","slug":"laughlin-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Mesquite","slug":"mesquite-nv"}
+  ],
+  "city_type": "historic-mining-town",
+  "climate_zone": "desert",
+  "terrain": "mountains",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Hawthorne",
+  "slug": "hawthorne-nv",
+  "county": "Mineral County",
+  "population": 2600,
+  "zip_codes": ["89415"],
+  "landmarks": [
+    "Walker Lake",
+    "Hawthorne Army Depot",
+    "Mineral County Museum",
+    "Community Center",
+    "Downtown Hawthorne"
+  ],
+  "nearby_cities": [
+    {"name":"Yerington","slug":"yerington-nv"},
+    {"name":"Tonopah","slug":"tonopah-nv"},
+    {"name":"Fallon","slug":"fallon-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Silver Springs","slug":"silver-springs-nv"}
+  ],
+  "city_type": "regional-town",
+  "climate_zone": "semi-arid",
+  "terrain": "desert-lake",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Ely",
+  "slug": "ely-nv",
+  "county": "White Pine County",
+  "population": 3900,
+  "zip_codes": ["89301"],
+  "landmarks": [
+    "Nevada Northern Railway Museum",
+    "White Pine Public Museum",
+    "Great Basin National Park Gateway",
+    "Downtown Ely",
+    "Ward Charcoal Ovens"
+  ],
+  "nearby_cities": [
+    {"name":"Elko","slug":"elko-nv"},
+    {"name":"Wells","slug":"wells-nv"},
+    {"name":"West Wendover","slug":"west-wendover-nv"},
+    {"name":"Battle Mountain","slug":"battle-mountain-nv"},
+    {"name":"Carlin","slug":"carlin-nv"}
+  ],
+  "city_type": "regional-city",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-basin",
+  "economy_type": "tourism-mining",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "eastern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Silver Peak",
+  "slug": "silver-peak-nv",
+  "county": "Esmeralda County",
+  "population": 500,
+  "zip_codes": ["89047"],
+  "landmarks": [
+    "Silver Peak Lithium Operations",
+    "Historic Mining District",
+    "Community Center",
+    "Desert Basin Viewpoint",
+    "Downtown Silver Peak"
+  ],
+  "nearby_cities": [
+    {"name":"Tonopah","slug":"tonopah-nv"},
+    {"name":"Hawthorne","slug":"hawthorne-nv"},
+    {"name":"Pahrump","slug":"pahrump-nv"},
+    {"name":"Yerington","slug":"yerington-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"}
+  ],
+  "city_type": "mining-town",
+  "climate_zone": "desert",
+  "terrain": "desert-basin",
+  "economy_type": "mining-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Beatty",
+  "slug": "beatty-nv",
+  "county": "Nye County",
+  "population": 900,
+  "zip_codes": ["89003"],
+  "landmarks": [
+    "Death Valley Gateway",
+    "Beatty Museum",
+    "Rhyolite Ghost Town",
+    "Community Center",
+    "Downtown Beatty"
+  ],
+  "nearby_cities": [
+    {"name":"Pahrump","slug":"pahrump-nv"},
+    {"name":"Tonopah","slug":"tonopah-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Boulder City","slug":"boulder-city-nv"}
+  ],
+  "city_type": "tourism-town",
+  "climate_zone": "desert",
+  "terrain": "desert-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southern-nevada-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Summerlin South",
+  "slug": "summerlin-south-nv",
+  "county": "Clark County",
+  "population": 28000,
+  "zip_codes": ["89135"],
+  "landmarks": [
+    "Downtown Summerlin",
+    "Red Rock Casino",
+    "City National Arena",
+    "Las Vegas Ballpark",
+    "Red Rock Canyon Gateway"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Spring Valley","slug":"spring-valley-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Henderson","slug":"henderson-nv"}
+  ],
+  "city_type": "master-planned-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "professional-services",
+  "housing_profile": "upscale-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "las-vegas-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Summerlin North",
+  "slug": "summerlin-north-nv",
+  "county": "Clark County",
+  "population": 19000,
+  "zip_codes": ["89138","89144"],
+  "landmarks": [
+    "Pueblo Park",
+    "TPC Summerlin",
+    "Summerlin Library",
+    "Trails Village Center",
+    "Angel Park Golf Club"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Summerlin South","slug":"summerlin-south-nv"},
+    {"name":"Spring Valley","slug":"spring-valley-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"North Las Vegas","slug":"north-las-vegas-nv"}
+  ],
+  "city_type": "master-planned-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "professional-services",
+  "housing_profile": "upscale-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "las-vegas-west-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Mountain's Edge",
+  "slug": "mountains-edge-nv",
+  "county": "Clark County",
+  "population": 16000,
+  "zip_codes": ["89178"],
+  "landmarks": [
+    "Mountain's Edge Regional Park",
+    "Exploration Peak Park",
+    "Buffalo Drive Corridor",
+    "Desert Foothills Trail",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"Spring Valley","slug":"spring-valley-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Paradise","slug":"paradise-nv"}
+  ],
+  "city_type": "growth-community",
+  "climate_zone": "desert",
+  "terrain": "foothills",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "southwest-las-vegas-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Nellis Air Force Base",
+  "slug": "nellis-air-force-base-nv",
+  "county": "Clark County",
+  "population": 9000,
+  "zip_codes": ["89191"],
+  "landmarks": [
+    "Nellis Air Force Base",
+    "Thunderbirds Headquarters",
+    "Aviation Nation Site",
+    "Military Housing District",
+    "Base Exchange"
+  ],
+  "nearby_cities": [
+    {"name":"North Las Vegas","slug":"north-las-vegas-nv"},
+    {"name":"Sunrise Manor","slug":"sunrise-manor-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Henderson","slug":"henderson-nv"}
+  ],
+  "city_type": "military-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "government-services",
+  "housing_profile": "military-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "las-vegas-metro-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Blue Diamond",
+  "slug": "blue-diamond-nv",
+  "county": "Clark County",
+  "population": 300,
+  "zip_codes": ["89004"],
+  "landmarks": [
+    "Red Rock Canyon",
+    "Blue Diamond Historic District",
+    "Spring Mountain Ranch Area",
+    "Cottonwood Station",
+    "Community Park"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Spring Valley","slug":"spring-valley-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"Summerlin South","slug":"summerlin-south-nv"},
+    {"name":"Mountain's Edge","slug":"mountains-edge-nv"}
+  ],
+  "city_type": "historic-village",
+  "climate_zone": "desert",
+  "terrain": "mountain-foothills",
+  "economy_type": "tourism-services",
+  "housing_profile": "rural-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "red-rock-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Crystal Bay",
+  "slug": "crystal-bay-nv",
+  "county": "Washoe County",
+  "population": 300,
+  "zip_codes": ["89402"],
+  "landmarks": [
+    "Lake Tahoe Shoreline",
+    "Crystal Bay Casino",
+    "Tahoe East Shore",
+    "State Line Point",
+    "Community Area"
+  ],
+  "nearby_cities": [
+    {"name":"Incline Village","slug":"incline-village-nv"},
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Stateline","slug":"stateline-nv"},
+    {"name":"Minden","slug":"minden-nv"}
+  ],
+  "city_type": "lake-community",
+  "climate_zone": "mountain",
+  "terrain": "lake-mountain",
+  "economy_type": "tourism-gaming",
+  "housing_profile": "resort-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "lake-tahoe-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Zephyr Cove",
+  "slug": "zephyr-cove-nv",
+  "county": "Douglas County",
+  "population": 600,
+  "zip_codes": ["89448"],
+  "landmarks": [
+    "Zephyr Cove Resort",
+    "Lake Tahoe",
+    "Zephyr Beach",
+    "Tahoe Rim Trail Access",
+    "Marina District"
+  ],
+  "nearby_cities": [
+    {"name":"Stateline","slug":"stateline-nv"},
+    {"name":"Incline Village","slug":"incline-village-nv"},
+    {"name":"Gardnerville","slug":"gardnerville-nv"},
+    {"name":"Minden","slug":"minden-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"}
+  ],
+  "city_type": "resort-community",
+  "climate_zone": "mountain",
+  "terrain": "lake-mountain",
+  "economy_type": "tourism-services",
+  "housing_profile": "resort-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "lake-tahoe-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Stagecoach",
+  "slug": "stagecoach-nv",
+  "county": "Lyon County",
+  "population": 2200,
+  "zip_codes": ["89429"],
+  "landmarks": [
+    "Stagecoach Community Center",
+    "Desert Hills Area",
+    "Historic Pony Express Route",
+    "Veterans Memorial",
+    "Stagecoach Valley"
+  ],
+  "nearby_cities": [
+    {"name":"Dayton","slug":"dayton-nv"},
+    {"name":"Silver Springs","slug":"silver-springs-nv"},
+    {"name":"Yerington","slug":"yerington-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Fernley","slug":"fernley-nv"}
+  ],
+  "city_type": "rural-community",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "services-retail",
+  "housing_profile": "rural-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "lyon-county-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Round Mountain",
+  "slug": "round-mountain-nv",
+  "county": "Nye County",
+  "population": 1800,
+  "zip_codes": ["89045"],
+  "landmarks": [
+    "Round Mountain Gold Mine",
+    "Community Center",
+    "Smoky Valley",
+    "Veterans Memorial",
+    "Downtown Round Mountain"
+  ],
+  "nearby_cities": [
+    {"name":"Tonopah","slug":"tonopah-nv"},
+    {"name":"Ely","slug":"ely-nv"},
+    {"name":"Battle Mountain","slug":"battle-mountain-nv"},
+    {"name":"Winnemucca","slug":"winnemucca-nv"},
+    {"name":"Hawthorne","slug":"hawthorne-nv"}
+  ],
+  "city_type": "mining-town",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-basin",
+  "economy_type": "mining-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Alamo",
+  "slug": "alamo-nv",
+  "county": "Lincoln County",
+  "population": 1100,
+  "zip_codes": ["89001"],
+  "landmarks": [
+    "Pahranagat National Wildlife Refuge",
+    "Alamo Inn Area",
+    "Community Center",
+    "Veterans Memorial",
+    "Downtown Alamo"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Mesquite","slug":"mesquite-nv"},
+    {"name":"Moapa Valley","slug":"moapa-valley-nv"},
+    {"name":"Overton","slug":"overton-nv"},
+    {"name":"Pahrump","slug":"pahrump-nv"}
+  ],
+  "city_type": "rural-town",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "eastern-nevada-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Gardnerville Ranchos",
+  "slug": "gardnerville-ranchos-nv",
+  "county": "Douglas County",
+  "population": 12000,
+  "zip_codes": ["89460"],
+  "landmarks": [
+    "Carson Valley",
+    "Ranchos Community Center",
+    "Pinenut Mountains Viewpoint",
+    "Centerville Lane Corridor",
+    "Local Recreation Fields"
+  ],
+  "nearby_cities": [
+    {"name":"Gardnerville","slug":"gardnerville-nv"},
+    {"name":"Minden","slug":"minden-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Johnson Lane","slug":"johnson-lane-nv"},
+    {"name":"Indian Hills","slug":"indian-hills-nv"}
+  ],
+  "city_type": "growth-community",
+  "climate_zone": "semi-arid",
+  "terrain": "valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "carson-valley-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lemmon Valley",
+  "slug": "lemmon-valley-nv",
+  "county": "Washoe County",
+  "population": 5500,
+  "zip_codes": ["89506"],
+  "landmarks": [
+    "Silver Lake",
+    "Lemmon Valley Park",
+    "North Valleys Regional Area",
+    "Military Road Corridor",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Sun Valley","slug":"sun-valley-nv"},
+    {"name":"Cold Springs","slug":"cold-springs-nv"},
+    {"name":"Sparks","slug":"sparks-nv"},
+    {"name":"Spanish Springs","slug":"spanish-springs-nv"}
+  ],
+  "city_type": "suburban-community",
+  "climate_zone": "semi-arid",
+  "terrain": "desert-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "reno-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Golden Valley",
+  "slug": "golden-valley-nv",
+  "county": "Washoe County",
+  "population": 2000,
+  "zip_codes": ["89506"],
+  "landmarks": [
+    "Golden Valley Park",
+    "Community Center",
+    "North Valleys Area",
+    "Desert Trail Network",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Cold Springs","slug":"cold-springs-nv"},
+    {"name":"Sun Valley","slug":"sun-valley-nv"},
+    {"name":"Lemmon Valley","slug":"lemmon-valley-nv"},
+    {"name":"Sparks","slug":"sparks-nv"}
+  ],
+  "city_type": "residential-community",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "services-retail",
+  "housing_profile": "residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "reno-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Mogul",
+  "slug": "mogul-nv",
+  "county": "Washoe County",
+  "population": 1800,
+  "zip_codes": ["89523"],
+  "landmarks": [
+    "Truckee River",
+    "Verdi Range Trailheads",
+    "Community Center",
+    "Mogul Recreation Area",
+    "Scenic River Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Verdi","slug":"verdi-nv"},
+    {"name":"Sparks","slug":"sparks-nv"},
+    {"name":"Sun Valley","slug":"sun-valley-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"}
+  ],
+  "city_type": "suburban-community",
+  "climate_zone": "semi-arid",
+  "terrain": "river-valley",
+  "economy_type": "services-retail",
+  "housing_profile": "residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "reno-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Topaz Ranch Estates",
+  "slug": "topaz-ranch-estates-nv",
+  "county": "Douglas County",
+  "population": 1600,
+  "zip_codes": ["89410"],
+  "landmarks": [
+    "Topaz Lake Area",
+    "Desert Highlands",
+    "Community Center",
+    "Topaz Recreation Zone",
+    "Scenic Viewpoint"
+  ],
+  "nearby_cities": [
+    {"name":"Gardnerville","slug":"gardnerville-nv"},
+    {"name":"Minden","slug":"minden-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Johnson Lane","slug":"johnson-lane-nv"},
+    {"name":"Indian Hills","slug":"indian-hills-nv"}
+  ],
+  "city_type": "rural-community",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "rural-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "douglas-county-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Fallon Station",
+  "slug": "fallon-station-nv",
+  "county": "Churchill County",
+  "population": 1100,
+  "zip_codes": ["89496"],
+  "landmarks": [
+    "Naval Air Station Fallon",
+    "Military Housing Area",
+    "Base Recreation Center",
+    "Training Grounds",
+    "Veterans Facilities"
+  ],
+  "nearby_cities": [
+    {"name":"Fallon","slug":"fallon-nv"},
+    {"name":"Silver Springs","slug":"silver-springs-nv"},
+    {"name":"Fernley","slug":"fernley-nv"},
+    {"name":"Dayton","slug":"dayton-nv"},
+    {"name":"Yerington","slug":"yerington-nv"}
+  ],
+  "city_type": "military-community",
+  "climate_zone": "semi-arid",
+  "terrain": "desert-valley",
+  "economy_type": "government-services",
+  "housing_profile": "military-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "churchill-county-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Panaca",
+  "slug": "panaca-nv",
+  "county": "Lincoln County",
+  "population": 1000,
+  "zip_codes": ["89042"],
+  "landmarks": [
+    "Cathedral Gorge State Park",
+    "Panaca Heritage Area",
+    "Community Center",
+    "Historic Main Street",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Alamo","slug":"alamo-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Mesquite","slug":"mesquite-nv"},
+    {"name":"Overton","slug":"overton-nv"},
+    {"name":"Moapa Valley","slug":"moapa-valley-nv"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "eastern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Caliente",
+  "slug": "caliente-nv",
+  "county": "Lincoln County",
+  "population": 1100,
+  "zip_codes": ["89008"],
+  "landmarks": [
+    "Caliente Railroad Depot",
+    "Kershaw-Ryan State Park",
+    "Historic Downtown",
+    "Community Center",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Panaca","slug":"panaca-nv"},
+    {"name":"Alamo","slug":"alamo-nv"},
+    {"name":"Mesquite","slug":"mesquite-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Moapa Valley","slug":"moapa-valley-nv"}
+  ],
+  "city_type": "historic-city",
+  "climate_zone": "desert",
+  "terrain": "canyon-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "eastern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Pioche",
+  "slug": "pioche-nv",
+  "county": "Lincoln County",
+  "population": 900,
+  "zip_codes": ["89043"],
+  "landmarks": [
+    "Million Dollar Courthouse",
+    "Pioche Mining District",
+    "Boot Hill Cemetery",
+    "Historic Downtown",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Panaca","slug":"panaca-nv"},
+    {"name":"Caliente","slug":"caliente-nv"},
+    {"name":"Alamo","slug":"alamo-nv"},
+    {"name":"Mesquite","slug":"mesquite-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"}
+  ],
+  "city_type": "historic-mining-town",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-basin",
+  "economy_type": "tourism-mining",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "eastern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "McGill",
+  "slug": "mcgill-nv",
+  "county": "White Pine County",
+  "population": 1100,
+  "zip_codes": ["89318"],
+  "landmarks": [
+    "McGill Drugstore Museum",
+    "Historic Mining District",
+    "Community Center",
+    "Veterans Memorial",
+    "Downtown McGill"
+  ],
+  "nearby_cities": [
+    {"name":"Ely","slug":"ely-nv"},
+    {"name":"Wells","slug":"wells-nv"},
+    {"name":"Elko","slug":"elko-nv"},
+    {"name":"Battle Mountain","slug":"battle-mountain-nv"},
+    {"name":"Carlin","slug":"carlin-nv"}
+  ],
+  "city_type": "historic-mining-town",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-basin",
+  "economy_type": "mining-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "white-pine-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Paradise Hills",
+  "slug": "paradise-hills-nv",
+  "county": "Clark County",
+  "population": 9500,
+  "zip_codes": ["89002"],
+  "landmarks": [
+    "Paradise Hills Park",
+    "Mission Hills Area",
+    "Black Mountain Views",
+    "Community Recreation Center",
+    "Paradise Hills Trail System"
+  ],
+  "nearby_cities": [
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Boulder City","slug":"boulder-city-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"Paradise","slug":"paradise-nv"}
+  ],
+  "city_type": "residential-community",
+  "climate_zone": "desert",
+  "terrain": "foothills",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "henderson-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Anthem",
+  "slug": "anthem-nv",
+  "county": "Clark County",
+  "population": 13000,
+  "zip_codes": ["89044","89052"],
+  "landmarks": [
+    "Anthem Hills Park",
+    "Anthem Country Club",
+    "Anthem Community Center",
+    "Sun City Anthem",
+    "Anthem East Trail Network"
+  ],
+  "nearby_cities": [
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Boulder City","slug":"boulder-city-nv"}
+  ],
+  "city_type": "master-planned-community",
+  "climate_zone": "desert",
+  "terrain": "foothills",
+  "economy_type": "professional-services",
+  "housing_profile": "upscale-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "henderson-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Green Valley South",
+  "slug": "green-valley-south-nv",
+  "county": "Clark County",
+  "population": 24000,
+  "zip_codes": ["89074"],
+  "landmarks": [
+    "Green Valley Ranch Area",
+    "The District at Green Valley Ranch",
+    "Discovery Park",
+    "Wildhorse Golf Club",
+    "Community Recreation Center"
+  ],
+  "nearby_cities": [
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"Whitney","slug":"whitney-nv"}
+  ],
+  "city_type": "suburban-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "henderson-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Green Valley North",
+  "slug": "green-valley-north-nv",
+  "county": "Clark County",
+  "population": 18000,
+  "zip_codes": ["89014"],
+  "landmarks": [
+    "Green Valley Plaza",
+    "Pecos Legacy Park",
+    "Sunset Park Access",
+    "Community Center",
+    "Retail Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Whitney","slug":"whitney-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Sunrise Manor","slug":"sunrise-manor-nv"}
+  ],
+  "city_type": "suburban-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "henderson-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Enterprise South",
+  "slug": "enterprise-south-nv",
+  "county": "Clark County",
+  "population": 12000,
+  "zip_codes": ["89141"],
+  "landmarks": [
+    "Southern Highlands",
+    "Goett Family Park",
+    "St Rose Parkway Corridor",
+    "Community Center",
+    "Retail District"
+  ],
+  "nearby_cities": [
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Mountain's Edge","slug":"mountains-edge-nv"}
+  ],
+  "city_type": "growth-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "professional-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "south-las-vegas-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sun Valley West",
+  "slug": "sun-valley-west-nv",
+  "county": "Washoe County",
+  "population": 6500,
+  "zip_codes": ["89433"],
+  "landmarks": [
+    "Sun Valley Regional Area",
+    "Community Sports Complex",
+    "Neighborhood Park",
+    "Veterans Memorial",
+    "Residential District"
+  ],
+  "nearby_cities": [
+    {"name":"Sun Valley","slug":"sun-valley-nv"},
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Sparks","slug":"sparks-nv"},
+    {"name":"Spanish Springs","slug":"spanish-springs-nv"},
+    {"name":"Cold Springs","slug":"cold-springs-nv"}
+  ],
+  "city_type": "residential-community",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "reno-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Schurz",
+  "slug": "schurz-nv",
+  "county": "Mineral County",
+  "population": 900,
+  "zip_codes": ["89427"],
+  "landmarks": [
+    "Walker River Reservation",
+    "Walker Lake Access",
+    "Community Center",
+    "Veterans Memorial",
+    "Highway 95 Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Hawthorne","slug":"hawthorne-nv"},
+    {"name":"Yerington","slug":"yerington-nv"},
+    {"name":"Fallon","slug":"fallon-nv"},
+    {"name":"Silver Springs","slug":"silver-springs-nv"},
+    {"name":"Tonopah","slug":"tonopah-nv"}
+  ],
+  "city_type": "tribal-community",
+  "climate_zone": "semi-arid",
+  "terrain": "desert-lake",
+  "economy_type": "government-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "mineral-county-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Gabbs",
+  "slug": "gabbs-nv",
+  "county": "Nye County",
+  "population": 300,
+  "zip_codes": ["89409"],
+  "landmarks": [
+    "Gabbs Mining District",
+    "Community Center",
+    "Veterans Memorial",
+    "Historic Main Street",
+    "Desert Basin Viewpoint"
+  ],
+  "nearby_cities": [
+    {"name":"Tonopah","slug":"tonopah-nv"},
+    {"name":"Round Mountain","slug":"round-mountain-nv"},
+    {"name":"Hawthorne","slug":"hawthorne-nv"},
+    {"name":"Ely","slug":"ely-nv"},
+    {"name":"Yerington","slug":"yerington-nv"}
+  ],
+  "city_type": "mining-town",
+  "climate_zone": "semi-arid",
+  "terrain": "desert-basin",
+  "economy_type": "mining-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Austin",
+  "slug": "austin-nv",
+  "county": "Lander County",
+  "population": 200,
+  "zip_codes": ["89310"],
+  "landmarks": [
+    "Stokes Castle",
+    "Austin Historic District",
+    "Toiyabe Range",
+    "Community Center",
+    "Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Battle Mountain","slug":"battle-mountain-nv"},
+    {"name":"Ely","slug":"ely-nv"},
+    {"name":"Tonopah","slug":"tonopah-nv"},
+    {"name":"Round Mountain","slug":"round-mountain-nv"},
+    {"name":"Winnemucca","slug":"winnemucca-nv"}
+  ],
+  "city_type": "historic-mining-town",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-basin",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Jackpot",
+  "slug": "jackpot-nv",
+  "county": "Elko County",
+  "population": 1200,
+  "zip_codes": ["89825"],
+  "landmarks": [
+    "Cactus Petes Resort",
+    "Barton's Club 93",
+    "Jackpot Golf Club",
+    "US-93 Corridor",
+    "Downtown Jackpot"
+  ],
+  "nearby_cities": [
+    {"name":"Elko","slug":"elko-nv"},
+    {"name":"Wells","slug":"wells-nv"},
+    {"name":"West Wendover","slug":"west-wendover-nv"},
+    {"name":"Spring Creek","slug":"spring-creek-nv"},
+    {"name":"Carlin","slug":"carlin-nv"}
+  ],
+  "city_type": "gaming-town",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "tourism-gaming",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "northeastern-nevada-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Hidden Valley",
+  "slug": "hidden-valley-nv",
+  "county": "Washoe County",
+  "population": 5800,
+  "zip_codes": ["89502"],
+  "landmarks": [
+    "Hidden Valley Regional Park",
+    "Rosewood Lakes Golf Course",
+    "Hidden Valley Country Club",
+    "Veterans Memorial",
+    "Community Recreation Area"
+  ],
+  "nearby_cities": [
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Sparks","slug":"sparks-nv"},
+    {"name":"Sun Valley","slug":"sun-valley-nv"},
+    {"name":"Spanish Springs","slug":"spanish-springs-nv"},
+    {"name":"Fernley","slug":"fernley-nv"}
+  ],
+  "city_type": "suburban-community",
+  "climate_zone": "semi-arid",
+  "terrain": "valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "reno-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Stead",
+  "slug": "stead-nv",
+  "county": "Washoe County",
+  "population": 9000,
+  "zip_codes": ["89506"],
+  "landmarks": [
+    "Reno-Stead Airport",
+    "Stead Community Park",
+    "North Valleys Area",
+    "Air Racing Facilities",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Cold Springs","slug":"cold-springs-nv"},
+    {"name":"Lemmon Valley","slug":"lemmon-valley-nv"},
+    {"name":"Sun Valley","slug":"sun-valley-nv"},
+    {"name":"Sparks","slug":"sparks-nv"}
+  ],
+  "city_type": "growth-community",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "logistics-services",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "reno-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sunridge at MacDonald Ranch",
+  "slug": "sunridge-macdonald-ranch-nv",
+  "county": "Clark County",
+  "population": 7600,
+  "zip_codes": ["89052"],
+  "landmarks": [
+    "DragonRidge Country Club",
+    "MacDonald Highlands",
+    "Sunridge Park",
+    "Community Recreation Area",
+    "Scenic Overlook"
+  ],
+  "nearby_cities": [
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Anthem","slug":"anthem-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"}
+  ],
+  "city_type": "master-planned-community",
+  "climate_zone": "desert",
+  "terrain": "foothills",
+  "economy_type": "professional-services",
+  "housing_profile": "upscale-residential",
+  "growth_pattern": "strong-growth",
+  "service_environment": "henderson-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lake Las Vegas",
+  "slug": "lake-las-vegas-nv",
+  "county": "Clark County",
+  "population": 5200,
+  "zip_codes": ["89011"],
+  "landmarks": [
+    "Lake Las Vegas",
+    "Reflection Bay Golf Club",
+    "Village at Lake Las Vegas",
+    "Marina District",
+    "Waterfront Promenade"
+  ],
+  "nearby_cities": [
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Boulder City","slug":"boulder-city-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Anthem","slug":"anthem-nv"}
+  ],
+  "city_type": "resort-community",
+  "climate_zone": "desert",
+  "terrain": "lake-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "resort-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "henderson-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Mount Charleston",
+  "slug": "mount-charleston-nv",
+  "county": "Clark County",
+  "population": 3500,
+  "zip_codes": ["89124"],
+  "landmarks": [
+    "Spring Mountains",
+    "Lee Canyon Ski Area",
+    "Mount Charleston Lodge",
+    "Cathedral Rock Trail",
+    "Kyle Canyon"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"North Las Vegas","slug":"north-las-vegas-nv"},
+    {"name":"Summerlin North","slug":"summerlin-north-nv"},
+    {"name":"Spring Valley","slug":"spring-valley-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"}
+  ],
+  "city_type": "mountain-community",
+  "climate_zone": "mountain",
+  "terrain": "mountain-forest",
+  "economy_type": "tourism-services",
+  "housing_profile": "resort-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "spring-mountains-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Silver City",
+  "slug": "silver-city-nv",
+  "county": "Lyon County",
+  "population": 1700,
+  "zip_codes": ["89428"],
+  "landmarks": [
+    "Historic Silver City",
+    "Comstock Trail",
+    "Community Center",
+    "Historic Main Street",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Dayton","slug":"dayton-nv"},
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Virginia City","slug":"virginia-city-nv"},
+    {"name":"Minden","slug":"minden-nv"},
+    {"name":"Yerington","slug":"yerington-nv"}
+  ],
+  "city_type": "historic-town",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain-valley",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "comstock-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Virginia City",
+  "slug": "virginia-city-nv",
+  "county": "Storey County",
+  "population": 850,
+  "zip_codes": ["89440"],
+  "landmarks": [
+    "Comstock Lode",
+    "Virginia & Truckee Railroad",
+    "Piper's Opera House",
+    "Historic Downtown",
+    "Storey County Courthouse"
+  ],
+  "nearby_cities": [
+    {"name":"Carson City","slug":"carson-city-nv"},
+    {"name":"Silver City","slug":"silver-city-nv"},
+    {"name":"Dayton","slug":"dayton-nv"},
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Sparks","slug":"sparks-nv"}
+  ],
+  "city_type": "historic-mining-city",
+  "climate_zone": "semi-arid",
+  "terrain": "mountain",
+  "economy_type": "tourism-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "comstock-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Silverado Ranch",
+  "slug": "silverado-ranch-nv",
+  "county": "Clark County",
+  "population": 11000,
+  "zip_codes": ["89123","89183"],
+  "landmarks": [
+    "Silverado Ranch Park",
+    "Eastern Avenue Corridor",
+    "South Point Area",
+    "Community Recreation Center",
+    "Retail District"
+  ],
+  "nearby_cities": [
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Green Valley South","slug":"green-valley-south-nv"}
+  ],
+  "city_type": "growth-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "rapid-growth",
+  "service_environment": "south-las-vegas-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Laughlin Bullhead Corridor",
+  "slug": "laughlin-bullhead-corridor-nv",
+  "county": "Clark County",
+  "population": 5400,
+  "zip_codes": ["89029"],
+  "landmarks": [
+    "Colorado River",
+    "Laughlin Riverwalk",
+    "Casino Drive",
+    "Community Recreation Area",
+    "Waterfront District"
+  ],
+  "nearby_cities": [
+    {"name":"Laughlin","slug":"laughlin-nv"},
+    {"name":"Searchlight","slug":"searchlight-nv"},
+    {"name":"Boulder City","slug":"boulder-city-nv"},
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"}
+  ],
+  "city_type": "tourism-community",
+  "climate_zone": "desert",
+  "terrain": "river-valley",
+  "economy_type": "tourism-gaming",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "colorado-river-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Tonopah Junction",
+  "slug": "tonopah-junction-nv",
+  "county": "Nye County",
+  "population": 600,
+  "zip_codes": ["89049"],
+  "landmarks": [
+    "US-95 Junction",
+    "Historic Desert Route",
+    "Community Center",
+    "Scenic Viewpoint",
+    "Travel Plaza District"
+  ],
+  "nearby_cities": [
+    {"name":"Tonopah","slug":"tonopah-nv"},
+    {"name":"Round Mountain","slug":"round-mountain-nv"},
+    {"name":"Hawthorne","slug":"hawthorne-nv"},
+    {"name":"Gabbs","slug":"gabbs-nv"},
+    {"name":"Ely","slug":"ely-nv"}
+  ],
+  "city_type": "highway-community",
+  "climate_zone": "semi-arid",
+  "terrain": "desert-basin",
+  "economy_type": "transport-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "central-nevada-market",
+  "property_mix": "mixed-use"
+},
+{
+  "city": "Sloan",
+  "slug": "sloan-nv",
+  "county": "Clark County",
+  "population": 1200,
+  "zip_codes": ["89054"],
+  "landmarks": [
+    "Sloan Canyon National Conservation Area",
+    "Petroglyph Site",
+    "Sloan Industrial Corridor",
+    "Community Area",
+    "Desert Trail Network"
+  ],
+  "nearby_cities": [
+    {"name":"Henderson","slug":"henderson-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Paradise","slug":"paradise-nv"},
+    {"name":"Boulder City","slug":"boulder-city-nv"}
+  ],
+  "city_type": "desert-community",
+  "climate_zone": "desert",
+  "terrain": "desert-foothills",
+  "economy_type": "industrial-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "south-las-vegas-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Jean",
+  "slug": "jean-nv",
+  "county": "Clark County",
+  "population": 1200,
+  "zip_codes": ["89019"],
+  "landmarks": [
+    "Gold Strike Area",
+    "Jean Airport",
+    "Desert Recreation Zone",
+    "I-15 Corridor",
+    "Community Center"
+  ],
+  "nearby_cities": [
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"Sandy Valley","slug":"sandy-valley-nv"},
+    {"name":"Pahrump","slug":"pahrump-nv"},
+    {"name":"Henderson","slug":"henderson-nv"}
+  ],
+  "city_type": "highway-community",
+  "climate_zone": "desert",
+  "terrain": "desert-valley",
+  "economy_type": "transport-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "south-las-vegas-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Goodsprings",
+  "slug": "goodsprings-nv",
+  "county": "Clark County",
+  "population": 300,
+  "zip_codes": ["89019"],
+  "landmarks": [
+    "Pioneer Saloon",
+    "Historic Mining District",
+    "Spring Mountains Foothills",
+    "Community Center",
+    "Historic Main Street"
+  ],
+  "nearby_cities": [
+    {"name":"Jean","slug":"jean-nv"},
+    {"name":"Sandy Valley","slug":"sandy-valley-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Enterprise","slug":"enterprise-nv"},
+    {"name":"Pahrump","slug":"pahrump-nv"}
+  ],
+  "city_type": "historic-mining-town",
+  "climate_zone": "desert",
+  "terrain": "mountain-foothills",
+  "economy_type": "tourism-services",
+  "housing_profile": "rural-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "southern-nevada-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Crystal Springs",
+  "slug": "crystal-springs-nv",
+  "county": "Lincoln County",
+  "population": 600,
+  "zip_codes": ["89028"],
+  "landmarks": [
+    "Crystal Springs Area",
+    "Pahranagat Valley",
+    "US-93 Corridor",
+    "Community Center",
+    "Veterans Memorial"
+  ],
+  "nearby_cities": [
+    {"name":"Alamo","slug":"alamo-nv"},
+    {"name":"Caliente","slug":"caliente-nv"},
+    {"name":"Panaca","slug":"panaca-nv"},
+    {"name":"Mesquite","slug":"mesquite-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"}
+  ],
+  "city_type": "rural-community",
+  "climate_zone": "desert",
+  "terrain": "valley",
+  "economy_type": "agriculture-services",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "lincoln-county-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Rachel",
+  "slug": "rachel-nv",
+  "county": "Lincoln County",
+  "population": 100,
+  "zip_codes": ["89001"],
+  "landmarks": [
+    "Extraterrestrial Highway",
+    "Area 51 Gateway",
+    "Little A'Le'Inn",
+    "Desert Viewpoint",
+    "Community Area"
+  ],
+  "nearby_cities": [
+    {"name":"Alamo","slug":"alamo-nv"},
+    {"name":"Caliente","slug":"caliente-nv"},
+    {"name":"Tonopah","slug":"tonopah-nv"},
+    {"name":"Ely","slug":"ely-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"}
+  ],
+  "city_type": "tourism-community",
+  "climate_zone": "desert",
+  "terrain": "desert-basin",
+  "economy_type": "tourism-services",
+  "housing_profile": "rural-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "extraterrestrial-highway-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Lund",
+  "slug": "lund-nv",
+  "county": "White Pine County",
+  "population": 300,
+  "zip_codes": ["89317"],
+  "landmarks": [
+    "Lund Community Center",
+    "Railroad Heritage Area",
+    "Veterans Memorial",
+    "Agricultural District",
+    "Historic Depot Site"
+  ],
+  "nearby_cities": [
+    {"name":"Ely","slug":"ely-nv"},
+    {"name":"McGill","slug":"mcgill-nv"},
+    {"name":"Wells","slug":"wells-nv"},
+    {"name":"Elko","slug":"elko-nv"},
+    {"name":"Pioche","slug":"pioche-nv"}
+  ],
+  "city_type": "agricultural-community",
+  "climate_zone": "semi-arid",
+  "terrain": "valley",
+  "economy_type": "agriculture-services",
+  "housing_profile": "rural-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "white-pine-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Amargosa Valley",
+  "slug": "amargosa-valley-nv",
+  "county": "Nye County",
+  "population": 1500,
+  "zip_codes": ["89020"],
+  "landmarks": [
+    "Ash Meadows National Wildlife Refuge",
+    "Amargosa Farm Area",
+    "Desert Research Zone",
+    "Community Center",
+    "US-95 Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Pahrump","slug":"pahrump-nv"},
+    {"name":"Beatty","slug":"beatty-nv"},
+    {"name":"Las Vegas","slug":"las-vegas-nv"},
+    {"name":"Tonopah","slug":"tonopah-nv"},
+    {"name":"Henderson","slug":"henderson-nv"}
+  ],
+  "city_type": "rural-community",
+  "climate_zone": "desert",
+  "terrain": "desert-valley",
+  "economy_type": "agriculture-tourism",
+  "housing_profile": "mixed-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "nye-county-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Silver Knolls",
+  "slug": "silver-knolls-nv",
+  "county": "Washoe County",
+  "population": 1800,
+  "zip_codes": ["89508"],
+  "landmarks": [
+    "Silver Knolls Recreation Area",
+    "Desert Trail System",
+    "Community Center",
+    "Veterans Memorial",
+    "North Valleys Corridor"
+  ],
+  "nearby_cities": [
+    {"name":"Cold Springs","slug":"cold-springs-nv"},
+    {"name":"Stead","slug":"stead-nv"},
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Lemmon Valley","slug":"lemmon-valley-nv"},
+    {"name":"Sun Valley","slug":"sun-valley-nv"}
+  ],
+  "city_type": "residential-community",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "services-retail",
+  "housing_profile": "rural-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "north-valleys-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Kingsbury",
+  "slug": "kingsbury-nv",
+  "county": "Douglas County",
+  "population": 2500,
+  "zip_codes": ["89449"],
+  "landmarks": [
+    "Kingsbury Grade",
+    "Tahoe Rim Trail",
+    "Mountain Recreation Area",
+    "Community Center",
+    "Scenic Overlook"
+  ],
+  "nearby_cities": [
+    {"name":"Stateline","slug":"stateline-nv"},
+    {"name":"Zephyr Cove","slug":"zephyr-cove-nv"},
+    {"name":"Gardnerville","slug":"gardnerville-nv"},
+    {"name":"Minden","slug":"minden-nv"},
+    {"name":"Incline Village","slug":"incline-village-nv"}
+  ],
+  "city_type": "mountain-community",
+  "climate_zone": "mountain",
+  "terrain": "mountain-forest",
+  "economy_type": "tourism-services",
+  "housing_profile": "resort-residential",
+  "growth_pattern": "stable-growth",
+  "service_environment": "lake-tahoe-market",
+  "property_mix": "mixed-use"
+},
+
+{
+  "city": "Sun Valley East",
+  "slug": "sun-valley-east-nv",
+  "county": "Washoe County",
+  "population": 2200,
+  "zip_codes": ["89433"],
+  "landmarks": [
+    "Sun Valley Highlands",
+    "Community Park",
+    "Desert Recreation Area",
+    "Veterans Memorial",
+    "Residential District"
+  ],
+  "nearby_cities": [
+    {"name":"Sun Valley","slug":"sun-valley-nv"},
+    {"name":"Sparks","slug":"sparks-nv"},
+    {"name":"Reno","slug":"reno-nv"},
+    {"name":"Spanish Springs","slug":"spanish-springs-nv"},
+    {"name":"Stead","slug":"stead-nv"}
+  ],
+  "city_type": "residential-community",
+  "climate_zone": "semi-arid",
+  "terrain": "high-desert",
+  "economy_type": "services-retail",
+  "housing_profile": "suburban-residential",
+  "growth_pattern": "steady-growth",
+  "service_environment": "reno-market",
+  "property_mix": "mixed-use"
+}
+]
