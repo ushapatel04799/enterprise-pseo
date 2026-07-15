@@ -4,6 +4,8 @@ import { nearbyEngine } from './nearby-engine.js';
 import { configManager } from '../core/config-manager.js';
 import { PseoError, ERROR_CODES } from '../core/errors.js';
 import { slugify } from '../core/utils.js';
+import { weatherAdapter } from '../adapters/weather/weather-adapter.js';
+import { mapsAdapter } from '../adapters/maps/maps-adapter.js';
 
 /**
  * Context Engine compiling targets into compressed page Context Packets.
@@ -14,10 +16,10 @@ class ContextEngine {
    * @param {string} stateAbbrev - Upper case state abbreviation (e.g. 'TX').
    * @param {string} citySlug - Kebab case city slug (e.g. 'austin').
    * @param {string} serviceId - Unique ID of the service (e.g. 'termite-control').
-   * @returns {Record<string, any>} Validated Context Packet.
+   * @returns {Promise<Record<string, any>>} Validated Context Packet.
    */
-  buildContextPacket(stateAbbrev, citySlug, serviceId) {
-    const stateNode = knowledgeEngine.getState(stateAbbrev);
+  async buildContextPacket(stateAbbrev, citySlug, serviceId) {
+    const stateNode = await knowledgeEngine.getState(stateAbbrev);
     if (!stateNode) {
       throw new PseoError(
         ERROR_CODES.CONTEXT_INVALID,
@@ -28,7 +30,7 @@ class ContextEngine {
       );
     }
 
-    const cityNode = knowledgeEngine.getCity(citySlug);
+    const cityNode = await knowledgeEngine.getCity(citySlug);
     if (!cityNode) {
       throw new PseoError(
         ERROR_CODES.CONTEXT_INVALID,
@@ -66,7 +68,7 @@ class ContextEngine {
 
     // Resolve nearby cities nodes
     const nearbyLimit = configManager.get('seo.linking.maxLinksPerPage', 5);
-    const nearbyCities = nearbyEngine.getNearbyCities(citySlug, nearbyLimit);
+    const nearbyCities = await nearbyEngine.getNearbyCities(citySlug, nearbyLimit);
 
     // Formulate keywords and canonical URLs
     const cityName = cityNode.city;
@@ -85,29 +87,9 @@ class ContextEngine {
       .replace('{service}', slugify(serviceName));
     const canonicalUrl = `${configManager.get('seo.canonicalDomain')}${canonicalPath}`;
 
-    // Prepare widget mocks (sandboxed API fallbacks)
-    const weatherWidget = {
-      enabled: configManager.get('provider.weather.enabled', true),
-      provider: configManager.get('provider.weather.provider', 'mock'),
-      data: {
-        climateZone: cityNode.climate_zone || 'humid-subtropical',
-        typicalConditions: cityNode.climate_zone === 'humid-subtropical' ? 'Humid, hot summers, mild winters' : 'Temperate',
-        averageHumidity: '72%',
-        mocked: true,
-      },
-    };
-
-    const mapsWidget = {
-      enabled: configManager.get('provider.maps.enabled', true),
-      provider: configManager.get('provider.maps.provider', 'mock'),
-      data: {
-        latitude: cityNode.coordinates?.latitude || businessContext.coordinates.latitude,
-        longitude: cityNode.coordinates?.longitude || businessContext.coordinates.longitude,
-        zoomLevel: 12,
-        addressString: `${cityName}, ${stateAbbrev}`,
-        mocked: true,
-      },
-    };
+    // Resolve weather and maps widgets from adapters asynchronously
+    const weatherWidget = await weatherAdapter.getWeatherData(cityNode);
+    const mapsWidget = await mapsAdapter.getMapsData(cityNode, businessContext.coordinates);
 
     // Construct Context Packet
     const packet = {

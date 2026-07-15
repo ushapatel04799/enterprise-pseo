@@ -1,25 +1,41 @@
+import { AiProvider } from './ai-provider.js';
+import { providerRegistry } from './provider-registry.js';
 import { logger } from '../../core/logger.js';
 import { PseoError, ERROR_CODES } from '../../core/errors.js';
 
 /**
- * Adapter for Google Gemini API.
- * Supports direct HTTPS REST fetches with automated mocks when no API Key is available.
+ * Adapter for Google Gemini API extending the base AiProvider interface.
  */
-class GeminiAdapter {
+class GeminiAdapter extends AiProvider {
   /**
    * Executes a prompt request on the target model.
    * @param {string} systemPrompt - System context guidelines.
    * @param {string} userPrompt - Main target instructions.
-   * @param {string} modelName - e.g. 'gemini-2.5-pro' or 'gemini-2.5-flash'.
-   * @param {string} [apiKey] - Optional key (falls back to process.env.GEMINI_API_KEY).
-   * @returns {Promise<string>} Raw model text response.
+   * @param {string} modelName - Model identifier.
+   * @param {Record<string, any>} [options] - Additional configs.
+   * @returns {Promise<Record<string, any>>} Unified AI output payload.
    */
-  async generateText(systemPrompt, userPrompt, modelName, apiKey = null) {
-    const key = apiKey || process.env.GEMINI_API_KEY;
+  async generate(systemPrompt, userPrompt, modelName, options = {}) {
+    const key = options.apiKey || process.env.GEMINI_API_KEY;
+    const startTime = Date.now();
 
     if (!key) {
       logger.info('gemini-adapter', `No API key detected. Using development mock for model "${modelName}".`);
-      return this.getMockResponse(userPrompt);
+      const text = this.getMockResponse(userPrompt);
+      const durationMs = Date.now() - startTime;
+      const inputTokens = Math.ceil((systemPrompt.length + userPrompt.length) / 4);
+      const outputTokens = Math.ceil(text.length / 4);
+      const cost = this.calculateCost(modelName, inputTokens, outputTokens);
+
+      return {
+        text,
+        usage: {
+          inputTokens,
+          outputTokens,
+          estimatedCost: cost,
+        },
+        durationMs,
+      };
     }
 
     const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent?key=${key}`;
@@ -59,6 +75,8 @@ class GeminiAdapter {
 
       const responseData = await response.json();
       const text = responseData?.candidates?.[0]?.content?.parts?.[0]?.text;
+      const inputTokens = responseData?.usageMetadata?.promptTokenCount || 0;
+      const outputTokens = responseData?.usageMetadata?.candidatesTokenCount || 0;
 
       if (!text) {
         throw new PseoError(
@@ -70,7 +88,18 @@ class GeminiAdapter {
         );
       }
 
-      return text;
+      const durationMs = Date.now() - startTime;
+      const cost = this.calculateCost(modelName, inputTokens, outputTokens);
+
+      return {
+        text,
+        usage: {
+          inputTokens,
+          outputTokens,
+          estimatedCost: cost,
+        },
+        durationMs,
+      };
     } catch (err) {
       if (err instanceof PseoError) throw err;
       throw new PseoError(
@@ -89,8 +118,6 @@ class GeminiAdapter {
    * @private
    */
   getMockResponse(userPrompt) {
-    // Extract variables from the user prompt for realistic mock returns
-    // Use [^\(]* to avoid capturing description/county parentheses
     const serviceMatch = userPrompt.match(/Service: ([^\(]*)/);
     const cityMatch = userPrompt.match(/Target Location: ([^\(]*)/);
     const landmarksMatch = userPrompt.match(/Landmarks: (.*)/);
@@ -146,3 +173,4 @@ function cityNameText(txt) {
 }
 
 export const geminiAdapter = new GeminiAdapter();
+providerRegistry.register('gemini', geminiAdapter);

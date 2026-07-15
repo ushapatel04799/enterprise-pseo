@@ -18,8 +18,8 @@ describe('Generator & Build Orchestrator Tests', () => {
   before(async () => {
     await datasetEngine.initialize('tests/fixtures/locations/usa', 'data/services');
     knowledgeEngine.clear();
-    knowledgeEngine.initialize();
-    contextPacket = contextEngine.buildContextPacket('TX', 'austin', 'termite-control');
+    await knowledgeEngine.initialize();
+    contextPacket = await contextEngine.buildContextPacket('TX', 'austin', 'termite-control');
     contentModel = await writerEngine.generatePageContent(contextPacket);
     seoModel = seoEngine.compileSeoModel(contentModel, contextPacket);
   });

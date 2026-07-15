@@ -17,10 +17,10 @@ describe('AI Writer & SEO Layer Tests', () => {
     // Load datasets
     await datasetEngine.initialize('tests/fixtures/locations/usa', 'data/services');
     knowledgeEngine.clear();
-    knowledgeEngine.initialize();
+    await knowledgeEngine.initialize();
     
     // Assemble context packet
-    contextPacket = contextEngine.buildContextPacket('TX', 'austin', 'termite-control');
+    contextPacket = await contextEngine.buildContextPacket('TX', 'austin', 'termite-control');
   });
 
   describe('GeminiAdapter & WriterEngine', () => {

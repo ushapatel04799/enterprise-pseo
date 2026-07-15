@@ -1,5 +1,6 @@
 import { configManager } from '../core/config-manager.js';
 import { logger } from '../core/logger.js';
+import { seoIntelligenceEngine } from './seo-intelligence-engine.js';
 
 /**
  * Reviewer Engine auditing generated AI text models against factual contexts and constraints.
@@ -16,7 +17,7 @@ class ReviewerEngine {
     const warnings = [];
     let score = 100;
 
-    const { business, location, seo } = context;
+    const { business, location } = context;
     const jsonText = JSON.stringify(contentModel);
 
     // 1. Validate Meta title & description lengths
@@ -78,7 +79,6 @@ class ReviewerEngine {
     const validZips = new Set(location.zipCodes);
 
     for (const zip of zipMatches) {
-      // Expose error if city page mentions an unregistered ZIP code
       if (!validZips.has(zip) && zip !== business.address.postalCode) {
         score -= 20;
         errors.push({
@@ -88,6 +88,36 @@ class ReviewerEngine {
       }
     }
 
+    // 5. Run SEO Intelligence Analysis (EEAT, Stuffing, Thin Content Checks)
+    const mockSeoModel = {
+      meta: {
+        title: contentModel.title || '',
+        description: contentModel.description || '',
+        canonicalUrl: context.seo.canonicalUrl || '',
+      }
+    };
+
+    const intelReport = seoIntelligenceEngine.analyze(contentModel, mockSeoModel, context);
+
+    if (intelReport.errors && intelReport.errors.length > 0) {
+      intelReport.errors.forEach(e => {
+        errors.push({
+          message: e,
+          path: 'seo-intelligence',
+        });
+      });
+    }
+
+    if (intelReport.warnings && intelReport.warnings.length > 0) {
+      intelReport.warnings.forEach(w => {
+        warnings.push({
+          message: w,
+          path: 'seo-intelligence',
+        });
+      });
+    }
+
+    score = Math.min(score, intelReport.score);
     const passed = errors.length === 0 && score >= 80;
 
     const auditReport = {
@@ -99,9 +129,9 @@ class ReviewerEngine {
     };
 
     if (passed) {
-      logger.info('reviewer-engine', `Quality audit PASSED with score: ${score}/100.`);
+      logger.info('reviewer-engine', `Quality audit PASSED with score: ${auditReport.score}/100.`);
     } else {
-      logger.warn('reviewer-engine', `Quality audit FAILED or flagged with score: ${score}/100. Errors: ${errors.length}, Warnings: ${warnings.length}`);
+      logger.warn('reviewer-engine', `Quality audit FAILED with score: ${auditReport.score}/100.`);
     }
 
     return auditReport;

@@ -5,6 +5,7 @@ import { logger } from '../core/logger.js';
 import { PseoError, ERROR_CODES } from '../core/errors.js';
 import { SchemaValidator } from '../core/schema-validator.js';
 import { cleanObject } from '../core/utils.js';
+import { pluginEngine } from './plugin-engine.js';
 
 const STATE_METADATA = {
   AL: { name: 'Alabama', capital: 'Montgomery', population: 5024279 },
@@ -201,34 +202,43 @@ class DatasetEngine {
     }
 
     // 3. Register Service files
-    for (const filePath of serviceFiles) {
-      try {
-        const fileContent = await fs.readFile(filePath, 'utf8');
-        const checksum = this.calculateChecksum(fileContent);
-        const stats = await fs.stat(filePath);
+    const activePlugin = pluginEngine.getActivePlugin();
+    if (activePlugin) {
+      logger.info('dataset-engine', `Plugin Mode Active: Ingesting services list from niche plugin "${activePlugin.name}"...`);
+      for (const service of activePlugin.servicesList) {
+        SchemaValidator.validateService(service);
+        this.services.set(service.id, cleanObject(service));
+      }
+    } else {
+      for (const filePath of serviceFiles) {
+        try {
+          const fileContent = await fs.readFile(filePath, 'utf8');
+          const checksum = this.calculateChecksum(fileContent);
+          const stats = await fs.stat(filePath);
 
-        const servicesArray = JSON.parse(fileContent);
-        if (!Array.isArray(servicesArray)) {
-          throw new PseoError(
-            ERROR_CODES.DATA_INVALID,
-            `Service file must contain an array of services: ${filePath}`,
-            'dataset-engine',
-            'ERROR',
-            'Ensure the root element of the service JSON file is a JSON array.'
-          );
+          const servicesArray = JSON.parse(fileContent);
+          if (!Array.isArray(servicesArray)) {
+            throw new PseoError(
+              ERROR_CODES.DATA_INVALID,
+              `Service file must contain an array of services: ${filePath}`,
+              'dataset-engine',
+              'ERROR',
+              'Ensure the root element of the service JSON file is a JSON array.'
+            );
+          }
+
+          const serviceNicheName = path.basename(filePath, '.json');
+          
+          for (const service of servicesArray) {
+            SchemaValidator.validateService(service);
+            this.services.set(service.id, cleanObject(service));
+          }
+
+          this.registry.set(filePath, { checksum, size: stats.size, type: 'services', key: serviceNicheName });
+        } catch (err) {
+          logger.error('dataset-engine', `Failed to register services file: ${filePath}`, err);
+          throw err;
         }
-
-        const serviceNicheName = path.basename(filePath, '.json');
-        
-        for (const service of servicesArray) {
-          SchemaValidator.validateService(service);
-          this.services.set(service.id, cleanObject(service));
-        }
-
-        this.registry.set(filePath, { checksum, size: stats.size, type: 'services', key: serviceNicheName });
-      } catch (err) {
-        logger.error('dataset-engine', `Failed to register services file: ${filePath}`, err);
-        throw err;
       }
     }
 

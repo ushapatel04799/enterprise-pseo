@@ -9,10 +9,10 @@ class NearbyEngine {
    * Resolves the nearby city nodes for a given city.
    * @param {string} citySlug - Slug of the target city.
    * @param {number} [limit=5] - Maximum number of nearby cities to return.
-   * @returns {Array<Record<string, any>>} Array of resolved city nodes.
+   * @returns {Promise<Array<Record<string, any>>>} Array of resolved city nodes.
    */
-  getNearbyCities(citySlug, limit = 5) {
-    const cityNode = knowledgeEngine.getCity(citySlug);
+  async getNearbyCities(citySlug, limit = 5) {
+    const cityNode = await knowledgeEngine.getCity(citySlug);
     if (!cityNode) {
       logger.warn('nearby-engine', `Cannot resolve nearby cities: Target city "${citySlug}" not found in knowledge graph.`);
       return [];
@@ -27,11 +27,12 @@ class NearbyEngine {
     for (const nearby of cityNode.nearby_cities) {
       if (resolved.length >= limit) break;
 
-      const targetCity = knowledgeEngine.getCity(nearby.slug);
+      const targetCity = await knowledgeEngine.getCity(nearby.slug);
       if (targetCity) {
         resolved.push({
           city: targetCity.city,
           slug: targetCity.slug,
+          state: targetCity.state,
           county: targetCity.county,
           population: targetCity.population,
           distance_miles: nearby.distance_miles || null, // Preserve mock distances if set

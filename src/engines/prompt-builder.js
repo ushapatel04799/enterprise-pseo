@@ -1,4 +1,5 @@
 import { configManager } from '../core/config-manager.js';
+import { pluginEngine } from './plugin-engine.js';
 
 /**
  * Prompt Builder constructing structural prompt templates for AI inference layers.
@@ -12,8 +13,13 @@ class PromptBuilder {
   buildWritePrompt(context) {
     const { business, location, service, nearby, seo } = context;
 
-    // Define standard system prompt targeting Gemini 2.5 Pro
-    const systemPrompt = `You are a Senior SEO Content Specialist representing ${business.name}.
+    const activePlugin = pluginEngine.getActivePlugin();
+    const brandName = activePlugin ? activePlugin.name : business.name;
+
+    // Define standard system prompt targeting Gemini 2.5 Pro or customize via niche plugin prompts
+    const systemPrompt = activePlugin && activePlugin.prompts?.systemPrompt
+      ? activePlugin.prompts.systemPrompt.replace(/{brandName}/g, brandName)
+      : `You are a Senior SEO Content Specialist representing ${brandName}.
 Your job is to write a highly localized, helpful, and unique service landing page.
 
 Strict Quality Controls:

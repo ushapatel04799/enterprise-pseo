@@ -1,4 +1,6 @@
+import { configManager } from '../core/config-manager.js';
 import { cleanObject } from '../core/utils.js';
+import { pluginEngine } from './plugin-engine.js';
 
 /**
  * Schema Engine generating Google-eligible JSON-LD structured data blocks.
@@ -35,9 +37,12 @@ class SchemaEngine {
    */
   buildLocalBusiness(context) {
     const { business, location } = context;
+    const activePlugin = pluginEngine.getActivePlugin();
+    const type = activePlugin ? activePlugin.schemaType : 'LocalBusiness';
+
     return {
       '@context': 'https://schema.org',
-      '@type': 'LocalBusiness',
+      '@type': type,
       'name': business.name,
       'legalName': business.legalName,
       'telephone': business.phone,
@@ -140,5 +145,4 @@ function configValue(key) {
   return configManager.get(key, '');
 }
 
-import { configManager } from '../core/config-manager.js';
 export const schemaEngine = new SchemaEngine();

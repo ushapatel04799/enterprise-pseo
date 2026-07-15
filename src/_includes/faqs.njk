@@ -1,0 +1,11 @@
+<section class="faqs-section">
+  <h2>Frequently Asked Questions</h2>
+  <div class="faqs-accordion">
+    {% for faq in faqs %}
+    <div class="faq-item">
+      <h3 class="faq-question">{{ faq.question }}</h3>
+      <p class="faq-answer">{{ faq.answer }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</section>

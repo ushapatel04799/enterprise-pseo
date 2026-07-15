@@ -1,0 +1,16 @@
+<section class="widgets-section">
+  {% if widgets.weather %}
+  <div class="widget-weather">
+    <h3>Local Climate Insights</h3>
+    <p>Average Annual Temp: <strong>{{ widgets.weather.data.climate.temp }}</strong></p>
+    <p>Seasonal Risk Level: <strong>{{ widgets.weather.data.climate.pestRisk }}</strong></p>
+  </div>
+  {% endif %}
+  
+  {% if widgets.maps %}
+  <div class="widget-maps">
+    <h3>Our Location Range</h3>
+    {{ widgets.maps.iframeHtml | safe }}
+  </div>
+  {% endif %}
+</section>

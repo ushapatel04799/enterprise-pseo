@@ -12,30 +12,30 @@ describe('Knowledge & Context Layer Tests', () => {
     // Make sure dataset engine is loaded with fixtures
     await datasetEngine.initialize('tests/fixtures/locations/usa', 'data/services');
     knowledgeEngine.clear();
-    knowledgeEngine.initialize();
+    await knowledgeEngine.initialize();
   });
 
   describe('KnowledgeEngine', () => {
-    it('should build and query state, city, and county nodes', () => {
-      const stateNode = knowledgeEngine.getState('TX');
+    it('should build and query state, city, and county nodes', async () => {
+      const stateNode = await knowledgeEngine.getState('TX');
       assert.ok(stateNode);
       assert.strictEqual(stateNode.name, 'Texas');
       assert.ok(stateNode.cities.length > 0);
 
-      const cityNode = knowledgeEngine.getCity('austin');
+      const cityNode = await knowledgeEngine.getCity('austin');
       assert.ok(cityNode);
       assert.strictEqual(cityNode.city, 'Austin');
       assert.strictEqual(cityNode.parentState.name, 'Texas');
 
-      const countyNode = knowledgeEngine.getCounty('TX', 'Travis County');
+      const countyNode = await knowledgeEngine.getCounty('TX', 'Travis County');
       assert.ok(countyNode);
       assert.ok(countyNode.cities.some(c => c.slug === 'austin'));
     });
   });
 
   describe('NearbyEngine', () => {
-    it('should resolve nearby cities relative to the knowledge graph', () => {
-      const nearby = nearbyEngine.getNearbyCities('austin', 2);
+    it('should resolve nearby cities relative to the knowledge graph', async () => {
+      const nearby = await nearbyEngine.getNearbyCities('austin', 2);
       assert.ok(Array.isArray(nearby));
       assert.strictEqual(nearby.length, 1);
       assert.strictEqual(nearby[0].city, 'Dallas');
@@ -44,8 +44,8 @@ describe('Knowledge & Context Layer Tests', () => {
   });
 
   describe('ContextEngine', () => {
-    it('should compile a frozen Context Packet', () => {
-      const packet = contextEngine.buildContextPacket('TX', 'austin', 'termite-control');
+    it('should compile a frozen Context Packet', async () => {
+      const packet = await contextEngine.buildContextPacket('TX', 'austin', 'termite-control');
 
       assert.ok(packet);
       assert.strictEqual(packet.projectId, 'enterprise-pseo');
@@ -69,31 +69,30 @@ describe('Knowledge & Context Layer Tests', () => {
       });
     });
 
-    it('should throw Context Errors for invalid targeting', () => {
+    it('should throw Context Errors for invalid targeting', async () => {
       // Invalid state abbreviation
-      assert.throws(
-        () => contextEngine.buildContextPacket('XX', 'austin', 'termite-control'),
+      await assert.rejects(
+        contextEngine.buildContextPacket('XX', 'austin', 'termite-control'),
         (err) => err instanceof PseoError && err.code === 'ERR_CONTEXT_INVALID'
       );
 
       // Invalid city slug
-      assert.throws(
-        () => contextEngine.buildContextPacket('TX', 'nonexistent-city', 'termite-control'),
+      await assert.rejects(
+        contextEngine.buildContextPacket('TX', 'nonexistent-city', 'termite-control'),
         (err) => err instanceof PseoError && err.code === 'ERR_CONTEXT_INVALID'
       );
 
-      // State and City mismatch (if we had another state)
       // Invalid service ID
-      assert.throws(
-        () => contextEngine.buildContextPacket('TX', 'austin', 'invalid-service-id'),
+      await assert.rejects(
+        contextEngine.buildContextPacket('TX', 'austin', 'invalid-service-id'),
         (err) => err instanceof PseoError && err.code === 'ERR_CONTEXT_INVALID'
       );
     });
   });
 
   describe('PromptBuilder', () => {
-    it('should construct system and user prompts with estimated tokens', () => {
-      const packet = contextEngine.buildContextPacket('TX', 'austin', 'termite-control');
+    it('should construct system and user prompts with estimated tokens', async () => {
+      const packet = await contextEngine.buildContextPacket('TX', 'austin', 'termite-control');
       const prompts = promptBuilder.buildWritePrompt(packet);
 
       assert.ok(prompts.systemPrompt);
